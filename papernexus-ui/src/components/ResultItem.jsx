@@ -7,7 +7,6 @@ function ResultItem({ result }) {
   const [isLoading, setIsLoading] = useState(true);
   const [previewError, setPreviewError] = useState(false);
   const [showMatchModal, setShowMatchModal] = useState(false);
-  const [showMatchPreview, setShowMatchPreview] = useState(false);
   const [activeMatchIndex, setActiveMatchIndex] = useState(0);
   
   // Create a unique ID for this result item
@@ -132,7 +131,7 @@ function ResultItem({ result }) {
     <>
       <div 
         id={itemId}
-        className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col h-full transition-all hover:shadow-xl"
+        className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col h-full transition-all hover:shadow-xl group"
       >
         {/* Paper Info Header */}
         <div className="p-4 bg-gradient-to-r from-indigo-600 to-indigo-500 text-white">
@@ -145,8 +144,8 @@ function ResultItem({ result }) {
             {/* Match button in header */}
             {result.matches?.length > 0 && (
               <button 
-                className={`ml-auto text-xs font-medium px-3 py-1 rounded-full shadow-sm flex items-center transition-colors ${showMatchPreview ? 'bg-white text-indigo-600' : 'bg-indigo-400 hover:bg-indigo-300 text-white'}`}
-                onClick={() => setShowMatchPreview(!showMatchPreview)}
+                className="ml-auto text-xs font-medium px-3 py-1 rounded-full shadow-sm flex items-center transition-colors bg-indigo-400 hover:bg-indigo-300 text-white"
+                onClick={() => setShowMatchModal(true)}
               >
                 <Search size={12} className="mr-1" />
                 {result.matches.length} {result.matches.length === 1 ? 'match' : 'matches'}
@@ -198,16 +197,16 @@ function ResultItem({ result }) {
                 )}
               </div>
               
-              {/* View Match Text Button - stays visible and clickable */}
+              {/* View Match Text Button - opens modal directly */}
               {result.matches?.length > 0 && (
                 <div className="absolute top-4 left-4 flex flex-col space-y-2 z-20">
                   <button 
                     className="bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-medium px-3 py-1.5 rounded-lg shadow-md flex items-center transition-colors"
                     onClick={(e) => {
                       e.stopPropagation();
-                      setShowMatchPreview(!showMatchPreview);
+                      setShowMatchModal(true);
                     }}
-                    title="Toggle match context"
+                    title="View match text"
                   >
                     <Eye size={14} className="mr-1.5" />
                     View Match Text
@@ -239,67 +238,6 @@ function ResultItem({ result }) {
             </div>
           )}
         </div>
-        
-        {/* Elegant Inline Match Preview - with improved visibility */}
-        {showMatchPreview && result.matches?.length > 0 && (
-          <div className="bg-indigo-50 border-t border-indigo-100 overflow-hidden transition-all">
-            <div className="p-4 bg-white border-b border-indigo-100 flex justify-between items-center">
-              <div className="flex items-center">
-                <div className="bg-indigo-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center shadow-sm mr-3">
-                  {activeMatchIndex + 1}
-                </div>
-                <div>
-                  <span className="text-sm font-medium">Match Text {activeMatchIndex + 1} of {result.matches.length}</span>
-                  <span className="text-xs text-gray-500 block">Line {result.matches[activeMatchIndex].line}</span>
-                </div>
-              </div>
-              
-              <div className="flex space-x-2">
-                <button 
-                  onClick={prevMatch}
-                  className="p-1.5 bg-gray-200 hover:bg-gray-300 rounded-md transition-colors"
-                  disabled={result.matches.length <= 1}
-                  title="Previous match"
-                >
-                  <ChevronUp size={16} />
-                </button>
-                <button 
-                  onClick={nextMatch}
-                  className="p-1.5 bg-gray-200 hover:bg-gray-300 rounded-md transition-colors"
-                  disabled={result.matches.length <= 1}
-                  title="Next match"
-                >
-                  <ChevronDown size={16} />
-                </button>
-                <button 
-                  onClick={() => setShowMatchPreview(false)}
-                  className="p-1.5 bg-gray-200 hover:bg-gray-300 rounded-md transition-colors"
-                  title="Close match preview"
-                >
-                  <X size={16} />
-                </button>
-              </div>
-            </div>
-            
-            <div className="p-4 bg-indigo-50 relative max-h-56 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-transparent">
-              <div className="font-mono text-sm whitespace-pre-wrap bg-white p-3 rounded border border-indigo-100 shadow-sm">
-                {highlightMatches(result.matches[activeMatchIndex].original_context, result.query)}
-              </div>
-              
-              {/* View all matches button with improved styling */}
-              <button 
-                onClick={() => {
-                  setShowMatchModal(true);
-                  setShowMatchPreview(false);
-                }}
-                className="mt-3 text-sm bg-indigo-100 text-indigo-700 hover:bg-indigo-200 font-medium flex items-center justify-center w-full py-2 rounded-md transition-colors"
-              >
-                <Search size={14} className="mr-1.5" />
-                View all {result.matches.length} matches
-              </button>
-            </div>
-          </div>
-        )}
 
         {/* Action Buttons - Redesigned */}
         <div className="px-4 py-3 bg-gray-50 flex space-x-2 mt-auto">
@@ -327,7 +265,7 @@ function ResultItem({ result }) {
         </div>
       </div>
       
-      {/* Match Modal - Kept for viewing all matches */}
+      {/* Match Modal - Enhanced for viewing all matches */}
       {showMatchModal && (
         <div className="fixed inset-0 bg-black/60 flex items-center justify-center z-50 p-4 backdrop-blur-sm" onClick={() => setShowMatchModal(false)}>
           <div className="bg-white rounded-xl shadow-2xl max-w-3xl w-full max-h-[85vh] overflow-hidden" onClick={e => e.stopPropagation()}>
