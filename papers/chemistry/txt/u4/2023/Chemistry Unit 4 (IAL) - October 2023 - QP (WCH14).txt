@@ -1,0 +1,1518 @@
+*P75068A0136*
+Turn over     
+P75068A
+©2023 Pearson Education Ltd.
+Z:1/1/1/1/1/
+
+
+Please check the examination details below before entering your candidate information 
+Candidate surname
+Other names
+Centre Number
+Candidate Number
+Pearson Edexcel International Advanced Level
+Friday 20 October 2023
+Morning (Time: 1 hour 45 minutes)
+WCH14/01
+Paper
+reference 
+Total Marks 
+Chemistry
+International Advanced Level
+UNIT 4: Rates, Equilibria and Further Organic 
+Chemistry
+You must have:
+Scientific calculator, Data Booklet, ruler
+Instructions
+•	Use black ink or ball‑point pen.
+•	If pencil is used for diagrams/sketches/graphs it must be dark (HB or B).
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 90.
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	In the question marked with an asterisk (*), marks will be awarded for your ability to 
+structure your answer logically, showing how the points that you make are related or 
+follow on from each other where appropriate.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Show all your working in calculations and include units where appropriate.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+*P75068A0236*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+2
+
+SECTION A
+Answer ALL the questions in this section.
+You should aim to spend no more than 20 minutes on this section.
+For each question, select one answer from A to D and put a cross in the box .  
+If you change your mind, put a line through the box 
+ and then mark your new answer  
+with a cross .
+1	 Which method would be most suitable to investigate the kinetics of the 
+reactions shown?
+	
+(a)	 (CH3)2C
+CH2(g)   +   HI(g)   →   (CH3)3CI(g)
+(1)
+	
+A	 colorimetry
+	
+B	 measurement of change in volume
+	
+C	 measurement of change in mass
+	
+D	 quenching with ice‑cold water followed by titrating with acid
+	
+(b)	 HCOOCH3(aq)   +   NaOH(aq)   →   HCOONa(aq)   +   CH3OH(aq)
+(1)
+	
+A	 colorimetry
+	
+B	 measurement of change in volume
+	
+C	 measurement of change in mass
+	
+D	 quenching with ice‑cold water followed by titrating with acid
+(Total for Question 1 = 2 marks)
+2	 The equation for the reaction of bromate(V) ions with bromide ions in acid solution 
+is shown.
+BrO–
+3(aq)   +   5Br–(aq)   +   6H+   →   3Br2(aq)   +   3H2O(l)
+	
+The rate equation for the reaction is
+rate = k[BrO–
+3][Br–][H+]2
+	
+The concentrations of all the reactants are doubled. 
+By what factor does the rate of reaction increase?
+	
+A	 2
+	
+B	 4
+	
+C	 8
+	
+D	 16
+(Total for Question 2 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+*P75068A0336*
+Turn over     
+3
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+3	 This question is about rates of chemical reactions.
+	
+(a)	 Which graph shows a reaction that is zero order with respect to reactant Q?
+(1)
+	
+A	
+[Q]
+Time
+	
+B	 Rate
+[Q]
+	
+C	
+[Q]
+Time
+	
+D	 Rate
+[Q]
+	
+(b)	 The equation for a gas phase reaction is shown.
+A(g)   →   B(g)   +   C(g)
+	
+	 The reaction is first order.  
+When the initial pressure of A is 2 atm the half‑life of the reaction is 20 s.
+	
+	 What is the half‑life of the reaction when the initial pressure of A is 4 atm? 
+(1)
+	
+A	 10 s
+	
+B	 20 s
+	
+C	 40 s
+	
+D	 400 s
+	
+(Total for Question 3 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+*P75068A0436*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+4
+
+4	 The graph shown can be used to obtain a value for the activation energy, Ea, of 
+a reaction.
+1
+T
+ln(rate constant)
+/ K–1
+	
+The activation energy is related to the rate constant by the equation
+ln(rate constant) =   – E
+R
+a   ×   1
+T
+   +   constant
+	
+From the graph, the Ea is equal to
+	
+A	
+(
+)
+−gradient
+R
+	
+B	
+(
+)
+−gradient
+RT
+	
+C	 (–gradient) × R
+	
+D	 (–gradient) × RT
+(Total for Question 4 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P75068A0536*
+Turn over     
+5
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+5	 The energy cycle for dissolving calcium chloride in water is shown.
+Ca2+(g)   +   2Cl–(g)
+Ca2+(aq)   +   2Cl–(aq)
+CaCl2(s)
+LE = –2258 kJ mol–1
+ΔsolH = –120 kJ mol–1
+	
+(a)	 The enthalpy change of hydration of the calcium ion is –1650 kJ mol–1.
+	
+	 What is the enthalpy change of hydration, in kJ mol–1, of the chloride ion?
+(1)
+	
+A	 –728
+	
+B	 –364
+	
+C	 +364
+	
+D	 +728
+	
+(b)	 Why is the enthalpy change of hydration for magnesium ions more exothermic 
+than that for calcium ions?
+(1)
+	
+A	 magnesium ions have a larger radius
+	
+B	 magnesium ions form stronger ionic bonds
+	
+C	 magnesium ions have a higher charge density
+	
+D	 magnesium has higher first and second ionisation energies
+(Total for Question 5 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+*P75068A0636*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+6
+
+6	 Heating copper(II) nitrate results in the equilibrium shown.
+2Cu(NO3)2(s)      2CuO(s)   +   4NO2(g)   +   O2(g)
+	
+Which is the expression for Kp?
+	
+A	 Kp = 2( CuO)
+4( NO )
+( O )
+2( Cu(NO ) )
+2
+2
+p
+p
+p
+p
+×
+×
+3 2
+	
+B	 Kp = ( CuO)
+( NO )
+( O )
+( Cu(NO ) )
+2
+2
+p
+p
+p
+p
+2
+4
+3 2
+2
+×
+×
+	
+C	 Kp = 4( pNO2) × ( pO2)
+	
+D	 Kp = ( pNO2)4 × ( pO2)	
+	
+	
+(Total for Question 6 = 1 mark)
+7	 When concentrated hydrochloric acid is added to methanoic acid, an acid‑base 
+reaction occurs.
+HCl   +   HCOOH      Cl–   +   HCOOH2
++
+	
+What are the Brønsted‑Lowry acid‑base conjugate pairs in this equilibrium?
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 7 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+Acid 1
+Conjugate base 
+of Acid 1
+Acid 2
+Conjugate base 
+of Acid 2
+HCl
+HCOOH
+HCOOH2
++
+Cl–
+HCl
+HCOOH2
++
+HCOOH
+HCOOH2
++
+HCl
+Cl–
+HCOOH
+HCOOH2
++
+HCl
+Cl–
+HCOOH2
++
+HCOOH
+PMT
+
+
+--- Page Break ---
+
+*P75068A0736*
+Turn over     
+7
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+8	 At 100 °C, pure water has a pH of 6, but at 25 °C it has a pH of 7.
+	
+This is because
+	
+A	 the dissociation of water is endothermic, so the concentration of 
+hydrogen ions is lower at 100 °C than at 25 °C
+	
+B	 the dissociation of water is exothermic, so the concentration of 
+hydrogen ions is lower at 100 °C than at 25 °C
+	
+C	 the dissociation of water is endothermic, so the concentration of 
+hydrogen ions is higher at 100 °C than at 25 °C
+	
+D	 the dissociation of water is exothermic, so the concentration of 
+hydrogen ions is higher at 100 °C than at 25 °C
+(Total for Question 8 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P75068A0836*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+8
+
+9	 Four beakers each contain equal volumes of four solutions.
+	
+Beaker 1 contains 0.01 mol dm–3 NaOH
+	
+Beaker 2 contains 0.01 mol dm–3 NH3
+	
+Beaker 3 contains 0.1 mol dm–3 NaOH
+	
+Beaker 4 contains 0.1 mol dm–3 Ba(OH)2
+	
+The pH of the four solutions was measured.  
+Which of the following gives the order of decreasing pH?
+	
+A	 1, 2, 3, 4
+	
+B	 2, 1, 3, 4
+	
+C	 3, 4, 1, 2
+	
+D	 4, 3, 1, 2
+	
+(Total for Question 9 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P75068A0936*
+Turn over     
+9
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P75068A01036*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+10
+
+10	 This question is about the reaction scheme shown.
+O
+OH
+O
+Cl
+O
+O
+OH
+Reaction 1
+Reaction 2 
++ PCl5
+Reaction 3 
++ (CH3)2CHCOOH 
+   + H+
+Reaction 4 
++ (CH3)2CHCH2OH
+	
+(a)	 Which reagent is required for Reaction 1?
+(1)
+	
+A	 acidified potassium dichromate(VI)
+	
+B	 concentrated sulfuric acid
+	
+C	 hydrogen with a nickel catalyst
+	
+D	 lithium tetrahydridoaluminate(III)
+	
+(b)	 Reaction 1 has a yield of 90 %. 
+What mass of 2‑methylpropanoic acid is required to produce 6.66 g 
+of 2‑methylpropan‑1‑ol? 
+[Mr values          2‑methylpropanoic acid = 88          2‑methylpropan‑1‑ol = 74]
+(1)
+	
+A	 6.22 g
+	
+B	 7.13 g
+	
+C	 7.92 g
+	
+D	 8.80 g
+PMT
+
+
+--- Page Break ---
+
+*P75068A01136*
+Turn over     
+11
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+(c)	 Which condition is essential for Reaction 2?
+(1)
+	
+A	 acid catalyst
+	
+B	 anhydrous
+	
+C	 high temperature
+	
+D	 ether solvent
+	
+(d)	 Reactions 3 and 4 produce the same ester.
+	
+	 Which is an advantage of using Reaction 4 to produce this ester in the laboratory?
+(1)
+	
+A	 it can be carried out at room temperature
+	
+B	 it requires a catalyst
+	
+C	 the atom economy is higher
+	
+D	 hydrogen chloride is a product
+(Total for Question 10 = 4 marks)
+11	 Which diagram shows two repeat units of the polymer formed by the polymerisation 
+of propane‑1,3‑diol and benzene‑1,4‑dicarboxylic acid?
+	
+A	
+O
+CH2CH2CH2 
+O
+C
+C
+
+
+O
+O
+
+
+	
+B	
+O
+CH2CH2CH2 
+O
+C
+C
+O
+CH2CH2CH2
+
+
+O
+O
+
+
+	
+C	
+O
+C
+CH2CH2CH2 
+C
+O
+O
+C
+CH2CH2CH2
+C
+O
+
+
+O
+O
+
+
+O
+O
+	
+D	
+O
+CH2CH2CH2 
+O
+C
+C
+O
+CH2CH2CH2
+O
+C
+
+
+O
+O
+
+
+C
+O
+O
+	
+(Total for Question 11 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+*P75068A01236*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+12
+
+12	 Polymer waste may be disposed of by incineration.
+	
+At a plant carrying out this process with poly(propene), a waste gas was produced 
+that was thought to be either propane or carbon dioxide. These compounds have the 
+same molecular ion peak in a low resolution mass spectrometer but can be separated 
+at high resolution.
+Atom
+Relative atomic mass, Ar
+1H
+  1.0079
+12C
+12.0000
+16O
+15.9949
+	
+Which are the correct relative molecular masses?
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 12 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+propane
+carbon dioxide
+29.0395
+27.9949
+27.9949
+29.0395
+43.9898
+44.0632
+44.0632
+43.9898
+PMT
+
+
+--- Page Break ---
+
+*P75068A01336*
+Turn over     
+13
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P75068A01436*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+14
+
+13	 A thin‑layer chromatogram of a mixture of two compounds, X and Y, is shown.
+Solvent front
+Baseline
+Y
+X
+	
+(a)	 What is the Rf value for compound X?
+(1)
+	
+A	 0.33
+	
+B	 0.38
+	
+C	 0.60
+	
+D	 0.62
+PMT
+
+
+--- Page Break ---
+
+*P75068A01536*
+Turn over     
+15
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+(b)	 Y travelled further than X. How do the attractions between Y and X to the 
+stationary and mobile phases compare?
+(1)
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 13 = 2 marks)
+TOTAL FOR SECTION A = 20 MARKS
+Attraction between Y and the 
+stationary phase
+Attraction between Y and the 
+mobile phase
+is stronger than the attraction between 
+X and the stationary phase
+is stronger than the attraction between 
+X and the mobile phase
+is stronger than the attraction between 
+X and the stationary phase
+is weaker than the attraction between X 
+and the mobile phase
+is weaker than the attraction between X 
+and the stationary phase
+is stronger than the attraction between 
+X and the mobile phase
+is weaker than the attraction between X 
+and the stationary phase
+is weaker than the attraction between X 
+and the mobile phase
+PMT
+
+
+--- Page Break ---
+
+*P75068A01636*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+16
+
+SECTION B
+Answer ALL the questions. Write your answers in the spaces provided.
+14	 This question is about the nucleophilic addition reaction between ethanal and 
+hydrogen cyanide in the presence of potassium cyanide as a catalyst. 
+The equation for the reaction is shown.
+CH3CHO   +   HCN   →   CH3CH(OH)CN
+	
+(a)	 (i)	 Give the IUPAC name of the organic product.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Complete the mechanism for this two‑step reaction, showing the structure 
+of the intermediate and including curly arrows, and relevant lone pairs 
+and dipoles.
+(4)
+H
+C
+O
+H
+C
+H
+–C
+N
+H
+C
+N
+CH3CH(OH)CN   +   CN–
++   HCN
+Step 1
+H
+Step 2
+PMT
+
+
+--- Page Break ---
+
+*P75068A01736*
+Turn over     
+17
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+(a)	(iii)	 Justify the use of the term ‘nucleophilic addition’ to describe the mechanism 
+of this reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 Explain why the product of the reaction is not optically active even though it 
+contains a chiral carbon atom.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 14 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+*P75068A01836*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+18
+
+15	 A reaction vessel contained nitrogen monoxide and oxygen in a 2 : 1 molar ratio. 
+The mixture was allowed to come to equilibrium forming nitrogen dioxide. 
+The equation for the reaction is shown.
+2NO   +   O2      2NO2
+	
+The volume of the vessel was 15 dm3 and the reaction was carried out at a 
+constant temperature and at a pressure of 200 000 Pa.
+	
+At equilibrium there was a total of 0.69625 mol of gas in the reaction vessel and the 
+mass of oxygen was 7.000 g.
+	
+(a)	 (i)	 Calculate the number of moles of each substance at equilibrium.
+(3)
+	
+	
+(ii)	 Calculate the value of Kc under these conditions.  
+Include units in your answer.
+(4)
+PMT
+
+
+--- Page Break ---
+
+*P75068A01936*
+Turn over     
+19
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+(b)	 Calculate the temperature, in K, of the reaction mixture at equilibrium under 
+these conditions. 
+Use the equation pV = nRT and the data at the start of the question.
+(3)
+	
+(c)	 Under a different set of conditions, the reaction was carried out to find the initial 
+rate of reaction.
+Experiment number
+Initial [NO] / mol dm–3
+Initial [O2] / mol dm–3
+Initial rate / mol dm–3 s–1
+1
+6.50 × 10–2
+1.25 × 10–2
+6.87 × 10–4
+	
+The rate equation for this reaction is
+rate   =   k[NO]2[O2]
+	
+	
+(i)	 Give the reason why colorimetry can be used to monitor the rate of 
+the reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P75068A02036*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+20
+
+	
+	
+(ii)	 Use the data from Experiment 1 to find the value of the rate constant, k. 
+Include units in your answer.
+(2)
+	
+	
+(iii)	 State why the reaction is unlikely to proceed in a single step.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iv)	 A student proposed the mechanism shown for this reaction.
+	
+2NO      N2O2 	
+slow
+N2O2   +   O2   →   2NO2         fast
+	
+	
+	 Justify whether or not this mechanism is consistent with the overall equation 
+for the reaction and with the rate equation.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 15 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+*P75068A02136*
+Turn over     
+21
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P75068A02236*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+22
+
+16	 Iron, lead and zinc can be extracted using a blast furnace but aluminium cannot.
+	
+In a blast furnace, iron is extracted from iron(III) oxide, Fe2O3, at high temperature.
+	
+Some standard enthalpy changes of formation, ΔfH d, and standard molar entropies, 
+Sd, are shown.
+Substance
+Al(s)
+Al2O3(s)
+CO(g)
+CO2(g)
+Fe(s)
+Fe2O3(s)
+ΔfH d / kJ mol–1
+0
+–1676
+–111
+–394
+0
+–824
+Sd / J K–1 mol–1
+28.3
+50.9
+197.6
+213.6
+27.3
+87.4
+	
+(a)	 The main reaction occurring in the blast furnace to form iron is shown.
+Fe2O3(s)   +   3CO(g)   →   2Fe(s)   +   3CO2(g)
+	
+	 This reaction is feasible at all temperatures.
+	
+	
+(i)	 Calculate the standard entropy change of the system for this reaction.
+(3)
+	
+	
+(ii)	 Calculate the standard enthalpy change for this reaction.
+.
+(3)
+PMT
+
+
+--- Page Break ---
+
+*P75068A02336*
+Turn over     
+23
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	 Explain how your answers to (a)(i) and (a)(ii) show that this reaction is feasible 
+at all temperatures.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 The main reduction reaction of aluminium oxide in a blast furnace is shown.
+Al2O3   +   3CO   →   2Al   +   3CO2
+	
+	
+(i)	 Calculate the temperature at which this reaction becomes feasible.
+(4)
+	
+	
+(ii)	 Suggest why aluminium is not extracted from its oxide using a blast furnace.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 16 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+*P75068A02436*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+24
+
+17	 This question is about four isomers with the molecular formula C4H8O2.
+Name
+Skeletal formula
+butanoic acid
+O
+OH
+4‑hydroxybutanal
+O
+H
+OH
+ethyl ethanoate
+O
+O
+3‑hydroxybutanone
+O
+OH
+	
+*(a)	 These four isomers can be identified using three chemical tests. 
+Each test gives a positive result for only one isomer. 
+All three tests give a negative result for the fourth isomer.
+	
+	 Deduce the three chemical tests required. For each test
+•	
+identify the reagent
+•	
+give the positive observation in each test
+•	
+identify the functional group of the isomer that gives the positive result.
+(6)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P75068A02536*
+Turn over     
+25
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P75068A02636*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+26
+
+	
+(b)	 The four isomers can also be distinguished using NMR spectroscopy.
+	
+	
+(i)	 State why it is not possible to distinguish any of these isomers from the 
+number of peaks in their 13C NMR spectra.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Complete the table below to give the number of peaks in a low resolution 
+1H NMR spectrum of each isomer.
+(3)
+Name
+Skeletal formula
+Number of peaks
+butanoic acid
+O
+OH
+4‑hydroxybutanal
+O
+H
+OH
+ethyl ethanoate
+O
+O
+3‑hydroxybutanone
+O
+OH
+PMT
+
+
+--- Page Break ---
+
+*P75068A02736*
+Turn over     
+27
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	 One of the 1H NMR spectra has a peak with a chemical shift, δ, 
+greater than 10 ppm. 
+Identify the isomer, and the proton environment responsible for this peak.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iv)	 The high resolution 1H NMR spectrum of one of the isomers contains a 
+multiplet of five peaks (a quintet). 
+Explain, with reference to the structure of one of the isomers, the presence of 
+the quintet.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 17 = 13 marks)
+TOTAL FOR SECTION B = 52 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P75068A02836*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+28
+
+SECTION C
+Answer ALL the questions. Write your answers in the spaces provided.
+18	 Pentanoic acid, C4H9COOH, is a carboxylic acid with Ka = 1.38 × 10–5 mol dm–3.
+	
+A student was asked to titrate 25.0 cm3 of 0.120 mol dm–3 pentanoic acid solution with 
+0.100 mol dm–3 potassium hydroxide solution.
+	
+The equation for the reaction is shown.
+C4H9COOH   +   KOH   →   C4H9COO–K+   +   H2O
+	
+The teacher asked the student to sketch a graph showing the expected changes in 
+pH as potassium hydroxide solution is added.
+	
+The student first identified four key points for the sketch graph, 
+using four calculations and one chemical equation. These points are shown.
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+pH
+Volume of KOH(aq) / cm3
+Key point 1
+Key point 2
+Key point 3
+Key point 4
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+PMT
+
+
+--- Page Break ---
+
+*P75068A02936*
+Turn over     
+29
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+(a)	 (i)	 At Key point 1, before any potassium hydroxide has been added, the pH = 2.9. 
+Use a calculation to justify this value.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The student deduced that the pH at Key point 4 must be less than 13. 
+Use a calculation to justify the student’s deduction. 
+You are not required to calculate the exact pH of the solution.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	 The student deduced that the neutralisation point of the graph at Key point 3 
+would be at 30 cm3. 
+Use a calculation to justify the student’s deduction.
+(2)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P75068A03036*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+30
+
+	
+	
+(iv)	 The student deduced that when equal amounts of pentanoic acid and 
+potassium hydroxide have been mixed at Key point 3, the pH would be 
+greater than 7. 
+Justify the student’s deduction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(v)	 The student deduced that at Key point 2, 15.0 cm3 of potassium hydroxide 
+would have been added and the pH would be 4.9. 
+Justify the student’s deductions using a calculation.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+This question continues on page 32 after the blank page.
+PMT
+
+
+--- Page Break ---
+
+*P75068A03136*
+Turn over     
+31
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P75068A03236*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+32
+
+	
+(b)	 The student then completed the sketch graph by linking these four points to 
+show how the pH would change as potassium hydroxide was added.
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+pH
+Volume of KOH(aq) / cm3
+Key point 1
+Key point 2
+Key point 3
+Key point 4
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+	
+	 Explain why the student drew the line so that in the section of the graph between 
+5 cm3 and 25 cm3 the pH changes very little as the potassium hydroxide is added. 
+No calculation is required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P75068A03336*
+33
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+	
+(c)	 (i)	 The student carried out the titration using methyl orange as an indicator. 
+The experiment did not give a satisfactory colour change at the neutralisation 
+point, and the student continued adding potassium hydroxide until 50 cm3 
+had been added.
+	
+	
+	 Describe the colour of the solution during this titration experiment with 
+particular reference to the key points on the sketch graph.
+	
+	
+	 Use the Data Booklet.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The student found a bottle labelled ‘Acid‑base indicator solution’ in the store 
+cupboard. The student, having checked with the teacher, used this as the 
+indicator for the titration.
+	
+	
+	 The initial yellow solution turned green at the neutralisation point of 
+the titration.
+	
+	
+	 Suggest the identity of the indicator solution including a justification for the 
+colour observed at the neutralisation point.
+	
+	
+	 Use the Data Booklet.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 18 marks)
+TOTAL FOR SECTION C = 18 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P75068A03436*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+34
+
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P75068A03536*
+35
+
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P75068A03636*
+DO NOT WRITE IN THIS AREA 	
+	DO NOT WRITE IN THIS AREA		
+	
+	 	
+	DO NOT WRITE IN THIS AREA
+36
+
+PMT

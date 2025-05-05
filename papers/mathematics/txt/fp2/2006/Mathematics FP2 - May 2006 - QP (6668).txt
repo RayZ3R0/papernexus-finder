@@ -1,0 +1,267 @@
+FP2 Paper 6b  |*adapted 2006 JUNE 
+1.
+Given that 3x sin 2x is a particular integral of the differential equation
+, 
+where k is a constant, 
+(a) 
+calculate the value of k, 
+(4) 
+(b) 
+find the particular solution of the differential equation for which at x = 0, y = 2, and for 
+which at 
+. 
+(4)(Total 8 marks) 
+2.
+Given that for all real values of r,
+ (2r + 1)3 – (2r – 1)3 = Ar2 + B, 
+where A and B are constants,
+(a) 
+find the value of A and the value of B.
+ (2) 
+ (b) Hence, or otherwise, prove that 
+.      
+    (5) 
+ (c) 
+Calculate 
+.     
+   (3)(Total 10 marks) 
+3.
+(a) 
+Use algebra to find the exact solutions of the equation
+|2x2 + x – 6 | = 6 – 3x. 
+(6) 
+(b) 
+On the same diagram, sketch the curve with equation y = | 2x2 + x – 6| and the line with 
+equation y = 6 – 3x. 
+(3) 
+(c) 
+Find the set of values of x for which 
+|2x2 + x – 6 | > 6 – 3x. 
+(3)(Total 12 marks) 
+4.
+During an industrial process, the mass of salt, S kg, dissolved in a liquid t minutes after the
+process begins is modelled by the differential equation
+ 
+Given that S = 6 when t = 0, 
+(a) 
+find S in terms of t, 
+(8) 
+(b) 
+calculate the maximum mass of salt that the model predicts will be dissolved in the liquid at 
+any one time during the process. 
+(4)(Total 12 marks) 
+x
+k
+y
+x
+y
+2
+cos
+4
+d
+d
+2
+2
+=
++
+2
+,
+4
+π
+π
+=
+=
+y
+x
+)1
+2
+)(
+1
+(
+6
+1
+1
+2
++
++
+=
+∑
+=
+n
+n
+n
+r
+n
+r
+∑
+=
+−
+40
+1
+2)1
+3
+(
+r
+r
+.
+120
+0
+,
+4
+1
+120
+2
+d
+d
+<
+≤
+=
+−
++
+t
+t
+S
+t
+S
+PMT
+
+
+--- Page Break ---
+
+ 5. 
+(a) 
+Find the Taylor expansion of cos 2x in ascending powers of 
+ up to and including 
+the term in 
+. 
+(5) 
+(b) 
+Use your answer to (a) to obtain an estimate of cos 2, giving your answer to 6 decimal 
+places. 
+(3)(Total 8 marks) 
+6. 
+(a) 
+Use de Moivre’s theorem to show that         sin5θ = sin θ (16cos4 θ – 12 cos2 θ  + 1). 
+(5) 
+ (b) Hence, or otherwise, solve, for 0  ≤  θ  <  π 
+sin 5θ  + cos θ  sin2θ = 0. 
+(6)(Total 11 marks) 
+7. 
+    
+At t = 0,  x = 0  and 
+ 
+ 
+  
+(b) 
+Find a series solution for x, in ascending powers of t, up to and including the term in t3. 
+(4) 
+(c) 
+Use your answer to (b) to obtain an estimate of x at t = 0.3. 
+(2)(Total 11 marks) 
+  
+8. 
+The point P represents a complex number z on an Argand diagram, where 
+. 
+(a) 
+Show that the locus of P is a circle, giving the coordinates of the centre and the radius of 
+this circle. 
+(7) 
+ 
+The point Q represents a complex number z on an Argand diagram, where 
+. 
+(b) 
+On the same Argand diagram, sketch the locus of P and the locus of Q. 
+(5) 
+(c) 
+On your diagram, shade the region which satisfies both 
+ and 
+ 
+(2)(Total 14 marks) 
+ 
+ 
+ 
+ 
+
+
+
+
+
+−4
+π
+x
+5
+4 
+
+
+
+
+−π
+x
+.0
+sin
+3
+d
+d
+2
+2
+=
++
+x
+t
+x
+4.0
+d
+d =
+t
+x
+i
+2
+3
+i3
+6
+−
++
+=
++
+−
+z
+z
+[
+]
+2
+1
+)
+6
+(
+arg
+tan
+=
++
+z
+i
+2
+3
+i3
+6
+−
++
+>
++
+−
+z
+z
+[
+]
+.
+2
+1
+)
+6
+(
+arg
+tan
+>
++
+z
+ 
+PMT

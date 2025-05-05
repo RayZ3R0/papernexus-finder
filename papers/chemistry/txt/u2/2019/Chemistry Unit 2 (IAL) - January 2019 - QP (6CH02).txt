@@ -1,0 +1,1028 @@
+P54342A
+©2019 Pearson Education Ltd.
+2/2/2/2/
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 80.
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed  
+– you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Show all your working in calculations and include units where appropriate.
+•	Check your answers if you have time at the end.
+*P54342A0124*
+Turn over    
+Pearson Edexcel 
+International
+Advanced Level
+Centre Number
+Candidate Number
+Total Marks
+Candidates must have: Scientific calculator
+Chemistry
+Advanced Subsidiary
+Unit 2: Application of Core Principles of Chemistry
+Morning (Time: 1 hour 30 minutes)
+Paper Reference WCH02/01
+Wednesday 16 January 2019
+Candidate surname
+Please check the examination details below before entering your candidate information
+Other names
+
+
+--- Page Break ---
+
+2
+*P54342A0224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1	 Which of these molecules is planar?
+ 	
+	
+A	 Ethane, CH3CH3
+	
+	
+B	 Ethanoic acid, CH3COOH
+	
+	
+C	 Methanal, HCHO
+	
+	
+D	 Methanol, CH3OH
+(Total for Question 1 = 1 mark)
+2	 Which molecule contains bond angles of both 90° and 120°?
+	
+	
+A	 SF6
+	
+	
+B	 PCl5
+	
+	
+C	 BCl3
+	
+	
+D	 BeCl2
+(Total for Question 2 = 1 mark)
+3	 Which molecule has the most polar bond? 
+	
+	
+A	 CH3CH2NH2
+	
+	
+B	 CH3CH2OH
+	
+	
+C	 CH3CH2Cl
+	
+	
+D	 CH3CH2I
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+3
+*P54342A0324*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+4	 Which is correct for tetrabromomethane, CBr4?
+Polarity of C-Br bond
+Polarity of CBr4 molecule
+A
+polar
+polar
+B
+non-polar
+non-polar
+C
+non-polar
+polar
+D
+polar
+non-polar
+(Total for Question 4 = 1 mark)
+5	 In alkanes, increasing the length and branching of the carbon chain both affect the 
+boiling temperature.
+	
+Which of the following combination of effects is correct? 
+Effect on boiling temperature
+Increasing chain length
+Increasing branching
+A
+increases
+decreases
+B
+decreases
+increases
+C
+decreases
+decreases
+D
+increases
+increases
+(Total for Question 5 = 1 mark)
+6	 What is the correct order of boiling temperatures for the hydrogen halides, from the 
+lowest to highest?
+	
+	
+A	 HCl, HBr, HI, HF
+	
+	
+B	 HF, HCl, HBr, HI
+	
+	
+C	 HBr, HCl, HF, HI
+	
+	
+D	 HI, HBr, HCl, HF
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+4
+*P54342A0424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+7	 What is always formed when s-block nitrates thermally decompose?
+	
+	
+A	 A metal nitrite
+	
+	
+B	 A metal oxide
+	
+	
+C	 Nitrogen dioxide
+	
+	
+D	 Oxygen
+(Total for Question 7 = 1 mark)
+8	 When solid potassium bromide reacts with concentrated sulfuric acid, which 
+substance does not form?
+	
+	
+A	 HBr
+	
+	
+B	 Br2
+	
+	
+C	 SO2
+	
+	
+D	 H2S
+(Total for Question 8 = 1 mark)
+9	 Which equation does not represent a disproportionation reaction?
+	
+	
+A	 Cl2   +   H2O   →   HClO   +   HCl
+	
+	
+B	 3Cl2   +   6KOH   →   KClO3   +   5KCl   +   3H2O
+	
+	
+C	 2KClO3   →   2KCl + 3O2
+	
+	
+D	 4KClO3   →   3KClO4   +   KCl
+(Total for Question 9 = 1 mark)
+10	 How does the addition of a catalyst to a reaction affect the shape of the Maxwell-Boltzmann 
+distribution curve? 
+	
+	
+A	 There is no change.
+	
+	
+B	 The peak moves to the left and is higher.
+	
+	
+C	 The peak moves to the right and is lower.
+	
+	
+D	 The total area under the curve increases.
+(Total for Question 10 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+5
+*P54342A0524*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+11	 This question is about the equilibrium between sulfur dioxide, oxygen and sulfur trioxide in 
+the gas phase.
+	
+SO2(g)   +  ½O2(g)      SO3(g)     ΔH
+d = −98 kJ mol–1
+	
+(a)	 What are the effects of decreasing the temperature?
+(1)
+Effect on rate
+Effect on equilibrium yield of SO3
+A
+increases
+decreases
+B
+decreases
+increases
+C
+decreases
+decreases
+D
+increases
+increases
+	
+(b)	 What are the effects of increasing the pressure?
+(1)
+Effect on rate
+Effect on equilibrium yield of SO3
+A
+increases
+decreases
+B
+decreases
+increases
+C
+decreases
+decreases
+D
+increases
+increases
+	
+(c)	 The equation for the reaction can also be written as
+	
+2SO2(g)   +   O2(g)      2SO3(g)
+	
+	
+The enthalpy change for this equation is
+(1)
+	
+	
+A	 −49 kJ mol–1
+	
+	
+B	 −98 kJ mol–1
+	
+	
+C	 −196 kJ mol–1
+	
+	
+D	 −9604 kJ mol–1
+(Total for Question 11 = 3 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+6
+*P54342A0624*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+12	 A sample of 50 cm3 of ethanol gas is burned completely in 200 cm3 of oxygen. 
+	
+C2H5OH(g)   +   3O2(g)   →   2CO2(g)   +   3H2O(g)
+	
+All volumes are measured at a temperature of 400 K and 1 atm pressure.
+	
+What is the total volume of gas when the reaction is complete?
+	
+	
+A	 150 cm3
+	
+	
+B	 200 cm3
+	
+	
+C	 250 cm3
+	
+	
+D	 300 cm3
+(Total for Question 12 = 1 mark)
+13	 Which is a tertiary alcohol?
+	
+	
+A	 2-methylbutan-2-ol
+	
+	
+B	 2-methylbutan-1-ol
+	
+	
+C	 pentan-2-ol
+	
+	
+D	 pentan-3-ol 
+(Total for Question 13 = 1 mark)
+14	 Excess ammonia in ethanol reacts with 1-bromobutane at high pressure.
+	
+Which products could be formed in this reaction?
+	
+	
+A	 C4H9NH2 and NH4Br
+	
+	
+B	 C4H9NH2 and C4H10
+	
+	
+C	 C4H10 and HBr
+	
+	
+D	 C4H8 , NH4Br and HBr
+ (Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+7
+*P54342A0724*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+15	 This question is about mechanisms and reaction types.
+	
+(a)	 The reaction between an alkane and a halogen to form a halogenoalkane is
+(1)
+	
+	
+A	 electrophilic addition.
+	
+	
+B	 nucleophilic addition.
+	
+	
+C	 free radical substitution.
+	
+	
+D	 nucleophilic substitution.
+ 	
+(b)	 The reaction between ammonia and a halogenoalkane is
+(1)
+	
+	
+A	 electrophilic addition.
+	
+	
+B	 nucleophilic addition.
+	
+	
+C	 free radical substitution.
+	
+	
+D	 nucleophilic substitution.
+(Total for Question 15 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+8
+*P54342A0824*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+16	 Which of these substances causes the greatest amount of anthropogenic global warming?
+	
+	
+A	 Carbon dioxide
+	
+	
+B	 Methane
+	
+	
+C	 Dinitrogen monoxide
+	
+	
+D	 Dichlorodifluoromethane
+(Total for Question 16 = 1 mark)
+17	 In which pair do both substances deplete the ozone layer?
+	
+	
+A	 Water vapour and carbon dioxide
+	
+	
+B	 Dichlorodifluoromethane and nitrogen monoxide
+	
+	
+C	 Dichlorodifluoromethane and carbon dioxide 
+	
+	
+D	 Water vapour and nitrogen monoxide 
+(Total for Question 17 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+9
+*P54342A0924*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+18	 This question is about diamond, graphite and other carbon structures.
+	
+(a)	 (i)	 In diamond, each carbon atom is covalently bonded to four others, in a 
+three-dimensional structure.
+	
+	
+	
+Draw a diagram showing this arrangement.
+(1)
+	
+	
+(ii)	 Explain the shape and bond angle of this arrangement of carbon atoms in diamond.
+(3)
+	
+	
+	
+Shape ...........................................................................................
+	
+	
+	
+Bond angle .............................................................................
+Explanation....................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+10
+*P54342A01024*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 Graphite consists of a layer lattice, with strong covalent bonds within the layers 
+and a weaker force between the layers.
+	
+	
+(i)	 Draw a diagram to show part of one layer of graphite with between 
+13 and 19 carbon atoms, and give the bond angle.
+(2)
+	
+	
+	
+Diagram
+	
+	
+	
+Bond angle .............................................................................
+	
+	
+(ii)	 Name the force between the layers.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Give a reason why graphite conducts electricity whereas diamond does not.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+11
+*P54342A01124*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iv)	A graphite shield was used on the front of early spacecraft to prevent them 
+getting too hot when re-entering the atmosphere. 
+	
+	
+	
+Use your knowledge of the structure of graphite and its physical properties to 
+suggest two reasons for this use.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 Name one other form of pure carbon.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 11 marks)
+
+
+--- Page Break ---
+
+12
+*P54342A01224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+19	 This question is about the structure, properties and reactions of the alcohols, ethanol 
+and butan-2-ol.
+	
+(a)	 Ethanol mixes with water in all proportions, but butan-2-ol has limited solubility 
+in water.
+	
+	
+(i)	 Name all the intermolecular forces present in these alcohols.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+ *(ii)	 Explain why butan-2-ol has limited solubility in water.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 Both alcohols react with sodium.
+	
+	
+(i)	 Describe what you see when ethanol reacts with sodium.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Write the equation for the reaction of ethanol with sodium.  
+State symbols are not required.
+(2)
+
+
+--- Page Break ---
+
+13
+*P54342A01324*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 Both alcohols are separately heated under reflux with acidified  
+potassium dichromate(VI). 
+	
+	
+After refluxing, the organic product is distilled from each mixture.
+	
+	
+(i)	 Name the organic product formed from ethanol and give a chemical test, with 
+the result, to show the functional group present in the product.
+(2)
+	
+	
+	
+Name .............................................................................
+Test and result.............................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Give the structure of the organic product formed from butan-2-ol. 
+(1)
+	
+	
+(iii)	State the ways in which the infrared spectra of butan-2-ol and its oxidation 
+product would differ.
+	
+	
+	
+Specific wave numbers are not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 13 marks)
+
+
+--- Page Break ---
+
+14
+*P54342A01424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+20	 This question is about iodine and some of its compounds.
+	
+(a)	 Iodine can be obtained from iodine compounds, such as potassium iodide, by 
+reaction with chlorine.
+	
+	
+(i)	 Write the ionic equation for the formation of iodine, by the addition of 
+chlorine to aqueous potassium iodide.
+	
+	
+	
+State symbols are not required.
+(1)
+	
+	
+(ii)	 The colour of the iodine solution formed is red-brown. 
+	
+	
+	
+Name an organic solvent that can be added to extract iodine from its aqueous 
+solution, and give the colour of the organic layer.
+(2)
+	
+	
+	
+Name ...........................................................................................
+	
+	
+	
+Colour .........................................................................................
+	
+	
+(iii)	Iodine reacts with sodium thiosulfate solution.
+	
+I2(aq)   +   2Na2S2O3(aq)   →   2NaI(aq)   +   Na2S4O6(aq)
+	
+	
+	
+State which element is oxidised and which is reduced, giving the relevant 
+changes in oxidation number.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+15
+*P54342A01524*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 The two isomers of C3H7I are 1-iodopropane and 2-iodopropane.
+	
+	
+(i)	 Draw the skeletal formulae of these two isomers.
+(1)
+	
+	
+(ii)	 Iodoalkanes are easily distinguished from chloroalkanes and bromoalkanes 
+using mass spectrometry because they only give a single molecular ion peak.
+	
+	
+	
+Suggest why 1-iodopropane only has one molecular ion peak whereas  
+1-chloropropane and 1-bromopropane both have two molecular ion peaks.  
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	The mass spectrum of 1-iodopropane has a peak at m/e = 43.
+	
+	
+	
+Give the structure of the ion responsible for this peak and state how it is formed.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 1-iodopropane and 2-iodopropane are separately dissolved in ethanol and 
+hot silver nitrate solution is added.  A precipitate forms in each reaction.
+	
+	
+(i)	 State the colour and name of the precipitate.
+(2)
+	
+	
+Colour ........................................................................................... Name ...........................................................................................
+	
+	
+(ii)	 Write the ionic equation, with state symbols, for the formation of this precipitate. 
+(1)
+
+
+--- Page Break ---
+
+16
+*P54342A01624*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 Aqueous sodium hydroxide reacts with 1-iodopropane to form propan-1-ol.
+	
+	
+Draw the mechanism for this reaction.  Include curly arrows and relevant lone pairs.
+(2)
+	
+(e)	 Hot concentrated potassium hydroxide in ethanol reacts with  
+1-iodopropane and 2-iodopropane. 
+The same organic compound is formed in each case.
+	
+	
+(i)	 State the type of reaction occurring.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Name the organic product formed in both reactions.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 16 marks)
+TOTAL FOR SECTION B = 40 MARKS
+
+
+--- Page Break ---
+
+17
+*P54342A01724*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+21	 ‘Hard’ water is water that contains significant concentrations of calcium ions or 
+magnesium ions.
+	
+Hard water may be produced when rainwater, containing dissolved carbon dioxide, 
+passes through rocks containing calcium carbonate.  Calcium hydrogencarbonate is 
+formed in solution.
+	
+Hard water may also be formed when rain water passes through minerals containing 
+calcium sulfate or magnesium sulfate.
+	
+Hard water causes two problems.  
+	
+The first is that it forms a precipitate (scum) when mixed with soap.
+	
+The second is that, on heating, it will form a deposit of calcium or magnesium carbonate 
+which reduces the efficiency of heating elements and may lead to blockages in boiler pipes.
+	
+(a)	 A flame test can be used to detect the metal ion present in the precipitate formed 
+by heating hard water.
+	
+	
+ *(i)	 Explain how metal ions produce a colour in a flame test.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Give the colour of the flame you would expect to see when calcium ions are present.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Give the reason why magnesium ions do not produce a flame colour.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+18
+*P54342A01824*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 Write an equation to show how calcium hydrogencarbonate is formed when 
+rainwater, containing dissolved carbon dioxide, reacts with calcium carbonate.
+	
+	
+State symbols are not required.
+(1)
+	
+(c)	 Suggest why calcium sulfate and magnesium sulfate can form hard water but 
+barium sulfate cannot.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(d) 	Group 2 metal carbonates decompose on heating. 
+	
+MCO3   →   MO   +   CO2
+	
+	
+ *(i)	 Explain why calcium carbonate requires stronger heating to decompose than 
+magnesium carbonate.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+19
+*P54342A01924*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 When 10.00 g of a Group 2 metal carbonate is completely decomposed by heating, 
+1.626 dm3 of carbon dioxide forms, at room temperature and pressure (r.t.p.).
+	
+	
+	
+Deduce by calculation the metal ion present.
+	
+	
+	
+[Molar volume of a gas at r.t.p. = 24.0 dm3 mol–1]
+(3)
+	
+	
+(iii)	Calcium oxide dissolves in water to form calcium hydroxide (limewater), 
+Ca(OH)2(aq). 
+	
+	
+	
+Write the equation for the reaction of carbon dioxide with limewater. 
+	
+	
+	
+Include state symbols.
+(1)
+
+
+--- Page Break ---
+
+20
+*P54342A02024*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(e)	 The solubility of calcium hydroxide in water is determined by titration of a 
+saturated solution.
+	
+	
+An excess of calcium hydroxide is added to about 100 cm3 of distilled water in a 
+conical flask.
+	
+	
+The flask is stoppered, shaken and allowed to stand overnight. 
+	
+	
+10.0 cm3 portions of this saturated solution are titrated with 0.0500 mol dm–3 
+hydrochloric acid.
+Ca(OH)2   +   2HCl   →   CaCl2   +   H2O
+	
+	
+(i)	 Suggest a suitable indicator for this titration and give the colour change you 
+would expect to see at the end-point.
+(2)
+	
+	
+	
+Indicator ...........................................................................................
+	
+	
+	
+Colour change from ....................................................................... to .......................................................................
+
+
+--- Page Break ---
+
+21
+*P54342A02124*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 The mean titre is 8.90 cm3.
+	
+	
+	
+Calculate the concentration of the saturated calcium hydroxide solution, in g dm–3.
+(4)
+(Total for Question 21 = 20 marks)
+	
+TOTAL FOR SECTION C = 20 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+
+
+--- Page Break ---
+
+22
+*P54342A02224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+23
+*P54342A02324*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+24
+*P54342A02424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA

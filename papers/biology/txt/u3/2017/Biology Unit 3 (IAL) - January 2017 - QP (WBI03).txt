@@ -1,0 +1,531 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Biology
+Advanced Subsidiary
+Unit 3: Practical Biology and Research Skills
+Monday 23 January 2017 – Morning
+Time: 1 hour 30 minutes
+WBI03/01
+You must have:
+Calculator, HB pencil, ruler
+Pearson Edexcel 
+International
+Advanced Level
+*P48356A0116*
+P48356A
+©2017 Pearson Education Ltd.
+2/2/2/1/1/1/
+Turn over    
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 40. 
+• The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P48356A0216*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P48356A0316*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Answer ALL questions.
+1 Pineapple is a very good source of vitamin C.
+ 
+Published estimates show that fresh pineapple, of a variety called Queen Victoria, 
+contains 24.8 mg of vitamin C per 100  g of fruit.  However, pineapple decays very 
+quickly and is often processed to extend its shelf life.
+ 
+Processing procedures, and the length of time the processed fruit is stored, are known to 
+affect vitamin C content.
+ 
+One way to process fruit is to make it into jam.
+ 
+A study was carried out into the effects of making and storing jam on the vitamin C 
+content of pineapple.
+ 
+Batches of pineapple, of the Queen Victoria variety, were made into jam by mixing 
+them with sugar and heating.  The jam was stored in 25 jars, each containing 100 g.  
+The jars were stored at a temperature of 20 °C, as would be normal in a supermarket.
+ 
+The mean vitamin C content of samples from each of five jars of jam was determined 
+at the start of the study and then every two weeks for eight weeks.
+ 
+The vitamin C content of each sample was determined by titration with a 0.1% DCPIP 
+solution.
+ 
+(a) (i) State the independent variable in this investigation.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Name one variable that could have been controlled when making the jam.  
+Describe how this variable could have been controlled.
+(2)
+Variable .............................................................................................................................................................................................................................................................
+How the variable is controlled ..................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P48356A0416*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Describe how the samples of jam should be prepared for titration.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The results of this study are shown in the table below.
+Storage time  
+/ weeks
+Mean vitamin C content  
+/ mg per 100 g
+0
+14.3
+2
+11.7
+4
+10.7
+6
+ 9.8
+8
+ 7.7
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P48356A0516*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(i) Plot a line graph to show the effect of storage time on the mean vitamin C 
+content of the jam.  Draw a line of best fit through the points.
+(4)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P48356A0616*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Use the information in the table to calculate the mean rate of decrease of 
+vitamin C per day during storage.
+ 
+ 
+ 
+Show your working.
+(3)
+Answer ...................................................................... mg per 100 g per day
+ 
+ 
+(iii) The fresh pineapple contained 24.8 mg of vitamin C per 100 g.
+ 
+ 
+ 
+Use the information in the table to calculate the percentage decrease of 
+vitamin C when jam is made.
+ 
+ 
+ 
+Show your working.
+(3)
+Answer ...................................................................... %
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P48356A0716*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) The scientists who carried out this study also looked at the effect on the vitamin C 
+content when the fruit was used to make fresh juice and a frozen dessert.
+ 
+ 
+The vitamin C content decreased by 35.8% when fresh juice was made and by 
+12.5% when the frozen dessert was made.
+ 
+ 
+One recommended daily intake for adults is 40 mg of vitamin C.
+ 
+ 
+Using all the information given, discuss the use of pineapple juice, jam and frozen 
+dessert as sources of vitamin C.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 1 = 20 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P48356A0816*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+2 Read the following account from a student’s draft report on gnats  
+as pests of orchids.
+ 
+1. Gnats are small insects.  Some species of gnats cause damage to orchid plants.  
+This results in significant financial losses.  Each plant is worth about 1.15 US dollars 
+and the gnats can affect up to 20% of plants.  A way to try and reduce the gnat 
+population in glasshouses used to grow orchids is needed.
+ 
+2. In the larval stage, the gnats burrow into the roots of the plants.  This provides 
+an entry point for pathogens, resulting in the roots rotting.  This can kill the plant 
+if there is sufficient damage.  Also, adult flying gnats transmit diseases between 
+plants.  Disease-causing fungi, such as Pythium and Rhizoctonia, can be spread by 
+the gnats.
+ 
+3. The gnats produce about 150 eggs each, of which about 50% hatch.  Eggs hatch 
+into larvae after 2 to 7 days.   The larvae feed on decaying organic matter, soil 
+fungi, algae, fine roots and the lower stems of plants for 5 to 14 days.  At this 
+point, they become pupae from which the adults emerge after 4 to 6 days.  The 
+length of the life cycle depends on the temperature.
+ 
+4. Orchids require conditions in the glasshouses that mimic the environment in 
+the trees where they grow naturally.  Temperatures of 27 to 28 °C in the day and 
+26 °C at night are maintained in orchid glasshouses.  The orchids also require high 
+humidity.  Gnats require a similar environment, of high humidity and temperature.
+ 
+5. A possible solution to the gnat problem is to use the insecticide Met 52 granular.  
+This insecticide is based on the spores of a fungus.  The spores are an insect 
+pathogen and affect gnat larvae.  The spores germinate on the surface of the 
+larvae, penetrate them and grow inside the larvae.  The spores can remain in the 
+soil for years without germinating.
+ 
+6. Met 52 was not specifically designed for gnats but to reduce vine weevil 
+populations.  This insect also completes its life cycle in the soil.  In an experiment, 
+a control group of plants had 15 vine weevil eggs in the soil, whereas in 
+the Met 52 treated group there was only one.  When a different insecticide, 
+chloryprifos, was used five eggs were found in the soil.
+ 
+7. Met 52 is a broad spectrum insecticide and may infect any other organisms that 
+come into contact with the soil in which the orchids are growing.  It has been 
+found to infect the larvae of some predatory beetles.  Therefore, Met 52 may 
+have a negative effect on the population of non-harmful insects, especially those 
+that complete part of their life cycle in the soil.  Furthermore, Met 52 needs to be 
+kept away from surface water because there is a risk that it could pollute water 
+sources.  It may be necessary to take extra precautions to prevent run-off into water 
+sources from the orchids after treatment with Met 52.  This could have financial 
+implications.
+ 
+8. The insecticide costs 43 US dollars for a kilogram and 1 kg treats 2 m3 of 
+soil.  At the orchid grower visited, there are 6000 m2 of glasshouses growing 
+approximately 200 000 orchids per year.  Each orchid requires 1000 cm3 of soil.  
+Treating this number of plants could mean that this treatment may not be cost 
+effective.  This is because the cost of the treatment may be greater than the cost 
+of the damage.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P48356A0916*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+9. Met 52 causes less harm to the environment than chemical insecticides.  There 
+have been no reports of insect pests building up resistance to Met 52.  Therefore 
+Met 52 can be used for long-term control.  After an initial investment in Met 52, 
+the gnats will be controlled for many years.
+ 
+10. Met 52 can cause allergic reactions in some people.  This may be a risk for the 
+orchid growers.  There has been no recorded issue with toxicity to plants.  When 
+Met 52 was tested on laboratory animals, no signs of significant toxicity or disease 
+were observed.  People using Met 52 should wear waterproof gloves, eye goggles, 
+a long-sleeved shirt, long pants, shoes, socks and a face mask.
+ 
+11. One possible alternative to the use of Met 52 for the control of gnats is the use 
+of predatory mites.  The mites are sprinkled over the surface of the soil, using 
+100 mites per m2 before an infestation develops or 300 mites per m2 for an 
+existing infestation.  Unlike Met 52, they are known to target gnats.  However, 
+they only occupy the top centimetre of the soil, unlike Met 52 which is spread 
+throughout the soil.
+ 
+12. Nematodes can also be used.  They are added by spraying them on to the soil.  
+They penetrate the larvae and pupae of gnats and release bacteria into their blood.  
+This causes poisoning and kills the host in about 48 hours.  However, a large 
+number of these nematodes are needed and the treatments are expensive.  For the 
+growers visited, treatment with nematodes would cost 9000 US dollars every two 
+weeks and the application is time consuming.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P48356A01016*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(a) The problem identified in this report is that of gnats affecting orchids grown in 
+glasshouses.
+ 
+ 
+Explain why this a problem.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) In suggesting visuals that could be used, the student’s teacher thought a diagram 
+of the gnat life cycle would be useful.
+ 
+ 
+Draw and label a diagram showing the details of the life cycle of a gnat as 
+described in paragraph 3.
+(3)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P48356A01116*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+(c) One economic implication of the information in the report is the cost of treating 
+orchids with Met 52 compared with the cost of gnat damage.
+ 
+ 
+Use the information in paragraphs 1, 7, 8 and 10 to explain whether treatment 
+with Met 52 is likely to be cost effective.
+ 
+ 
+Space for working
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P48356A01216*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) (i) Describe one possible environmental implication of the use of Met 52.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State one possible risk to humans associated with the use of Met 52.
+ 
+ 
+ 
+Describe how this risk could be minimised.
+(2)
+Risk .......................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+How the risk could be minimised ........................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Paragraph 6 states that “Met 52 was not specifically designed for gnats”.
+ 
+ 
+The student found a study of the effects of Met 52 on the gnats.  Met 52 is based 
+on the fungus Metarhyzium.
+ 
+ 
+The number of colonies of the fungus Metarhyzium growing on gnats was counted.
+ 
+ 
+The results are shown in the table.
+Time from first exposure 
+to Met 52 / hours
+Mean number of Metarhyzium 
+colonies per gnat
+ 0
+ 0
+ 3
+ 8
+ 6
+11
+24
+34
+48
+46
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P48356A01316*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(i) Use the information in the table to complete the graph below.
+(2)
+ 
+ 
+(ii) Explain how these data support the conclusion that Met 52 is useful for the 
+control of gnats on orchids.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) Identify one alternative solution for the control of gnats and compare it with the 
+use of Met 52.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 2 = 20 marks)
+TOTAL FOR PAPER = 40 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P48356A01416*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P48356A01516*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P48356A01616*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com

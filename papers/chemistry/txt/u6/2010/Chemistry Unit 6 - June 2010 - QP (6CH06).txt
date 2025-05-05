@@ -1,0 +1,614 @@
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• You will be assessed on your ability to organise and present information, ideas,
+ 
+descriptions and arguments clearly and logically, including your use of
+ 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+     Turn over
+N36508A
+©2010 Edexcel Limited.
+7/7/7/2/
+*N36508A0116*
+Edexcel GCE
+Chemistry
+Advanced
+Unit 6B:  Chemistry Laboratory Skills II 
+Alternative
+Candidates may use a calculator.
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+6CH08/01
+Paper Reference
+Friday 14 May 2010 – Morning
+Time: 1 hour 15 minutes
+PMT
+
+
+--- Page Break ---
+
+2
+*N36508A0216*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 Compound A is a salt containing one cation and one anion.  Complete the following 
+table by filling in the inferences column.
+Test
+Observations
+Inferences
+(a)
+Observe the 
+appearance of A.
+A is a yellow 
+crystalline solid.
+(1)
+(b)
+Carry out a flame 
+test on A.
+Persistent bright 
+yellow flame colour.
+(1)
+(c)
+Add 5cm3 of 
+dilute sulfuric acid 
+to 0.5g of A.
+A dissolves to form 
+an orange solution.
+Ions formed are
+....................................................................................................
+(1)
+(d)
+To the solution 
+obtained in (c), 
+add about 10 
+drops of ethanol 
+and warm the 
+mixture gently.
+Orange solution turns 
+green.
+(2)
+(e)
+Divide the green 
+solution from (d) 
+into two equal 
+portions.  To 
+one portion add 
+sodium hydroxide 
+solution a little 
+at a time until in 
+excess.
+Green precipitate 
+forms which 
+dissolves in excess 
+sodium hydroxide 
+to form a green 
+solution.
+Green precipitate is
+...................................................................................................
+...................................................................................................
+Green ions formed in solution are
+...................................................................................................
+...................................................................................................
+(2)
+PMT
+
+
+--- Page Break ---
+
+3
+*N36508A0316*
+Turn over  
+Test
+Observations
+Inferences
+(f)
+To the second 
+portion of the 
+solution, add zinc 
+powder.
+The solution turns 
+pale blue.
+Pale blue ions formed are
+...................................................................................................
+Role of zinc
+...................................................................................................
+...................................................................................................
+...................................................................................................
+(2)
+(g)
+Filter the mixture 
+formed in (f) to 
+remove the excess 
+zinc and then 
+shake the filtrate 
+vigorously.
+The pale blue 
+solution turns green. 
+Green ions formed are
+...................................................................................................
+Explanation
+...................................................................................................
+...................................................................................................
+...................................................................................................
+(2)
+(Total for Question 1 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*N36508A0416*
+2 P and Q are different organic compounds, each of which has three carbon atoms and 
+only one functional group.
+ 
+(a) Complete the table below by filling in the inferences column.  In each case you 
+should state what the test and observation tell you about the original compound P.
+Test
+Observation
+Inferences about 
+compound P
+(i)
+Add a small amount 
+of dry phosphorus(V) 
+chloride to 1cm3 of P.
+Steamy fumes 
+form which turn 
+damp blue litmus 
+paper red.
+(1)
+(ii)
+Add about 2 cm3 of 
+sodium carbonate 
+solution to 1cm3 of P.
+No reaction 
+occurs.
+(1)
+(iii)
+Add about 2cm3 of 
+sodium hydroxide 
+solution to 10 drops of 
+P.  Then add a solution 
+of iodine in potassium 
+iodide, drop by drop, 
+until the iodine is just 
+in excess.  Warm the 
+mixture in a water bath.
+A pale yellow 
+precipitate with 
+an antiseptic 
+smell forms.
+(1)
+ 
+ 
+(iv) Use the information above to identify, by name or formula, the compound P.
+(1)
+PMT
+
+
+--- Page Break ---
+
+5
+*N36508A0516*
+Turn over  
+ 
+ 
+(v) The mass spectrum of P has a peak at m/e = 45.  Identify the species responsible 
+for this peak and explain how this species is formed from P.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b)  Complete the table below by filling in the inferences column. 
+Test
+Observation
+Inferences 
+(i)
+Add a small amount 
+of dry phosphorus(V) 
+chloride to 1cm3 of Q.
+Steamy fumes form 
+which turn damp 
+blue litmus paper 
+red.
+Steamy fumes are
+............................................................................
+............................................................................
+(1)
+(ii)
+ 
+Add about 2cm3 of 
+sodium carbonate 
+solution to 1cm3 of Q.
+Vigorous 
+effervescence occurs 
+and the gas evolved 
+turns limewater 
+milky.
+Functional group in
+compound Q is
+............................................................................
+............................................................................
+(1)
+ 
+ 
+(iii) Use the information above to identify, by name or formula, the compound Q.
+(1)
+(Total for Question 2 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*N36508A0616*
+3 The purity of a sample of iron from a blast furnace may be determined by titration.  The 
+iron is contaminated with carbon and calcium silicate.
+ 
+A known mass of the impure iron is dissolved in dilute sulfuric acid to form a solution 
+containing iron(II) ions.  Portions of this solution are titrated with a solution of 
+potassium manganate(VII) of known concentration.
+ 
+The steps of the experimental procedure are as follows.
+ 
+1. Approximately 1.5g of a sample of the impure iron, in the form of a fine powder, 
+was accurately weighed.  The results are shown in Table 1.
+ 
+2. The iron was transferred to a 250cm3 conical flask to which 50cm3 of dilute sulfuric 
+acid (an excess) was added.  The mixture was warmed to about 60°C and then 
+allowed to stand until the reaction was complete.
+ 
+3. The mixture in step 2 was filtered and the residue was washed with a small volume 
+of the dilute sulfuric acid.
+ 
+4. All of the filtrate in step 3 was transferred to a 250cm3 volumetric flask.  A further 
+50cm3 of the dilute sulfuric acid was added and then the volume was made up to the 
+mark with distilled water.  The resulting solution was mixed thoroughly.
+ 
+5. 25.0 cm3 portions of the solution in step 4 were transferred to clean conical 
+flasks and titrated with a potassium manganate(VII) solution of concentration 
+0.0220moldm–3.  The results are shown in Table 2.
+ 
+(a) Write an ionic equation for the reaction between iron and dilute sulfuric acid. 
+State symbols are not required.
+(1)
+ 
+(b) How would you know when the reaction between the iron and the dilute sulfuric acid 
+was complete?
+(1)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+PMT
+
+
+--- Page Break ---
+
+7
+*N36508A0716*
+Turn over  
+ 
+(c) The results of the experiment are given in the tables below.
+Table 1
+Mass of weighing bottle + impure iron
+11.22 g
+Mass of empty weighing bottle
+ 9.74 g
+Mass of impure iron
+ 1.48 g
+Table 2
+ 
+ Solution in the burette: 0.0220moldm−3 potassium manganate(VII)
+ 
+ Solution in the flask:    25.00cm3 of solution containing iron(II) ions (step 5)
+Titration number
+Trial
+1
+2
+3
+4
+Burette reading 
+(final) / cm3
+30.00
+23.10
+24.80
+24.45
+23.20
+Burette reading 
+(initial) / cm3
+ 6.65
+0.05
+ 2.10
+ 1.45
+ 0.25
+Titre / cm3
+23.35
+Titres used (9or 8 )
+8
+ 
+ 
+(i) Complete Table 2 by filling in the missing data.  Then mark with a tick (9) 
+those titres that will be used in the calculation of the mean titre and mark with a 
+cross (8) any titres that will be discarded.
+(2)
+ 
+ 
+(ii) Calculate the mean titre in cm3.
+(1)
+PMT
+
+
+--- Page Break ---
+
+8
+*N36508A0816*
+ 
+ 
+(iii) The ionic half-equations for the reactions of the iron(II) ions and the 
+manganate(VII) ions are given below.
+Fe2+ → Fe3+ + e–
+MnO4– + 8H+ + 5e– → Mn2+ + 4H2O
+ 
+ 
+ 
+Calculate the mass of iron in the original sample of impure iron and hence 
+calculate the percentage by mass of iron in the sample. 
+ 
+ 
+ 
+[The relative atomic mass of iron is 55.8]
+(4)
+PMT
+
+
+--- Page Break ---
+
+9
+*N36508A0916*
+Turn over  
+ 
+(d) Name the pieces of apparatus used to measure the 25.0cm3 solution containing 
+iron(II) ions in step 5 and the 50cm3 sulfuric acid in steps 2 and 4.
+ 
+ 
+Explain why different apparatus is used in each case.
+(2)
+To measure 25.0cm3 of solution ...................................................................................................................................................................
+To measure 50cm3 sulfuric acid ..................................................................................................................................................................
+Explanation ..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................  
+ 
+(e) Suggest why it was necessary to add such a large excess of sulfuric acid.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(f) State how you would detect the end-point of the titration.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(g) Explain why it is incorrect to use hydrochloric acid instead of sulfuric acid in this 
+titration.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 3 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+10
+*N36508A01016*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+11
+*N36508A01116*
+Turn over  
+4 N-phenylethanamide may be prepared in the laboratory by reacting ethanoic anhydride 
+with phenylamine; both the reactants and the products are flammable.  The equation for 
+the reaction is shown below.
+ 
+N-phenylethanamide
+ 
+A student is asked to prepare pure N-phenylethanamide starting from 9.00g of 
+phenylamine.
+ 
+(a) Calculate the minimum mass, in grams, of ethanoic anhydride required to react 
+completely with 9.00g of phenylamine.
+ 
+ 
+[Molar masses/gmol−1: C6H5NH2 = 93.0; CH3COOCOCH3 = 102]
+(2)
+NH2
+HN
+C
+O
+CH3
+H3C
+C
+O
+OH
++
++
+C
+H3C
+O
+C
+H3C
+O
+O
+PMT
+
+
+--- Page Break ---
+
+12
+*N36508A01216*
+ 
+(b) The steps of the experimental procedure are as follows.
+ 
+1. Mix the amount of ethanoic anhydride calculated in (a) with 10g of glacial (pure) 
+ethanoic acid in a round-bottom flask and add a further 1g of the ethanoic anhydride.
+ 
+2. Cool the flask from step 1 in a beaker of cold water and add 9.00g of phenylamine, 
+drop by drop, with gentle shaking.
+ 
+3. Add anti-bumping granules and reflux the mixture from step 2 for 30 minutes.
+ 
+4. Pour the liquid from the reflux flask into a beaker containing 100cm3 of distilled 
+water and allow the mixture to stand until no more crystals are formed.
+ 
+5. Filter the crystals under reduced pressure using a Buchner funnel and flask, washing 
+the crystals with cold water.
+ 
+6. Transfer the crystals to a boiling tube and dissolve them in the minimum volume of 
+boiling water.  Filter the hot solution using a glass filter funnel, cool the filtrate in a 
+beaker of ice-cold water and filter the crystals formed using a Buchner funnel and 
+flask. 
+ 
+7. Dry the crystals between filter papers and then by storing them in a desiccator.
+ 
+8. Weigh the dry crystals and calculate the yield.
+ 
+ 
+(i) Explain why, in step 1, the student is told to add a further 1g of the ethanoic 
+anhydride to the calculated mass so that it is in excess.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why, in step 2, the phenylamine is added drop by drop and the mixture 
+immersed in cold water.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*N36508A01316*
+Turn over  
+ 
+ 
+(iii) The student set up the apparatus for the reflux (step 3) as shown in the diagram 
+below.
+ 
+ 
+ 
+The apparatus has been incorrectly set up in TWO ways.  State and explain 
+these mistakes and how they should be corrected.  You may assume that
+the apparatus is suitably clamped and that the reaction mixture contains
+anti-bumping granules.
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Water in
+Water out
+PMT
+
+
+--- Page Break ---
+
+14
+*N36508A01416*
+ 
+ 
+(iv) Draw a labelled diagram of a Buchner funnel and flask (step 5).
+ 
+ 
+ 
+State how the reduced pressure is achieved (an explanation of this is not 
+required).
+(3)
+Diagram
+Reduced pressure is achieved by ....................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) A student obtained 7.49g of N-phenylethanamide from 9.00g of phenylamine. 
+Calculate the percentage yield.
+ 
+ 
+[Molar masses/gmol−1: C6H5NH2 = 93.0; C6H5NHCOCH3 = 135]
+(2)
+PMT
+
+
+--- Page Break ---
+
+15
+*N36508A01516*
+ 
+(d) Yields of less than 100% are often explained as being due to ‘transfer losses’.
+ 
+ 
+Explain this term by referring to the recrystallization of N-phenylethanamide in steps 
+6 and 7.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(e) Another student reported a yield of greater than 100%.  Assuming that the student 
+used the correct amounts of reagents and carried out the calculation correctly, 
+suggest a reason for this result.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 4 = 15 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*N36508A01616*
+PMT

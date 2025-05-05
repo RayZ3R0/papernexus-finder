@@ -1,0 +1,906 @@
+Turn over
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 –  The Accounting System and 
+Costing
+Tuesday 15 May 2012 – Morning
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P40265RA
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2012 Pearson Education Ltd.
+W850/6001/57570   1/1/1/1/1
+*P40265RA*
+
+
+--- Page Break ---
+
+P40265RA 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Aysha, Bashu and Christine are in partnership retailing electrical goods. They share profits and 
+losses in the ratio 2:2:1. Christine is entitled to a salary of £7 000 per annum. No interest is paid on 
+capital. Interest is charged at the rate of 5% per annum on the drawings for the year. The following 
+trial balance was extracted from the books for the year ended 31 March 2012:
+Dr 
+Cr
+£ 
+£
+Goodwill 
+30 000
+Inventory 1 April 2011 
+40 000
+Salaries and wages 
+29 500
+Sundry expenses 
+8 500
+Rent and rates 
+9 000
+Bank loan interest paid 
+3 000
+Trade receivables 
+28 500
+Trade payables 
+ 
+23 200
+Cash  
+4 200
+5% Bank loan – Payable 31 March 2020 
+ 
+80 000
+Non-current assets at cost:
+ 
+Land and buildings 
+70 000
+ 
+Delivery vehicles 
+20 000
+ 
+Fixtures and fittings 
+8 000
+Provisions for depreciation:
+ 
+Delivery vehicles 
+ 
+9 000
+ 
+Fixtures and fittings 
+ 
+6 400
+Provision for doubtful debts 
+ 
+900
+Revenue 
+ 
+265 100
+Purchases 
+191 000
+Capital accounts at 1 April 2011:
+ 
+Aysha 
+ 
+30 000
+ 
+Bashu 
+ 
+20 000
+ 
+Christine 
+ 
+10 000
+Current accounts at 1 April 2011:
+ 
+Aysha 
+ 
+3 500 
+ 
+Bashu 
+ 
+4 300 
+ 
+Christine 
+700 
+Drawings:
+ 
+Aysha 
+4 000
+ 
+Bashu 
+4 000
+ 
+Christine 
+2 000
+ 
+ 
+ 
+             
+            
+ 
+452 400 
+452 400
+
+
+--- Page Break ---
+
+P40265RA 
+3
+ 
+Turn over
+ 
+Additional information at 31 March 2012:
+ 
+(i) Inventory valuations 
+Original 
+Replacement 
+Market
+ 
+ 
+cost 
+cost 
+value
+ 
+ 
+£ 
+£ 
+£
+  
+Washing machines 
+9 000 
+10 500 
+10 800
+  
+Televisions 
+16 000 
+16 000 
+20 000
+  
+Microwaves 
+7 500 
+7 000 
+6 000
+ 
+(ii) Goodwill is no longer to be recorded in the books.
+ 
+(iii) Salaries and wages contains the £7 000 salary already paid to Christine.
+ 
+(iv) Sundry expenses prepaid £750.
+ 
+(v) Rent and rates owing £3 000.
+ 
+(vi) The 5% Bank loan was taken out on 1 April 2011.
+ 
+(vii) Depreciation is to be charged as follows:
+ 
+No depreciation is charged on the land and buildings
+ 
+Delivery vehicles – 20% per annum using the reducing balance method 
+ 
+Fixtures and fittings – 10% per annum using the straight line method.
+ 
+(viii) Trade receivables of £3 500 are considered irrecoverable. The provision for doubtful debts is 
+to be maintained at 5% of the remaining trade receivables.
+ 
+Required:
+ 
+(a) Prepare the:
+ 
+ 
+(i) statement of comprehensive income including the appropriation of profit/loss for the year 
+ended 31 March 2012 
+(17)
+ 
+ 
+(ii) statement of financial position at 31 March 2012. 
+(13)
+ 
+(b) Explain how inventory should be valued where the original cost, replacement cost and market 
+value are at different valuations.
+(4)
+ 
+(c) Prepare for the year ended 31 March 2012 the:
+ 
+ 
+(i) capital account of Christine
+(4)
+ 
+ 
+(ii) current account of Christine.
+(6)
+ 
+(d) Evaluate the partners’ decision to not record goodwill in the books.
+(8)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+P40265RA 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. Dalfor is in business buying and selling household goods. He uses ratio analysis to evaluate the 
+success of his business. The following balances were extracted from the books on 29 February 2012:
+ 
+£
+Revenue –  
+cash 
+  50 000
+ 
+credit 
+250 000
+Purchases – 
+cash 
+45 000
+ 
+credit 
+225 000
+Inventory – 
+1 March 2011 
+60 000
+ 
+29 February 2012 
+  90 000
+Capital 
+ 
+275 000
+Expenses paid 
+ 
+35 000
+Accrued expenses 
+ 
+10 000
+Trade receivables 
+ 
+30 000
+Trade payables 
+ 
+35 000
+Cash 
+ 
+150 000
+10% Bank loan – Repayable 31 July 2015 100 000
+Non-current assets 
+ 
+150 000
+ 
+Additional information:
+ 
+(a) The 10% bank loan was taken out in January 2010.
+ 
+(b) The accounting ratios for the two previous years were:
+ 
+Year ended 
+Year ended
+ 
+28 February 
+28 February
+ 
+2010 
+2011
+ 
+ 
+(i) gross profit as a percentage of revenue 
+30% 
+25%
+ 
+ 
+(ii) profit for the year as a percentage of revenue 
+20% 
+12%
+ 
+ 
+(iii) inventory turnover 
+6 times 
+4.8 times
+ 
+ 
+(iv) return on capital employed 
+10% 
+8%
+ 
+ 
+(v) current ratio 
+4:1 
+5:1
+ 
+ 
+(vi) liquid (acid test) ratio 
+3:1 
+3.5:1
+ 
+ 
+(vii) trade payables payment period 
+65 days 
+60 days
+ 
+ 
+(viii) trade receivables collection period. 
+70 days 
+68 days
+
+
+--- Page Break ---
+
+P40265RA 
+5
+ 
+Turn over
+ 
+Required:
+ 
+(a) Distinguish between profitability and liquidity.
+(4)
+ 
+(b) Calculate for the year ended 29 February 2012 the:
+ 
+ 
+(i) gross profit as a percentage of revenue
+(2)
+ 
+ 
+(ii) profit for the year as a percentage of revenue
+(2)
+ 
+ 
+(iii) inventory turnover
+(3)
+ 
+ 
+(iv) return on capital employed
+(3)
+ 
+ 
+(v) current ratio
+(3)
+ 
+ 
+(vi) liquid (acid test) ratio
+(3)
+ 
+ 
+(vii) trade payables payment period
+(3)
+ 
+ 
+(viii) trade receivables collection period.
+(3)
+ 
+(c) Suggest two likely reasons for the trend over the three-year period in each of the following 
+ratios:
+ 
+ 
+(i) Inventory turnover
+ 
+ 
+(ii) Return on capital employed
+ 
+ 
+(iii) Current ratio.
+(12)
+ 
+Dalfor is considering expanding his business by opening a new store in another town.
+ 
+(d) Advise Dalfor, using the ratios calculated in (b) above, on how his business might be viewed 
+by potential:
+ 
+ 
+(i) investors
+ 
+ 
+(ii) creditors.
+(6)
+ 
+(e) Evaluate Dalfor’s decision to use only accounting ratios to review his business.
+(8)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 12 of the question paper.
+
+
+--- Page Break ---
+
+P40265RA 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. The Treasurer of Sidly Tennis Club maintains a set of full double entry records. The following 
+information is available for the year ended 30 April 2012:
+ 
+(i) Cash Book Summary
+ 
+£ 
+£
+Subscriptions for previous year 
+300 
+Balance b/d 
+900
+ 
+for current year 
+3 700 
+Leasehold purchase 
+30 000
+ 
+for next year 
+700 
+Wages 
+5 200
+6% Bank loan 
+25 000 
+Equipment 
+6 400
+Sale of tennis balls 
+1 550 
+Sundry expenditure 
+3 800
+Donations 
+4 800 
+Purchase of tennis balls 
+1 200
+Sales of annual dinner tickets 
+2 900 
+Rental of hall for annual dinner 560
+Balance c/d 
+9 710 
+Deposit for annual dinner 
+600
+ 
+48 660 
+48 660
+ 
+(ii) Balances at:
+ 
+1 May 2011 
+30 April 2012
+ 
+£ 
+£
+Leasehold –15 years 
+- 
+30 000
+Equipment 
+12 200 
+?
+Equipment – provision for depreciation 
+2 400 
+?
+Inventory of tennis balls 
+750 
+630
+Subscriptions in arrears 
+500 
+900
+Subscriptions in advance 
+1 400 
+700
+Accrued sundry expenses 
+1 150 
+2 650
+6% Bank loan 
+- 
+25 000
+Trade payable 
+- 
+1 950
+(caterer for annual dinner)
+ 
+(iii) On 30 April 2012 the following errors were found in the books:
+1. 
+ During the year equipment which had cost £1 200 on 1 April 2009 was sold for £900. No 
+record of the sale had been made in the books.
+2. 
+Wages, £300, had been credited to the wages account.
+3. 
+ A deposit of £600 paid to the caterer for the annual dinner had been recorded correctly in 
+the cash book but had been recorded in the caterer’s account as £150.
+ 
+(iv) The leasehold and the 6% bank loan were taken out on 1 May 2011.
+ 
+(v) Subscription to the Sidly Tennis Club is £100 per annum. All subscriptions not received from 
+the previous year were considered irrecoverable and were written off.
+ 
+(vi) Depreciation is charged on:
+ 
+ equipment at the rate of 15% per annum using the straight line method on all equipment 
+owned at the end of the year
+ 
+the leasehold at an appropriate rate.
+
+
+--- Page Break ---
+
+P40265RA 
+7
+ 
+Turn over
+ 
+Required:
+ 
+(a) (i) Explain the accounting concept of historic cost.
+(2)
+ 
+ 
+(ii) Give one example where the Sidly Tennis Club has applied this accounting concept. 
+(2)
+ 
+(b) Prepare the trial balance at 1 May 2011 showing the value of the accumulated fund.
+(5)
+ 
+(c) Prepare the journal entries to correct the errors in (iii). Narratives are not required. 
+(9)
+ 
+(d) Prepare for the year ended 30 April 2012 the:
+ 
+ 
+(i) subscriptions account
+(7)
+ 
+ 
+(ii) income and expenditure account showing clearly the profit or loss on the annual dinner 
+and the sale of tennis balls.
+(19)
+ 
+(e) Evaluate the financial position of the Sidly Tennis Club. 
+(8)
+(Total 52 marks)
+Answer space for question 3 is on pages 13 to 17 of the question paper.
+
+
+--- Page Break ---
+
+P40265RA 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. Zaman is in business buying and selling goods on credit. He maintains a full set of double entry 
+records. The following information relates to the month of March 2012:
+ 
+1. On 1 March 2012 Zaman was owed the following by his debtors:
+ 
+£
+Fahi 
+1 500
+Shirin 
+500
+Marvan 
+800
+Jegan 
+2 900
+ 
+2. Sales were made by Zaman as follows:
+Fahi 
+6 March 
+Goods with a list price of £1 200, allowed 20% trade discount
+Marvan 
+15 March 
+Goods with a list price of £700, allowed 10% trade discount
+Cash sales 20 March 
+£500
+Fahi 
+26 March 
+Goods with a list price £300, but no discount.
+ 
+3. Sales returns:
+Fahi 
+9 March 
+Goods supplied on 6 March with a list price of £200
+ 
+4. Zaman received the following payments by cheque:
+Fahi 
+10 March 
+The balance owing on 1 March less 2% cash discount
+Jegan 
+14 March 
+£2 000 less 3% cash discount
+ 
+5. On 13 March Zaman was informed that Shirin had been declared bankrupt and a payment of 
+£0.40 in the £1 was received in final settlement of the debt.
+ 
+Required:
+ 
+(a) Zaman divides his ledger into three sections – general ledger, purchases ledger and sales ledger. 
+Explain two advantages of dividing the ledger into three sections.
+(4)
+ 
+(b) Prepare the following ledger accounts in the books of Zaman:
+ 
+ 
+(i) Fahi account
+(8)
+ 
+ 
+(ii) Shirin account
+(2)
+ 
+ 
+(iii) sales ledger control account.
+(14)
+ 
+(c) Evaluate the use of control accounts in a business. 
+(4)
+(Total 32 marks)
+Answer space for question 4 is on pages 18 to 19 of the question paper.
+
+
+--- Page Break ---
+
+P40265RA 
+9
+ 
+Turn over
+BLANK PAGE
+
+
+--- Page Break ---
+
+P40265RA 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Nalin Manufacturing produces two types of handbag, the standard and the deluxe. There are two 
+production lines, one line produces the standard and one line produces the deluxe. The following 
+information relates to the month of April 2012:
+ 
+(i) During April 2 500 standard and 1 000 deluxe handbags were manufactured.
+ 
+(ii) Both production lines use the same raw material. The record of raw material showed the 
+following:
+1 April 
+Balance 
+500 metres @ £12 per metre
+3 April 
+Receipt 
+1 000 metres @ £14 per metre
+7 April 
+Issue 
+800 metres
+15 April 
+Receipt 
+500 metres @ £16 per metre
+18 April 
+Issue 
+800 metres
+ 
+ 
+Nalin Manufacturing issues raw material using the First In First Out (F.I.F.O.) method of 
+inventory valuation.
+ 
+ 
+During April, £13 000 of the raw material was used on the standard production line and the 
+remainder on the deluxe production line.
+ 
+(iii) The standard production line employs 20 workers and the deluxe production line employs 30 
+workers. Each worker is paid a basic rate of £5 per hour and works 46 hours per week for  
+4 weeks in April. Forty hours per week will be at the basic rate and six hours per week at time 
+and a half.
+ 
+(iv) A royalty of £1 per handbag is paid for the standard and £2 per handbag for the deluxe.
+ 
+(v) Production overheads were:
+ 
+£
+Managers’ salaries 
+8 000
+Rent and rates 
+5 600
+Equipment depreciation 
+6 000
+Canteen costs 
+5 500
+ 
+ 
+Overheads are to be apportioned to the two production lines on the most appropriate basis. The 
+following information is available:
+ 
+Standard 
+Deluxe
+Floor area (sq m) 
+400 
+ 300
+Equipment value (£000) 
+160 
+80
+Employees (number) 
+20  
+ 30
+ 
+(vi) The value of work in progress was:
+ 
+Standard 
+Deluxe
+ 
+£ 
+£
+1 April 2012 
+7 300 
+7 550
+30 April 2012 
+5 300 
+10 000
+
+
+--- Page Break ---
+
+P40265RA 
+11
+ 
+Turn over
+ 
+Required:
+ 
+(a) Explain the accounting term prime cost. 
+(4)
+ 
+(b) Prepare the departmental manufacturing account for the month of April, showing the cost 
+of manufacture of the standard and deluxe production lines. You are advised to prepare the 
+account in columnar format.
+(24)
+ 
+(c) Evaluate the use of First In First Out (F.I.F.O.) as a method of valuing raw material issues.
+(4)
+(Total 32 marks)
+Answer space for question 5 is on pages 20 to 22 of the question paper.
+
+
+--- Page Break ---
+
+P40265RA 
+12 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. Seema owns a business retailing computer equipment. Her trial balance on 1 March 2012 was as 
+follows:
+ 
+Dr 
+Cr
+ 
+£ 
+£
+Capital 
+ 
+60 000
+Non-current assets 
+45 000
+Provision for depreciation on non-current assets 
+ 
+24 000
+Inventory 
+28 000
+Trade payables 
+ 
+20 000
+Trade receivables 
+23 000
+Cash/Bank 
+8 500
+Rent accrued 
+ 
+500
+ 
+104 500 
+104 500
+ 
+During the month ended 31 March 2012 the following were the summarised transactions for 
+Seema’s business:
+1.  Revenue sales of computers were £95 000 of which £19 000 were for cash and the remainder 
+were on credit. Seema uses a mark-up of 25% on all sales 
+2. Purchases of £76 000 were all on credit
+3. Debtors paid £70 000 less a 2% cash discount
+4. Creditors were paid £65 000 less a 4% cash discount 
+5.  Seema brought additional non-current assets worth £8 000 into the business from her own 
+private resources
+6. The quarterly rent of £1 500 was paid by cheque
+7.  Invoices for sundry expenses £4 700 were received for the month. Cheques for £3 500 were paid 
+to the suppliers of sundry expenses.
+ 
+Required:
+ 
+(a) (i) Explain the accounting concept of accrual 
+(2)
+ 
+ 
+(ii) Explain, using the example of the quarterly rent in 6 above, how the amounts recorded in 
+the cash book, trial balance and statement of comprehensive income for March 2012 will 
+differ.
+(6)
+ 
+(b) Prepare Seema’s trial balance at 31 March 2012. Clearly show all workings.
+(20)
+ 
+(c) Evaluate the usefulness of the trial balance in ensuring the accuracy of the books.
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 23 to 25 of the question paper.
+
+
+--- Page Break ---
+
+P40265RA 
+13
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Zoe started a taxi business on 1 January 2009. The following information relates to the vehicles 
+account in the non-current assets:
+1 January 2009 Purchased Vehicle A by cheque for £6 000
+1 April 2010 
+Purchased Vehicle B on credit from Soames Garages for £8 000
+1 July 2010 
+Purchased Vehicle C by cheque for £10 000
+1 July 2011 
+ Purchased Vehicle D for £9 000 giving in part exchange Vehicle B at an agreed 
+valuation of £5 400. The balance of the purchase price was paid by cheque.
+ 
+Zoe has the following depreciation policy:
+ 
+ 
+Vehicles are depreciated at the rate of 20% per annum using the straight line method
+ 
+ 
+ Depreciation is charged on vehicles purchased or sold during a year in proportion to the months 
+of ownership.
+ 
+Required:
+ 
+(a) Explain:
+ 
+ 
+(i) the accounting concept of going concern
+(2)
+ 
+ 
+(ii) why the accounting concept of going concern is important when charging depreciation in 
+the financial statements.
+(2)
+ 
+(b) Prepare a table showing the depreciation charged on each of the vehicles A, B, C and D, in 
+each of the years 2009, 2010 and 2011. 
+(8)
+ 
+(c) Prepare the following for the year ended 31 December 2011:
+ 
+ 
+(i) Vehicle account
+ 
+ 
+(ii) Vehicle – Provision for depreciation account
+ 
+ 
+(iii) Vehicle disposal account.
+ (10)
+ 
+(d) (i) Distinguish between capital expenditure and revenue expenditure.
+(2)
+ 
+ 
+(ii) State, giving your reasons, whether the following would be capital expenditure or 
+revenue expenditure:
+  Vehicle tax for Vehicle A
+  A new engine for Vehicle A.
+(4)
+ 
+(e) Evaluate Zoe’s choice of the straight line method as a basis for charging depreciation on 
+vehicles. 
+(4)
+(Total 32 marks)
+Answer space for question 7 is on pages 26 to 28 of the question paper.
+
+
+--- Page Break ---
+
+P40265RA 
+14 
+BLANK PAGE
+
+
+--- Page Break ---
+
+P40265RA 
+15
+BLANK PAGE
+
+
+--- Page Break ---
+
+P40265RA 
+16 
+BLANK PAGE

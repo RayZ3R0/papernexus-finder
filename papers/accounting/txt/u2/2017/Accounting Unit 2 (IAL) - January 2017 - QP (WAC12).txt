@@ -1,0 +1,878 @@
+Paper Reference
+Turn over    
+Do not return the insert with the question paper.
+*P48341A*
+P48341A
+©2017 Pearson Education Ltd.
+1/1/1/1/1
+WAC02/01
+Monday 16 January 2017 – Morning
+Source Booklet for use with Questions 1 to 7
+Accounting (Modular Syllabus)
+Unit 2: Corporate and Management Accounting
+Pearson Edexcel 
+International Advanced Level
+Turn over    
+
+
+--- Page Break ---
+
+2
+P48341A
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1 Westdownes Farms Limited owns four dairy farms, producing milk that is sold to a 
+major supermarket. The supermarket sets the price it is prepared to pay in an annual 
+contract. The contract commences on 1 February 2016 and ends on 31 January 2017. 
+The price payable is 28 pence (£0.28) per litre of milk.
+ 
+Information for the four farms for the year ended 31 January 2017:
+Farm
+Berryfields
+Highlands
+Oaks
+Woodgate
+Number of cows
+155
+120
+148
+132
+£
+£
+£
+£
+Direct materials
+176 514
+168 192
+194 472
+173 448
+Direct labour
+108 624
+105 120
+116 683
+115 632
+ 
+Additional information
+ 
+• 
+Each cow produces 8 760 litres of milk per year.
+ 
+Required: 
+ 
+(a) Calculate the quantity of milk, in litres, produced by each of the four farms.
+(4)
+ 
+Fixed costs consist of the following:
+ 
+(1) Farm managers’ salaries: 
+Farm
+Berryfields
+Highlands
+Oaks
+Woodgate
+Manager’s salary 
+£12 000
+£10 000
+£11 000
+£10 000
+ 
+(2) Head office overheads – total £28 000. To be apportioned in the following ratio:
+Farm
+Berryfields
+Highlands
+Oaks
+Woodgate
+Ratio
+ 4
+ 3
+ 4
+3
+ 
+(3) Depreciation – at a rate of 2% on cost of farm buildings:
+Farm
+Berryfields
+Highlands
+Oaks
+Woodgate
+Cost of farm buildings
+£900 000
+£100 000
+£250 000
+£300 000
+
+
+--- Page Break ---
+
+3
+P48341A
+Turn over    
+ 
+Required:
+ 
+(b) Calculate the total fixed costs for each of the four farms.
+(9)
+ 
+(c) Calculate the profit or loss for each of the four farms of Westdownes Farms 
+Limited for the year ended 31 January 2017, rounding your answers to the nearest 
+pound (£) where necessary.
+(15)
+ 
+The supermarket has now informed Westdownes Farms Limited that it will only pay 
+25 pence (£0.25) per litre in the next contract, starting on 1 February 2017 and 
+ending on 31 January 2018.
+ 
+All costs will remain the same for next year.
+ 
+Required: 
+ 
+(d) Calculate the forecast contribution made by each of the four farms, per litre of 
+milk for, the year ended 31 January 2018. 
+(12)
+ 
+(e) Evaluate the future of each of the four farms, using the figures calculated in (d) 
+and any other relevant factors.
+(12)
+(Total for Question 1 = 52 marks)
+Answer space for Question 1 is on pages 2 to 8 of the question paper.
+
+
+--- Page Break ---
+
+4
+P48341A
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2 You are the new Finance Director at Bangla National Brick plc, and you have decided 
+to introduce a standard costing system for production. You must explain how this is 
+to be introduced at a board meeting. 
+ 
+Required:
+ 
+(a) Explain the stages in establishing a standard cost for a unit of production.
+(4)
+ 
+You decide to start by looking at the production of red bricks in the month of 
+December 2016. First, you meet with the Production Manager, who provides some 
+information that he uses as a basis for production for each month. You decide to use 
+this information for the budget for December 2016.
+ 
+Budget for December 2016
+ 
+• 
+production of red bricks 135 000 per month 
+ 
+• 
+each red brick uses 2.8 kilos of clay
+ 
+• 
+cost of clay 2.6 pence (£0.026) per kilo
+ 
+• 
+a team of 3 direct labour workers can produce 75 red bricks per hour
+ 
+• 
+there are 9 teams of 3 direct labour workers
+ 
+• 
+direct labour workers work for 10 hours a day, 5 days a week
+ 
+• 
+there are 4 weeks in a month
+ 
+• 
+direct labour workers are paid £4.90 per hour
+ 
+On 2 January 2017 you meet with the Finance Manager, who provides you with the 
+actual figures for December 2016. 
+ 
+Actual for December 2016
+ 
+• 
+production of red bricks 135 000
+ 
+• 
+cost of clay purchased for production £9 396
+ 
+• 
+there is no opening or closing inventory of clay
+ 
+• 
+actual direct labour cost £28 350
+ 
+On 3 January 2017 you meet with the Purchasing Manager, who informs you that she 
+purchased the clay used in December for 2.4 pence (£0.024) per kilo. 
+ 
+On 4 January 2017 you meet with the Human Resources (HR) Manager, who informs 
+you that he agreed to pay a labour rate of £5.00 per hour for December.
+
+
+--- Page Break ---
+
+5
+P48341A
+Turn over    
+ 
+Required: 
+ 
+(b) Calculate for December 2016 the:
+ 
+ 
+(i) budgeted total quantity of clay to be used
+(2)
+ 
+ 
+(ii) budgeted total cost of clay to be used
+(2)
+ 
+ 
+(iii) actual total quantity of clay used
+(3)
+ 
+ 
+(iv) material price variance
+(4)
+ 
+ 
+(v) material usage variance
+(4)
+ 
+ 
+(vi) total material cost variance.
+(3)
+ 
+(c) Calculate for December 2016 the:
+ 
+ 
+(i) budgeted total labour hours
+(3)
+ 
+ 
+(ii) budgeted total labour cost
+(2)
+ 
+ 
+(iii) actual hours worked
+(2)
+ 
+ 
+(iv) labour rate variance
+(4)
+ 
+ 
+(v) labour efficiency variance
+(4)
+ 
+ 
+(vi) total labour rate variance.
+(3)
+ 
+At the next board meeting, the Chair has asked you to inform the board of the 
+performance of the four managers: Purchasing Manager, Human Resources (HR) 
+Manager, Production Manager, and Finance Manager. The Chair requires your 
+thoughts as to whether each manager should receive their bonus for December 
+2016. The bonus would be awarded if the performance of the individual manager in 
+December was good.
+ 
+(d) Evaluate the performance of each of the four individual managers for the month 
+of December 2016. Your evaluation should include recommendations to the 
+board concerning the awarding of the bonus for each manager for the month of 
+December 2016. 
+(12)
+(Total for Question 2 = 52 marks)
+Answer space for Question 2 is on pages 9 to 15 of the question paper.
+
+
+--- Page Break ---
+
+6
+P48341A
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3 Angel plc produces computer games, but has been making losses in a very 
+competitive market. The directors have looked around to find a larger company to 
+take over Angel plc. 
+ 
+United Games plc agreed to purchase the smaller company, Angel plc, on  
+2 January 2017. The directors of United Games plc agreed to take over all the assets 
+and to settle all the liabilities.  
+ 
+The Statement of Financial Position of Angel plc at 31 December 2016 showed:
+ 
+• 
+all assets £22 600 000
+ 
+• 
+all liabilities £14 800 000
+ 
+• 
+ordinary shares and share premium – £12 500 000, consisting of £0.60 shares 
+issued at a premium of £0.20 per share
+ 
+• 
+retained earnings £4 700 000 debit balance.   
+ 
+Angel plc and United Games plc agreed the following revaluations of some of the 
+assets and liabilities: 
+ 
+• 
+property was increased by 15 % to a current market value of £12 650 000
+ 
+• 
+plant with a value of £500 000 was written down to a value of £380 000
+ 
+• 
+equipment with a book value of £600 000 was written down by £150 000
+ 
+• 
+a tax bill payable of £320 000 was agreed at £280 000
+ 
+Purchase price information
+ 
+• 
+For every one share held in Angel plc, each shareholder received:
+ 
+ 
+– 
+one £0.25 share in United Games plc, at a premium of £0.27
+ 
+ 
+– 
+and £0.11 cash.
+ 
+Required:
+ 
+(a) Calculate the purchase price paid by United Games plc for Angel plc.
+ (8)
+ 
+(b) Calculate the goodwill paid by United Games plc when Angel plc was purchased.
+(9)  
+ 
+(c) Show the Journal entries to close the following accounts in the books of  
+Angel plc, before any revaluations took place. Narratives are not required.
+ 
+ 
+• 
+Property
+ 
+ 
+• 
+Taxation payable
+ 
+ 
+• 
+Ordinary shares of £0.60
+ 
+ 
+• 
+Share premium 
+ 
+ 
+• 
+Retained earnings
+(14)
+ 
+(d) Prepare the Sundry Shareholders Account in the books of Angel plc.
+(7)
+ 
+(e) Explain why holders of a £0.60 share in Angel plc accepted a £0.25 share in  
+United Games plc and £0.11 pence per share.
+(2)
+
+
+--- Page Break ---
+
+7
+P48341A
+Turn over    
+ 
+Angel plc has made losses in the past few years. United Games plc paid goodwill to 
+acquire Angel plc. 
+ 
+(f) Evaluate United Games plc paying goodwill to acquire Angel plc.   
+(12)
+(Total for Question 3 = 52 marks)
+Answer space for Question 3 is on pages 16 to 20 of the question paper.
+
+
+--- Page Break ---
+
+8
+P48341A
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4 You work for a firm of stockbrokers and have been asked to prepare a report on 
+Muscat Technologies plc, who has just released its Annual Report and Financial 
+Statements for the year ended 31 December 2016.
+ 
+Extracts from the Financial Statements are shown below.
+ 
+Non-current liabilities
+ 
+10 year 7% Debenture 2020 
+£50 000 000
+ 
+8% Bank loan 
+£30 000 000
+ 
+Statement of Changes in Equity
+Figures are in 
+£ millions
+Ordinary 
+£1 share  
+capital 
+£m
+Share 
+premium 
+ 
+£m
+Retained 
+earnings 
+ 
+£m
+General 
+reserve 
+ 
+£m
+Foreign 
+exchange 
+reserve 
+£m
+Total 
+equity 
+ 
+£m
+Balance at 
+1 January 2016
+80
+12
+11.8
+4
+9
+116.8
+Comprehensive 
+income for the year
+12
+128.8
+Transfer to general 
+reserve 
+(4)
+4
+128.8
+Interim dividend 
+paid June 2016
+(0.8)
+128
+Final dividend paid 
+December 2016
+(2)
+126
+Balance at  
+31 December 2016
+80
+12
+17
+8
+9
+126
+ 
+Additional information
+ 
+• 
+Corporation tax paid on profits: £3 000 000
+ 
+• 
+Share price at 31 December 2016: £1.40
+
+
+--- Page Break ---
+
+9
+P48341A
+Turn over    
+ 
+Required: 
+ 
+(a) Calculate the following ratios, using the year end balances where relevant:
+ 
+ 
+(i) dividend paid per share
+(3)
+ 
+ 
+(ii) dividend cover
+(3)
+ 
+ 
+(iii) dividend yield
+(3)
+ 
+ 
+(iv) earnings per ordinary share
+(3)
+ 
+ 
+(v) price/earnings ratio
+(3)
+ 
+ 
+(vi) return on capital employed.
+(5)
+ 
+(b) Calculate the gearing ratio, stating the formula used, using the year end balances 
+where relevant. 
+(4)
+ 
+The report you are preparing will be used to give investment advice to clients.
+ 
+(c) Evaluate the performance of Muscat Technologies plc, and make a recommendation 
+to clients advising whether to invest in the company or not.
+(8)
+(Total for Question 4 = 32 marks)
+Answer space for Question 4 is on pages 21 to 24 of the question paper.
+
+
+--- Page Break ---
+
+10
+P48341A
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5 Maria Andreou will commence business selling sandals. The sandals will be produced 
+in a workshop at the back of her shop, by staff who will be paid for each pair of 
+sandals produced. Maria will work in the shop, selling the sandals to customers. 
+ 
+She estimates the following figures for the first year of trading:
+ 
+• 
+material cost £3.25 per pair of sandals 
+ 
+• 
+labour cost £8.50 per pair of sandals
+ 
+• 
+rent of shop premises £310 per month
+ 
+• 
+insurance and accountancy fees £396 per year
+ 
+• 
+other fixed costs £5 a week
+ 
+• 
+selling price per pair of sandals £20
+ 
+• 
+number of pairs of sandals to be produced and sold per year 960
+ 
+• 
+the business will be open for 48 weeks in the year
+ 
+• 
+assume 4 weeks in a month
+ 
+• 
+assume 12 months in a year.
+ 
+You are Maria’s accountant. Maria requires further information before starting 
+the business.
+ 
+Required:
+ 
+(a) Calculate the:
+ 
+ 
+(i) number of pairs of sandals that need to be sold in the year to break-even
+(8)
+ 
+ 
+(ii) number of pairs of sandals that need to be sold per week to break-even
+(2)
+ 
+ 
+(iii) forecast profit for the year.
+(4)
+ 
+The first year of trading was good, and sales were higher than expected. For the 
+second year of trading, Maria has decided to look for larger premises in a better 
+location for sales. 
+ 
+The following information applies to the second year of trading:
+ 
+• 
+number of pairs of sandals to be produced and sold per year 1 500
+ 
+• 
+labour cost per pair of sandals, £8.75
+ 
+• 
+selling price per pair of sandals, £22
+ 
+• 
+target annual profit £8 000
+ 
+• 
+all other costs, except rent, to stay the same.
+ 
+(b) Calculate the maximum amount of rent per month that Maria could pay if she is 
+to reach her target annual profit figure of £8 000.
+(10)
+
+
+--- Page Break ---
+
+11
+P48341A
+Turn over    
+ 
+Maria has informed you that for the second year of trading she is considering making 
+the sandals herself, instead of paying labour to produce the sandals.
+ 
+(c) Evaluate the proposal by Maria to produce the sandals herself.
+(8)
+(Total for Question 5 = 32 marks)
+Answer space for Question 5 is on pages 25 to 28 of the question paper.
+
+
+--- Page Break ---
+
+12
+P48341A
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6 You are the Financial Accountant for Panadura Spice Traders plc.
+ 
+Extracts from the Statements of Financial Position for the last two years are 
+shown below.
+ 
+31 December 2015 
+£
+31 December 2016 
+£
+Non-current assets
+ 
+ 
+Property, plant and equipment
+8 542 000
+5 869 000
+Provision for depreciation
+(3 679 000)
+(3 137 000)
+Property, plant and equipment carrying value
+4 863 000
+2 732 000
+Intangible assets
+2 800 000
+2 600 000
+ 
+7 663 000
+5 332 000
+Current assets
+ 
+ 
+Inventories
+4 387 000
+4 653 000
+Trade receivables
+321 000
+375 000
+Other receivables
+23 000
+17 000
+Cash and cash equivalents
+143 000
+------------
+ 
+4 874 000
+5 045 000
+Total assets
+12 537 000
+10 377 000 
+Current liabilities
+ 
+ 
+Bank overdraft
+-------------
+72 000
+Trade payables
+2 793 000
+3 018 000
+Other payables
+57 000
+51 000
+Current tax payable
+315 000
+217 000
+ 
+3 165 000
+3 358 000
+ 
+
+
+--- Page Break ---
+
+13
+P48341A
+Turn over    
+ 
+Additional information
+ 
+(1) On 3 March 2016 property that cost £2 450 000 with depreciation to date of  
+£645 000 was sold for £1 925 000
+ 
+(2) On 4 September 2016 plant that cost £387 000 with a carrying value of £193 000  
+was sold for £167 000
+ 
+(3) All plant, property and equipment are kept in the Plant, Property and Equipment 
+Account at cost. All sales of non-current assets are recorded in a Disposals of  
+Non-Current Assets Account.
+ 
+(4) On 5 November 2016 equipment was bought for £164 000
+ 
+(5) No intangible assets were bought or sold in 2016.
+ 
+(6) Interest on the bank overdraft was £5 000 for the year.
+ 
+(7) On 1 July 2011 a 10-year debenture for £5 000 000, at a fixed interest rate of 9%, 
+was issued.
+ 
+(8) Profit after interest for the year ended 31 December 2016 was £2 038 000
+ 
+Required:
+ 
+(a) Prepare, for the year ended 31 December 2016, the:
+ 
+ 
+(i) Property, Plant and Equipment Account 
+(4) 
+ 
+ 
+(ii) Cash Flows from Operating Activities section of the Statement of Cash Flows, 
+in accordance with International Accounting Standard (IAS) 7. 
+(20)
+ 
+The Managing Director stated, ‘We had to sell the property we owned, to improve 
+cash flow.’
+ 
+(b) Evaluate whether a company should sell non-current assets to improve cash flow.
+ (8)
+  (Total for Question 6 = 32 marks)
+Answer space for Question 6 is on pages 29 to 31 of the question paper.
+
+
+--- Page Break ---
+
+14
+P48341A
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7 ZimbaPower Electrical Limited buys and sells electrical goods. The company has 
+many stores throughout the country, and is to open its first store in the city of 
+Naniuke on 1 February 2017.  
+ 
+The following information is available concerning purchases for the Naniuke store:
+ 
+• 
+In the period February to July, monthly purchases are expected to be 1 200 units 
+each month.
+ 
+• 
+The average cost of a purchase is £60 per unit.
+ 
+• 
+The credit terms given by suppliers are:
+ 
+ 
+– 
+10% sell only for cash
+ 
+ 
+– 
+60% give one month’s credit
+ 
+ 
+– 
+25% give two months’ credit
+ 
+ 
+– 
+5% give three months’ credit.
+ 
+• 
+Full advantage is taken of credit terms offered by suppliers.
+ 
+You are the Cost Accountant for ZimbaPower Electrical Ltd, and have to prepare the 
+budgets in columnar format.    
+ 
+Required:
+ 
+(a) Prepare for each of the months from February to July for the Naniuke store the: 
+ 
+ 
+(i) purchases budget, in pounds (£)
+(2)
+ 
+ 
+(ii) trade payables budget, showing the amount owed to suppliers at the end of 
+each month.
+(10)
+ 
+The following information is available for forecasted sales at the Naniuke store:
+ 
+• 
+The mark up on all units will be 100%.
+ 
+• 
+All units are to be sold in the same month as purchase.
+ 
+• 
+Sales are made on the following terms:
+ 
+ 
+– 
+80% are for cash
+ 
+ 
+– 
+20% will spread payments equally over a 6-month period, with the first 
+payment due one month after the sale.
+ 
+Required:
+ 
+(b) Prepare for each of the months from February to July the:
+ 
+ 
+(i) sales budget, in pounds (£)
+(2)
+ 
+ 
+(ii) trade receivables budget, showing the amount owed by customers at the end 
+of each month.
+(6)
+
+
+--- Page Break ---
+
+15
+P48341A
+ 
+The company is considering adding interest on to sales on credit. 
+ 
+(c) State:
+ 
+ 
+(i) two advantages of adding interest on to sales on credit
+ 
+ 
+(ii) two disadvantages of adding interest on to sales on credit.
+(4)
+ 
+ZimbaPower Electrical Limited has estimated the figures that will be entered into the 
+budgets for the store at Naniuke.
+ 
+(d) Evaluate the possible accuracy of the estimates ZimbaPower Electrical Limited has 
+entered into the budgets for February to July.
+(8)
+(Total for Question 7 = 32 marks)
+Answer space for Question 7 is on pages 32 to 36 of the question paper.
+
+
+--- Page Break ---
+
+16
+P48341A
+BLANK PAGE

@@ -1,0 +1,200 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Monday 14 January 2002 −  Afternoon 
+Time:  1 hour 30 minutes 
+Materials required for examination
+Items included with question papers 
+Answer Book (AB16)
+Nil 
+Graph Paper (ASG2) 
+Mathematical Formulae (Lilac) 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. Pages 7 and 8 are blank. 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N6993 
+83019/R6677 3/3/3/3/3/36, 100 
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+Edexcel Foundation is a registered charity. ©2001 Edexcel 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1.
+A particle P of mass 0.2 kg moves away from the origin along the positive x-axis.
+It moves under the action of a force directed away from the origin O, of
+magnitude
+1
+5
++
+x
+ N, where OP = x metres. Given that the speed of P is 5 m s−1
+when x = 0, find the value of x, to 3 significant figures, when the speed of P is
+15 m s−1.
+ (8)  
+2.
+One end of a light elastic string, of natural length 2 m and modulus of elasticity
+19.6 N, is attached to a fixed point A. A small ball B of mass 0.5 kg is attached to
+the other end of the string. The ball is released from rest at A and first comes to
+instantaneous rest at the point C, vertically below A.
+(a) Find the distance AC. 
+      (6)     
+(b) Find the instantaneous acceleration of B at C. 
+ (3) 
+N9097 
+2
+PMT
+PMT
+
+
+--- Page Break ---
+
+N9097 
+3
+3. 
+Figure 1 
+C 
+      α 
+  A 
+   B 
+A rod AB, of mass 2m and length 2a, is suspended from a fixed point C by two 
+light strings AC and BC. The rod rests horizontally in equilibrium with AC 
+making an angle α with the rod, where tan α = 4
+3 , and with AC perpendicular to 
+BC, as shown in Fig. 1.  
+(a) Give a reason why the rod cannot be uniform. 
+(1) 
+(b) Show that the tension in BC is 5
+8 mg and find the tension in AC. 
+(5) 
+ 
+The string BC is elastic, with natural length a and modulus of elasticity kmg, 
+where k is constant.  
+(c) Find the value of k.  
+(4) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+Figure 2 
+y 
+   R 
+ 
+O
+r
+x 
+Figure 2 shows the region R bounded by the curve with equation y2 = rx, where r 
+is a positive constant, the x-axis and the line x = r. A uniform solid of revolution 
+S is formed by rotating R through one complete revolution about the x-axis. 
+(a) Show that the distance of the centre of mass of S from O is 3
+2 r. 
+(6) 
+The solid is placed with its plane face on a plane which is inclined at an angle α 
+to the horizontal. The plane is sufficiently rough to prevent S from sliding. Given 
+that S does not topple,   
+(b) find, to the nearest degree, the maximum value of α. 
+(4) 
+5.
+A cyclist is travelling around a circular track which is banked at 25° to the
+horizontal. The coefficient of friction between the cycle’s tyres and the track is
+0.6. The cyclist moves with constant speed in a horizontal circle of radius 40 m,
+without the tyres slipping.
+Find the maximum speed of the cyclist.
+      (10) 
+N9097 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+N9097 
+5
+6.
+The points O, A, B and C lie in a straight line, in that order, where OA = 0.6 m,
+OB = 0.8 m and OC = 1.2 m. A particle P, moving along this straight line, has a
+speed of (
+)
+3
+10
+3
+m s−1 at A, (
+)
+5
+5
+1
+ m s−1 at B and is instantaneously at rest at C.  
+(a) Show that this information is consistent with P performing simple harmonic 
+motion with centre O. 
+(5) 
+Given that P is performing simple harmonic motion with centre O,  
+(b) show that the speed of P at O is 0.6 m s−1, 
+ (2) 
+(c) find the magnitude of the acceleration of P as it passes A,  
+(2) 
+(d) find, to 3 significant figures, the time taken for P to move directly from A 
+to B. 
+(4) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+      Figure 3 
+a 
+        C 
+         θ 
+O
+ • B
+•    
+  A 
+Figure 3 shows a fixed hollow sphere of internal radius a and centre O. A particle 
+P of mass m is projected horizontally from the lowest point A of a sphere with 
+speed √( ag
+2
+7
+). It moves in a vertical circle, centre O, on the smooth inner surface
+of the sphere. The particle passes through the point B, which is in the same 
+horizontal plane as O. It leaves the surface of the sphere at the point C, where OC 
+makes an angle θ  with the upward vertical.  
+ 
+(a) Find, in terms of m and g, the normal reaction between P and the surface of 
+the sphere at B.  
+(4) 
+ 
+(b) Show that θ = 60°.  
+(7) 
+After leaving the surface of the sphere, P meets it again at the point A.  
+(c) Find, in terms of a and g, the time P takes to travel from C to A.  
+(4) 
+END 
+N9097 
+6 
+PMT
+PMT

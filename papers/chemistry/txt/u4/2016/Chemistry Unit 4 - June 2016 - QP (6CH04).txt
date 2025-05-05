@@ -1,0 +1,1367 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P46660RA
+©2016 Pearson Education Ltd.
+3/6/3/5/5/5/e2/
+*P46660RA0128*
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+Tuesday 14 June 2016 – Afternoon
+Time: 1 hour 40 minutes
+6CH04/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P46660RA0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes  
+on this section.  For each question, select one answer from A to D and put a cross in the box 
+.     
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Consider the reaction
+CH3COOC2H5  +  CH3OH  U  CH3COOCH3  +  C2H5OH
+ 
+This is an example of
+ 
+ A acylation.
+ 
+ B hydrolysis.
+ 
+ C substitution.
+ 
+ D transesterification.
+(Total for Question 1 = 1 mark)
+2 When a vegetable oil such as palm oil is hydrolysed, the alcohol produced is
+ 
+ A propan-1-ol
+ 
+ B propane-1,2-diol
+ 
+ C propane-1,3-diol
+ 
+ D propane-1,2,3-triol
+(Total for Question 2 = 1 mark)
+3 Which of the following types of radiation can directly result in bond breaking? 
+ 
+ A Infrared
+ 
+ B Microwave
+ 
+ C Radio wave
+ 
+ D Ultraviolet
+(Total for Question 3 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P46660RA0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 The first steps of two different reaction mechanisms are shown.
+ 
+(a) What do both reaction mechanism steps have in common?
+(1)
+ 
+A They involve addition.
+ 
+B They involve substitution.
+ 
+C As one bond is made, one bond is broken.
+ 
+D The attack is on a planar group.
+ 
+(b) Only one of the first steps above
+(1)
+ 
+A leads to the formation of a racemic mixture.
+ 
+B involves initial attack by a nucleophile.
+ 
+C involves initial attack by an electrophile.
+ 
+D leads to an elimination.
+(Total for Question 4 = 2 marks)
+Use this space for rough working.  Anything you write in this space will gain no credit.
+C
+H
+C
+H
+H
+O
+C
+C
+H
+H
+H
+H
+H
+NC¨ –
+į+
+First 
+Reaction Mechanism
+C
+H
+C
+H
+H
+Br
+C
+H
+H
+H
+HO¨ – H
+Second
+Reaction Mechanism
+įí
+į+
+įí
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P46660RA0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+5 The following molecules are structural isomers with molecular formula C5H10O.
+ 
+(a) Which of the molecules would exhibit optical isomerism?
+(1)
+ 
+ A W
+ 
+ B X
+ 
+ C Y
+ 
+ D Z
+ 
+(b) Which of the molecules would exhibit geometric isomerism?
+(1)
+ 
+ A W
+ 
+ B X
+ 
+ C Y
+ 
+ D Z
+ 
+(c) Which of the molecules would produce iodoform when reacting with iodine in 
+alkaline solution?
+(1)
+ 
+ A W only
+ 
+ B W and X
+ 
+ C W and Y
+ 
+ D W and Z
+C
+O
+C
+C
+C
+H
+H
+H
+H
+H
+C
+H
+H
+H
+H
+H
+C
+O
+C
+C
+C
+H
+H
+H
+H
+H
+C
+H
+H
+H
+H
+H
+C
+H
+C
+CH
+H
+H
+H
+C
+OH
+H
+H
+H
+CH
+CH
+CH
+C
+C
+H
+H
+H
+OH
+H
+C
+H
+H
+H
+W
+X
+Y
+Z
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P46660RA0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Which of the molecules would be oxidized to a carboxylic acid using acidified 
+sodium dichromate(VI)?
+(1)
+ 
+A X only
+ 
+B Z only 
+ 
+C X and Y
+ 
+D X, Y and Z
+ 
+(e) Which of the molecules would form a crystalline product with 
+2,4-dinitrophenylhydrazine?
+(1)
+ 
+A W only
+ 
+B W and X 
+ 
+C W, X and Z
+ 
+D X only
+(Total for Question 5 = 5 marks)
+Use this space for rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P46660RA0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+6 Chromatography is used to separate the components of a mixture and can be carried 
+out in a range of different ways.
+ 
+(a) A suitable example of a ‘carrier gas’ in gas chromatography is
+(1)
+ 
+ A chlorine.
+ 
+ B nitrogen.
+ 
+ C steam.
+ 
+ D not possible to state, as there should be a vacuum.
+ 
+(b) Separation is achieved in gas chromatography due to the components in the 
+mixture having different
+(1)
+ 
+ A interactions with the stationary phase.
+ 
+ B interactions with the mobile phase.
+ 
+ C colours.
+ 
+ D solubility in the moving solvent.
+(Total for Question 6 = 2 marks)
+Use this space for rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P46660RA0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+7 Polyesters are condensation polymers.
+ 
+(a) PET, polyethylene terephthalate, can be produced from the condensation of 
+ethane-1,2-diol and benzene-1,4-dicarboxylic acid.
+ 
+ 
+Which of the following is the repeat unit of this polymer?
+(1)
+ 
+A 
+B
+ 
+C 
+D
+ 
+(b) The repeat unit of the biodegradable polymer PHB, is shown below.
+ 
+ 
+This is made from a single monomer which could be
+(1)
+ 
+ A 2-hydroxybutanoic acid.
+ 
+ B 3-hydroxybutanoic acid.
+ 
+ C 2-hydroxy-2-methylpropanoic acid.
+ 
+ D 3-hydroxy-3-methylpropanoic acid.
+(Total for Question 7 = 2 marks)
+C
+O
+C
+O
+O
+CH2
+ CH2
+O
+O
+C
+O
+O
+CH2
+ CH2
+O
+C
+O
+O
+O
+CH2
+ CH2
+O
+O
+O
+C
+CH2
+CH2
+C
+O
+O
+O
+CH
+CH2
+ C
+CH3
+O
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P46660RA0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+8 The reaction of ammonia with propanoyl chloride, C2H5COCl, forms
+ 
+ A C2H5NH2
+ 
+ B C2H5CONH2
+ 
+ C C2H5CH(OH)NH2
+ 
+ D C2H5CONHC2H5
+(Total for Question 8 = 1 mark)
+9 The dihydrogenphosphate-hydrogenphosphate ion system is an important buffer in 
+the human body.
+H2PO4
+−   +   H2O   U   HPO4
+2−   +   H3O+
+ 
+(a) In this system, there are two acid-base conjugate pairs.  These are
+(1)
+ 
+acid with its conjugate base 
+base with its conjugate acid
+ 
+ A  
+H2PO4
+− / HPO4
+2− 
+H2O / H3O+
+ 
+ B  
+H2O / H3O+ 
+HPO4
+2− / H2PO4
+−
+ 
+ C  
+H3O+ / H2O 
+H2PO4
+− / HPO4
+2−
+ 
+ D  
+H2PO4
+− / HPO4
+2− 
+H3O+ / H2O
+ 
+(b) A formula that can be used for the calculation of the pH of this buffer solution is
+pH =  pKa  +  log
+HPO
+H PO
+4
+2
+2
+4
+−
+−
+⎡⎣
+⎤⎦
+⎡⎣
+⎤⎦
+⎛
+⎝
+⎜
+⎜
+⎞
+⎠
+⎟
+⎟
+ 
+ 
+Calculate the pH of this buffer using
+ 
+pKa = 7.20      [HPO4
+2–] = 3.98 × 10–8 mol dm–3 
+[H2PO4
+–] = 3.89 × 10–7 mol dm–3
+(1)
+ 
+ A 6.19
+ 
+ B 6.21
+ 
+ C 7.20
+ 
+ D 8.19
+(Total for Question 9 = 2 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P46660RA0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 The Ostwald Process is a method for making nitric acid.  The equation for the first stage 
+of this process is
+4NH3(g)   +   5O2(g)   U   4NO(g)  +  6H2O(g)               ǻH = –905 kJ mol−1
+ 
+(a) The equilibrium yield of nitrogen monoxide, NO, is increased by
+ (1)
+ 
+A increasing both the pressure and the temperature.
+ 
+B decreasing both the pressure and the temperature.
+ 
+C decreasing the pressure and increasing the temperature.
+ 
+D increasing the pressure and decreasing the temperature.
+ 
+(b) For this stage of the process, the catalyst is an alloy of platinum and rhodium.  
+A pressure of between 4 and 10 atm and a temperature of 1150 K are used.  
+Unreacted reactants are recycled.
+ 
+ 
+Which one of the following changes will affect the value of the equilibrium 
+constant, Kp?
+ (1)
+ 
+A Changing the composition of the platinum-rhodium catalyst.
+ 
+B Increasing the pressure above 10 atm.
+ 
+C Decreasing the temperature below 1150 K.
+ 
+D Not recycling unreacted reactants.
+(Total for Question 10 = 2 marks)
+Use this space for rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P46660RA01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+11 Iodine is soluble in both water and hexane.  If iodine is added to a mixture of the two 
+solvents, then the following equilibrium is set up.
+I2(aq)   U   I2(hexane)
+ 
+The equilibrium constant, known as the partition coefficient, is 85.
+ 
+The density of hexane is 0.66 g cm−3.  The density of water is 1.00 g cm−3.
+ 
+Which of the following diagrams is correct for this system at equilibrium?
+ 
+A 
+B
+ 
+C 
+D
+(Total for Question 11 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+Water with 
+low iodine 
+concentration
+Water with 
+high iodine 
+concentration
+Water with 
+low iodine 
+concentration
+Water with 
+high iodine 
+concentration
+Hexane with 
+low iodine 
+concentration
+Hexane with 
+high iodine 
+concentration
+Hexane with 
+high iodine 
+concentration
+Hexane with 
+low iodine 
+concentration
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P46660RA01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P46660RA01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+12 Sulfuric acid, H2SO4, is a well known acid containing sulfur.  However, two other 
+sulfur-containing acids are hydrogen sulfide, H2S, and sulfurous acid, H2SO3.
+ 
+(a) Hydrogen sulfide is a weak acid and dissociates in two stages as shown.
+ 
+ 
+Stage 1 
+H2S(aq) + H2O(l)   U   H3O+(aq) + HS−(aq) 
+Ka1 = 8.91 × 10−8 mol dm−3
+ 
+ 
+Stage 2 
+HS–(aq) + H2O(l)   U   H3O+(aq) + S2−(aq) 
+Ka2 = 1.20 × 10−13 mol dm−3
+ 
+ 
+Write the Ka expressions for 
+(2)
+ 
+ 
+Stage 1 
+Ka1 = 
+ 
+ 
+Stage 2 
+Ka2 = 
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P46660RA01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) A solution of hydrogen sulfide has an initial concentration of 0.100 mol dm−3.
+Ka1 = 8.91 × 10−8 mol dm−3
+ 
+ 
+(i) Use Ka1 to calculate the equilibrium concentration, in mol dm−3, of the 
+hydrogensulfide ion, HS−.  Give your answer to three significant figures.  
+(2)
+ 
+ 
+(ii) Use your answer to (b)(i) to calculate the pH of this solution.  
+(1)
+ 
+ *(iii) State the three assumptions you have made in your calculations in (b)(i) and 
+(b)(ii).
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P46660RA01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Sulfurous acid, H2SO3, is also a diprotic acid.  The values of Ka1 and Ka2 can be 
+determined from the results of an acid-base titration.  Diprotic acids require 
+two OH– ions per molecule for complete neutralization.  
+ 
+ 
+Sulfurous acid, H2SO3, is a stronger acid than H2S and a 0.100 mol dm−3 solution 
+has a pH of 1.5.
+ 
+ 
+(i) On the grid below, sketch the likely shape of the titration curve for 
+sulfurous acid, H2SO3, during the neutralization process.
+
+
+
+Ɣ 25 cm3 of sulfurous acid solution with a concentration of 0.100 mol dm−3 is used
+
+
+
+Ɣ 100 cm3 of the sodium hydroxide solution with a concentration of 
+0.100 mol dm−3 is added
+
+
+
+Ɣ pKa1 = 1.9 and pKa2 = 7.2
+ 
+ 
+ 
+Clearly label any equivalence points in the sketch.
+(5)
+ 
+ 
+(ii) Describe how you would use this graph to confirm the value of pKa1.
+(1)
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+(Total for Question 12 = 14 marks)
+Volume of sodium hydroxide added / cm3
+25
+0
+50
+75
+100
+7
+14
+pH
+–
+–
+–
+–
+–
+–
+–
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P46660RA01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P46660RA01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 This is a question about entropy changes.
+ 
+Consider the reaction between the two solids, hydrated barium hydroxide and 
+ammonium chloride.  When these substances are mixed together, a white paste is 
+formed and the temperature decreases.  An equation for this process is given below.
+Ba(OH)2.8H2O(s)  +  2NH4Cl(s)  l  2NH3(g)  +  10H2O(l)  +  BaCl2(s)
+ 
+(a) (i) Identify one hazard associated with a named substance in this reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Use the standard molar entropies below to calculate the standard entropy change 
+of the system (¨S
+9
+system) for this reaction at 298 K.  Give a sign and units with your 
+answer.
+Compound
+S
+9 / J mol−1 K−1
+Ba(OH)2.8H2O(s)
+427
+NH4Cl(s)
+ 95
+NH3(g)
+192
+H2O(l)
+ 70
+BaCl2(s)
+124
+ (3)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P46660RA01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+  
+*(iii) Give two reasons why the sign of your answer to (a)(ii) is as you would expect.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The standard enthalpy change for this reaction is ¨H
+9
+r = +162 kJ mol −1.
+ 
+ 
+Use this value to calculate the standard entropy change of the surroundings  
+(¨S
+9
+surroundings) for this reaction at 298 K.  Include a sign and units in your answer.
+(2)
+ 
+(c) Use your answers to (a)(ii) and (b) to calculate the total entropy change (¨S
+9
+total) for 
+this reaction.  Include a sign and units in your answer.
+(1)
+ 
+(d) What would be the effect, if any, on the value of ¨S
+9
+total from (c) of a small increase 
+in temperature?  Justify your answer and state any assumptions that you have 
+made.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P46660RA01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(e) The values of total entropy change and equilibrium constant of a reaction are 
+related by the following equation.
+¨Stotal = R lnK
+ 
+ 
+The equation for the dissolving of barium hydroxide is
+Ba(OH)2(s)  +  aq  U  Ba2+(aq)  +  2OH−(aq)      ¨S
+9
+total = −44 J mol−1 K−1
+ 
+ 
+(i) Calculate the value of the equilibrium constant, K, for this equation at 298 K.
+ 
+ 
+ 
+R = 8.31 J mol−1 K−1
+(1)
+ 
+ 
+(ii) What does the value of the equilibrium constant suggest about the solubility 
+of barium hydroxide?
+ 
+ 
+ 
+Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) For the dissolving of calcium hydroxide, the value of the total entropy change 
+is –106 J mol −1 K−1
+ 
+ 
+ 
+Compare the values of the total entropy changes for these two hydroxides 
+and show that they are consistent with the trend in the solubility of Group 2 
+hydroxides.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ (Total for Question 13 = 16 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P46660RA01928*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+14 This is a question about how ‘clock reactions’ are used to study reaction kinetics.
+ 
+The ‘bromine clock’ involves a reaction between bromide ions and bromate(V) ions in 
+acid solution:
+5Br
+–(aq)  +  BrO3
+–(aq)  +  6H+(aq)  l  3Br2(aq)  +  3H2O(l)
+ 
+In order to monitor this reaction, phenol and methyl orange are added to the 
+reaction mixture.
+
+Ɣ A small fixed amount of phenol is present which reacts immediately with the 
+bromine as it is produced, thus removing it from solution.
+
+Ɣ Once the bromine produced has reacted with all of the phenol present, then any 
+further bromine produced will bleach the methyl orange solution providing a 
+means to monitor the reaction rate.
+ 
+(a) It is assumed that the initial rate of reaction is proportional to 1/time taken for the 
+methyl orange to be bleached.
+ 
+ 
+Explain why it is essential for the amount of phenol to be small compared to the 
+amounts of the reactants for this assumption to be valid.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) A series of experiments was carried out where only the concentration of 
+bromide ions present was varied and the solution contained a large excess of 
+BrO3
+− and H+ ions.  The total volume of the mixture was kept constant.
+ 
+ 
+(i) Why was it important that the solution contained a large excess of BrO3
+− and 
+H+ ions?
+(1)
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P46660RA02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) The following results were obtained.
+ 
+ 
+ 
+Complete the table and use the results to plot a graph of 1/time on the 
+vertical axis against the volume of bromide ions.
+(4)
+Volume of Br −(aq) / cm3
+10.0
+8.0
+6.0
+5.0
+4.0
+2.0
+Time / s
+180
+226
+300
+364
+444
+900
+(1/time) / 10−3 s−1 
+5.56
+4.42
+3.33
+2.25
+1.11
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P46660RA02128*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Deduce the order of the reaction with respect to bromide ions.
+ 
+ 
+ 
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) The reaction is first order with respect to bromate(V) ions and second order 
+with respect to hydrogen ions.  Write the overall rate equation for the 
+‘bromine clock’ reaction and deduce the units of the rate constant.
+(2)
+Rate equation:
+Units of rate constant  ........................................................................................................................................................................................................................
+ 
+(c) Another ‘clock reaction’ is the ‘iodine clock’ reaction, where hydrogen peroxide solution 
+is mixed with a solution containing sodium thiosulfate, potassium iodide and starch.
+ 
+ 
+The main reaction is
+H2O2(aq)  +  2I−(aq)  +  2H+(aq)  l  I2(aq)  +  2H2O(l)
+
+
+Ɣ The thiosulfate ions present react immediately with the iodine as it is 
+produced, thus removing it from solution.
+
+
+Ɣ Once all of the thiosulfate ions are used up, further iodine produced reacts 
+with the starch present.
+ 
+ 
+(i) Why are the potassium ions omitted from the above equation?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State the observation made after all of the thiosulfate ions are used up and 
+more iodine is produced.
+(1)
+....................................................................................................................................................................................................................................................................................
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P46660RA02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) 'Iodine clock' reactions can be used to determine the activation energy of a 
+reaction using the equation:
+ln rate
+constant
+= −
+×
++
+E
+R
+T
+a
+1
+ 
+ 
+(i) State the experimental measurements you would make to provide the 
+numerical data for the calculation of the activation energy.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Describe how you would use your experimental measurements to obtain a 
+value for the activation energy.  
+ 
+ 
+ 
+You should include
+
+
+
+Ɣ how the data is processed
+
+
+
+Ɣ the graph you would plot and its expected shape
+
+
+
+Ɣ how the activation energy of the reaction can be determined from the 
+graph produced.
+(6)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 14 = 19 marks)
+TOTAL FOR SECTION B = 49 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P46660RA02328*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+15 Salicylic acid is the active ingredient in one method of treatment of verrucas, warts 
+and acne.  The structure of salicylic acid is shown below.
+ 
+A laboratory method of preparing salicylic acid is the hydrolysis of the ester,  
+methyl salicylate, which is present in Oil of Wintergreen.  A sample of the ester is 
+initially refluxed with sodium hydroxide and salicylic acid is then precipitated by 
+adding a strong acid.
+ 
+(a) (i) Complete the equation for the alkaline hydrolysis of the ester group in 
+methyl salicylate, using sodium hydroxide.
+(1)
+ 
++    NaOH    l
++
+ 
+ 
+(ii) The salicylic acid is precipitated out of solution by the addition of 
+dilute sulfuric acid until it is in excess.
+ 
+ 
+ 
+How could you tell that the sulfuric acid is in excess?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Salicylic acid is sparingly soluble in water.  Explain this observation in terms of 
+intermolecular forces.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Turn over    
+OH
+.................................
+.................................
+O
+O
+OH
+OH
+O
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P46660RA02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) State three ways in which the acid hydrolysis of an ester differs from the alkaline 
+hydrolysis of an ester.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+25
+*P46660RA02528*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Salicylic acid can undergo various reactions as outlined below.  
+ 
+ 
+(i) Give the formula of the reagents A and B and the skeletal formula of the 
+product C.
+(3)
+ 
+ 
+(ii) Both compound D and salicylic acid react with ethanol.  State two differences 
+between these reactions.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+OH
+OH
+OH
+OH
+A .............................................
+B .............................................
+C2H5OH
+C
+D
+OH
+O
+Cl
+O
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+26
+*P46660RA02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+*(e) Use chemical shift data from the Data Booklet to sketch the high resolution 
+proton nmr spectrum for ethanol.  The peaks do not overlap.
+ 
+ 
+Explain the number of peaks, their splitting pattern and the ratio of the areas 
+under each set of peaks.
+(5)
+ 
+10 
+9 
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+0
+Chemical shift, į / ppm
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+27
+*P46660RA02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+  
+(f) Tetramethylsilane, Si(CH3)4, is used as a reference standard in nmr spectra.
+ 
+ 
+Suggest why it gives a very strong signal in the spectrum.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(g) State the type of radiation that is used to create the nmr spectrum.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(h) Use the Data Booklet to state two differences between the infrared spectra of 
+salicylic acid and compound D.  Include the wave numbers of the relevant groups 
+or bonds.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(Total for Question 15 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+28
+*P46660RA02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

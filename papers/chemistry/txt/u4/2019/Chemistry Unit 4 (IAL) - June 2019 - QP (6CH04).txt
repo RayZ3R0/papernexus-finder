@@ -1,0 +1,1228 @@
+Candidate surname
+Other names
+Total Marks
+Centre Number
+Candidate Number
+Please check the examination details below before entering your candidate information
+*P56131A0128*
+P56131A
+©2019 Pearson Education Ltd.
+2/1/1/1/1/
+Turn over    
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90.
+• The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed  
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Show all your working in calculations and give units where appropriate.
+• Check your answers if you have time at the end.
+Candidates must have:  Scientific calculator 
+Data Booklet
+Paper Reference WCH04/01
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates,  
+Equilibria and Further Organic Chemistry  
+(including synoptic assessment)
+Afternoon (Time: 1 hour 40 minutes)
+Tuesday 4 June 2019
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P56131A0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 The rate equation for the reaction of a bromoalkane, RBr, with hydroxide ions is
+rate = k[RBr]
+ 
+The bromoalkane that is hydrolysed according to this rate equation is most likely to be
+ 
+ 
+A 1-bromohexane.
+ 
+ 
+B 1-bromo-2-methylpentane.
+ 
+ 
+C 2-bromo-2-methylpentane.
+ 
+ 
+D 2-bromo-3-methylpentane.
+(Total for Question 1 = 1 mark)
+2 Which method is most suitable for comparing the rate of hydrolysis of a primary iodoalkane 
+and a tertiary iodoalkane in aqueous silver nitrate?
+ 
+ 
+A Measuring the increase in pH.
+ 
+ 
+B Measuring the change in mass.
+ 
+ 
+C Measuring the time to form a precipitate.
+ 
+ 
+D Taking samples followed by titrating with sodium thiosulfate.
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P56131A0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 The chemical equation and the rate equation for the reaction of iodine with excess propanone 
+in the presence of an acid catalyst are shown. 
+I2 + CH3COCH3 o CH3COCH2I + HI
+rate = k[CH3COCH3][H
++]
+ 
+Which of the following sketch graphs is correct for this reaction?
+ 
+ 
+A rate
+[I2]
+ 
+ 
+B rate
+[I2]
+ 
+ 
+C 
+[I2]
+time
+ 
+ 
+D 
+[I2]
+time
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P56131A0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 The Arrhenius equation is
+ln k = −E
+R
+a  × 1
+T  + constant
+ 
+The activation energy, E a , is determined from the gradient of the graph shown.
+x axis
+y axis
+gradient = −E
+R
+a
+ 
+The axes on the graph are
+x axis
+y axis
+A
+ln k
+1
+T
+B
+ln k
+−1
+T
+C
+1
+T
+ln k
+D
+−1
+T
+ln k
+(Total for Question 4 = 1 mark)
+5 What are the signs of the entropy changes at 273 K when water freezes?
+H2O(l) o H2O(s)
+ǻSsystem 
+ǻSsurroundings
+A
+negative
+positive
+B
+positive
+negative
+C
+negative
+negative
+D
+positive
+positive
+(Total for Question 5 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P56131A0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+6 Which are the Brønsted-Lowry acids in the following equilibrium?
+CH3COOH + C2H5COOH U CH3COO
+− + C2H5COOH2
++
+ 
+ 
+A CH3COOH and C2H5COOH
+ 
+ 
+B CH3COOH and C2H5COOH2
++
+ 
+ 
+C C2H5COOH and CH3COO
+−
+ 
+ 
+D CH3COO
+− and C2H5COOH2
++
+(Total for Question 6 = 1 mark)
+7 In a titration of hydrochloric acid with aqueous ammonia, which indicator would be 
+most suitable to detect the end-point? 
+ 
+Refer to your Data Booklet.
+ 
+ 
+A Azolitmin (litmus)
+ 
+ 
+B Bromocresol purple
+ 
+ 
+C Phenolphthalein
+ 
+ 
+D Alizarin yellow R
+(Total for Question 7 = 1 mark)
+8 A solution of hydrochloric acid has pH = 2. 
+ 
+The solution is diluted to one tenth of its original concentration. 
+ 
+What is the pH of the diluted solution?
+ 
+ 
+A 0.70
+ 
+ 
+B 1.0
+ 
+ 
+C 2.7
+ 
+ 
+D 3.0
+(Total for Question 8 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P56131A0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+9 Equal amounts of three compounds were placed in separate beakers and the same 
+volume of water was added to each. 
+ 
+Compound 1 CH3COOH
+ 
+Compound 2 CH3COCl
+ 
+Compound 3 CH3COONa
+ 
+Which shows the order of increasing pH in the mixtures?
+ 
+ 
+A CH3COOH  CH3COCl  CH3COONa
+ 
+ 
+B CH3COCl  CH3COOH  CH3COONa
+ 
+ 
+C CH3COONa  CH3COOH  CH3COCl
+ 
+ 
+D CH3COCl  CH3COONa  CH3COOH
+(Total for Question 9 = 1 mark)
+10 What are the units of Kc for the following equilibrium?
+Cu(s) + 2Ag
++(aq) U Cu
+2+(aq) + 2Ag(s)
+ 
+ 
+A mol dm
+−3
+ 
+ 
+B dm
+3 mol
+−1
+ 
+ 
+C mol
+2 dm
+−6
+ 
+ 
+D no units
+(Total for Question 10 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+*P56131A0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+11 The graph shows the percentage yield of a product in a gaseous equilibrium under 
+different conditions.
+550 °C
+450 °C
+350 °C
+400
+300
+200
+100
+0
+pressure / atm
+% yield of  
+product at  
+equilibrium
+80
+70
+60
+50
+40
+30
+20
+10
+0
+ 
+The forward reaction in the equilibrium is
+ 
+ 
+A exothermic with the number of moles of gas decreasing.
+ 
+ 
+B exothermic with the number of moles of gas increasing.
+ 
+ 
+C endothermic with the number of moles of gas decreasing.
+ 
+ 
+D endothermic with the number of moles of gas increasing.
+(Total for Question 11 = 1 mark)
+12 Which is the correct expression for R ln K ?
+ 
+ 
+A R ln K = ǻSsystem − ǻH/T
+ 
+ 
+B R ln K = ǻSsystem + ǻH/T
+ 
+ 
+C R ln K = ǻSsystem − TǻH
+ 
+ 
+D R ln K = ǻSsystem + TǻH
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+*P56131A0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 Which compound is most soluble in water? 
+ 
+ 
+A C4H9Cl
+ 
+ 
+B C4H9Br
+ 
+ 
+C C3H7COOH
+ 
+ 
+D CH3COOC2H5
+(Total for Question 13 = 1 mark)
+14 Which compound reacts with phosphorus(V) chloride to form ethanoyl chloride? 
+ 
+ 
+A CH3CHO
+ 
+ 
+B CH3CH2OH
+ 
+ 
+C CH3COCH3
+ 
+ 
+D CH3COOH
+(Total for Question 14 = 1 mark)
+15 Which two compounds react together to make the compound shown? 
+N
+O
+ 
+ 
+A Ethanoyl chloride and ethylamine
+ 
+ 
+B Ethanoyl chloride and propylamine
+ 
+ 
+C Propanoyl chloride and ethylamine
+ 
+ 
+D Propanoyl chloride and propylamine
+(Total for Question 15 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+9
+*P56131A0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+16 The repeat unit of a polymer is shown.
+O
+C
+(CH2)2
+O
+C
+O
+(CH2)2
+O
+ 
+Which monomers react to make this polymer?
+ 
+ 
+A HOOC(CH2)2COOH and Cl(CH2)2Cl
+ 
+ 
+B ClOC(CH2)2COCl and HO(CH2)2OH
+ 
+ 
+C ClOC(CH2)2COCl and HOOC(CH2)2COOH
+ 
+ 
+D HOOC(CH2)2COOCH3 and ClOC(CH2)2COCl
+(Total for Question 16 = 1 mark)
+17 The retention time in gas chromatography is the time it takes for a compound to pass 
+through the chromatography column.
+ 
+A column is packed with a stationary phase that is polar. 
+ 
+Which of the following will have the longest retention time in the column?
+ 
+ 
+A hexane
+ 
+ 
+B hex-1-ene
+ 
+ 
+C pentane
+ 
+ 
+D pentan-1-ol
+(Total for Question 17 = 1 mark)
+18 A compound has the structure
+C
+C
+CH3(CH2)4CH2
+CH2(CH2)6CH2OH
+H
+H
+ 
+The systematic name of the compound is 
+ 
+ 
+A E-hexadec-7-en-1-ol
+ 
+ 
+B Z-hexadec-7-en-1-ol
+ 
+ 
+C E-hexadec-9-en-1-ol
+ 
+ 
+D Z-hexadec-9-en-1-ol 
+(Total for Question 18 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+10
+*P56131A01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+19 Fats, such as the one shown, can be converted into fuels for biodiesel by transesterification.
+CH2OOCC17H33
+CHOOCC17H33
+CH2OOCC17H33
+ 
+Which compound is used as a fuel, following the transesterification of this fat with methanol? 
+ 
+ 
+A C17H33COOCH3
+ 
+ 
+B C17H33COOH
+ 
+ 
+C CH2OOCCH3
+CHOOCCH3
+CH2OOCCH3
+ 
+ 
+D CH2OH
+CHOH
+CH2OH
+(Total for Question 19 = 1 mark)
+20 The type of radiation used in nmr spectroscopy is 
+ 
+ 
+A infrared.
+ 
+ 
+B microwave.
+ 
+ 
+C radio waves.
+ 
+ 
+D ultraviolet.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+11
+*P56131A01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P56131A01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 When nitrogen(II) oxide, NO, reacts with hydrogen at high temperatures, the products 
+are nitrogen and water.
+ 
+(a) Write an equation for this reaction.  State symbols are not required.
+(1)
+ 
+(b) The table shows the results of a series of experiments to measure the rate of this reaction.
+Experiment 
+number
+Initial concentration / mol dm
+−3
+Initial rate / mol dm
+−3 s
+−1
+[NO(g)]
+[H2(g)]
+1
+0.0020
+0.020
+5.5 × 10
+−3
+2
+0.0040
+0.040
+4.4 × 10
+−2
+3
+0.0080
+0.020
+8.8 × 10
+−2
+ 
+ 
+(i) Deduce the order of reaction with respect to nitrogen(II) oxide and to hydrogen. 
+ 
+ 
+ 
+Justify your answers by referring to data from the table.
+(3)
+Order with respect to NO .............................................................................................
+Order with respect to H2 .............................................................................................
+Justification  ..................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P56131A01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Write the rate equation for the reaction.
+(1)
+ 
+ 
+(iii) Calculate the value of the rate constant and give its units.
+(2)
+ 
+(c) There is more than one step in the reaction mechanism.
+ 
+ 
+(i) Suggest why the reaction is unlikely to take place in a single step.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The first step of a three-step reaction mechanism is shown.
+2NO(g) o N2O2(g)
+ 
+ 
+ 
+The second step of the mechanism is the rate determining step.
+ 
+ 
+ 
+Suggest an equation for the rate determining step.
+ 
+ 
+ 
+Justify your suggestion.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P56131A01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+22 Propanoic acid is a weak acid with Ka = 1.30 × 10
+−5 mol dm
+−3.
+ 
+(a) (i) Write the expression for the acid dissociation constant, Ka , of propanoic acid.
+(1)
+ 
+ 
+(ii) Calculate the pH of a solution of propanoic acid with a concentration of 
+0.120 mol dm
+−3.
+(3)
+ 
+(b) 25.00 cm
+3 of propanoic acid, with a concentration of 0.120 mol dm
+−3, was pipetted 
+into a conical flask.
+ 
+ 
+This solution was titrated with sodium hydroxide of concentration 0.150 mol dm
+−3. 
+CH3CH2COOH + NaOH o CH3CH2COONa + H2O
+ 
+ 
+(i) Use the value of Ka to calculate the pH of the mixture in the flask when 
+enough sodium hydroxide has been added to react with half of the acid.
+(2)
+PMT
+
+
+--- Page Break ---
+
+15
+*P56131A01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(ii) In the region where the acid is half neutralised, the pH of the titration mixture 
+changes more gradually than it does when the end-point is approached.
+ 
+ 
+ 
+Explain the reason for this gradual change in pH.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Calculate the minimum volume of sodium hydroxide required to react with 
+all of the propanoic acid.
+(2)
+ 
+ 
+(iv) Calculate the pH when 40 cm
+3 of sodium hydroxide (an excess) was added.
+(3)
+PMT
+
+
+--- Page Break ---
+
+16
+*P56131A01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) In another titration, a solution of aqueous ammonia with a concentration of 
+0.120 mol dm
+−3 was added to 25.00 cm
+3 propanoic acid with a concentration of 
+0.120 mol dm
+−3.
+ 
+ 
+(i) Sketch the shape of the titration curve on the grid.
+(2)
+14
+10.5
+7
+3.5
+0
+40
+30
+20
+10
+volume of ammonia / cm
+3
+pH
+ 
+ 
+(ii) Explain why an indicator cannot be used to determine the end-point of this reaction.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*P56131A01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+18
+*P56131A01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+23 This question is about some reactions involving ethanal, CH3CHO.
+Reaction A
+CH3CHO
+Product C
+HCN + KCN
+Reaction C
+CH3CH2OH
+I2 + NaOH
+Reaction B
+Two organic 
+products
+ 
+(a) Ethanal is a carbonyl compound. 
+ 
+ 
+Describe the test for a carbonyl compound and give the result.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+(b) Identify, by name or formula, the reagent needed to carry out Reaction A.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) Identify the two organic products of Reaction B.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State what you would see when Reaction B is carried out.
+(1)
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P56131A01928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) (i) Name the reaction type and mechanism that occurs in Reaction C.
+(1)
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the mechanism for Reaction C. 
+ 
+ 
+ 
+Include curly arrows, and all the relevant dipoles and lone pairs.
+(4)
+ 
+ 
+(iii) The organic product of Reaction C is a racemic mixture. 
+ 
+ 
+ 
+State the meaning of ‘racemic mixture’.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+ *(iv) By referring to the mechanism of Reaction C, explain why a racemic mixture 
+forms in this reaction.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+20
+*P56131A02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+24 This question is about compounds of iodine.
+ 
+(a) Potassium iodate(V) can be decomposed by heating.
+KIO3(s) o KI(s) + 1½O2(g)
+ 
+ 
+(i) Use data from your Data Booklet to calculate the enthalpy change for this reaction.
+(2)
+ 
+ 
+(ii) Calculate the standard entropy change of the system, ǻSsystem .
+ 
+ 
+ 
+[The standard molar entropy of ½O2(g) is 102.5 J mol
+−1 K
+−1]
+(2)
+PMT
+
+
+--- Page Break ---
+
+21
+*P56131A02128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Use your answers to (a)(i) and (a)(ii) to calculate the minimum temperature for 
+this reaction to be spontaneous. 
+ 
+ 
+ 
+Show your working clearly.
+(2)
+ 
+ 
+(iv) Explain why some reactions which are thermodynamically favourable do not 
+occur spontaneously.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*P56131A02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Some data about potassium iodide and its ions are shown.
+ 
+ 
+Enthalpy change of solution of KI = +20.3 kJ mol
+−1
+Ion
+Enthalpy change of hydration / kJ mol
+−1
+K
++(g)
+−320
+I
+−(g)
+–308
+ 
+ 
+(i) Use these data to calculate the lattice energy of potassium iodide.
+(2)
+ 
+ 
+ 
+ *(ii) Explain why the lattice energy of sodium iodide is more exothermic than that 
+of potassium iodide.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 24 = 11 marks)
+TOTAL FOR SECTION B = 52 MARKS
+PMT
+
+
+--- Page Break ---
+
+23
+*P56131A02328*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+SECTION C
+Answer ALL the questions. Write your answers in the spaces provided.
+25 This question is about the chemistry of methanol.
+ 
+(a) Methanol can be synthesised by the reaction of carbon monoxide with hydrogen. 
+CO(g) + 2H2(g) U CH3OH(g)
+ 
+ 
+A mixture of 18.5 mol of carbon monoxide and 13.5 mol of hydrogen was allowed 
+to reach equilibrium at 550 K and 60 atm pressure.  
+ 
+ 
+At equilibrium the mixture contained 5.5 mol of methanol.
+ 
+ 
+(i) Write the expression for the equilibrium constant in terms of pressure, Kp , for 
+this reaction.
+(1)
+ 
+ 
+(ii) Calculate the number of mol of carbon monoxide and hydrogen remaining 
+at equilibrium.
+ 
+ 
+ 
+Hence calculate the value of Kp at 550 K.
+ 
+ 
+ 
+Give your answer to three significant figures and include the units.
+(5)
+PMT
+
+
+--- Page Break ---
+
+24
+*P56131A02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) The value of Kp is greater when the reaction is carried out at a lower temperature.
+ 
+ 
+ 
+Use this information to deduce the sign of ǻSsurroundings for the forward reaction.
+ 
+ 
+ 
+Give your reasoning.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+(b) An organic compound, P, has the molecular formula C5H8O3 .
+ 
+ 
+A molecule of P has a carbon chain that is not branched, and contains 
+two different functional groups.
+ 
+ 
+(i) P reacts with sodium carbonate solution, forming bubbles of a colourless gas.  
+There is no colour change when P is warmed with a mixture of 
+potassium dichromate(VI) and sulfuric acid. 
+ 
+ 
+ 
+Use all the information provided to identify, by name or formulae, the 
+two functional groups present in P.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The mass spectrum of P has a strong peak at m / e = 43.
+ 
+ 
+ 
+Suggest the structural formula of the fragment causing this peak.
+(1)
+PMT
+
+
+--- Page Break ---
+
+25
+*P56131A02528*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(iii) When P is heated with methanol, in the presence of dilute sulfuric acid, a 
+pleasant smelling compound, Q, is formed.
+ 
+ 
+ 
+The high resolution proton nmr spectrum of Q is shown. 
+ 
+ 
+ 
+The numbers show the relative areas of the peaks. 
+4.4
+4.0
+3.6
+3.2
+2.8
+2.4
+2.0
+1.6
+2
+2
+3
+3
+į / ppm
+ 
+ 
+ 
+Draw the structure of Q.  Justify your answer by considering the relative areas 
+of the four peaks, and their splitting patterns.
+(4)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+26
+*P56131A02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) Write an equation using structural formulae to show the reaction of P with 
+methanol in the presence of dilute sulfuric acid to form Q.
+(2)
+ 
+ 
+(v) The reaction of P with methanol does not give a 100% yield of Q because of 
+the equilibrium position which is reached. 
+ 
+ 
+ 
+Suggest the formula of a compound which would react with methanol to 
+form Q in a reaction which is not reversible.
+(1)
+(Total for Question 25 = 18 marks)
+TOTAL FOR SECTION C = 18 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+27
+*P56131A02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*P56131A02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT

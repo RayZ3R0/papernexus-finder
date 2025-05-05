@@ -1,0 +1,862 @@
+Turn over    
+*P75883A*
+P75883A
+©2024 Pearson Education Ltd.
+F:1/1/1/1/1
+
+
+Pearson Edexcel International Advanced Level
+Friday 24 May 2024
+Afternoon (Time: 3 hours)
+WAC12/01
+Paper
+reference 
+Accounting
+International Advanced Level
+PAPER 2: Corporate and Management Accounting
+Source Booklet
+Do not return this Booklet with the question paper.
+
+
+--- Page Break ---
+
+2
+P75883A
+ 
+ 
+SECTION A
+Answer BOTH questions in this section.
+1	 PH plc is to start producing acid at its chemical factory on 1 July 2024.
+	
+The following information is available for the production of acid at the chemical 
+factory for the period 1 July to 30 September 2024.
+•	
+To produce the acid requires two chemicals (X and Y) and water.
+•	
+The acid is produced using the three inputs X, Y and water, in the ratio 1 : 2 : 7
+•	
+The costs of the inputs are:
+	–
+Chemical X is £4.76 per litre for the three months
+	–
+Chemical Y is £2.75 per litre but rising by 4% on 1 September
+	–
+Water is £1.05 per litre but rising by 5% on 1 August
+	–
+The cost of water for September will be the same as August.
+•	
+The credit terms given by the three suppliers are:
+	–
+Xerxes plc sells only for cash and supplies Chemical X
+	–
+Yolanda plc gives one month’s credit and supplies Chemical Y
+	–
+Zephyr Water plc gives two months’ credit and supplies the water required.
+•	
+Full advantage is taken of credit terms offered by suppliers.
+•	
+PH plc has budgeted to produce 44 000 litres of acid per month.
+	
+You are the Cost Accountant for PH plc and have to prepare budgets.
+	
+Required
+	
+(a)	 Prepare the following budgets for each of the three months from July to 
+September 2024 for PH plc.
+	
+	
+(i)	 Purchases budget, in litres.
+(3)
+	
+	
+(ii)	 Purchases budget, in pounds (£).
+(6)
+	
+(b)	 Prepare the Trade Payables budget, in pounds (£), showing the amount owed to 
+suppliers at the end of each of the three months July to September 2024.
+(4)
+
+
+--- Page Break ---
+
+ 
+ 
+3
+Turn over     
+P75883A
+	
+	 Acid sells for £19.50 per litre.
+	
+	 PH plc only has four customers that have a contract to receive a fixed amount of 
+acid each month.
+	
+	 The following sales information is available.
+Sales per month 
+– litres 
+Credit terms for 
+payment
+Credit limit
+Alpha plc
+10 000
+1 month
+£200 000
+Beta plc
+12 000
+1 month
+£200 000
+Gamma plc
+  9 000
+2 months
+£200 000
+Delta plc
+11 000
+2 months
+£200 000
+	
+Required
+	
+(c)	 Prepare the Sales budget, in litres, showing the amount sold for each of the three 
+months July to September 2024.
+(2)
+	
+(d)	 Prepare the Inventory budget, in litres, for each of the three months July to 
+September 2024.
+(4)
+	
+(e)	 Prepare the Trade Receivables budget, in pounds (£), showing the amount owed 
+by customers at the end of each of the three months July to September 2024.
+(10)
+	
+(f)	 Prepare an extract from the Cash budget showing the amounts received from 
+customers for each of the three months July to September 2024.
+(14)
+	
+(g)	 Evaluate the role of budgeting as a management tool for planning, forecasting 
+and control.
+(12)
+(Total for Question 1 = 55 marks)
+
+
+--- Page Break ---
+
+4
+P75883A
+ 
+ 
+2	 Gallanna Homes plc had the following balances at the start of the financial year on 
+1 April 2023.
+£ 000
+Share Capital (Ordinary Shares of £1 each)
+65 000
+Share Premium
+13 000
+	
+To expand the business, the directors decided to issue additional ordinary shares to 
+existing shareholders.
+	
+During the year ended 31 March 2024, the following took place.
+•	
+On 7 April 2023 the company offered 12 000 000 ordinary shares at a price of 
+£1.20 on the following terms:
+	–
+10 pence (£0.10) on application
+	–
+40 pence (£0.40) on allotment (including the 20 pence (£0.20) premium)
+	–
+30 pence (£0.30) first call
+	–
+25 pence (£0.25) second call
+	–
+15 pence (£0.15) third and final call.
+•	
+On 3 May 2023 applications for 13 560 000 shares had been received. The 
+directors rejected applications for 1 560 000 shares and allotted the shares to the 
+successful applicants.
+•	
+On 24 July 2023 monies were returned to the unsuccessful applicants.
+•	
+On 31 August 2023 the balances due on allotment were fully received.
+•	
+On 18 November 2023 the first call was made and the amounts were fully 
+received.
+•	
+On 31 January 2024 the second call was made and the amounts were fully 
+received.
+•	
+On 15 March 2024 the third and final call was made and the amounts were fully 
+received.
+
+
+--- Page Break ---
+
+ 
+ 
+5
+Turn over     
+P75883A
+	
+Required
+	
+(a)	 Prepare the following ledger accounts to record the transactions for the financial 
+year ended 31 March 2024.
+	
+	
+(i)	 Ordinary share capital.
+(7)
+	
+	
+(ii)	 Share premium.
+(3)
+	
+	
+(iii)	 Application and allotment.
+(6)
+	
+	
+(iv)	 First call.
+(3)
+	
+	
+(v)	 Second call.
+(2)
+	
+	
+(vi)	 Third and final call.
+(3)
+	
+	 (vii)	 Bank account (showing extracts relevant to the share issue only).
+(6)
+	
+You should show the following where relevant:
+•	
+dates
+•	
+opening balances at the start of the financial year at 1 April 2023
+•	
+closure of any relevant accounts during the financial year ended 31 March 2024
+•	
+closing balances at the end of the financial year at 31 March 2024
+•	
+opening balances at the start of the financial year at 1 April 2024.
+	
+(b)	 State if the issue of the shares was a bonus issue or a rights issue of shares.
+(1)
+	
+(c)	 Explain two differences between a bonus issue of shares and a rights issue of 
+shares.
+(4)
+	
+(d)	 Explain one example of how an issue of bonus shares has the same effect as a 
+rights issue of shares.
+(2)
+
+
+--- Page Break ---
+
+6
+P75883A
+ 
+ 
+	
+On 1 April 2023, before the issue of the shares, the following information applied. 
+The:
+•	
+gearing ratio of Gallanna Homes was 22%
+•	
+total figure for equity, reserves and non-current liabilities was £200 000 000
+	
+Required
+	
+(e)	 Calculate the gearing ratio of Gallanna Homes plc after the issue of the shares.
+(6)
+	
+Gallanna Homes plc had also considered the issue of a debenture to raise the funds 
+required.
+	
+(f)	 Evaluate the decision of Gallanna Homes plc to issue ordinary shares instead of a 
+debenture.
+(12)
+(Total for Question 2 = 55 marks)
+TOTAL FOR SECTION A = 110 MARKS
+
+
+--- Page Break ---
+
+ 
+ 
+7
+Turn over     
+P75883A
+BLANK PAGE
+
+
+--- Page Break ---
+
+8
+P75883A
+ 
+ 
+SECTION B
+Answer THREE questions from this section.
+3	 Below and on the following page is the Statement of Profit or Loss and Other 
+Comprehensive Income and notes to the accounts of Cirium Manufacturing plc 
+for the year ended 31 March 2024. The Statement of Profit or Loss and Other 
+Comprehensive Income has been prepared in accordance with International 
+Accounting Standard (IAS) 1.
+	
+The statement is to be presented at the Annual General Meeting of shareholders, who 
+have been asked to submit any questions they may have, before the meeting.
+Statement of Profit or Loss and Other Comprehensive Income 
+for Cirium Manufacturing plc for the year ended 31 March 2024
+£
+Revenue
+946 953
+Cost of sales
+(326 817)
+Gross profit
+620 136
+Other income
+4 800
+Distribution costs
+(238 790)
+Administrative expenses
+(97 216)
+Financial cost
+(19 930)
+Profit on ordinary activities before tax
+269 000
+Corporation tax
+(45 600)
+Profit on ordinary activities after tax
+223 400
+Cost of sales
+£
+Opening inventory
+2 011
+Direct materials
+128 400
+Less discount received
+(3 210)
+Factory rent
+23 600
+Machinery depreciation
+19 200
+Factory power
+12 416
+Machinery maintenance
+15 176
+Production staff wages
+132 308
+
+
+--- Page Break ---
+
+ 
+ 
+9
+Turn over     
+P75883A
+Less closing inventory
+(3 084)
+326 817
+Distribution costs
+Fuel
+14 226
+Motor lorries depreciation
+22 000
+Promotions and advertising
+28 000
+Warehouse rent
+118 310
+Motor lorries expenses
+11 178
+Transport staff wages
+45 076
+238 790
+Administrative expenses
+Audit fees
+3 664
+Bad debts written off
+3 080
+Increase in allowance for irrecoverable debts
+2 400
+Discount allowed
+18 833
+Office expenses
+1 263
+Office staff wages
+57 912
+Insurance
+10 064
+97 216
+Financial costs
+Interest on bank loan
+14 500
+Overdraft interest
+5 430
+19 930
+
+
+--- Page Break ---
+
+10
+P75883A
+ 
+ 
+	
+Required
+	
+A shareholder asks at a meeting, ‘Does the company own all of the non-current assets 
+that we use in the business?’
+	
+(a)	 (i)	 State two non-current assets that the company uses but does not own.
+(2)
+	
+	
+(ii)	 State two reasons that may explain the difference between the value of 
+opening inventory and the value of closing inventory.
+(2)
+	
+	
+(iii)	 State two items that could be included under the heading of Other income.
+(2)
+	
+	
+(iv)	 Calculate the percentage of discount received on purchases of direct 
+materials.
+(2)
+	
+	
+(v)	 State two reasons that may explain why the allowance for irrecoverable debts 
+has increased.
+(2)
+	
+The first £29 000 of profit is not liable for corporation tax.
+	
+	
+(vi)	 Calculate the percentage rate of corporation tax that is paid on profits over 
+£29 000
+(3)
+	
+	 (vii)	 Explain the term ‘audit fees’.
+(3)
+
+
+--- Page Break ---
+
+ 
+ 
+11
+Turn over     
+P75883A
+	
+You have also been asked to complete some book-keeping.
+	
+The following information is available.
+•	
+Two years ago the company was formed, on 1 April 2022
+•	
+On 1 April 2022 four motor lorries were purchased for £30 000 each.
+•	
+All motor lorries were expected to last for five years before being sold for £2 500 
+each.
+•	
+Each motor lorry is depreciated using the straight-line method of depreciation.
+•	
+On 31 March 2024 one motor lorry was sold for £19 500, payment being made by 
+cheque.
+•	
+It is company policy to charge a full year’s depreciation on any motor lorries sold 
+during the year.
+	
+Required
+	
+(b)	 Complete the entries in the following accounts in the Question Paper for the 
+financial year 1 April 2023 to 31 March 2024
+	
+	
+(i)	 Motor Lorries Provision for Depreciation Account.
+(4)
+	
+	
+(ii)	 Disposal of Motor Lorries Account.
+(4)
+	
+One shareholder states that he has seen the terms ‘continuing activities’ and 
+‘discontinued activities’ in previous financial statements.
+	
+(c)	 Evaluate the importance of disclosing continuing activities and discontinued 
+activities in the financial statements.
+(6)
+(Total for Question 3 = 30 marks)
+
+
+--- Page Break ---
+
+12
+P75883A
+ 
+ 
+4	 Bangla Red Sun Electronics plc has a contract to supply its only customer, a major 
+mobile phone producer, PulseWaves plc, with 200 000 memory cards per month.
+	
+The following information is available for the year ended 31 March 2024
+	
+Opening inventory	
+95 000 memory cards valued at £3.50 per memory card
+	
+Production 	
+	
+	
+2 390 000 memory cards
+	
+Direct materials	 	
+£0.31 per memory card
+	
+Direct labour	 	
+	
+12 minutes’ work per memory card at a wage rate of £10.80 
+per hour
+	
+Semi variable costs	
+£286 800 per year plus £0.42 per memory card
+	
+Fixed overheads 	 	
+£114 000 per month
+	
+Selling price 	 	
+	
+£4.30 per unit
+	
+Required
+	
+(a)	 Calculate the quantity of memory cards that are in the closing inventory at 
+31 March 2024.
+(3)
+	
+(b)	 Prepare for management the Statement of Profit or Loss and Other 
+Comprehensive Income for the year ended 31 March 2024. Closing inventory is to 
+be valued using absorption costing.
+(14)
+	
+Management has requested the marginal cost of producing one memory card.
+	
+(c)	 Calculate the marginal cost of producing one memory card.
+(3)
+	
+(d)	 Explain two disadvantages of marginal costing.
+(4)
+	
+PulseWaves plc has notified Bangla Red Sun Electronics plc that it is having financial 
+problems and it would like to reduce the price it is paying per memory card.
+	
+PulseWaves plc wishes to pay £3.50 per memory card for the next three months.
+	
+PulseWaves plc states it hopes to be able to pay the normal price of £4.30 per 
+memory card after the three-month period.
+	
+Required
+	
+(e)	 Evaluate, from the viewpoint of Bangla Red Sun Electronics plc, the proposal of 
+PulseWaves plc.
+(6)
+(Total for Question 4 = 30 marks)
+
+
+--- Page Break ---
+
+ 
+ 
+13
+Turn over     
+P75883A
+BLANK PAGE
+
+
+--- Page Break ---
+
+14
+P75883A
+ 
+ 
+5	 Jesmin runs a shop that sells paintings produced by local artists. The local artists 
+leave their paintings in the shop and hope they will be sold. If they are sold, Jesmin 
+charges a commission to the artists.
+	
+Jesmin is concerned about the level of sales, break-even point and profits.
+	
+Information for the year ended 31 March 2024 is as follows.
+•	
+Average price charged to customers who buy a painting is £55
+•	
+Number of paintings sold per week is 11
+•	
+Commission charged to artists by Jesmin on paintings sold is 50% of the selling 
+price.
+•	
+Rent of shop premises £490 per month.
+•	
+Insurance per year £440
+•	
+Loan interest paid £225 per month.
+•	
+Other fixed costs £165 per month.
+•	
+Assume 52 weeks per year.
+	
+Required
+	
+(a)	 Calculate the number of paintings Jesmin had to sell in the year ended 
+31 March 2024 to break even.
+(8)
+	
+(b)	 Calculate the profit or loss made by Jesmin in the year ended 31 March 2024.
+(3)
+	
+For the year starting 1 April 2024 and ending 31 March 2025, Jesmin is considering 
+closing the shop, working from home, and selling through the internet.
+	
+The following estimates would apply to selling through the internet.
+•	
+Average price charged to customers who buy a painting will be £60
+•	
+The number of paintings sold will be 10 per week.
+•	
+Commission charged to artists by Jesmin on paintings sold will be 50% of the 
+selling price.
+•	
+There will be no rent for premises to be paid.
+•	
+Insurance will be 70% of the insurance charged for the shop.
+•	
+Loan interest paid will be £225 per month.
+•	
+The cost of a website will be £45 a month.
+•	
+Other fixed costs will fall by £55 a month.
+•	
+A garden studio to store the paintings will have to be built. This will cost £5 000 
+The cost of the studio would be spread over 20 years.
+•	
+Assume 52 weeks per year.
+
+
+--- Page Break ---
+
+ 
+ 
+15
+Turn over     
+P75883A
+	
+Required
+	
+(c)	 Calculate the number of paintings Jesmin would have to sell in the year ending 
+31 March 2025 to break even.
+(7)
+	
+(d)	 Calculate the expected profit or loss for Jesmin for the year ending 
+31 March 2025.
+(3)
+	
+(e)	 Calculate the expected margin of safety in sales units for Jesmin for the year 
+ending 31 March 2025.
+(3)
+	
+(f)	 Evaluate the proposal of Jesmin to close the shop and sell the paintings from 
+home, through the internet.
+(6)
+(Total for Question 5 = 30 marks)
+
+
+--- Page Break ---
+
+16
+P75883A
+ 
+ 
+6	 The Statements of Financial Position of Kowloon Tong Stores plc on 31 March 2023 
+and 31 March 2024 are shown below.
+31 March 2023
+31 March 2024
+ASSETS
+£
+£
+Non-current assets
+Intangibles – goodwill
+228 000
+216 000
+Property, plant and equipment at cost
+15 431 000
+16 817 000
+Provision for depreciation
+(4 876 000)
+(5 429 000)
+Property, plant and equipment carrying 
+value
+10 555 000 
+11 388 000
+Total non-current assets
+10 783 000 
+11 604 000
+Current assets
+Inventories
+4 105 000
+4 082 000
+Trade receivables
+1 327 000
+1 459 000
+Other receivables
+88 000
+77 000
+Cash and cash equivalents
+186 000
+-------------
+Total current assets
+5 706 000
+5 618 000
+Total assets 
+16 489 000
+17 222 000
+EQUITY AND LIABILITIES
+Equity
+Share capital – ordinary shares of £0.50
+8 000 000
+7 000 000
+5% irredeemable preference shares of £1
+1 500 000
+1 500 000
+Share premium
+2 000 000
+1 750 000
+
+
+--- Page Break ---
+
+ 
+ 
+17
+Turn over     
+P75883A
+Retained earnings
+1 602 000
+3 746 000
+Total equity and reserves
+13 102 000
+13 996 000
+Non-current liabilities
+8% bank loan 
+1 850 000
+1 650 000
+9% debenture 2028
+-------------
+500 000
+ 
+1 850 000
+2 150 000
+Current liabilities
+Trade payables
+1 043 000
+913 000
+Other payables
+37 000
+41 000
+Current tax payable
+457 000
+98 000
+Cash and cash equivalents
+-------------
+24 000
+1 537 000
+1 076 000
+Total equity and liabilities
+16 489 000
+17 222 000
+	
+Additional information
+•	
+Goodwill of £240 000 was paid when purchasing another business in the year 
+ended 31 March 2022. The goodwill is being amortised (depreciated) over 
+20 years.
+•	
+On 12 May 2023 a retail property was bought for £2 200 000
+•	
+On 23 May 2023 ordinary shareholders received a final dividend for the year 
+ended 31 March 2023 of 1.1 pence (£0.011) per share.
+•	
+On 24 August 2023 a redemption of 2 000 000 ordinary shares of 50 pence (£0.50) 
+each at a premium of 12.5 pence (£0.125) per share was made. 
+•	
+On 1 October 2023 bank loan repayments were made.
+•	
+On 1 October 2023 a 9% debenture was issued.
+•	
+On 18 October 2023 all ordinary shareholders received an interim dividend of 
+0.4 pence (£0.004) per share.
+•	
+On 8 March 2024 a property was sold for a profit of £215 000 
+•	
+Preference shareholders received their dividends in full during the year.
+
+
+--- Page Break ---
+
+18
+P75883A
+ 
+ 
+	
+Required
+	
+Your line manager, the Senior Accountant, has asked you to carry out a number of 
+tasks.
+	
+(a)	 Prepare the following sections of the Statement of Cash Flows for the year ended 
+31 March 2024 for Kowloon Tong Stores plc in accordance with International 
+Accounting Standard (IAS) 7 Cash Flow Statements.
+	
+	
+(i) Financing activities.
+(11)
+	
+	
+ (ii)	 Investing activities.
+(9)
+	
+The Senior Accountant has produced the Operating activities section of the Cash 
+Flow Statement. She would like you to do a calculation to see if you agree with her 
+total for Operating activities. You should use the Total Financing activities figure 
+from (a)(i) and the Total Investing activities figure from (a)(ii) and any other relevant 
+information.
+	
+(b)	 Calculate the total of the Operating activities section of the Statement of Cash 
+Flows.
+(4)
+	
+A bank loan, ordinary shares, preference shares and a debenture have all been used 
+as sources of finance for Kowloon Tong Stores plc.
+	
+(c)	 Evaluate how well Kowloon Tong Stores plc has managed its sources of finance 
+during the year ended 31 March 2024.
+(6)
+(Total for Question 6 = 30 marks)
+TOTAL FOR SECTION B = 90 MARKS 
+TOTAL FOR PAPER = 200 MARKS
+
+
+--- Page Break ---
+
+ 
+ 
+19
+P75883A
+BLANK PAGE
+
+
+--- Page Break ---
+
+20
+P75883A
+ 
+ 
+BLANK PAGE

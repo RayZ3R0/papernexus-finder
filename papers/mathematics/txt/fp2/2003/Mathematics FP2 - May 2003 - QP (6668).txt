@@ -1,0 +1,526 @@
+FP2 2003 Adapted 
+1.
+(i) (a) On the same Argand diagram sketch the loci given by the following equations.
+.
+2
+)1
+arg(
+,
+,
+12
+)1
+arg(
+,,
+,1
+1
+π
+π
+=
++
+=
++
+=
+−
+z
+z
+z
+   
+  (4) 
+(b) Shade on your diagram the region for which 
+.
+2
+)1
+arg(
+12
+     
+and
+    
+1
+1
+π
+π
+≤
++
+≤
+≤
+−
+z
+z
+ 
+(1) 
+(ii) (a) Show that the transformation 
+,0
+   
+,
+1
+≠
+−
+=
+z
+z
+z
+w
+maps 
+1
+1 =
+−
+z
+in the z-plane onto
+1
+ 
+−
+= w
+w
+ in the w-plane. 
+ (3) 
+ 
+The region 
+1
+1 ≤
+−
+z
+in the z-plane is mapped onto the region T in the w-plane. 
+  (b) 
+Shade the region T on an Argand diagram.                                                              (2) 
+2.
+(a) Use de Moivre’s theorem to show that
+.
+cos
+5
+cos
+20
+cos
+16
+5
+cos
+3
+5
+θ
+θ
+θ
+θ
++
+−
+=
+ 
+(6) 
+(b) Hence find 3 distinct solutions of the equation 
+,0
+1
+5
+20
+16
+3
+5
+=
++
++
+−
+x
+x
+x
+ giving your answers to 3 
+decimal places where appropriate. 
+(4) 
+3. 
+(I)
+.0
+at
+1
+ ,
+d
+d
+2
+2
+ x 
+ 
+ 
+y
+y
+x
+x
+y
+=
+=
+−
+=
+ (b) By differentiating (I) twice with respect to x, show that 
+.0
+2
+d
+d
+2
+d
+d
+2
+d
+d
+2
+2
+2
+3
+3
+=
+−
+
+
+
+
+
+
++
++
+x
+y
+x
+y
+y
+x
+y
+(4) 
+(c) Hence, for (I), find the series solution for y in ascending powers of x up to and including the term 
+in x3. (4) 
+PMT
+
+
+--- Page Break ---
+
+4.
+(a) Express as a simplified single fraction
+2
+2
+1
+)1
+(
+1
+r
+r
+−
+−
+. 
+ (2) 
+(b) Hence prove, by the method of differences, that   ∑
+=
+−
+=
+−
+−
+n
+r
+n
+r
+r
+r
+2
+2
+2
+2
+1
+1
+)1
+(
+1
+2
+.   
+  (3) 
+5.
+Solve the inequality
+2
+3
+1
+2
+1
+−
+>
++
+x
+x
+x
+.     
+(6) 
+6.
+(a) Using the substitution t = x2, or otherwise, find
+x
+x
+x
+d
+e
+2
+3
+⌡
+⌠
+−
+. 
+(6) 
+(b) Find the general solution of the differential equation 
+2
+e
+3
+d
+d
+x
+x
+y
+x
+y
+x
+−
+=
++
+,   x > 0. 
+    (4) 
+7. 
+Figure 1 
+ D 
+  O   
+ B 
+ A  Initial line 
+        C 
+A logo is designed which consists of two overlapping closed curves. 
+The polar equations of these curves are   r = a(3 + 2cos θ )     and 
+r = a(5 – 2 cos θ ),   0 ≤ θ < 2π. 
+Figure 1 is a sketch (not to scale) of these two curves. 
+(a) Write down the polar corrdinates of the points A and B where the curves meet the initial line.(2) 
+(b) Find the polar coordinates of the points C and D where the two curves meet.  (4) 
+PMT
+
+
+--- Page Break ---
+
+(c) Show that the area of the overlapping region, which is shaded in the figure, is 
+3
+2
+a
+(49π − 48√3)    
+(8) 
+8. 
+t
+y
+t
+y
+d
+d
+6
+d
+d
+2
+2
+−
++ 9y = 4e3t,   t ≥ 0. 
+(a) Show that Kt2e3t is a particular integral of the differential equation, where K is a constant to be found.  (4) 
+(b) Find the general solution of the differential equation. (3) 
+Given that a particular solution satisfies y = 3 and 
+t
+y
+d
+d  = 1 when t = 0,
+(c) find this solution.(4) 
+Another particular solution which satisfies y = 1 and 
+t
+y
+d
+d  = 0 when t = 0, has equation
+y = (1 – 3t + 2t2)e3t. 
+(d) For this particular solution draw a sketch graph of y against t, showing where the graph crosses the t-axis. 
+Determine also the coordinates of the minimum of the point on the sketch graph. 
+(5) 
+9. 
+z = 
+
+
+
+
+
+
++
+4
+sin
+i
+4
+cos
+4
+π
+π
+, and w = 
+
+
+
+
+
+
++
+3
+2
+sin
+i
+3
+2
+cos
+3
+π
+π
+. 
+Express zw in the form r (cos θ  + i sin θ ), r > 0,  −π  < θ  < π.  
+ (3) 
+10.
+(a) Sketch, on the same axes, the graphs with equation y = 2x – 3, and the line with equation y = 5x – 1.
+(2) 
+(b) Solve the inequality 2x – 3 < 5x – 1.   
+   (3) 
+PMT
+
+
+--- Page Break ---
+
+11.
+(a) Express
+)3
+)(
+1
+(
+2
++
++
+r
+r
+ in partial fractions.    (2) 
+(b) Hence prove that ∑
+=
++
++
++
+≡
++
++
+n
+r
+n
+n
+n
+n
+r
+r
+1
+)
+3
+)(
+2
+(
+6
+)
+13
+5
+(
+)
+3
+)(
+1
+(
+2
+.     
+ (5) 
+12.
+(a) Use the substitution y = vx to transform the equation
+x
+y
+d
+d  =
+2
+)
+)(
+4
+(
+x
+y
+x
+y
+x
++
++
+, x > 0 
+(I) 
+into the equation    
+ x
+x
+v
+d
+d  = (2 + v)2.
+(II) 
+   (4) 
+(b) Solve the differential equation II to find v as a function of x     
+ (5) 
+(c) Hence show that  
+y = −2x − 
+c
+x
+x
++
+ln
+,    where c is an arbitrary constant,is a general solution of the 
+differential equation I. 
+(1) 
+13.
+Given that z = 3 – 3i express, in the form a + ib, where a and b are real numbers,
+(a) z2,       
+   (2)  
+(b) 
+z
+1 .
+(2) 
+(c) Find the exact value of each of z,z2 and z
+1 . 
+(2) 
+The complex numbers z, z2 and z
+1  are represented by the points A, B and C respectively on an Argand diagram.
+The real number 1 is represented by the point D, and O is the origin. 
+(d) Show the points A, B, C and D on an Argand diagram. 
+(2) 
+(e) Prove that     OAB is similar to         OCD. 
+(3) 
+14. (a) Find the value of λ for which λx cos 3x is a particular integral of the differential equation
+2
+2
+d
+d
+x
+y + 9y = −12 sin 3x.  
+   (4) 
+(b) Hence find the general solution of this differential equation.(4) 
+The particular solution of the differential equation for which y = 1 and 
+x
+y
+d
+d
+ = 2 at x = 0, is y = g(x).
+(c) Find g(x). 
+    (4) 
+PMT
+
+
+--- Page Break ---
+
+(d) Sketch the graph of y = g(x), 0 ≤ x ≤ π.     
+  (2) 
+15. 
+Figure 1 
+Figure 1 shows a sketch of the cardioid C with equation 
+r = a(1 + cos θ ), −π < θ ≤ π . Also shown are the tangents 
+to C that are parallel and perpendicular to the initial 
+line. These tangents form a rectangle WXYZ. 
+(a) Find the area of the finite region, shaded in Fig. 1, bounded by the curve C. 
+ (6) 
+(b) Find the polar coordinates of the points A and B where WZ touches the curve C.        (5) 
+(c) Hence find the length of WX.                                                                                                   (2) 
+Given that the length of WZ is 
+2
+3
+3
+a , 
+(d) find the area of the rectangle WXYZ.   
+     (1) 
+A heart-shape is modelled by the cardioid C, where a = 10 cm. The heart shape is cut from the rectangular card 
+WXYZ, shown in Fig. 1. 
+(e) Find a numerical value for the area of card wasted in making this heart shape.   (2) 
+Question: Solve  
+𝒙𝒙𝟓𝟓= −൫𝟗𝟗√𝟑𝟑  ൯𝒊𝒊 
+PMT

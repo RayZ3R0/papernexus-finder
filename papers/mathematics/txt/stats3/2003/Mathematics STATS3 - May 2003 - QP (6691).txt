@@ -1,0 +1,212 @@
+ 
+ 
+Paper Reference(s) 
+6685 
+Edexcel GCE 
+Statistics S3 
+Advanced/Advanced Subsidiary 
+Thursday 5 June 2003 − Morning 
+Time: 1 hour 30 minutes 
+ 
+ 
+Materials required for examination            Items included with question papers 
+Answer Book (AB16)                        
+Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for 
+symbolic algebra, differentiation and/or integration. Thus candidates may NOT 
+use calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Statistics S3), the paper reference (6685), your 
+surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the answer 
+should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N13905A 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2003 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+Explain how to obtain a sample from a population using  
+ 
+(a) stratified sampling, 
+(2) 
+(b) quota sampling. 
+(2) 
+ 
+Give one advantage and one disadvantage of each sampling method. 
+(4) 
+ 
+ 
+2. 
+A random sample of 30 apples was taken from a batch. The mean weight of the sample was 
+124 g with standard deviation 20 g. 
+ 
+(a) Find a 99% confidence interval for the mean weight µ grams of the population of apples. 
+Write down any assumptions you made in your calculations. 
+(6) 
+ 
+Given that the actual value of µ is 140, 
+ 
+(b) state, with a reason, what you can conclude about the sample of 30 apples. 
+(2) 
+ 
+ 
+3. 
+Given the random variables X ~ N(20, 5) and Y ~ N(10, 4) where X and Y are independent, find 
+ 
+(a) E(X – Y), 
+(2) 
+(b) Var(X – Y), 
+(2) 
+(c) P(13 < X – Y < 16). 
+(5) 
+ 
+N13905A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+A new drug to treat the common cold was used with a randomly selected group of 100 
+volunteers. Each was given the drug and their health was monitored to see if they caught a cold. 
+A randomly selected control group of 100 volunteers was treated with a dummy pill. The results 
+are shown in the table below. 
+ 
+ 
+Cold 
+No cold 
+Drug 
+34 
+66 
+Dummy pill 
+45 
+55 
+ 
+Using a 5% significance level, test whether or not the chance of catching a cold is affected by 
+taking the new drug. State your hypotheses clearly. 
+(11) 
+ 
+5.  
+A scientist monitored the levels of river pollution near a factory. Before the factory was closed 
+down she took 100 random samples of water from different parts of the river and found an 
+average weight of pollutants of 10 mg l−1 with a standard deviation of 2.64 mg l−1. After the 
+factory was closed down the scientist collected a further 120 random samples and found that they 
+contained 8 mg l−1 of pollutants on average with a standard deviation of 1.94 mg l−1. 
+ 
+Test, at the 5% level of significance, whether or not the mean river pollution fell after the factory 
+closed down. 
+(11) 
+ 
+6. 
+Two judges ranked 8 ice skaters in a competition according to the table below. 
+ 
+Skater 
+ 
+Judge 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+ 
+A 
+ 
+2 
+5 
+3 
+7 
+8 
+1 
+4 
+6 
+ 
+B 
+ 
+3 
+2 
+6 
+5 
+7 
+4 
+1 
+8 
+ 
+ 
+(a) Evaluate Spearman’s rank correlation coefficient between the ranks of the two judges. 
+(6) 
+ 
+(b) Use a suitable test, at the 5% level of significance, to interpret this result. 
+(5) 
+ 
+ 
+N13905A 
+3 
+Turn over 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+A bag contains a large number of coins of which 30% are 50p coins, 20% are 10p coins and the 
+rest are 2p coins. 
+ 
+(a) Find the mean µ and the variance σ 2 of this population of coins. 
+(4) 
+ 
+A random sample of 2 coins is drawn from the bag one after the other. 
+ 
+(b) List all possible samples that could be drawn. 
+(2) 
+(c) Find the sampling distribution of X , the mean of the coins drawn. 
+(4) 
+(d) Find P(2 ≤ X  < 7). 
+(2) 
+(e) Use the sampling distribution of X  to verify E( X ) = µ and Var( X ) = 2
+1 σ 2. 
+(5) 
+ 
+ 
+                 END 
+N13905A 
+4 
+PMT
+PMT

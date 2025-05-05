@@ -1,0 +1,1007 @@
+Turn over
+Printer’s Log. No.
+P42221A
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2013 Pearson Education Ltd.
+W850/6001/57570   1/1/1/1/1/e2
+*P42221A*
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary
+Unit 1 –  The Accounting System and 
+Costing
+Tuesday 8 January 2013 – Afternoon
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+
+
+--- Page Break ---
+
+P42221A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Organic Farm Shop has three departments: greengrocery, bakery and The Café. The following 
+balances were extracted from the books for the year ended 31 December 2012:
+ 
+£
+Revenue:
+ 
+Greengrocery 
+190 000
+ 
+Bakery 
+96 000
+ 
+The Café 
+81 000
+Inventory 1 January 2012:
+ 
+Greengrocery 
+8 150
+ 
+Bakery 
+4 700
+ 
+The Café 
+850
+Purchases:
+ 
+Greengrocery 
+126 000
+ 
+Bakery 
+60 500
+ 
+The Café 
+40 250
+Wages:
+ 
+Greengrocery 
+32 000
+ 
+Bakery 
+21 000
+ 
+The Café 
+16 000
+Manager’s salary 
+18 350
+Electricity and gas 
+9 820
+General running expenses 
+2 750
+Rent (for 9 months) 
+8 100
+Refurbishment costs of The Café 
+15 000
+Non-current assets at cost:
+ 
+Equipment 
+20 000
+ 
+Fixtures and fittings 
+10 000
+Provisions for depreciation:
+ 
+Equipment 
+8 000
+ 
+Fixtures and fittings 
+2 000
+Trade receivables 
+32 000
+Trade payables 
+46 870
+Bank 
+43 000 Dr
+Capital 
+60 000
+Drawings 
+16 800
+Provision for doubtful debts 
+1 400
+
+
+--- Page Break ---
+
+P42221A 
+3
+ 
+Turn over
+ 
+Additional information at 31 December 2012:
+ 
+1. Inventory:
+ 
+Greengrocery 
+£9 450
+ 
+Bakery 
+£3 600
+ 
+The Café 
+£1 100
+ 
+2. During the year, goods were transferred to The Café from the other two departments.  
+The value, at cost, of the transfers was: Greengrocery £5 700, Bakery £4 300.
+ 
+3. General running expenses prepaid £250.
+ 
+4. The refurbishment costs of The Café consisted of new fixtures and fittings £10 000 and 
+redecoration £5 000.
+ 
+5. On 1 December 2012 the owner of Organic Farm Shop purchased the shop premises from 
+Global Property for the purchase price of £250 000. On the same day a 6% Bank loan was 
+received from Ascot Bank for £200 000, repayable on 30 November 2022. The Bank also 
+charged an arrangement fee of £4 250 for the loan. No entries had been made in the books to 
+record these transactions.
+ 
+6. Depreciation is to be charged on all non-current assets owned at the end of the year, on the 
+following basis:
+ 
+Shop premises 
+No depreciation
+ 
+Equipment 
+30% per annum reducing balance method
+ 
+Fixtures and fittings 
+10% per annum straight line method
+ 
+7. A debt owed to Organic Farm Shop of £800 was considered irrecoverable. A provision for 
+doubtful debts is to be maintained at the rate of 5% on the remaining debts.
+ 
+Required:
+ 
+(a) Prepare the:
+ 
+ 
+(i) Journal entries to record the purchase of the shop premises in 5. above. Narratives are not 
+required
+(6)
+ 
+ 
+(ii) Departmental Trading Account of Organic Farm Shop showing the profit/loss of each 
+department for the year ended 31 December 2012 
+(8)
+ 
+ 
+(iii) Statement of Comprehensive Income for the business as a whole for the year ended 
+31 December 2012
+(16)
+ 
+ 
+(iv) Statement of Financial Position at 31 December 2012.
+(14)
+ 
+(b) Evaluate the owner’s decision to purchase the shop premises as an alternative to renting.
+ (8)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+P42221A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. The following balances were in the ledger of Arpan on 1 January 2012:
+ 
+£
+ 
+Sundry expenses 
+600 Dr
+ 
+Premises repairs 
+250 Dr
+ 
+Rent receivable 
+300 Dr
+The following were the transactions for the year ended 31 December 2012. All payments and 
+receipts were made by cheque:
+1. Sundry expense payments:
+ 
+£
+ 
+14 May 
+Paid 
+500
+ 
+30 October 
+Paid 
+900 for the six months to 31 March 2013
+2. Premises repairs payments:
+ 
+£
+ 
+8 January 
+Paid 
+450
+ 
+1 April 
+Paid 
+900
+ 
+18 August 
+Paid 
+875
+ 
+On 31 December 2012 it was estimated that £340 was owing for premises repairs.
+3. Rent receivable:
+ 
+£
+ 
+6 February 
+Received 
+1 200
+ 
+26 June 
+Received 
+900
+ 
+The rent receivable for the year was £1 600.
+ 
+Required:
+ 
+(a) Explain the meaning of the debit balance on the Rent receivable account on 1 January 2012.
+(4)
+ 
+(b) Prepare the following accounts for the year ended 31 December 2012, including the appropriate 
+transfer to the financial statements:
+ 
+ 
+(i) Sundry expenses account
+(4)
+ 
+ 
+(ii) Premises repairs account 
+(4)
+ 
+ 
+(iii) Rent receivable account.
+(4)
+
+
+--- Page Break ---
+
+P42221A 
+5
+ 
+Turn over
+ 
+On 1 January 2012 Arpan had the following additional balances in his ledger:
+ 
+£
+ 
+Machine at cost 
+36 000
+ 
+Machine – provision for depreciation 
+?
+ 
+All machinery was purchased on 1 January 2010 and has a residual value of £2 000. Arpan has 
+depreciated his machinery over a five-year period using the straight line method.  
+ 
+He has decided to change his method of depreciation to 25% per annum reducing balance, backdated 
+to the date of machine purchase. The change and adjustment are to be recorded in the Statement of 
+Comprehensive Income for the year ended 31 December 2012.
+ 
+On 1 April 2012 a new machine was purchased:
+ 
+£
+ 
+Cost 
+8 000
+ 
+Installation 
+1 600
+ 
+Staff training 
+2 000
+ 
+Annual machine insurance 
+00 400
+ 
+ 
+12 000
+ 
+He charges a full year’s depreciation on machines in the year of purchase.
+ 
+Required:
+ 
+(c) State one accounting concept which:
+ 
+ 
+(i) supports the change of depreciation method proposed by Arpan
+ 
+ 
+(ii) does not support the change of depreciation method proposed by Arpan.
+(4)
+ 
+(d) Distinguish between capital expenditure and revenue expenditure.
+(4)
+ 
+(e) State, giving your reasons, whether each of the following is capital expenditure or 
+revenue expenditure:
+
+
+
+	
+		
+
+
+
+			
+		
+
+(4)
+ 
+(f) Calculate, showing clearly all workings, the:
+ 
+ 
+(i) adjustment required to the provision for depreciation on the machines to  
+31 December 2011 to account for the change in depreciation method
+ 
+ 
+(ii) depreciation charge on all the machines for the year ended 31 December 2012.
+(8)
+ 
+(g) Prepare, for the year ended 31 December 2012, the:
+ 
+ 
+(i) Machinery account
+(3)
+ 
+ 
+(ii) Machinery – provision for depreciation account.
+(5)
+ 
+(h) Evaluate Arpan’s decision to change the basis of charging depreciation on machines  
+from the straight line method to reducing balance method.
+(8)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 16 of the question paper.
+
+
+--- Page Break ---
+
+P42221A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. Xevena commenced business on 1 January 2012 buying and selling goods on credit. She commenced 
+business with fixtures and fittings £2 000 and bank £10 000.
+ 
+She has little accounting knowledge, but has prepared a draft Statement of Comprehensive Income 
+for the year ended 31 December 2012:
+ 
+£ 
+£
+Revenue 
+ 
+110 000
+Less
+Purchases 
+103 500
+Less Purchase returns 
+0(2 300)
+ 
+101 200
+Less Inventory (at selling price) 
+(20 000)
+ 
+ 
+(81 200)
+Gross profit 
+ 
+28 800
+Plus other income:
+Sale of fixtures and fittings 
+ 
+1 200
+Rent receivable 
+ 
+31 000
+ 
+ 
+31 000
+Less expenses:
+Carriage of goods 
+3 600
+Rent and rates 
+4 000
+Wages 
+6 000
+General running expenses 
+4 550
+Purchase of fixtures and fittings 
+2 800
+Purchase of motor van  
+009 000
+ 
+ 
+(29 950)
+Profit for the year 
+ 
+001 050
+
+
+--- Page Break ---
+
+P42221A 
+7
+ 
+Turn over
+ 
+Additional information:
+ 
+1. Revenue included goods with a selling price of £2 000 sent to a customer on ‘sale or return’. 
+On 31 December 2012 the customer had not advised an intention to keep or return the goods. 
+The transaction had been recorded as a credit sale.
+ 
+2. Xevena used a 25% mark up on cost throughout the year.
+ 
+3. Half of the fixtures and fittings brought into the business on 1 January 2012 were sold during 
+the year for £1 200. Additional fixtures and fittings were purchased during the year.
+ 
+4. Part of the premises were sub-let on 1 July for a rent receivable of £1 000 per 3 months.
+ 
+5. One third of the carriage related to collecting purchases and two thirds to deliveries to 
+customers.
+ 
+6. General running expenses included £750 prepaid, but did not include £470 owing.
+ 
+7. During the year Xevena paid suppliers by cheque £93 030 and received a discount of £1 870.
+ 
+8. Other balances on 31 December 2012:
+ 
+£
+ 
+Motor van (at valuation) 
+7 500
+ 
+Fixtures and fittings (at valuation) 
+3 400
+ 
+Trade receivables 
+12 870
+ 
+Trade payables 
+?
+ 
+Bank overdraft 
+18 450
+ 
+Drawings 
+4 800
+ 
+Required:
+ 
+(a) Explain the following accounting concepts. For each concept give one example from the draft 
+Statement of Comprehensive Income prepared by Xevena and from the additional information 
+given, where the concept has not been correctly applied: 
+ 
+ 
+(i) Realisation
+(3)
+ 
+ 
+(ii) Accrual (matching)
+(3)
+ 
+ 
+(iii) Going concern.
+(3)
+ 
+(b) Redraft the corrected Statement of Comprehensive Income after taking into account the 
+additional information given for the year ended 31 December 2012.
+(14)
+ 
+(c) Prepare the Purchases Ledger Control Account, calculating the trade payables balance at  
+31 December 2012.
+ (6)
+ 
+(d) Prepare the Statement of Financial Position at 31 December 2012.
+(15)
+ 
+(e) Evaluate the use of accounting concepts when preparing financial statements.
+ (8)
+(Total 52 marks)
+Answer space for question 3 is on pages 17 to 21 of the question paper.
+
+
+--- Page Break ---
+
+P42221A 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. Molara commenced business on 1 January 2012 with inventory £12 000 and bank £25 000. She also 
+had a five-year 8% bank loan of £15 000 and trade payables of £3 000. 
+ 
+Her objectives for the first year of trading were to:
+
+
+
+	
+
+
+
+
+
+
+
+!
+
+
+"	
+
+
+	
+
+
+#	
+
+	$
+ 
+The following information is available for the year ended 31 December 2012:
+ 
+1. Revenue (sales) £140 000, gross profit £36 000.
+ 
+2. Purchases £119 000.
+ 
+3. Non-current assets purchased £15 000 with £3 000 charged as depreciation.
+ 
+4. Other expenses paid including bank loan interest, £22 000, of which £2 000 was prepaid. 
+Other expenses accrued were £1 000.
+ 
+5. Drawings £8 000.
+ 
+6. Other balances at 31 December 2012:
+ 
+ 
+ 
+Trade receivables £7 000
+ 
+ 
+ 
+Trade payables £10 000
+ 
+ 
+ 
+Bank £1 000
+ 
+ 
+ 
+Inventory ?
+ 
+Required:
+ 
+(a) Explain the term profitability.
+(4)
+ 
+(b) Prepare the Statement of Comprehensive Income for the year ended 31 December 2012, 
+showing clearly the:
+ 
+ 
+(i) value of the inventory at 31 December 2012
+ 
+ 
+(ii) profit for the year.
+(6)
+ 
+(c) Calculate the percentage return on capital employed for the year.
+(3)
+ 
+(d) Prepare the Statement of Financial Position at 31 December 2012.
+(9)
+ 
+(e) Calculate the:
+ 
+ 
+(i) current ratio
+ 
+ 
+(ii) liquid (acid test) ratio.
+(6)
+ 
+(f) Evaluate the success of Molara in achieving her financial objectives for the year.
+(4)
+(Total 32 marks)
+Answer space for question 4 is on pages 22 to 26 of the question paper.
+
+
+--- Page Break ---
+
+P42221A 
+9
+ 
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Fahl Manufacturing has a machine shop producing products for the building industry. The machine 
+shop contains six machines, each producing a different product. 
+ 
+The following information relates to one of the machines, Machine 107:
+
+
+&
+	'	*
+ 
+Cost 
+£90 000
+ 
+Delivery  
+£2 000
+ 
+Installation  
+£8 000
+
+
++
+
+	
+
+
+!;
+		
+	#	
+
+
+
+
+<
+	
+
+
+=
+>
+
+!>
+
+
+
+
+
+
+@
+
+K!;
+
+	
+K	
+<
+
+remainder of the time is idle time
+
+
+	
+K
+!>>
+
+>
+	
+	Q!
+>
+
+
+V
+
+#	
+K$
+ 
+Additional machine shop information:
+
+
+	
+	
+QY
+		
+
+
+	
+
+	
+Q
+		
+
+
+
+	Z
+		
+
+
+[#
+	
+Z
+
+
+[#
+	
+
+\
+
+
+<
+$
+ 
+Required: 
+ 
+(a) Calculate, for Machine 107, for the year ended 31 December 2012, the:
+ 
+ 
+(i) total overhead cost
+(8)
+ 
+ 
+(ii) overhead cost per hour of operating Machine 107.
+(4)
+ 
+(b) Explain the term labour productivity.
+(4)
+ 
+Machine 107 requires one machine operator who is paid on a daywork basis and works 40 hours 
+per week for 50 weeks per year. The rate is £6 per hour and output for the year is 2 400 units.
+ 
+It has been proposed that the machine operator of Machine 107 should be paid by a bonus scheme 
+in future. The two alternatives are:
+ 
+Alternative Option 1  Payment for each unit completed. The rate would be £3 per unit. Output 
+for the year is estimated to be 4 800 units.
+ 
+Alternative Option 2  A bonus consisting of an hourly payment of £3.50 per hour for all hours 
+worked, plus £1.50 per unit produced. Output is estimated to be 3 600 
+units.
+
+
+--- Page Break ---
+
+P42221A 
+10 
+ 
+Required:
+ 
+(c) Calculate, the labour cost per unit, for the following three payment options:
+ 
+ 
+(i) Current daywork payment
+(4)
+ 
+ 
+(ii) Alternative Option 1
+(2)
+ 
+ 
+(iii) Alternative Option 2.
+(4)
+ 
+(d) Identify the most productive of the three payment options for Fahl Manufacturing.
+(2)
+ 
+(e) Evaluate, from the perspective of Fahl Manufacturing, the use of a bonus scheme for 
+remunerating the operator of Machine 107.
+(4)
+(Total 32 marks)
+Answer space for question 5 is on pages 27 to 29 of the question paper.
+
+
+--- Page Break ---
+
+P42221A 
+11
+ 
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. Taabu is in business buying and selling goods on credit. The following information relates to her 
+customers’ accounts for the month of December 2012:
+ 
+1. Balances at 1 December :
+ 
+ 
+ 
+Trade receivables £23 500
+ 
+ 
+ 
+Provision for doubtful debts £1 450
+ 
+2. During December 2012:
+ 
+ 
+ 
+Cheques received and banked from trade receivables £32 400
+ 
+ 
+ 
+Discount allowed £820
+ 
+ 
+ 
+Credit sales £38 000
+ 
+3. During December, Taabu was informed that one debtor, Taal, would not be able to fully pay his 
+debt of £350. A payment of £0.40 in the pound was made on 31 December 2012, the balance 
+of the debt being irrecoverable.
+ 
+4. A debt owed by Kaab £700, which had been written off in July 2011, was received in  
+December 2012.
+ 
+5. On 31 December 2012 a schedule of debtors was prepared and the provision for doubtful debts 
+was calculated as £1 375.
+ 
+Required:
+ 
+(a) Explain:
+ 
+ 
+(i) the term a schedule of debtors
+ 
+ 
+(ii) how the schedule of debtors would be used to calculate the provision for doubtful debts.
+(6)
+ 
+(b) Prepare the Journal entries, including narrative, recording the bad debt recovery from Kaab. 
+ (5)
+ 
+(c) Prepare, for the month of December, the:
+ 
+ 
+(i) Bad debts account 
+(3)
+ 
+ 
+(ii) Bad debts recovered account
+(4)
+ 
+ 
+(iii) Sales Ledger Control Account showing clearly the balance of debtors at 31 December 2012.
+(7)
+ 
+ 
+(iv) Provision for doubtful debts account.
+(3)
+ 
+(d) Evaluate the use of a provision for doubtful debts account by Taabu.
+ (4)
+(Total 32 marks)
+Answer space for question 6 is on pages 30 to 33 of the question paper.
+
+
+--- Page Break ---
+
+P42221A 
+12 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Martina and Naju have been in partnership for many years sharing profits and losses in the ratio 2:1. 
+They decided to close the business on 31 December 2012. The partnership assets and liabilities at 
+31 December 2012 were:
+ 
+£
+ 
+Premises 
+60 000
+ 
+Motor vehicles 
+14 000
+ 
+Fixtures and fittings 
+9 400
+ 
+Inventory 
+18 700
+ 
+Trade receivables 
+12 400
+ 
+Trade payables 
+10 000
+ 
+Accrued expenses 
+1 100
+ 
+Bank loan 
+10 000
+ 
+Bank overdraft 
+400
+ 
+Capital accounts:
+ 
+ 
+Martina 
+50 000
+ 
+ 
+Naju 
+40 000
+ 
+Current accounts:
+ 
+ 
+Martina 
+4 400 Cr
+ 
+ 
+Naju 
+1 400 Dr
+ 
+Additional information at 31 December 2012:
+ 
+1. Premises were sold to Highton & Co for £65 000.
+ 
+2. The partners took the motor vehicles at valuation: Martina £4 500, Naju £7 000.
+ 
+3. Fixtures and fittings and the inventory were sold for £21 000.
+ 
+4. A bad debt of £400 was written off the trade receivables and 2.5% cash discount was allowed 
+on the remaining debts.
+ 
+5. Accrued expenses were paid in full and trade payables were paid less 2% cash discount.
+ 
+6. The Bank loan was repaid.
+ 
+7. Dissolution expenses were £2 700.
+ 
+8. A settlement cheque was paid to each of the partners from the bank account.
+
+
+--- Page Break ---
+
+P42221A 
+13
+ 
+Required:
+ 
+(a) State two reasons why a partnership may dissolve.
+(4)
+ 
+(b) Explain how the provisions of the 1890 Partnership Act apply to partners’:
+ 
+ 
+(i) salaries
+ 
+ 
+(ii) interest on loans.
+(4)
+ 
+(c) Prepare, at 31 December 2012, the partnership:
+ 
+ 
+(i) Dissolution account
+(9)
+ 
+ 
+(ii) Capital accounts of Martina and Naju
+(4)
+ 
+ 
+(iii) Bank account.
+(7)
+ 
+(d) Evaluate the need for a partnership agreement.
+(4)
+(Total 32 marks)
+Answer space for question 7 is on pages 34 to 36 of the question paper.
+
+
+--- Page Break ---
+
+P42221A 
+14 
+BLANK PAGE
+
+
+--- Page Break ---
+
+P42221A 
+15
+BLANK PAGE
+
+
+--- Page Break ---
+
+P42221A 
+16 
+BLANK PAGE

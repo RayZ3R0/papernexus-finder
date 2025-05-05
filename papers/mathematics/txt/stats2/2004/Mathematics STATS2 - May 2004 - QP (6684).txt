@@ -1,0 +1,225 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6684 
+Edexcel GCE 
+Statistics S2 
+Advanced/Advanced Subsidiary 
+Wednesday 23 June 2004 − Morning 
+Time: 1 hour 30 minutes 
+ 
+ 
+Materials required for examination            Items included with question papers 
+Answer Book (AB16)                         
+Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for 
+symbolic algebra, differentiation and/or integration. Thus candidates 
+may NOT use calculators such as the Texas Instruments TI 89, TI 92, 
+Casio CFX 9970G, Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Statistics S2), the paper reference (6684), your 
+surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the answer 
+should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N17023A 
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy. 
+ 
+©2004 London Qualifications Limited.  
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+Explain briefly what you understand by  
+ 
+(a) a sampling frame, 
+(1) 
+(b) a statistic. 
+(2) 
+ 
+ 
+2. 
+The continuous random variable X is uniformly distributed over the interval [–1, 4]. 
+ 
+Find  
+ 
+(a) P(X < 2.7), 
+(1) 
+(b) E(X), 
+(2) 
+(c) Var (X). 
+(2) 
+ 
+ 
+3. 
+Brad planted 25 seeds in his greenhouse. He has read in a gardening book that the probability of 
+one of these seeds germinating is 0.25. Ten of Brad’s seeds germinated. He claimed that the 
+gardening book had underestimated this probability. Test, at the 5% level of significance, Brad’s 
+claim. State your hypotheses clearly. 
+(7) 
+ 
+ 
+N17023A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+(a) State two conditions under which a random variable can be modelled by a binomial 
+distribution. 
+(2) 
+In the production of a certain electronic component it is found that 10% are defective. 
+ 
+The component is produced in batches of 20. 
+ 
+(b) Write down a suitable model for the distribution of defective components in a batch.  
+(1) 
+ 
+Find the probability that a batch contains 
+ 
+(c) no defective components, 
+(2) 
+(d) more than 6 defective components. 
+(2) 
+(e) Find the mean and the variance of the defective components in a batch. 
+(2) 
+ 
+A supplier buys 100 components. The supplier will receive a refund if there are more than 15 
+defective components. 
+ 
+(f) Using a suitable approximation, find the probability that the supplier will receive a refund. 
+(4) 
+ 
+ 
+5.  
+(a) Explain what you understand by a critical region of a test statistic. 
+(2) 
+ 
+The number of breakdowns per day in a large fleet of hire cars has a Poisson distribution with 
+mean 7
+1 . 
+ 
+(b) Find the probability that on a particular day there are fewer than 2 breakdowns. 
+(3) 
+(c) Find the probability that during a 14-day period there are at most 4 breakdowns. 
+(3) 
+ 
+The cars are maintained at a garage. The garage introduced a weekly check to try to decrease the 
+number of cars that break down. In a randomly selected 28-day period after the checks are 
+introduced, only 1 hire car broke down. 
+ 
+(d) Test, at the 5% level of significance, whether or not the mean number of breakdowns has 
+decreased. State your hypotheses clearly. 
+(7) 
+N17023A 
+3 
+Turn over 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+Minor defects occur in a particular make of carpet at a mean rate of 0.05 per m2. 
+ 
+(a) Suggest a suitable model for the distribution of the number of defects in this make of carpet. 
+Give a reason for your answer. 
+ 
+A carpet fitter has a contract to fit this carpet in a small hotel. The hotel foyer requires 30 m2 of 
+this carpet. Find the probability that the foyer carpet contains 
+ 
+(b) exactly 2 defects, 
+(3) 
+(c) more than 5 defects. 
+(3) 
+ 
+The carpet fitter orders a total of 355 m2 of the carpet for the whole hotel. 
+ 
+(d) Using a suitable approximation, find the probability that this total area of carpet contains 22 
+or more defects. 
+(6) 
+ 
+ 
+7. 
+A random variable X has probability density function given by 
+ 
+f(x) = 
+
+
+
+
+
+
+
+
+≤
+≤
+≤
+≤
+otherwise.
+,0
+,2
+1
+,
+45
+8
+,1
+0
+,
+3
+1
+3
+x
+x
+x
+ 
+ 
+(a) Calculate the mean of X. 
+(5) 
+(b) Specify fully the cumulative distribution function F(x). 
+(7) 
+(c) Find the median of X. 
+(3) 
+(d) Comment on the skewness of the distribution of X. 
+(2) 
+ 
+                 END 
+N17023A 
+4 
+PMT
+PMT

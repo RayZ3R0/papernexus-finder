@@ -1,0 +1,838 @@
+Turn over
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 2 – Corporate and 
+ 
+Management Accounting
+Thursday 16 June 2011 – Morning
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P38650A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2011 Edexcel Limited.
+W850/6002/57570   1/1/1
+*P38650A*
+
+
+--- Page Break ---
+
+P38650A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1.  Orion plc produces mobile phones at its factory.  The mobile phones are then delivered to Orion plc 
+shops, where they are sold to customers.  
+ 
+At 31 March 2011, the following were some of the balances in the books:
+Debit
+£
+Credit
+£
+Advertising and promotions        
+147 500
+Bad debts                                      
+16 000
+Canteen net income
+189 320
+12.5% Debentures 2017                  
+1 250 000
+Direct labour                                 
+985 430
+Direct materials                             
+734 250
+Directors’ salaries
+226 000
+Discount on sales
+414 750
+Factory rent                 
+442 000
+Factory machinery at cost               
+685 000
+Motor lorries expenses
+176 400
+Income received from shares and securities
+23 450
+Interest on bank balance                    
+7 250
+Research and development
+760 000
+Shop premises at cost                        
+2 300 000
+Rent received                               
+27 000
+Revenue (sales) turnover                                           
+5 723 000
+Inventory (stock) of finished goods at 1 April 2010 
+121 000
+Inventory (stock) of work in progress at 1 April 2010
+79 500
+Wages                                          
+555 000
+
+
+--- Page Break ---
+
+P38650A 
+3
+ 
+Turn over
+ 
+Additional information at 31 March 2011:
+ 
+(i) Directors’ salaries include:         
+Finance director
+£74 000
+Sales director
+£81 000
+Production director
+£71 000
+ 
+(ii) Assuming a nil residual value in each case and using the straight line method:
+ 
+ 
+• 
+factory machinery is to be depreciated over an 8 year life
+ 
+ 
+• 
+shop premises are to be depreciated over a 50 year life.
+ 
+(iii) Factory rent includes £34 000 paid in advance.   
+ 
+(iv) Inventory (Stock) of finished goods £116 250
+ 
+ 
+Inventory (Stock) of work in progress £86 700
+ 
+(v) Wages include: 
+Office staff
+£246 000
+Shop sales staff
+£187 000
+Lorry drivers
+£122 000
+ 
+(vi)  A provision for corporation tax is to be made for £275 000.
+ 
+Required:
+ 
+(a) Prepare for Orion plc, for the year ended 31 March 2011, EITHER: 
+ 
+ 
+• 
+The profit & loss account using Format 1 as required by the Companies Act 1985   OR
+ 
+ 
+• 
+The statement of comprehensive income as required by International Accounting Standards 
+(IAS 1)
+ 
+ 
+You must clearly state which one of the methods you have chosen. 
+ 
+ 
+You must show all workings clearly labelled in arriving at your figures.     
+ 
+ 
+Note:
+ 
+ 
+• 
+There is no need to show any of the notes required by the Companies Act 1985 or 
+International Accounting Standards.
+ 
+ 
+• 
+Ignore all the exemptions permitted for small and medium sized companies.
+(40)
+ 
+(b) Evaluate the importance of sending a copy of the financial statements of a public limited 
+company to shareholders at the end of the financial year.
+(12)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+P38650A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. Lifecare plc provides private nursing homes for elderly people.  The directors are considering the 
+possibility of opening a new nursing home, at a cost of £2.5 million.
+ 
+The finance director is considering two possible options to finance the new nursing home. The 
+details are shown below.
+Option A
+£ 
+Interest rate/
+Expected return
+Debenture
+500 000
+15%
+Bank loan
+200 000
+12.5%
+Preference shares
+300 000
+10%
+Ordinary shares
+  1 500 000
+8%
+Total
+  2 500 000
+Option B
+£ 
+Interest rate/
+Expected return
+Debenture
+1 000 000
+14%
+Bank loan
+   500 000
+11%
+Preference shares
+   500 000
+9%
+Ordinary shares
+   500 000
+7%
+Total
+2 500 000
+ 
+Required:
+ 
+(a) For each option, calculate the weighted average cost of capital.                                    
+(12)
+ 
+(b) (i) Select the best finance option for the directors of Lifecare plc.                                  
+(2) 
+ 
+ 
+(ii) State one reason for your choice of finance option.                                                   
+(2)
+ 
+(c) Explain to a potential investor the difference between ordinary shares and preference shares.
+(8) 
+
+
+--- Page Break ---
+
+P38650A 
+5
+ 
+Turn over
+ 
+The following figures are estimated for the nursing home:   
+ 
+• 
+In the first year, the home will care for 40 people a week, each paying £650 a week.
+ 
+• 
+In years 2, 3 and 4, the home will care for 50 people a week, each paying £675 a week.
+ 
+• 
+In years 1 and 2, running costs (including depreciation) will be £30 000 a week.      
+ 
+• 
+In years 3 and 4, running costs (including depreciation) will be £33 000 a week.
+ 
+• 
+Depreciation will be £750 000 per year for the first four years.
+ 
+• 
+Assume 52 weeks in a year
+ 
+• 
+Lifecare plc has a company policy that requires investments to have a positive net present value 
+within four years. 
+ 
+Required:
+ 
+(d) Calculate the Net Present Value of the project at the end of year 4.
+(16) 
+ 
+A table showing the discount factors is given.
+Year
+8%
+9%
+10%
+11%
+12%
+13%
+1
+0.926
+0.917
+0.909
+0.901
+0.893
+0.885
+2
+0.857
+0.842
+0.826
+0.812
+0.797
+0.783
+3
+0.794
+0.772
+0.751
+0.731
+0.712
+0.693
+4
+0.735
+0.708
+0.683
+0.659
+0.636
+0.613
+ 
+(e) Evaluate the opening of the new nursing home for Lifecare plc, using the calculations made, 
+and considering any other relevant factors.
+(12)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 11 of the question paper.
+
+
+--- Page Break ---
+
+P38650A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. Arkotari Limited is a car hire company. It has a fleet of cars for customers to hire.    
+ 
+The statements of financial position (balance sheets) of Arkotari Limited at 31 March 2010 and 
+31 March 2011 were as follows:
+ 31 March 2010
+ 31 March 2011
+                                                                        
+                   £
+                   £
+Non-Current (Fixed) Assets
+Non-Current (Fixed) assets at cost
+900 000
+600 000
+Provision for depreciation
+(320 000)
+(200 000)
+Non-Current (Fixed) assets net book value
+580 000
+400 000
+Current assets
+Inventories  (Stock)
+43 000
+37 750
+Trade receivables (Debtors)
+5 100
+6 200
+Bank
+-------------
+------------
+Cash
+5 460
+4 975
+                                                                            
+53 560
+48 925
+Current liabilities
+Trade payables (Creditors)
+(16 720)
+(21 340)
+Taxation due
+(6 750)
+(2 345)
+Proposed dividends
+(5 000)
+(4 000)
+Bank overdraft
+(12 880)
+(18 780)
+(41 350)
+(46 465)
+Non-Current (Long term) liabilities
+12% Bank loan
+(100 000)
+-----------
+______
+ ______
+Net assets
+492 210
+402 460
+Equity (Share capital and reserves)
+Ordinary shares of £1 each
+300 000
+200 000
+6% Preference shares of £1 each
+100 000
+100 000
+Capital redemption reserve
+----------
+100 000
+General reserve
+50 000
+----------
+Profit and loss reserve
+42 210
+2 460
+Total Equity (Share capital and reserves)
+492 210
+402 460
+
+
+--- Page Break ---
+
+P38650A 
+7
+ 
+Turn over
+ 
+Balances contained in the profit & loss appropriation account for the year ended 31 March 2011 
+included the following:
+£
+Net operating profit
+22 595
+Taxation
+(2 345)
+Profit after tax
+20 250
+Transfer from General reserve
+50 000
+Transfer to Capital redemption reserve
+(100 000)
+Dividends
+(10 000)
+Retained earnings  b/f
+42 210
+Retained earnings  c/f
+2 460
+ 
+Additional information relating to the year ended 31 March 2011:
+ 
+(i) At 31 March 2010, dividends of £3 000 were owed to preference shareholders. These were paid 
+during May 2010.
+ 
+(ii) On 1 April 2010, motor cars which cost £350 000, with a book value of £200 000, were sold 
+for £150 000.
+ 
+(iii) On 30 June 2010, the bank loan was repaid in full.
+ 
+(iv) A transfer from the General reserve of £50 000 was made. 
+ 
+(v) A computer system worth £50 000 was bought and paid for.
+ 
+(vi) On 1 October 2010, 100 000 £1 Ordinary shares were redeemed.
+ 
+ 
+• 
+An interim dividend of £3 000 was paid to Preference shareholders during October 2010.
+ 
+ 
+• 
+An interim dividend was paid to Ordinary shareholders during October 2010. 
+ 
+ 
+• 
+No final dividends for the year ended 31 March 2011 have been paid to any shareholders.
+ 
+(vii) Interest on the bank overdraft for the year was £3 270.
+ 
+Required:
+ 
+(a) A statement reconciling the net operating profit to the net cash flow from operating activities 
+for the year ended 31 March 2011.                                                                                             
+(12)
+ 
+(b) A cash flow statement for the year ended 31 March 2011 EITHER in accordance with
+ 
+ 
+• 
+Financial Reporting Standard (FRS) 1 Cash Flow Statements (revised) OR
+ 
+ 
+• 
+International Accounting Standard (IAS 7)                                                     
+(22)
+
+
+--- Page Break ---
+
+P38650A 
+8 
+ 
+(c) An analysis of the changes in bank and cash balances for the year ended 31 March 2011.                      
+   (6)  
+ 
+(d) Evaluate how well the directors of Arkotari Limited have managed the liquidity of the business 
+during the year ended 31 March 2011.                                                                        
+(12)
+                                                                                                        
+   (Total 52 marks) 
+Answer space for question 3 is on pages 12 to 16 of the question paper.
+
+
+--- Page Break ---
+
+P38650A 
+9
+ 
+Turn over
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. As the Finance Director of Goldstar Refrigerators plc, you report the financial position of the 
+company at a board meeting. Included in the report is a break-even analysis, which presents the 
+information on a graph.  The figures for last year, the year ended 31 March 2010, are shown on the 
+graph below.
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+1000
+2000
+3000
+4000
+Output
+Sales
+Revenue
+(£ million)
+5000
+6000
+7000
+Fixed Costs
+Total Costs
+Sales Revenue
+
+
+--- Page Break ---
+
+P38650A 
+10 
+ 
+The figures for the current year ended 31 March 2011 are as follows:
+Fixed costs
+£ 480 000
+Variable costs per refrigerator
+£160
+Selling price per refrigerator
+£240
+Number of refrigerators sold
+6 500
+ 
+You must present these figures at the next meeting, using the break even chart.
+ 
+Required:
+ 
+(a) Draw the figures for the year ended 31 March 2011 on the blank break even chart in the answer 
+booklet, for output between 0 and 6 500:
+ 
+ 
+• 
+fixed costs
+ 
+ 
+• 
+total costs
+ 
+ 
+• 
+sales revenue                                                                                                                                    
+(4)
+ 
+ 
+Label the following on the break even chart in the answer booklet, for the year ended 31 March 
+2011:
+ 
+ 
+• 
+break even point, in £ (pounds) and output
+ 
+ 
+• 
+margin of safety (output)
+ 
+ 
+• 
+angle of incidence
+(8)
+ 
+ 
+Shade in the area of profit.
+(2)
+ 
+(b) Calculate for the year ended 31 March 2011 the:
+ 
+ 
+• 
+profit or loss
+ 
+ 
+• 
+number of refrigerators sold to break even
+(10)
+ 
+(c) Evaluate the performance of Goldstar Refrigerators plc during the year ended 31 March 2011 
+by comparing the performance to the year ended 31 March 2010.                                                                           
+(8)
+(Total 32 marks)
+Answer space for question 4 is on pages 18 to 20 of the question paper.
+
+
+--- Page Break ---
+
+P38650A 
+11
+ 
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. SE Asia Rubber plc is a new company which produces tyres for cars.  SE Asia Rubber plc has a 
+two year contract to supply a major car producer, Byby plc, with 80 000 tyres per year.  
+ 
+The following information is available for the year ended 31 March 2011:
+Opening inventory (stock)  
+Nil
+Production  
+90 000 tyres per year
+Semi variable costs
+£264 000 per year plus £3 per tyre
+Fixed overheads   
+£8 000 per month
+Direct materials   
+£5 per tyre 
+Direct labour   
+2 hours work per tyre at a wage rate of 
+£6.50 per hour
+Selling price  
+£28 per tyre
+Closing inventory (stock)  
+10 000 tyres
+ 
+Required:
+ 
+(a) Prepare for management, an income statement (profit & loss statement) for the year ended 
+31 March 2011.  Closing inventory (stock) is to be valued using absorption costing.        
+(12)
+ 
+On 1 April 2011, FitFast Limited, a large chain of garages, requested SE Asia Rubber plc to supply 
+18 000 tyres during April at a price of £24 per tyre.  
+ 
+Required:
+ 
+(b) Advise management whether or not to sell the 10 000 tyres in the inventory (stock) to FitFast 
+Limited at a price of £24 per tyre, to meet part of the order.
+(6)
+ 
+If SE Asia Rubber plc decides to sell the inventory (stock) of 10 000 tyres to Fitfast Limited, the 
+company has two options to supply the remainder of the order: 
+ 
+Option 1 
+ 
+ SE Asia Rubber plc will produce the 8 000 extra tyres needed to fulfil the order. This would require 
+workers to work overtime at a wage rate of £10.50 an hour. Other costs remain the same.
+ 
+Option 2
+ 
+ SE Asia Rubber plc can buy the 8 000 extra tyres at a price of £22 each from another firm.  
+
+
+--- Page Break ---
+
+P38650A 
+12 
+ 
+Required:
+ 
+(c) Using the financial information above, advise which one of the three following possibilities SE 
+Asia Rubber plc should select: 
+ 
+ 
+• 
+Option 1              
+ 
+ 
+• 
+Option 2
+ 
+ 
+• 
+reject the order
+ 
+ 
+Use marginal costing in your answer.
+(6)
+ 
+(d) Evaluate non-financial factors that may be considered by SE Asia Rubber plc in making the 
+decisions in (b) and (c).
+         (8) 
+                                                                                                              
+(Total 32 marks)
+Answer space for question 5 is on pages 21 to 24 of the question paper.
+
+
+--- Page Break ---
+
+P38650A 
+13
+ 
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. HotSpot plc produces ovens, which are then sold and delivered around the country. The Sales teams 
+are split into 4 regions: North, South, East and West. HotSpot plc is preparing budgets for the next 
+trading period July to December 2011. 
+ 
+The following information is available for the period July to December 2011.
+ 
+(i) Sales in the North are forecast to be constant at 600 ovens per month.
+ 
+(ii) Sales in the South are steadily rising. Sales are expected to be 200 ovens in July. Sales are then 
+forecast to rise 10% each month compared to the previous month.
+ 
+(iii) Sales in the East are steadily declining.  Sales are expected to be 500 in July. Every month, 
+sales are then forecast to fall 5% each month compared to the previous month.
+ 
+(iv) Sales in the West are variable, with a figure of 240 in July.  Sales then fall at a constant rate to 
+a minimum of 195 in October.  Sales then start to rise in November, at a constant rate, to reach 
+215 in December.
+ 
+Required:
+ 
+(a) Prepare the total sales budget, in ovens, for HotSpot plc for the six month period July to 
+December 2011. Within the total sales budget, show the forecast sales for the North, South, 
+East and West regions for each month. Round your answers to the nearest whole number.
+                                                                                                                                   (13) 
+ 
+Hotspot plc produces ovens to meet the expected future sales figures for each region. 
+ 
+There is usually a delay between producing and selling the ovens. 
+ 
+• 
+Production for the North and the East is one month before sales. 
+ 
+• 
+Production for the West is two months before sales.  
+ 
+• 
+Production for the South is in the same month as sales.
+ 
+At 30 June 2011 there are 100 unsold ovens in the inventory (stock).  HotSpot plc will reduce this 
+inventory (stock) by 50 ovens per month, starting in July. 
+ 
+Required:
+ 
+(b) Prepare the total ovens production budget for HotSpot plc for the four month period July to 
+October 2011. Within the total ovens production budget, show the forecast production for the 
+North, South, East and West regions for each month.    
+                                                                                                                                   (11)
+ 
+(c) Evaluate the company’s policy of producing ovens for expected sales, rather than producing 
+ovens to match actual orders.                                                                                                             
+(8)
+                                                                                      
+                                                                                                           (Total 32 marks)
+Answer space for question 6 is on pages 25 to 27 of the question paper.
+
+
+--- Page Break ---
+
+P38650A 
+14 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Benhilton Construction plc was a company set up on 1 January 2010 to build a major new national 
+sporting stadium.  The funds provided by the shareholders were not sufficient to complete the 
+stadium.  The company therefore borrowed large sums of money from the banks. 
+ 
+The following is the Statement of financial position (Balance sheet) at 31 December 2010.
+£ million
+Non-current (Fixed) assets
+895
+Current assets
+120
+Current liabilities
+(95)
+Net current assets
+25
+Non-current (Long term) liabilities – 16% Bank loans
+(600)
+Net assets
+320
+Equity (Share capital and reserves)
+Ordinary shares of £1
+200
+Share premium
+100
+Profit & loss reserve
+10
+General reserve
+10
+Total equity (share capital and reserves)
+320
+ 
+During the year ended 31 December 2010, Benhilton Construction plc made only a small profit 
+after paying interest on the bank loans.  
+ 
+Required:
+ 
+(a) In January 2011, the directors decided to pay the maximum dividend possible to the ordinary 
+shareholders.    
+ 
+ 
+Calculate the 
+ 
+ 
+(i) dividend per share, expressing your answer in pence per share.
+(4) 
+ 
+ 
+(ii) dividend yield based upon a market price of £0.40 per share
+(3)
+                                                                                             
+
+
+--- Page Break ---
+
+P38650A 
+15
+ 
+Benhilton Construction plc was unable to make the capital repayments due on the bank loans in the 
+year. Following discussions with the banks, it was decided to convert £500 million of 16% bank 
+loans to £500 million of £1 ordinary shares at par, on 1 March 2011.
+ 
+Required:
+ 
+(b) Prepare the:
+ 
+ 
+(i) Journal entry to record this conversion
+(6)
+ 
+ 
+(ii) Ordinary share capital account for 2011, recording the conversion.
+(4)
+ 
+(c) Calculate the gearing ratio for the company after the conversion of the bank loans into shares, 
+clearly showing the formula used.                                                            
+(7)
+ 
+(d) Evaluate the position of the original shareholders, after the conversion of the bank loans into 
+ordinary shares.                                                                                           
+(8)
+                                                                                                             (Total 32 marks)
+Answer space for question 7 is on pages 28 to 31 of the question paper.
+
+
+--- Page Break ---
+
+P38650A 
+16 
+BLANK PAGE

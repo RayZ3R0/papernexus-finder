@@ -1,0 +1,1163 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P45074A
+©2015 Pearson Education Ltd.
+5/5/5/4/1/
+*P45074A0128*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Monday 15 June 2015 – Afternoon
+Time: 1 hour 40 minutes
+WCH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P45074A0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 The oxidation number of oxygen in hydrogen peroxide, H2O2, is
+ 
+ 
+A +2
+ 
+ 
+B 0
+ 
+ 
+C –1
+ 
+ 
+D –2
+(Total for Question 1 = 1 mark)
+2 Copper reacts with nitrate ions, NO3
+–, in acid conditions to form copper(II) ions and 
+nitrogen(IV) oxide.
+ 
+By considering the changes in the oxidation numbers of copper and nitrogen, it can 
+be deduced that the redox reaction involves
+ 
+ 
+A 1 mol of copper reacting with 2 mol of nitrate ions.
+ 
+ 
+B 2 mol of copper reacting with 1 mol of nitrate ions.
+ 
+ 
+C 1 mol of copper reacting with 4 mol of nitrate ions.
+ 
+ 
+D 4 mol of copper reacting with 1 mol of nitrate ions.
+(Total for Question 2 = 1 mark)
+3 The Ecell for a reaction is +1.00 V.  What can be deduced about this reaction?
+ 
+ 
+A At equilibrium there will be mainly reactants.
+ 
+ 
+B At equilibrium there will be mainly products.
+ 
+ 
+C At equilibrium there will be approximately equal amounts of reactants and 
+products.
+ 
+ 
+D It is impossible to estimate the relative amounts of reactants and products at 
+equilibrium because the Ecell was not measured under standard conditions.
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P45074A0328*
+Turn over    
+4 The cell shown in the diagram below was set up.
+ 
+The emf of this cell under standard conditions is +2.43 V.   
+The E
+9 value for the Ag+(aq)|Ag(s) half cell is +0.80 V.
+ 
+What is the E
+9 value for the Ti2+(aq)|Ti(s) half cell?
+ 
+ 
+A +3.23 V
+ 
+ 
+B +1.63 V
+ 
+ 
+C –1.63 V
+ 
+ 
+D –3.23 V
+(Total for Question 4 = 1 mark)
+5 In the hydrogen-oxygen fuel cell, oxygen is
+ 
+ 
+A oxidized at the negative electrode.
+ 
+ 
+B oxidized at the positive electrode.
+ 
+ 
+C reduced at the negative electrode.
+ 
+ 
+D reduced at the positive electrode.
+(Total for Question 5 = 1 mark)
+V
+titanium strip
+silver strip
+salt bridge
+silver nitrate 
+solution
+titanium(II) nitrate 
+solution
+PMT
+
+
+--- Page Break ---
+
+4
+*P45074A0428*
+6 The electronic configuration of the element vanadium is
+ 
+3d 
+4s
+A
+[Ar]
+ѦѨ
+ѦѨ
+Ѧ
+B
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+C
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+D
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+ѦѨ
+(Total for Question 6 = 1 mark)
+7 Transition metals typically form a number of ions which are stable in aqueous 
+solution.  The best explanation for this property is that
+ 
+ 
+A the differences in the successive ionization energies are similar to the 
+differences in hydration enthalpies of the ions.
+ 
+ 
+B all the ions are formed by the removal of electrons from the d subshell.
+ 
+ 
+C the ionization energies of transition metals are low.
+ 
+ 
+D the hydration enthalpies of transition metal ions are always more exothermic 
+than those of ions of s and p block metals.
+(Total for Question 7 = 1 mark)
+8 Which of the following species never combine with ligands to form complexes?
+ 
+ 
+A Positively charged ions of d block elements.
+ 
+ 
+B Neutral atoms of d block elements.
+ 
+ 
+C Negatively charged ions of d block elements.
+ 
+ 
+D Positively charged ions of p block elements.
+(Total for Question 8 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P45074A0528*
+Turn over    
+9 Transition metal complexes are formed when ethanedioate ions and ethanoate ions 
+are added separately to aqueous solutions of transition metal ions.
+ 
+The complexes formed by the bidentate ethanedioate ligands are more stable than 
+the complexes formed by the monodentate ethanoate ligands.  This is because
+ 
+ 
+A ethanedioate ligands form stronger bonds with the metal ion of a complex 
+than do ethanoate ligands.
+ 
+ 
+B the formation of ethanedioate complexes increases the number of particles in 
+the solution.
+ 
+ 
+C ethanedioic acid is a stronger acid than ethanoic acid.
+ 
+ 
+D ethanedioic acid is a weaker acid than ethanoic acid.
+(Total for Question 9 = 1 mark)
+10 If the temperature of the nitration of benzene is allowed to rise too high, dinitration 
+and trinitration can occur.  This is evidence that the
+ 
+ 
+A nitro group is electron withdrawing.
+ 
+ 
+B nitro group is electron donating.
+ 
+ 
+C delocalisation energy of nitrobenzene is greater than that of benzene.
+ 
+ 
+D delocalisation energy of nitrobenzene is less than that of benzene.
+(Total for Question 10 = 1 mark)
+11 The benzene molecule may be represented in two ways:
+ structure I
+structure II
+ 
+Which of the following does not provide evidence that structure I is the better 
+representation of benzene?
+ 
+ 
+A Infrared spectroscopy
+ 
+ 
+B High performance liquid chromatography
+ 
+ 
+C Thermochemistry
+ 
+ 
+D X-ray diffraction
+(Total for Question 11 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P45074A0628*
+12 When phenol, C6H5OH, reacts with excess bromine water, the organic product is
+A
+O
+Br
+H
+B
+O
+Br
+H
+Br
+Br
+C
+O
+Br
+Br
+Br
+Br
+D
+O
+Br
+Br
+Br
+Br
+Br
+Br
+(Total for Question 12 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P45074A0728*
+Turn over    
+13 Ammonia, butylamine and phenylamine are dissolved in separate samples of water to 
+form solutions of the same concentration.  The pH of each solution was measured.
+ 
+The order of increasing pH will be
+ 
+ 
+A ammonia < butylamine < phenylamine
+ 
+ 
+B butylamine < ammonia < phenylamine
+ 
+ 
+C phenylamine < ammonia < butylamine
+ 
+ 
+D phenylamine < butylamine < ammonia
+(Total for Question 13 = 1 mark)
+14 Aromatic amines may be converted into benzenediazonium ions.  What are the most 
+suitable reagents and conditions for this reaction?
+Reagent 1
+Reagent 2
+Temperature / °C
+A
+NaNO2
+sulfuric acid
++55
+B
+NaNO3
+hydrochloric acid
++5
+C
+NaNO2
+hydrochloric acid
++5
+D
+NaNO3
+sulfuric acid
++55
+(Total for Question 14 = 1 mark)
+15 The repeat unit of the polymer formed from ethane-1,2-diol and ethanedioic acid is
+ 
+ 
+A –OCH2CH2OOCCO–
+ 
+ 
+B –OCH2CH2OCOOCO–
+ 
+ 
+C –OCH2OOCCH2CO–
+ 
+ 
+D –OCCH2CH2OOCO–
+(Total for Question 15 = 1 mark)
+16 Poly(ethenol) is an example of
+ 
+ 
+A an addition polymer that is soluble in water.
+ 
+ 
+B an addition polymer that is insoluble in water.
+ 
+ 
+C a condensation polymer that is soluble in water.
+ 
+ 
+D a condensation polymer that is insoluble in water.
+(Total for Question 16 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P45074A0828*
+17 A compound gives an orange precipitate with 2,4-dinitrophenylhydrazine, Brady’s 
+reagent, but does not react with ammonia in the cold.   
+The compound could be
+A
+CH2
+H3C
+O
+OH
+CH
+O
+C
+CH3
+B
+H3C
+Cl
+O
+C
+CH2
+CH2
+C
+H3C
+O
+O
+C
+CH2
+C
+OH
+D
+H3C
+O
+O
+C
+CH2
+C
+Cl
+(Total for Question 17 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+9
+*P45074A0928*
+Turn over    
+18 Three compounds are possible monomers in the formation of a polymer:
+I
+H2C
+HC
+CH
+CH2
+H2N
+NH2
+II
+O
+C
+H2C
+CH2
+C
+Cl
+Cl
+O
+III
+H2C
+H2C
+CH2
+CH2
+HO
+OH
+ 
+Which of the following compounds could not react in the stated combination to form 
+a polymer?
+ 
+ 
+A I alone
+ 
+ 
+B I in combination with II
+ 
+ 
+C II in combination with III
+ 
+ 
+D I in combination with III
+(Total for Question 18 = 1 mark)
+19 Pentan-3-one reacts with 2,4-dinitrophenylhydrazine to form a derivative which has a 
+melting temperature of 156°C.
+ 
+A student attempted to synthesise pentan-3-one, and converted some of the product 
+into the same derivative.  The student’s derivative melted gradually from 148°C to 158°C.
+ 
+It is most likely that the student had synthesised
+ 
+ 
+A pure pentan-3-one.
+ 
+ 
+B impure pentan-3-one.
+ 
+ 
+C approximately equal amounts of two carbonyl derivatives, one with a melting 
+temperature of 148°C and the other with a melting temperature of 158°C.
+ 
+ 
+D a compound that was not a ketone.
+(Total for Question 19 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+10
+*P45074A01028*
+20 The purification of organic compounds prepared in aqueous mixtures often involves 
+solvent extraction.  Desirable properties of the solvent used include that it is
+ 
+ 
+A fully miscible in water and has a high boiling temperature.
+ 
+ 
+B fully miscible in water and has a low boiling temperature.
+ 
+ 
+C immiscible in water and has a high boiling temperature.
+ 
+ 
+D immiscible in water and has a low boiling temperature.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+11
+*P45074A01128*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Steel is the world’s most important structural metal; it is strong and cheap but it 
+corrodes rapidly if unprotected.  In its simplest form, steel is an alloy of iron and carbon.
+ 
+(a) The following method was used to determine the percentage of iron in a sample 
+of wire.  Exactly 1.25 g of the wire was placed in a conical flask and about 50 cm3 
+of dilute sulfuric acid (an excess) was added.  The flask was closed as shown in the 
+diagram below.
+ 
+ 
+When all of the iron in the wire had been converted to iron(II) sulfate, the 
+contents of the flask were used to make 250.0 cm3 of solution with distilled water.
+ 
+ 
+25.00 cm3 portions of this final solution were placed in a conical flask, acidified 
+with an equal volume of dilute sulfuric acid and then titrated with a  
+potassium manganate(VII) solution of concentration 0.0195 mol dm–3.   
+The mean titre was 22.15 cm3.
+ 
+ 
+(i) Write the equation for the reaction between iron and dilute sulfuric acid.  
+Include state symbols in your answer.
+(1)
+glass rod
+glass tube
+rubber tube 
+with slit
+PMT
+
+
+--- Page Break ---
+
+12
+*P45074A01228*
+ 
+ 
+(ii) Suggest why the conical flask was not left open, and how the labelled part of 
+the apparatus shown in the diagram works.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State the essential steps of the procedure for making up the reaction mixture 
+to 250.0 cm3 for use in the titration.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Write the ionic equation for the titration reaction to show that 5 mol of iron(II) ions 
+react with 1 mol of manganate(VII) ions.  State symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+13
+*P45074A01328*
+Turn over    
+ 
+ 
+(v) Calculate the percentage by mass of iron in the wire.  Give your answer to 
+three significant figures.
+(4)
+ 
+ 
+(vi) Describe the colour change at the end-point of the titration.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P45074A01428*
+ 
+ 
+(vii) One student who carried out this experiment forgot to acidify the mixture in 
+the conical flask before the titration.
+ 
+ 
+ 
+A brown precipitate formed before the end-point.
+ 
+ 
+ 
+Identify the brown precipitate and explain how this error affects the titration 
+value.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The rusting of iron is an electrochemical process.  A piece of iron with a droplet 
+of water on its surface operates as an electrochemical cell.  In the first stage of 
+corrosion, iron is oxidized to iron(II) ions in the anodic area and the electrons 
+produced travel to the cathodic area where oxygen from the air is reduced.
+iron
+water
+anodic area
+cathodic area
+PMT
+
+
+--- Page Break ---
+
+15
+*P45074A01528*
+Turn over    
+ 
+ 
+(i) From the information about standard electrode potentials on pages 14 and 15 
+of the Data Booklet, write the ionic half equations for the reactions taking place 
+at the anodic area and at the cathodic area.  State symbols are not required.
+(2)
+Anodic area
+Cathodic area
+ 
+ 
+(ii) Calculate E 
+9
+cell for the overall reaction in (b)(i).
+(1)
+ 
+ 
+(iii) By considering the rusting mechanism described in part (b), suggest why the 
+presence of salt in the water droplet speeds up rusting.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) The corrosion of oil pipelines made of steel is prevented by connecting the 
+pipeline to magnesium blocks.  Suggest how this method works.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 20 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P45074A01628*
+22 Crystals of copper(II) sulfate dissolve in water to form a blue solution, A.  When dilute 
+aqueous ammonia is added to this solution, a pale blue precipitate, B, forms which 
+dissolves in excess aqueous ammonia to form a dark blue solution, C.
+ 
+(a) (i) Give the formula of the copper species in A, B and C.  You should include all 
+of the ligands present in each species.
+(3)
+A ...............................................................................................................................................................................................................................................................................
+B ................................................................................................................................................................................................................................................................................
+C ................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why solution A is coloured.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain why solution A is a different colour to solution C.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P45074A01728*
+Turn over    
+ 
+(b) A more concentrated solution of C may be prepared by using concentrated 
+aqueous ammonia in place of dilute aqueous ammonia.  The crystalline sulfate of 
+C may be obtained by cooling the mixture in an ice bath and adding ethanol.  The 
+filtered crystals may be recrystallized using ethanol as the solvent.
+ 
+ 
+The steps of the recrystallization are summarised below.  In the spaces provided, 
+explain the purpose of each step, referring particularly to any words in bold type.
+(5)
+Step 1  The solid was dissolved in the minimum amount of hot ethanol.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Step 2  The hot solution was filtered.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Step 3  The filtrate was cooled in an ice bath.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Step 4  The mixture was filtered using suction filtration.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+*P45074A01828*
+23 This question is about an unknown organic compound, Q.
+ 
+The percentage composition by mass of Q is
+ 
+carbon = 37.8%; hydrogen = 6.30%; chlorine = 55.9%.
+ 
+(a) Calculate the empirical formula of Q.
+(2)
+ 
+(b) The mass spectrum of Q is shown below.
+ 
+ 
+(i) Use your answer to part (a) and the mass spectrum to deduce the molecular 
+formula of Q.
+(1)
+....................................................................................................................................................................................................................................................................................
+100
+80
+60
+40
+20
+0
+Relative 
+intensity
+m/e
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+140
+130
+PMT
+
+
+--- Page Break ---
+
+19
+*P45074A01928*
+Turn over    
+ 
+ 
+(ii) Explain why there are three peaks in the molecular ion region  
+(m/e from 126 to 130) of the mass spectrum of Q.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State why the peak at m/e = 126 is the highest of the three peaks in the 
+molecular ion region.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+20
+*P45074A02028*
+ 
+ 
+*(iv) Q reacts with aqueous sodium hydroxide to form an organic compound, R.
+ 
+ 
+ 
+The functional groups of compound R are on different carbon atoms.
+ 
+ 
+ 
+Compound R reacted slowly with sodium, producing a total of one mole of 
+hydrogen gas per mole of R.
+ 
+ 
+ 
+When compound R was heated under reflux with excess acidified  
+sodium dichromate(VI), an organic compound, S, was formed.   
+Compound S reacted rapidly with sodium, producing a total of 0.5 mol of 
+hydrogen gas per mole of S.
+ 
+ 
+ 
+Draw the displayed formulae of the two possible structures for compound S.  
+Explain how your structures are consistent with these data.
+(5)
+Structure I
+Structure II
+Explanation ...................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P45074A02128*
+Turn over    
+ 
+ 
+(v) Compound S reacted with iodine dissolved in aqueous sodium hydroxide, 
+producing a pale yellow precipitate with an antiseptic smell.
+ 
+ 
+ 
+Identify the pale yellow precipitate and hence identify which of the structures 
+that you have given in (b)(iv) is compound S.  Explain your reasoning.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Name compound R and give the equation for its reaction with sodium.
+(3)
+R =  .........................................................................................................................................................................................................................................................................
+Equation
+(Total for Question 23 = 16 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+22
+*P45074A02228*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24
+Oil of cloves
+ 
+Oil of cloves is a traditional remedy for toothache; it is a topical treatment, which 
+means that it is applied externally.  The main active ingredient of oil of cloves is 
+eugenol, which also gives cloves their characteristic smell.  The structure of eugenol is 
+shown below.
+HC
+CH2
+H2C
+OH
+O
+CH3
+eugenol
+ 
+(a) A student suggested that eugenol could be prepared by an electrophilic 
+substitution of 2-methoxyphenol, which is produced in the gut of desert locusts.  
+This compound is one of the main components of the pheromones that cause 
+locust swarming.  The structure of 2-methoxyphenol is shown below.
+OH
+O
+CH3
+2-methoxyphenol 
+ 
+ 
+(i) Use your knowledge of electrophilic substitution reactions to suggest the 
+structure of an electrophile that might be used in this reaction.
+(1)
+PMT
+
+
+--- Page Break ---
+
+23
+*P45074A02328*
+Turn over    
+ 
+ 
+(ii) Suggest an organic compound that could be used to produce the electrophile 
+that you have given in (a)(i).
+(1)
+ 
+ 
+(iii) Write the mechanism for the electrophilic substitution to prepare eugenol 
+from 2-methoxyphenol, using the electrophile that you have given in (a)(i).
+(3)
+PMT
+
+
+--- Page Break ---
+
+24
+*P45074A02428*
+ 
+(b) Eugenol has been used in the manufacture of vanillin, the compound responsible 
+for the flavour of vanilla.  The process involves the conversion of eugenol to 
+its isomer isoeugenol, which is then oxidized by hydrogen peroxide with a 
+vanadium(V) oxide catalyst.
+ 
+ 
+(i) Isoeugenol exists as two stereoisomers, whereas eugenol has just one 
+structure.  State the type of stereoisomerism shown by isoeugenol and explain 
+why it can show this type of stereoisomerism, whereas eugenol does not.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+HC
+CH2
+H2C
+OH
+O
+CH3
+CH
+CH3
+HC
+OH
+O
+CH3
+O
+C
+OH
+O
+H
+CH3
+C
+H2C
+OH
+O
+CH3
+O
+KOH
+H2O2 / V2O5
++
+eugenol
+vanillin
+isoeugenol
+methyl vanillyl ketone
+CH3
+PMT
+
+
+--- Page Break ---
+
+25
+*P45074A02528*
+Turn over    
+ 
+ 
+*(ii) Discuss whether or not high resolution proton nmr spectroscopy could be 
+used to distinguish between eugenol and a single isomer of isoeugenol.
+ 
+ 
+ 
+You should consider the numbers of peaks in the spectra, their splitting 
+patterns and the areas under the peaks.  You are not expected to suggest 
+chemical shift values.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest, in outline, a mechanism by which vanadium(V) oxide acts as a 
+catalyst for the reaction between hydrogen peroxide and isoeugenol to form 
+vanillin.  You are not expected to give equations for the mechanism.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+26
+*P45074A02628*
+ 
+ 
+(iv) A student suggested that the infrared spectroscopy data on page 5 of the 
+Data Booklet could be used to show whether the purified vanillin contains a 
+trace of methyl vanillyl ketone.
+ 
+ 
+ 
+Explain the basis of this idea and suggest why it may not work in practice.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The Zeisel method for determining the purity of vanillin involves estimating the 
+percentage by mass of methoxy group (CH3O) in the sample and comparing this 
+with the percentage in pure vanillin.
+ 
+ 
+In a sequence of reactions, each methoxy group produces iodine which is 
+estimated by titration with a sodium thiosulfate solution of known concentration.  
+The Zeisel sequence is
+ 
+ 
+Step 1 
+ROCH3 + HI → ROH + CH3I
+ 
+ 
+Step 2 
+CH3I + Br2 → CH3Br + IBr
+ 
+ 
+Step 3 
+IBr + 3H2O + 2Br2 → HIO3 + 5HBr
+ 
+ 
+Step 4 
+IO3
+– + 5I– + 6H+ → 3I2 + 3H2O
+ 
+ 
+Step 5 
+I2 + 2S2O3
+2– → S4O6
+2– + 2I−
+ 
+ 
+(i) Deduce the number of moles of thiosulfate ions that are equivalent to one 
+mole of methoxy group.  Explain your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+27
+*P45074A02728*
+ 
+ 
+(ii) A sample of vanillin was found to have 20.09% by mass of  
+methoxy group.  Calculate the percentage purity of the vanillin.
+(3)
+(Total for Question 24 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+28
+*P45074A02828*
+PMT

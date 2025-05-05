@@ -1,0 +1,1031 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42984A
+©2013 Pearson Education Ltd.
+6/6/7/1/1/
+*P42984A0124*
+Edexcel GCE
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+Wednesday 12 June 2013 – Afternoon
+Time: 1 hour 40 minutes
+6CH04/01R
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*P42984A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer  
+with a cross 
+.
+1 An important step in the production of sulfuric acid is the oxidation of sulfur dioxide.
+2SO2(g)  +  O2(g)    2SO3(g)  H  =  –196 kJ mol–1
+ 
+Which of the conditions below is best suited to produce a high yield of sulfur trioxide, 
+SO3?
+ 
+ 
+A 1 atm pressure and 800 °C.
+ 
+ 
+B 2 atm pressure and 800 °C.
+ 
+ 
+C 1 atm pressure and 400 °C.
+ 
+ 
+D 2 atm pressure and 400 °C.
+(Total for Question 1 = 1 mark)
+2 Which of the following statements is true about all substances that form acidic 
+solutions in water?
+ 
+ 
+A They are corrosive.
+ 
+ 
+B They are liquids.
+ 
+ 
+C They contain hydrogen atoms.
+ 
+ 
+D They form H+ (aq) ions.
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P42984A0324*
+Turn over    
+3 Select the correct pH for each of the following solutions.
+ 
+(a) Nitric acid, HNO3, of concentration 2 mol dm–3, assuming it is fully dissociated.
+(1)
+ 
+ 
+A –0.3
+ 
+ 
+B  0.0
+ 
+ 
+C  0.3
+ 
+ 
+D  2.0
+ 
+(b) Sodium hydroxide, NaO H, of concentration 2 mol dm–3, 
+using Kw = 1.0 × 10–14 mol2 dm–6
+(1)
+ 
+ 
+A –13.7
+ 
+ 
+B  13.7
+ 
+ 
+C  14.0
+ 
+ 
+D  14.3
+ 
+(c) Ethanoic acid, CH3COOH, of concentration 2 mol dm
+–3, making the usual 
+assumptions.
+ 
+ 
+Ka  =  [
+][
+]
+[
+H
+CH COO
+CH COOH]
++
+−
+3
+3
+  =  1.7  ×  10–5 mol dm–3
+(1)
+ 
+ 
+A 2.2
+ 
+ 
+B 2.4
+ 
+ 
+C 4.5
+ 
+ 
+D 4.8
+ 
+(d) The mixture formed when 25 cm3 of 2 mol dm–3 sodium hydroxide solution is 
+added to 50 cm3 of 2 mol dm–3 ethanoic acid, for which Ka = 1.7 × 10–5 mol dm–3.
+(1)
+ 
+ 
+A 2.2
+ 
+ 
+B 2.5
+ 
+ 
+C 4.5
+ 
+ 
+D 4.8
+(Total for Question 3 = 4 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42984A0424*
+4 A solution of 2,4-dinitrophenylhydrazine (Brady’s reagent) is used as a test for organic 
+functional groups.
+ 
+(a) The positive result of the test is the formation of
+(1)
+ 
+ 
+A a yellow solution.
+ 
+ 
+B an orange precipitate.
+ 
+ 
+C a red solution.
+ 
+ 
+D a green precipitate.
+ 
+(b) Which of the following gives a positive result with a solution of  
+2,4-dinitrophenylhydrazine?
+(1)
+ 
+ 
+A Only aldehydes
+ 
+ 
+B Only ketones
+ 
+ 
+C Only aldehydes and ketones
+ 
+ 
+D Any compound containing the C
+O group
+ 
+(c) The initial attack by 2,4-dinitrophenylhydrazine, when it reacts, is by
+(1)
+ 
+ 
+A a free radical.
+ 
+ 
+B an electrophile.
+ 
+ 
+C a nucleophile.
+ 
+ 
+D a negative ion.
+ 
+(d) The product of a positive test, a 2,4-dinitrophenylhydrazone, contains which of 
+the following bonds?
+(1)
+ 
+ 
+A N
+N
+ 
+ 
+B C
+N
+ 
+ 
+C C
+C
+ 
+ 
+D C
+O
+(Total for Question 4 = 4 marks)
+PMT
+
+
+--- Page Break ---
+
+5
+*P42984A0524*
+Turn over    
+BLANK PAGE
+Turn over for Question 5
+PMT
+
+
+--- Page Break ---
+
+6
+*P42984A0624*
+5 This question is about the following isomeric compounds with the molecular formula 
+C4H8O and molar mass 72 g mol–1.
+ 
+A CH3CH2CH2CHO
+ 
+B (CH3)2CHCHO
+ 
+C CH3CH2COCH3
+ 
+D CH3CH
+CHCH2OH
+ 
+(a) Which compound would you expect to give a peak at m/e = 41 in its mass 
+spectrum?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(b) Which compound would NOT react with an acidified solution of potassium 
+dichromate(VI)?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(c) Which compound would give a pale yellow precipitate when reacted with iodine 
+in alkaline solution?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(d) Which compound can be reduced to give a chiral product?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+PMT
+
+
+--- Page Break ---
+
+7
+*P42984A0724*
+Turn over    
+ 
+(e) Which compound would NOT react with hydrogen cyanide under suitable 
+conditions to form a hydroxynitrile?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 5 = 5 marks)
+6 Transesterification involves the conversion of
+ 
+ 
+A esters into different esters.
+ 
+ 
+B esters into carboxylic acids.
+ 
+ 
+C cis carbon-carbon double bonds to the trans arrangement.
+ 
+ 
+D trans carbon-carbon double bonds to the cis arrangement.
+(Total for Question 6 = 1 mark)
+7 Biodiesel is formed by transesterification.  It is used as a fuel in preference to 
+untreated vegetable oils because
+ 
+ 
+A on combustion, biodiesel produces less carbon dioxide than vegetable oils.
+ 
+ 
+B on combustion, biodiesel produces more energy than vegetable oils.
+ 
+ 
+C biodiesel vaporises more easily than vegetable oils.
+ 
+ 
+D biodiesel is less volatile than vegetable oils.
+(Total for Question 7 = 1 mark)
+8 The main reason for hardening vegetable oils when producing low-fat spreads is to
+ 
+ 
+A prevent oxidation.
+ 
+ 
+B make the oil less viscous.
+ 
+ 
+C increase the melting temperature.
+ 
+ 
+D decrease the cholesterol content.
+(Total for Question 8 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P42984A0824*
+9 Which atoms are not detected by X-rays but are detected by nuclear magnetic 
+resonance imaging which also shows their environments?
+ 
+ 
+A Carbon
+ 
+ 
+B Hydrogen
+ 
+ 
+C Nitrogen
+ 
+ 
+D Oxygen
+(Total for Question 9 = 1 mark)
+10 In one type of high-performance liquid chromatography (HPLC), the stationary phase 
+is non-polar and a polar solvent is used as the eluent.  Which of the following would 
+travel through the chromatography column most quickly?
+ 
+ 
+A Tetrachloromethane
+ 
+ 
+B Chloromethane
+ 
+ 
+C Iodomethane
+ 
+ 
+D Hexane
+(Total for Question 10 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*P42984A0924*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+10
+*P42984A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+11 This question is about the equilibrium reaction below.
+Fe2+(aq)  + Ag+(aq)   Fe3+(aq)  +  Ag(s)
+ 
+The equilibrium is reached slowly.
+ 
+*(a) Describe the changes you would see if aqueous solutions of iron(II) sulfate and 
+silver nitrate were mixed and allowed to stand for a few hours.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The concentration of silver ions in the equilibrium mixture can be found by 
+titration with potassium thiocyanate.  Silver thiocyanate precipitates.
+Ag+(aq)  +  CNS–(aq)   AgCNS(s)
+ 
+ 
+When all the silver ions have reacted, a deep red complex ion of 
+iron(III) thiocyanate forms.
+ 
+ 
+In an experiment, 25.0 cm3 of 0.100 mol dm–3 silver nitrate solution was added 
+to 25.0 cm3 of 0.100 mol dm–3 of iron(II) sulfate solution, mixed thoroughly, and 
+allowed to stand overnight in an air-tight container.
+ 
+ 
+10.0 cm3 samples of the reaction mixture were then titrated with 0.0200 mol dm–3 
+potassium thiocyanate solution.  The average titre was 5.60 cm3.
+ 
+ 
+(i) The initial concentrations of silver ions and iron(II) ions in the reaction 
+mixture are the same.
+ 
+ 
+ 
+Calculate this initial concentration in mol dm–3.
+(1)
+PMT
+
+
+--- Page Break ---
+
+11
+*P42984A01124*
+Turn over    
+ 
+ 
+(ii) Calculate the number of moles of silver ions in the 10.0 cm3 sample at 
+equilibrium and hence calculate the equilibrium concentration of silver ions in 
+the mixture.
+(2)
+ 
+ 
+(iii) Deduce the equilibrium concentration of iron(II) ions.
+(1)
+ 
+ 
+(iv) Hence calculate the equilibrium concentration of iron(III) ions.
+(1)
+ 
+ 
+(v) Write the expression for the equilibrium constant, Kc, for the reaction
+Fe2+(aq)  +  Ag+(aq)    Fe3+(aq)  +  Ag(s)
+ 
+ 
+ 
+Calculate its value and give your answer, with appropriate units, to three 
+significant figures.
+(4)
+PMT
+
+
+--- Page Break ---
+
+12
+*P42984A01224*
+ 
+(c) (i) The relationship between the total entropy change for a reaction and the 
+equilibrium constant is
+S
+
+total  =  R ln K
+ 
+ 
+ 
+Calculate the total entropy change for this reaction, giving a sign and 
+appropriate units.
+ 
+ 
+ 
+[R = 8.31 J mol–1 K–1]
+(2)
+ 
+ 
+(ii) Fe2+(aq)  +  Ag+(aq)    Fe3+(aq)  +  Ag(s)
+
+
+
+S
+
+system for this reaction is –208.3 J mol–1 K–1
+ 
+ 
+ 
+Use ideas about entropy to explain why this value is negative.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Calculate the entropy change of the surroundings, S
+
+surroundings.
+(1)
+PMT
+
+
+--- Page Break ---
+
+13
+*P42984A01324*
+Turn over    
+ 
+ 
+(iv) Use your answer to (c)(iii) to calculate the standard enthalpy change, H
+, for 
+this reaction at 298 K.
+ 
+ 
+ 
+Hence state and explain the effect of increasing temperature on the value of 
+Stotal.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(d) After the samples from the original mixture for the titration are taken, the 
+remainder was filtered and then allowed to stand overnight, in an air-tight 
+container at the same temperature.  Another 10.0 cm3 sample was taken and 
+titrated.  How, if at all, would you expect the titre to change?
+ 
+ 
+Justify your answer.  A calculation is not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+(Total for Question 11 = 21 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P42984A01424*
+12 This question is about the reactions of butanoic acid, CH3CH2CH2COOH.  It has a foul 
+smell and behaves like a typical carboxylic acid.
+ 
+(a) (i) The addition of sodium carbonate solution is often used as a chemical test to 
+distinguish carboxylic acids, like butanoic acid, from other compounds, such 
+as aldehydes.
+ 
+ 
+ 
+Explain why old stocks of aldehydes often react with sodium carbonate 
+solution.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) How would the result of this test distinguish between a carboxylic acid and an 
+old stock of an aldehyde?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Write the balanced chemical equation, including state symbols, for the 
+reaction of sodium carbonate solution with butanoic acid.
+(2)
+  
+*(iv) Infrared spectroscopy is a good physical method to distinguish carboxylic 
+acids from other organic compounds.  Give the wavenumbers of two 
+characteristic absorptions for a carboxylic acid.  Indicate the bond responsible 
+for each absorption.  Suggest why one of the absorptions is broad.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P42984A01524*
+Turn over    
+ 
+ 
+(v) High resolution nuclear magnetic resonance spectroscopy is a suitable 
+physical method to use alongside infrared spectroscopy to identify butanoic 
+acid.  State the total number of peaks and suggest the splitting pattern for 
+each peak that you would expect for butanoic acid, CH3CH2CH2COOH.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Sketch the titration curve obtained when 50 cm3 of 0.10 mol dm–3 sodium 
+hydroxide solution is added to 25 cm3 of 0.10 mol dm–3 butanoic acid.
+(4)
+14 –
+12 –
+10 –
+8 –
+6 –
+4 –
+2 –
+10
+–
+20
+–
+30
+–
+40
+–
+50
+–
+Volume of NaOH(aq)/cm3
+pH
+PMT
+
+
+--- Page Break ---
+
+16
+*P42984A01624*
+ 
+(c) (i) What would you see when phosphorus pentachloride, PCl5, reacts with 
+butanoic acid?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the structural formula and name of the organic product of this reaction.
+(2)
+ 
+ 
+ 
+Structural formula
+Name  ....................................................................................................................................................................................................................................
+ 
+(d) (i) Give the name or formula of the organic product of the reaction between 
+butanoic acid and lithium tetrahydridoaluminate (lithium aluminium hydride).
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Water cannot be used as the solvent in this reaction because it reacts with 
+lithium tetrahydridoaluminate.  Suggest a suitable solvent.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State the type of reaction that takes place between butanoic acid and lithium 
+tetrahydridoaluminate.  Justify your classification.
+(2)
+Type  .....................................................................................................................................................................................................................................................................
+Justification  .................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P42984A01724*
+Turn over    
+ 
+(e) (i) Butanoic acid can be reacted with methanol to make methyl butanoate.  State 
+two conditions that help to speed up this reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the displayed formula of methyl butanoate.
+(1)
+ 
+ 
+(iii) Identify another chemical, by name or formula, which could be added to 
+methanol to make methyl butanoate.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iv) Give two advantages and one disadvantage of using the reaction occurring in 
+(e)(iii), compared to the reaction in (e)(i), when making methyl butanoate.
+(3)
+Advantages ................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Disadvantage  ..........................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 12 = 28 marks)
+TOTAL FOR SECTION B = 49 MARKS)
+PMT
+
+
+--- Page Break ---
+
+18
+*P42984A01824*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+19
+*P42984A01924*
+Turn over    
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+13 This question is about the elimination of hydrogen bromide from bromoalkanes by 
+reaction with alcoholic potassium hydroxide.
+C4H9Br  +  KOH    C4H8  +  KBr  +  H2O
+ 
+To investigate the kinetics of this reaction the following apparatus was used:
+ 
+A solution of concentrated potassium hydroxide in ethanol was refluxed and the gas 
+syringe connected as shown.
+ 
+0.6 cm3 of 1-bromobutane was added to the solution with a hypodermic syringe 
+through a rubber seal.
+ 
+A stop clock was started and the volume of gas, Vt, measured at 2 minute intervals, for 
+12 minutes.  When there was no further evolution of gas the volume of gas, Vfinal, was 
+76.5 cm3.
+ 
+(a) (i) Calculate the number of moles of 1-bromobutane used.  You will need the 
+values of the density and molar mass of 1-bromobutane from your Data 
+booklet.
+(2)
+Gas syringe
+HEAT
+Rubber seal
+PMT
+
+
+--- Page Break ---
+
+20
+*P42984A02024*
+ 
+ 
+(ii) Calculate the maximum volume of gaseous but-1-ene, in cm3, that could form.
+ 
+ 
+ 
+[Molar volume of a gas 24 000 cm3 under reaction conditions]
+ 
+ 
+ 
+Suggest two reasons why this volume is unlikely to form.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The results obtained are shown in the table below.
+Time t/min
+Volume of but-1-ene Vt/cm3 
+(Vfinal – Vt)/cm3
+0
+0
+76.5
+2
+31.5
+45.0
+4
+51.0
+25.5
+6
+62.5
+14.0
+8
+68.5
+ 8.0
+10
+72.0
+ 4.5
+12
+74.0
+ 2.5
+ 
+ 
+(i) Explain why a large excess of potassium hydroxide is used in this experiment.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P42984A02124*
+Turn over    
+ 
+ 
+(ii) Plot a graph of (Vfinal – Vt)/cm3 against t/min.
+(3)
+ 
+ 
+(iii) Suggest why the value of (Vfinal – Vt) was plotted on your graph.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*P42984A02224*
+ 
+ 
+(iv) Measure two successive half lives from your graph.
+(2)
+First half life  ........................................................................................................................................ min
+Second half life  ............................................................................................................................... min
+ 
+ 
+(v) Deduce the order of reaction with respect to 1-bromobutane.
+ 
+ 
+ 
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) In another experiment, an excess of 1-bromobutane is reacted with varying 
+concentrations of hydroxide ions.  The results for the initial rate of the reaction are 
+shown in the table below.
+Experiment Number
+[C4H9Br]
+/10–2 mol dm–3
+[OH–]
+/10–3 mol dm–3
+Initial rate
+/10–5 mol dm–3 min–1
+1
+2.50
+2.50
+5.00
+2
+2.50
+1.25
+2.50
+3
+2.50
+0.50
+1.00
+ 
+ 
+(i) Deduce the order of reaction with respect to hydroxide ions.  Justify your 
+answer using the data in the table.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the rate equation for the reaction using your answers to parts (b)(v) and 
+(c)(i).
+(1)
+PMT
+
+
+--- Page Break ---
+
+23
+*P42984A02324*
+ 
+ 
+(iii) Give the units of the rate constant.
+(1)
+ 
+ 
+*(iv) It is suggested that the reaction begins with the slow attack by a hydroxide 
+ion on a hydrogen atom in the 1-bromobutane, as shown below.
+ 
+ 
+ 
+Complete the electron pair movement for this reaction using curly arrows and 
+explain why this step is consistent with the rate equation for the reaction you 
+have given in (c)(ii).
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 13 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS
+TOTAL FOR PAPER = 90 MARKS
+C2H5
+ C 
+ C 
+ H C2H5CH=CH2 + H2O + Br–
+H
+H
+HO
+–:
+H
+Br
+PMT
+
+
+--- Page Break ---
+
+24
+*P42984A02424*
+PMT

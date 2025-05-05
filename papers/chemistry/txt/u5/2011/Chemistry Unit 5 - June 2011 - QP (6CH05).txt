@@ -1,0 +1,965 @@
+P38480A
+©2011 Edexcel Limited.
+7/7/5/3/
+*P38480A0124*
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your 
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+     Turn over
+Edexcel GCE
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry 
+(including synoptic assessment)
+You must have: Data Booklet
+Candidates may use a calculator.
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+6CH05/01
+Paper Reference
+Friday 24 June 2011 – Morning
+Time: 1 hour 40 minutes
+PMT
+
+
+--- Page Break ---
+
+2
+*P38480A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.
+If you change your mind, put a line through the box 
+ and then mark your new answer with
+a cross 
+.
+1 Four complex ions have the following formulae:
+ 
+A 
+Cu(edta)2í
+ 
+B 
+Zn(H2O)62+
+ 
+C 
+Ni(NH3)62+
+ 
+D 
+CrCl42í
+ 
+(a) Which complex ion is most likely to be tetrahedral in shape?
+(1)
+ 
+ A 
+ 
+ B 
+ 
+ C 
+ 
+ D 
+ 
+(b) Which complex ion is most likely not to be coloured?
+(1)
+ 
+ A 
+ 
+ B 
+ 
+ C 
+ 
+ D 
+ 
+(c) Each of these complex ions may be formed by ligand exchange from an aqua 
+complex.  For which complex ion is the entropy change of this reaction most 
+positive?
+(1)
+ 
+ A 
+ 
+ B 
+ 
+ C 
+ 
+ D 
+(Total for Question 1 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+3
+*P38480A0324*
+Turn over  
+2 When a few drops of aqueous ammonia are added to a solution containing [Cr(H2O)6]3+ 
+ions the product formed will be
+ 
+A [Cr(NH3)6]3+
+ 
+B Cr(H2O)3(OH)3
+ 
+C [Cr(NH3)4]3+
+ 
+D [Cr(H2O)2(OH)4]í
+(Total for Question 2 = 1 mark)
+3 Which of these statements about a standard hydrogen electrode, for which E
+9 = 0 V, is 
+not correct?
+ 
+A The hydrogen gas is at a pressure of 1 atm.
+ 
+B A solution containing 1 mol dmí3 of H+(aq) ions is used.
+ 
+C A platinum electrode is used.
+ 
+D The temperature is kept at 20 °C.
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P38480A0424*
+4 Four polymers labelled A to D have the following formulae:
+ 
+A 
+—–C—(CH2)4—C—N—(CH2)6—N—–
+O
+§
+©
+¨
+¨¨
+·
+¹
+¸
+¸¸
+H
+O
+H
+n
+ 
+B 
+n
+—–C—–C–—C–—C—––
+§
+©
+¨
+¨¨
+·
+¹
+¸
+¸¸
+H
+H
+OH H
+OH
+H
+H
+H
+ 
+C 
+—–C—–C––––––—C–—C–––––––—
+§
+©
+¨
+¨¨
+·
+¹
+¸
+¸¸
+H
+H
+OOCCH3 H
+H
+H
+H
+OOCCH3
+n
+ 
+D 
+—–C—–C–—C–—C—––
+§
+©
+¨
+¨¨
+·
+¹
+¸
+¸¸
+H
+H
+CH3 H
+CH3
+H
+H
+H
+n
+ 
+(a) Which polymer is most soluble in hot water?
+(1)
+ 
+ A 
+ 
+ B 
+ 
+ C 
+ 
+ D 
+PMT
+
+
+--- Page Break ---
+
+5
+*P38480A0524*
+Turn over  
+ 
+(b) Which polymer is formed from the monomer shown below?
+(1)
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+ 
+(c) Which polymer is a condensation polymer?
+(1)
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+(Total for Question 4 = 3 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+O
+O
+PMT
+
+
+--- Page Break ---
+
+6
+*P38480A0624*
+5 The formulae of some organic compounds labelled A to D are shown below.
+ 
+(a) Which compound reacts with sodium to form hydrogen?
+(1)
+ 
+ A
+ 
+ B
+ 
+ C
+ 
+ D
+ 
+(b) Which compound forms a green complex ion with CuSO4(aq)?
+(1)
+ 
+ A
+ 
+ B
+ 
+ C
+ 
+ D
+ 
+(c) Which compound forms an orange precipitate with 2,4-dinitrophenylhydrazine?
+(1)
+ 
+ A
+ 
+ B
+ 
+ C
+ 
+ D
+(Total for Question 5 = 3 marks)
+CH3
+O
+C
+CH3
+OH
+CH(CH3)2
+NH2
+A
+C
+B
+D
+PMT
+
+
+--- Page Break ---
+
+7
+*P38480A0724*
+Turn over  
+6 How many peaks would you expect to see in a low resolution proton nmr spectrum of 
+the ester HCOOCH2CH2CH3?
+ 
+A 8
+ 
+B 7
+ 
+C 4
+ 
+D 3
+(Total for Question 6 = 1 mark)
+7 In a high resolution proton nmr spectrum of ethyl ethanoate, CH3COOCH2CH3, the 
+peak due to the hydrogen atoms shown in bold would be a
+ 
+A singlet.
+ 
+B doublet.
+ 
+C triplet.
+ 
+D quartet.
+(Total for Question 7 = 1 mark)
+8 Which of these compounds, whose formulae are shown below, cannot exist as a racemic 
+mixture?
+ 
+A CH2ClCHClCOOH
+ 
+B HOOCCHClCOOH
+ 
+C CH3CHClCOOH
+ 
+D CH3CH(OH)COOH
+(Total for Question 8 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P38480A0824*
+9 Phenol reacts with bromine water whereas benzene reacts with bromine in the presence 
+of iron.
+ 
+(a) The mechanism for both these reactions is
+(1)
+ 
+ A 
+electrophilic substitution.
+ 
+ B 
+electrophilic addition.
+ 
+ C 
+nucleophilic substitution.
+ 
+ D 
+nucleophilic addition.
+ 
+(b) In the reaction of benzene with bromine, iron
+(1)
+ 
+ A 
+acts as a heterogeneous catalyst.
+ 
+ B 
+acts as a homogeneous catalyst.
+ 
+ C 
+reacts with the bromine to make iron(III) bromide, FeBr3.
+ 
+ D 
+allows bromine to attack the hydrogen atoms on benzene more readily.
+ 
+(c) Bromine reacts more readily with phenol than with benzene because the OH group 
+on phenol
+(1)
+ 
+ A 
+is a good leaving group.
+ 
+ B 
+attracts the bromine particles more readily.
+ 
+ C 
+is a good nucleophile.
+ 
+ D 
+increases the electron density of the ring.
+(Total for Question 9 = 3 marks)
+10 Ammonia (NH3), butylamine (CH3CH2CH2CH2NH2) and phenylamine (C6H5NH2) all 
+form alkaline solutions in water.  The order of increasing pH of equimolar solutions is
+ 
+ A 
+C6H5NH2   <   CH3CH2CH2CH2NH2   <   NH3
+ 
+ B 
+NH3   <   CH3CH2CH2CH2NH2   <   C6H5NH2
+ 
+ C 
+C6H5NH2   <   NH3   <   CH3CH2CH2CH2NH2
+ 
+ D 
+CH3CH2CH2CH2NH2   <   NH3   <   C6H5NH2
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P38480A0924*
+Turn over  
+11 The distance on a chromatogram moved by an individual amino acid, in a mixture of 
+different amino acids, mainly depends on
+ 
+A the molar mass of the amino acid.
+ 
+B the molar mass of the solvent used.
+ 
+C the intermolecular forces between the solvent and the stationary phase.
+ 
+D the intermolecular forces between the amino acid and both the solvent and the 
+stationary phase.
+(Total for Question 11 = 1 mark)
+12 Amino acids are crystalline solids with a high melting temperature because
+ 
+A each molecule has a large number of electrons. 
+ 
+B each molecule forms hydrogen bonds at both ends. 
+ 
+C a proton is transferred from one end of the molecule to the other.
+ 
+D their shape allows the molecules to pack close together. 
+(Total for Question 12 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P38480A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+13 Some reactions of benzene are shown below.
+ 
+(a) (i) Suggest the formula of reagent A in reaction 1.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation to show how the catalyst, AlCl3, reacts with reagent A to 
+form the species which attacks the benzene ring.
+(1)
+ 
+ 
+(iii) Draw the structure of the intermediate ion formed when the species in (ii) 
+attacks the benzene ring.
+(1)
+benzene
+CH3
+reaction 1
+reagent A with
+AlCl3 catalyst
+reaction 3
+reagent B
+SO3H
+compound X
+reaction 2
+methylbenzene
+CH3COCl with AlCl3 catalyst
+heat under reflux
+PMT
+
+
+--- Page Break ---
+
+11
+*P38480A01124*
+Turn over  
+ 
+(b) The methylbenzene formed in reaction 1 generally reacts in a similar way to 
+benzene but faster, as the ring is said to be activated. 
+ 
+ 
+(i) Explain how the presence of a methyl group activates the benzene ring. 
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Use your answer to (i) to explain why methylbenzene reacts faster.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) (i) Draw the structural formula of compound X, formed in reaction 2.
+(1)
+ 
+ 
+(ii) The organic product of reaction 2 is also formed when the same reactants, but 
+with an aluminium catalyst, are heated using microwave radiation.  Suggest two 
+reasons why this technique may be considered ‘greener’.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(d) Name reagent B needed for reaction 3.
+(1)
+................................................................................................................................................................................................................................................
+(Total for Question 13 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P38480A01224*
+14 This question is about synthetically produced painkillers and anaesthetics.
+ 
+(a) The local anaesthetic procaine can be synthesised from benzoic acid.  The simplified 
+route is shown below. 
+ 
+ 
+(i) Suggest the two reagents needed for step 1.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+COOH
+step 1
+step 2
+benzoic acid
+COOH
+NO2
+COCl
+NO2
+PCl5
+heat under reflux
+COOCH2CH2N(C2H5)2
+NO2
+step 4
+step 3
+COOCH2CH2N(C2H5)2
+NH2
+procaine
+PMT
+
+
+--- Page Break ---
+
+13
+*P38480A01324*
+Turn over  
+ 
+ 
+(ii) Draw the apparatus needed to heat under reflux in step 2.
+(3)
+ 
+ 
+(iii) Suggest why the reagents for the reaction in step 2 are
+(2)
+heated ...............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+under reflux .................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Give the structural formula for the organic reagent needed in step 3.
+(1)
+ 
+ 
+(v) What type of reaction is taking place in step 4?  Suggest the reagents used.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P38480A01424*
+ 
+(b) A student produced a sample of aspirin by the esterification of 9.40 g of
+2-hydroxybenzoic acid with excess ethanoic anhydride.
+ 
+ 
+After purification by recrystallization, 7.77 g of aspirin was obtained.
+ 
+ 
+[Mr of 2-hydroxybenzoic acid = 138, Mr of aspirin = 180]
+ 
+ 
+(i) Calculate the percentage yield obtained.
+(3)
+ 
+ *(ii) Outline how to purify a solid, such as aspirin, by recrystallization, using water 
+as the solvent. 
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+2-hydroxybenzoic acid
+aspirin
+OH
+C
+OH
+O
++
+(CH3CO)2O
++  CH3COOH
+C
+H3C
+O
+O
+C
+OH
+O
+   ethanoic anhydride
+PMT
+
+
+--- Page Break ---
+
+15
+*P38480A01524*
+Turn over  
+ 
+ 
+(iii) Explain what effect recrystallization has on the final yield.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) Paracetamol is found in many non-prescription painkillers, often in conjunction with 
+other compounds such as codeine.
+ 
+ 
+(i) Suggest, by name or formula, a reagent that could be used to form paracetamol 
+from 4-aminophenol.
+(1)
+ 
+ 
+(ii) Suggest why sales of non-prescription painkillers, often containing paracetamol 
+and codeine, are limited to 32 tablets. 
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain why paracetamol is only slightly soluble in water although it can form 
+hydrogen bonds with water.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 14 = 21 marks)
+paracetamol
+OH
+NHCOCH3
+PMT
+
+
+--- Page Break ---
+
+16
+*P38480A01624*
+15 Hydrogen gas can be used as a fuel in car engines by being burnt in a combustion 
+reaction or reacted with oxygen in a fuel cell to produce electricity.
+ 
+(a) Write half-equations for the reaction of hydrogen gas at the anode and oxygen gas at 
+the cathode in the fuel cell.
+(2)
+Anode
+Cathode
+ 
+(b) Describe one advantage of using hydrogen in fuel cells rather than burning the 
+hydrogen directly.  
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) Other fuels, such as ethanol, can also be used in fuel cells.  By considering the 
+possible sources of ethanol and hydrogen, explain why some scientists believe 
+the use of such cells could provide a more sustainable source of energy for cars, 
+compared with fossil fuels.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 15 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*P38480A01724*
+Turn over  
+16 This question is about the transition metal iron and some of its compounds.
+ 
+(a) Give the electronic configuration of the Fe3+ ion and use this to define what is meant 
+by a transition element.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ *(b) Iron will act as a surface catalyst in some gaseous reactions.  Outline the processes 
+that take place during such catalysis and suggest two reasons to explain why the 
+catalyst speeds up the reaction.
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*P38480A01824*
+ 
+(c) One of the components of rust, found on objects made from iron, is iron(III) hydroxide, 
+Fe(OH)3.  Use items 17, 19 and 44 from the Standard Electrode Potential table in your 
+data booklet to show how it is able to form in two steps, writing an equation for each 
+step.
+(4)
+ 
+(d) Haemoglobin is a complex containing iron(II) ions.
+ 
+ 
+Describe how nitrogen atoms in the haemoglobin bond to the iron(II) ions.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 16 = 12 marks)
+TOTAL FOR SECTION B = 48 MARKS
+PMT
+
+
+--- Page Break ---
+
+19
+*P38480A01924*
+Turn over  
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+17
+ 
+(a) Ethanol and dichromate(VI) ions in acidic solution react in the mole ratio 3:2.
+ 
+ 
+(i) Complete the two half-equations below. State symbols are not required.
+(2)
+Cr2O72–                            ĺ     Cr3+
+CH3CH2OH                               ĺ    CH3COOH
+Alcoholic drinks contain ethanol, CH3CH2OH, in aqueous solution.  The percentage of 
+alcohol in a drink can be determined by a redox titration, whilst the amount of alcohol 
+present on the breath of someone who has consumed such a drink can be estimated 
+using a breathalyser. 
+The earliest breathalysers used the colour change that occurs when dichromate(VI) 
+ions react with ethanol to measure the amount of alcohol.  Later models measure the 
+current from a fuel cell.  Cheaper versions of these meters are available for drivers to 
+buy for self-testing.  Some police forces also use fuel cell breathalysers in conjunction 
+with infrared breath analysers, which can determine the amounts of alcohol from an 
+infrared spectrum.
+In an experiment to find out the concentration of ethanol in a drink, a small beaker 
+containing 5.00 cm3 of a diluted sample of the drink is suspended above 10.0 cm3 of 
+excess acidified sodium dichromate(VI) solution, of concentration 0.0800 mol dm–3, 
+and left for 24 hours in a warm place.
+The ethanol vaporizes and reacts with some of the acidified sodium dichromate(VI) 
+ions.  Excess potassium iodide is then added to the unreacted acidified sodium 
+dichromate(VI), forming iodine, I2(aq).
+The I2(aq) is then titrated with a solution of sodium thiosulfate, Na2S2O3, of 
+concentration 0.0250 mol dm–3.
+5 cm3 of diluted sample
+10 cm3 of acidified 
+sodium dichromate(VI) 
+solution
+PMT
+
+
+--- Page Break ---
+
+20
+*P38480A02024*
+ 
+ 
+(ii) Use either the half-equations in (i) or that the mole ratio of
+CH3CH2OH:Cr2O72– is 3:2 to construct the ionic equation for the
+reaction between ethanol and acidified dichromate(VI) ions.  State symbols
+are not required.
+(1)
+ 
+ *(iii) The iodine formed in the experiment reacted completely with 34.40 cm3 of the 
+0.0250 mol dm–3 sodium thiosulfate solution.  Use this information, the fact 
+that the mole ratio of CH3CH2OH:Cr2O72– is 3:2 and the equations below, to 
+calculate the concentration of the ethanol in the 5.00 cm3 of the diluted sample 
+of the drink.
+(6)
+  Cr2O72– + 14H+ + 6Ií ĺ 2Cr3+ + 3I2 + 7H2O
+   2S2O32í + I2 ĺ S4O62í + 2Ií
+PMT
+
+
+--- Page Break ---
+
+21
+*P38480A02124*
+Turn over  
+ 
+ 
+(iv) The solution used in the experiment was made by adding 10.0 cm3 of the drink 
+to a 100 cm3 volumetric flask, making up the remainder of the volume using 
+distilled water.  Use the information and your final answer to (a)(iii) to calculate 
+the concentration, in mol dm–3, of ethanol in the undiluted drink.
+(1)
+ 
+ 
+(v) Suggest why the sample was suspended above the acidified sodium 
+dichromate(VI) solution, rather than simply being mixed with it.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Suggest two reasons why the apparatus was left in a warm place for 24 hours.  
+What would be the effect on the final result if this procedure were not followed?
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(vii) Do you think that this experiment gives a reliable result? Explain your answer.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*P38480A02224*
+ *(b) (i) Explain how each type of breathalyser, mentioned in the passage, shows the 
+amount of ethanol present.
+(3)
+Earliest type ...................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Fuel cell ............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Infrared .............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest why infrared breathalysers do not use the OH absorption to detect the 
+amount of alcohol on the breath.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*P38480A02324*
+ 
+ 
+(iii) Suggest why some police forces use infrared breathalysers together with fuel 
+cell breathalysers.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest one advantage and one disadvantage of buying a personal breathalyser. 
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 17 = 22 marks)
+TOTAL FOR SECTION C = 22 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*P38480A02424*
+PMT

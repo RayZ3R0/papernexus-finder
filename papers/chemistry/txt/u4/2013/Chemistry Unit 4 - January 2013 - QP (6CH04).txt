@@ -1,0 +1,1156 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P41214A
+©2013 Pearson Education Ltd.
+7/6/5/5/4/
+*P41214A0128*
+Edexcel GCE
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+Monday 14 January 2013 – Afternoon
+Time: 1 hour 40 minutes
+6CH04/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*P41214A0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes  
+on this section.  For each question, select one answer from A to D and put a cross in the box 
+.     
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Methods for investigating reaction rates include
+ 
+A colorimetry
+ 
+B collecting and measuring the volume of a gas
+ 
+C quenching, followed by titration with acid
+ 
+D quenching, followed by titration with iodine solution.
+ 
+ 
+Which method would be most suitable to investigate the rate of the following 
+reactions?
+ 
+(a) H2O2(aq)  +  2I
+(aq)  +  2H
++(aq)    2H2O(l)  +  I2(aq)
+(1)
+
+A
+
+B
+
+C
+
+D
+ 
+(b) C4H9Br(l)  +  OH
+−(aq)    C4H9OH(l)  +  Br
+−(aq)
+(1)
+
+A
+
+B
+
+C
+
+D
+(Total for Question 1 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P41214A0328*
+Turn over    
+2 For a given initial reactant pressure, the half-life for a first order gaseous reaction was 
+found to be 30 minutes.
+ 
+If the experiment were repeated at half the initial reactant pressure, the half-life would be
+
+A 15 minutes.
+
+B 30 minutes.
+
+C 45 minutes.
+
+D 60 minutes.
+(Total for Question 2 = 1 mark)
+3 To determine the activation energy (Ea) for a reaction, the variation of reaction rate 
+with temperature is investigated.
+ 
+The rate constant, k, for the reaction is related to the absolute temperature, T, by the 
+expression
+In 
+T
+constant
+a
+k
+E
+R
+= −
+× ⎛
+⎝⎜
+⎞
+⎠⎟+
+1
+ 
+where R is the gas constant.
+ 
+The activation energy for the reaction could be obtained by plotting a graph of
+ 
+ 
+vertical axis 
+horizontal axis
+
+A  
+k 
+T
+
+B  
+k 
+1
+T
+
+C  
+ln k 
+T
+
+D  
+ln k 
+1
+T
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P41214A0428*
+4 Energy is evolved when one mole of gaseous calcium ions is hydrated.  
+ 
+Ca2+(g)  +  aq    Ca2+(aq)
+ 
+This reaction is more exothermic than the corresponding value for barium ions, Ba2+, 
+because the
+
+A 
+ionization energy of calcium is greater than that of barium.
+
+B  
+lattice energy of calcium oxide is more exothermic than that of barium oxide.
+
+C  
+solubility of calcium hydroxide in water is less than that of barium hydroxide.
+
+D 
+ionic radius of Ca2+ is less than that of Ba2+.
+(Total for Question 4 = 1 mark)
+5 The following cycle represents the enthalpy changes w, x, y and z, occurring when an 
+ionic solute, AX2(s), dissolves in water.
+ 
+Which of the changes is the lattice energy of AX2(s)?
+
+A ½ w
+
+B − w
+
+C z
+
+D z  −  x  −  y
+(Total for Question 5 = 1 mark)
+A2+(g) + 2X–(g)
+A2+(aq) + 2X–(aq)
+AX2(s)
+w
+z
+x + y
+PMT
+
+
+--- Page Break ---
+
+5
+*P41214A0528*
+Turn over    
+6 The equation for the synthesis of methanol is
+ 
+CO(g)  +  2H2(g)    CH3OH(g)
+ 
+At equilibrium, when the temperature is 340 K, the total pressure is 20 atm.  The 
+moles of each component present at equilibrium are shown in the table below.
+Formula
+Equilibrium moles / mol
+Mole fraction
+CO
+0.15
+0.23
+H2
+0.32
+CH3OH
+0.18
+0.28
+ 
+(a) The mole fraction of hydrogen in the equilibrium mixture is
+(1)
+
+A 0.23
+
+B 0.46
+
+C 0.49
+
+D 0.92
+ 
+(b) The numerical value for the equilibrium partial pressure of the carbon monoxide, 
+in atmospheres, is
+(1)
+
+A 3.0
+
+B 4.6
+
+C 5.0
+
+D 9.2
+ 
+(c) Units for the equilibrium constant, Kp, for this reaction are
+(1)
+
+A no units
+
+B  atm
+
+C  atm−1
+
+D  atm−2
+(Total for Question 6 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*P41214A0628*
+7 An aqueous solution of ammonium chloride, NH4Cl, has a pH of less than 7 because
+
+A 
+the ammonium ions donate protons to water molecules giving rise to 
+oxonium ions, H3O
++(aq).  
+
+B 
+the chloride ions combine with hydrogen ions from water to form 
+hydrochloric acid, HCl(aq).
+
+C 
+an aqueous solution of ammonium chloride is unstable and evolves ammonia 
+gas, NH3(g), leaving dilute hydrochloric acid.
+
+D 
+the ammonium chloride reacts with carbon dioxide from the atmosphere 
+giving ammonium carbonate, (NH4)2CO3(aq), and hydrochloric acid, HCl(aq).
+(Total for Question 7 = 1 mark)
+8 Which one of the following indicators is most suitable for titrating ethanoic acid with 
+0.1 mol dm3 sodium hydroxide?
+ 
+(Refer to page 19 of your data booklet.) 
+
+A 
+Thymol blue (acid) 
+
+B 
+Bromothymol blue
+
+C 
+Thymol blue (base)
+
+D 
+Alizarin yellow R
+(Total for Question 8 = 1 mark)
+9 What is the conjugate base of the acid, HCO3
+−?
+
+A 
+H2CO3
+
+B 
+CO3
+2−
+
+C 
+OH−
+
+D 
+CO2
+(Total for Question 9 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+*P41214A0728*
+Turn over    
+10 What is the approximate pH of a buffer solution containing 0.20 mol of a weak acid, HA, 
+(pKa = 4.8) and 0.20 mol of the sodium salt of the acid, NaA, in a total volume of 1 dm3 
+of solution?
+
+A 7.0
+
+B 5.8
+
+C 4.8
+
+D 3.8
+(Total for Question 10 = 1 mark)
+11 Ethanal, CH3CHO, can be converted by a two-step synthesis into 2-hydroxypropanoic acid.
+C
+C
+H
+O
+OH
+O
+H
+H3C
+2-hydroxypropanoic acid
+ 
+The reagents and conditions are
+ 
+ 
+1st step 
+2nd step
+
+A Na2Cr2O7 and dilute H2SO4, 
+NaOH(aq), heat under reflux
+ 
+ 
+ 
+heat under reflux
+
+B Cl2,  UV light 
+NaOH(aq), heat under reflux
+
+C LiAlH4 in dry ether 
+CO2, room temperature
+
+D HCN, in presence of KCN(aq) 
+dilute HCl(aq), heat under reflux
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+*P41214A0828*
+12 Questions (a) to (d) concern the following organic compounds.
+ 
+Compound A    H3C
+C
+C
+OH
+CH3
+CH3
+H
+CH2CH3
+ 
+Compound B    H3C
+C
+C
+O
+CH3
+H
+H
+ 
+Compound C    H3C
+C
+C
+O
+CH3 H
+H
+ 
+Compound D    H3C
+C
+C
+O
+CH3
+CH3 O
+H
+PMT
+
+
+--- Page Break ---
+
+9
+*P41214A0928*
+Turn over    
+ 
+Select from A to D the compound that
+ 
+(a) forms iodoform with iodine in the presence of alkali.
+(1)
+
+A
+
+B
+
+C
+
+D
+ 
+(b) is chiral.
+(1)
+
+A
+
+B
+
+C
+
+D
+ 
+(c) reacts with Tollens’ reagent.
+(1)
+
+A
+
+B
+
+C
+
+D
+ 
+(d) can be oxidized to form a ketone.
+(1)
+
+A
+
+B
+
+C
+
+D
+(Total for Question 12 = 4 marks)
+PMT
+
+
+--- Page Break ---
+
+10
+*P41214A01028*
+13 Ethanoic acid, CH3COOH, can be converted into ethanoyl chloride, CH3COCl, by the 
+action of
+
+A 
+phosphorus(V) chloride.
+
+B 
+chlorine.
+
+C 
+dilute hydrochloric acid.
+
+D 
+concentrated hydrochloric acid.
+(Total for Question 13 = 1 mark)
+14 A compound, Q, gives an orange precipitate with 2,4-dinitrophenylhydrazine.  
+Compound Q is resistant to oxidation.
+ 
+On reduction, Q gives a product made up of a pair of optical isomers.
+ 
+Which of the following compounds could be compound Q?
+
+A 
+CH3CH2CH2COCH3
+
+B 
+CH3CH
+CHCH(OH)CH3
+
+C 
+CH3CH2CH2CH2CHO
+
+D 
+CH3CH2COCH2CH3
+(Total for Question 14 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+11
+*P41214A01128*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+15 Citric acid is found in lemon juice.
+ 
+The structure and formula of citric acid are shown below.
+H
+C
+COOH
+H
+HO
+C
+COOH
+H
+C
+COOH
+H
+C6H8O7
+ 
+(a) In the presence of a small amount of moisture, citric acid reacts with sodium 
+hydrogencarbonate as shown in the equation below.
+ 
+ 
+C6H8O7(s)  +  3NaHCO3(s)    Na3C6H5O7(s)  +  3CO2(g)  +  3H2O(l)
+ 
+ 
+Use the structural formula of citric acid to explain why one mole of citric acid 
+neutralizes three moles of sodium hydrogencarbonate.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P41214A01228*
+ 
+(b) You will need to refer to the data booklet in the calculations which follow.
+ 
+ 
+You should also use the values given below.
+compound
+S
+/ J mol−1 K−1
+Na3C6H5O7(s)
+200.5
+C6H8O7(s)
+199.9
+ 
+ 
+(i) Calculate the standard entropy change of the system, S
+
+system, for the 
+following reaction at 298 K.  Include a sign and units in your answer.
+(2)
+ 
+ 
+ 
+C6H8O7(s)  +  3NaHCO3(s)    Na3C6H5O7(s)  +  3CO2(g)  +  3H2O(l)
+ 
+ 
+*(ii) Explain how the sign of your answer to (b)(i) could be predicted from the 
+equation for the reaction between citric acid and sodium hydrogencarbonate.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P41214A01328*
+Turn over    
+ 
+ 
+(iii) Given that H
+
+298 for the reaction shown in (b)(i) is +70 kJ mol−1, calculate the 
+standard entropy change of the surroundings, S
+
+surroundings, for this reaction at    
+298 K.  Include a sign and units in your answer.
+(2)
+ 
+ 
+(iv) Calculate the total entropy change, S
+
+total, for this reaction at 298 K.
+(1)
+ 
+ 
+(v) What does the sign of S
+
+total suggest about this reaction at 298 K?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 15 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P41214A01428*
+16 Methanoic acid, HCOOH, is present in ant stings.
+ 
+A scientist analyzed 25.0 cm3 of an aqueous solution of methanoic acid, solution Z, by 
+titrating it with dilute sodium hydroxide, NaOH(aq).
+ 
+ 
+20.0 cm3 of sodium hydroxide was required to neutralize the methanoic acid
+ 
+ 
+The equation for the neutralization of methanoic acid is
+HCOOH(aq)  +  NaOH(aq)    HCOONa(aq)  +  H2O(l)
+ 
+(a) (i) Give the expression for Kw, the ionic product of water.  
+(1)
+ 
+ 
+(ii) The concentration of the sodium hydroxide, NaOH(aq), used in the titration 
+was 0.00750 mol dm−3.
+ 
+ 
+ 
+Calculate the pH of the sodium hydroxide solution.
+ 
+ 
+ 
+[Kw  =  1.00  x  10−14 mol2 dm−6 ]
+(2)
+ 
+(b) Use the equation for the reaction and the data from the titration to show that the 
+concentration of the methanoic acid in solution Z was 6.00 × 10−3 mol dm−3.
+(2)
+PMT
+
+
+--- Page Break ---
+
+15
+*P41214A01528*
+Turn over    
+ 
+(c) Methanoic acid is a weak acid.  
+ 
+ 
+(i) Explain the term weak acid.
+(2)
+Weak  ..................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Acid .......................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The equation for the dissociation of methanoic acid in aqueous solution is 
+shown below.
+HCOOH(aq)    HCOO−(aq)  +  H+(aq)
+ 
+ 
+ 
+Write the expression for the acid dissociation constant, Ka, for methanoic acid.
+(1)
+PMT
+
+
+--- Page Break ---
+
+16
+*P41214A01628*
+ 
+ 
+*(iii) At 298 K, the acid in ant stings has a concentration of 6.00 × 10–3 mol dm–3 and 
+a pH of 3.01.
+ 
+ 
+ 
+Calculate the value of Ka for methanoic acid at 298 K.
+ 
+ 
+ 
+State clearly any assumptions that you have made.
+(4)
+Calculation:
+Assumption(s):
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 16 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*P41214A01728*
+Turn over    
+17 Ethanoic acid and ethanol react together to form the ester ethyl ethanoate, 
+CH3COOC2H5, and water.
+ 
+CH3COOH(l)  +  CH3CH2OH(l)    CH3COOCH2CH3(l)  +  H2O(l)
+ 
+(a) (i) Give the expression for Kc.
+(1)
+ 
+ 
+(ii) An equilibrium was reached when the amounts of substances shown in the 
+table below were used.
+ 
+ 
+ 
+Complete the table to show the amounts of each substance present at 
+equilibrium.
+(2)
+Component
+CH3COOH(l)
+CH3CH2OH(l)
+CH3COOCH2CH3(l)
+H2O(l)
+Initial amount / mol
+0.40
+0.30
+0.00
+0.15
+Equilibrium amount / mol
+0.20
+ 
+ 
+(iii) Explain why Kc for this reaction has no units.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Calculate the numerical value of Kc.
+(1)
+PMT
+
+
+--- Page Break ---
+
+18
+*P41214A01828*
+ 
+(b) The esterification reaction above was carried out in the presence of hydrochloric 
+acid as the catalyst.
+ 
+ 
+State the effect on the equilibrium position and the rate of attainment of 
+equilibrium if the concentration of the acid catalyst were to be increased.  
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) Identify which bonds are broken and which bonds are made in the 
+esterification reaction.
+(2)
+Bonds broken:
+Bonds made:
+ 
+ 
+(ii) Explain why H for this reaction is not exactly zero.  
+ 
+ 
+ 
+(A calculation is not required.)
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) (i) State the relationship between Stotal and the equilibrium constant, K, of a 
+reaction.
+(1)
+PMT
+
+
+--- Page Break ---
+
+19
+*P41214A01928*
+Turn over    
+  
+ 
+*(ii) Use entropy considerations and your answer to (d)(i) to predict any effect 
+of an increase in temperature on the value of the equilibrium constant of 
+a reaction for which H is zero.  Assume that Ssystem does not change with 
+temperature.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e)  An alternative method for preparing ethyl ethanoate is to react ethanoyl chloride 
+with ethanol.  
+ 
+ 
+(i) Give the equation for the reaction.
+(1)
+ 
+ 
+(ii) Draw the skeletal formula of ethyl ethanoate.
+(1)
+ 
+ 
+(iii) Ethanoyl chloride also reacts with concentrated ammonia.  Draw the 
+displayed formula of the organic product of this reaction.
+(1)
+PMT
+
+
+--- Page Break ---
+
+20
+*P41214A02028*
+ 
+(f) (i) Complete the equation below for the alkaline hydrolysis of ethyl ethanoate 
+using sodium hydroxide.  State symbols are not required.
+(1)
+ 
+ 
+ 
+CH3COOCH2CH3   +   NaOH   
+ 
+ 
+(ii) Explain why the reaction in (f)(i) gives a better yield of the alcohol compared 
+with acid hydrolysis of the ethyl ethanoate.  
+(1)
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+(Total for Question 17 = 19 marks)
+PMT
+
+
+--- Page Break ---
+
+21
+*P41214A02128*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+22
+*P41214A02228*
+18 Bromate(V) ions, BrO3
+−, oxidize bromide ions, Br−, in the presence of dilute acid, H+, as 
+shown in the equation below.
+ 
+BrO3
+−(aq)  +  5Br−(aq)  +  6H+(aq)    3Br2(aq)  +  3H2O(l)
+ 
+Three experiments were carried out using different initial concentrations of the three 
+reactants.
+ 
+The initial rate of reaction was calculated for each experiment.
+ 
+The results are shown in the table below.
+Experiment 
+number
+[BrO3
+−(aq)] / 
+mol dm−3
+[Br−(aq)] / 
+mol dm−3
+[H+(aq)] / 
+mol dm-3
+Initial rate of reaction / 
+mol dm−3 s−1
+1
+0.050
+0.25
+0.30
+1.68  x  10−5
+2
+0.050
+0.25
+0.60
+6.72  x  10−5
+3
+0.15
+0.50
+0.30
+1.01  x  10−4
+ 
+*(a) (i) This reaction is first order with respect to BrO3
+−(aq).  State, with reasons, 
+including appropriate experiment numbers, the order of reaction with respect 
+to
+(5)
+H+(aq)
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+Br−(aq)
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+ 
+ 
+(ii) Write the rate equation for the reaction.
+(1)
+PMT
+
+
+--- Page Break ---
+
+23
+*P41214A02328*
+Turn over    
+ 
+ 
+(iii) Use the data from experiment 1 and your answer to (a)(ii) to calculate the 
+value of the rate constant.  Include units in your answer.
+(3)
+ 
+(b) What evidence suggests that this reaction proceeds by more than one step?
+(1)
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+ 
+(c) The initial rate of reaction was obtained from measurements of the concentration 
+of bromine at regular time intervals.  How is the initial rate of formation of 
+bromine calculated from a concentration-time graph?
+(2)
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+(Total for Question 18 = 12 marks)
+TOTAL FOR SECTION B = 52 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*P41214A02428*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+19 An organic compound, X, was analyzed in a laboratory.
+ 
+(a) Compound X was found to have the following percentage composition by mass:
+ 
+ 
+ 
+carbon, C        =  54.5%
+ 
+ 
+ 
+hydrogen, H   =  9.1%
+ 
+ 
+ 
+oxygen, O       =  36.4%
+ 
+ 
+(i) Use these data to calculate the empirical formula of compound X, showing 
+your working.
+(2)
+PMT
+
+
+--- Page Break ---
+
+25
+*P41214A02528*
+Turn over    
+ 
+ 
+(ii) The mass spectrum of X is shown below.
+ 
+ 
+ 
+Use your answer to (a)(i), and the mass spectrum of X, to show that the 
+molecular formula of compound X is C4H8O2.
+(2)
+ 
+(b) The infrared spectrum of X has a broad peak at approximately 3500 cm–1 and a 
+sharp peak at approximately 1700 cm–1.  Identify the bond responsible for the 
+peak at
+(2)
+3500 cm–1
+1700 cm–1
+100
+80
+60
+40
+20
+0
+15
+30
+45
+60
+75
+90
+m / z
+Relative 
+abundance
+88
+PMT
+
+
+--- Page Break ---
+
+26
+*P41214A02628*
+ 
+(c)  (i) Some chemical information about compound X is given below.
+ 
+ 
+ 
+ 
+X is a neutral organic compound.
+ 
+ 
+ 
+ 
+X has no effect on Tollens’ reagent.
+ 
+ 
+ 
+ 
+X turns hot acidified potassium dichromate(VI) solution from orange to green.
+ 
+ 
+ 
+What does each of these three pieces of information suggest about the nature 
+of X? 
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Use your answers to parts (b) and (c)(i) to name the two functional groups 
+present in X.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+*(d) The high resolution proton nmr spectrum of X is shown below.
+11
+10
+9
+8
+7
+Chemical shift,  / ppm
+6
+5
+4
+3
+2
+1
+0
+PMT
+
+
+--- Page Break ---
+
+27
+*P41214A02728*
+ 
+ 
+The relative number of protons causing the peaks shown are: J = 1, K = 1, L = 3 
+and M = 3.
+ 
+ 
+Use the information above to determine the structural formula of X.
+ 
+ 
+In your answer, you should refer to the number of peaks, their relative sizes and 
+their splitting patterns.
+(7)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 18 marks)
+TOTAL FOR SECTION C = 18 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+28
+*P41214A02828*
+PMT

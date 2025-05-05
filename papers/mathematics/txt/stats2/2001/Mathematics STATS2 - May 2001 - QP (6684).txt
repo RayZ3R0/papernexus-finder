@@ -1,0 +1,313 @@
+Paper Reference(s) 
+6684 
+Edexcel GCE 
+Statistics S2 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Tuesday 19 June 2001 −  Morning 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S2), the paper reference (6684), 
+your surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. Pages 6, 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N9091 
+83019/R6684 3/3/3/3/3/5600 
+ 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2001 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 1. 
+The small village of Tornep has a preservation society which is campaigning for 
+a new by-pass to be built. The society needs to measure 
+ 
+(i) the strength of opinion amongst the residents of Tornep for the scheme and  
+(ii) the flow of traffic through the village on weekdays. 
+ 
+The society wants to know whether to use a census or a sample survey for each of 
+these measures. 
+ 
+(a) In each case suggest which they should use and specify a suitable sampling 
+frame.  
+(4) 
+For the measurement of traffic flow through Tornep, 
+ 
+(b) suggest a suitable statistic and a possible statistical model for this statistic.   
+(2)            
+ 
+ 
+2. 
+On a stretch of motorway accidents occur at a rate of 0.9 per month. 
+ 
+(a) Show that the probability of no accidents in the next month is 0.407, to 
+3 significant figures. 
+(1)  
+Find the probability of 
+(b) exactly 2 accidents in the next 6 month period, 
+(3) 
+(c) no accidents in exactly 2 of the next 4 months. 
+(3) 
+ 
+ 
+3.  
+In a sack containing a large number of beads 
+4
+1  are coloured gold and the 
+remainder are of different colours. A group of children use some of the beads in a 
+craft lesson and do not replace them. Afterwards the teacher wishes to know 
+whether or not the proportion of gold beads left in the sack has changed. He 
+selects a random sample of 20 beads and finds that 2 of them are coloured gold. 
+ 
+Stating your hypotheses clearly test, at the 10% level of significance, whether or 
+not there is evidence that the proportion of gold beads has changed. 
+(7) 
+ 
+N9091 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+A company always sends letters by second class post unless they are marked first 
+class. Over a long period of time it has been established that 20% of letters to be 
+posted are marked first class. 
+ 
+In a random selection of 10 letters to be posted, find the probability that the 
+number marked first class is 
+ 
+(a) at least 3, 
+(2) 
+(b) fewer than 2. 
+(2) 
+One Monday morning there are only 12 first class stamps. Given that there are 70 
+letters to be posted that day, 
+ 
+(c) use a suitable approximation to find the probability that there are enough first 
+class stamps. 
+(7)  
+(d) State an assumption about these 70 letters that is required in order to make    
+the calculation in part (c) valid. 
+(1) 
+ 
+ 
+5. 
+The maintenance department of a college receives requests for replacement light 
+bulbs at a rate of 2 per week. 
+ 
+Find the probability that in a randomly chosen week the number of requests for 
+replacement light bulbs is 
+ 
+(a) exactly 4, 
+(2) 
+(b) more than 5. 
+(2) 
+Three weeks before the end of term the maintenance department discovers that 
+there are only 5 light bulbs left. 
+ 
+(c) Find the probability that the department can meet all requests for replacement 
+light bulbs before the end of term. 
+(3) 
+The following term the principal of the college announces a package of new 
+measures to reduce the amount of damage to college property. In the first 4 weeks 
+following this announcement, 3 requests for replacement light bulbs are received. 
+ 
+(d) Stating your hypotheses clearly test, at the 5% level of significance, whether 
+or not there is evidence that the rate of requests for replacement light bulbs has 
+decreased.  
+(5) 
+ 
+N6994 
+3 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+The continuous random variable X has cumulative distribution function F(x) 
+given by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F(x) = 
+
+
+
+>
+≤
+≤
+−
++
+−
+<
+4
+,1
+4
+1
+),
+5
+6
+(
+1
+,0
+2
+3
+27
+1
+x
+x
+x
+x
+x
+ 
+ 
+(a) Find the probability density function f(x). 
+(3) 
+(b) Find the mode of X. 
+(2) 
+(c) Sketch f(x) for all values of x. 
+(3) 
+(d) Find the mean µ of X. 
+(3) 
+(e) Show that F(µ) > 0.5. 
+(1) 
+(f) Show that the median of X lies between the mode and the mean. 
+(2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N6894 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+In a computer game, a star moves across the screen, with constant speed, taking 
+1 s to travel from one side to the other. The player can stop the star by pressing a 
+key. The object of the game is to stop the star in the middle of the screen by 
+pressing the key exactly 0.5 s after the star first appears. Given that the player 
+actually presses the key T s after the star first appears, a simple model of the 
+game assumes that T is a continuous uniform random variable defined over the 
+interval [0, 1]. 
+ 
+(a) Write down P(T < 0.2). 
+(1) 
+(b) Write down E(T). 
+(1) 
+(c) Use integration to find Var(T). 
+(4) 
+A group of 20 children each play this game once. 
+ 
+(d) Find the probability that no more than 4 children stop the star in less 
+than 0.2 s.  
+(3) 
+The children are allowed to practise.this game so that this continuous uniform 
+model is no longer applicable. 
+ 
+(e) Explain how you would expect the mean and variance of T to change. 
+(2) 
+It is found that a more appropriate model of the game when played by 
+experienced players assumes that T has a probability density function g(t) given 
+by 
+ 
+ 
+ 
+ 
+g(t) = 
+
+
+
+≤
+≤
+−
+≤
+≤
+.
+,0
+,1
+5.0
+,
+4
+4
+,5.0
+0
+,
+4
+otherwise
+t
+t
+t
+t
+ 
+ 
+(f) Using this model show that P(T < 0.2) = 0.08. 
+(2) 
+A group of 75 experienced players each played this game once. 
+ 
+(g) Using a suitable approximation, find the probability that more than 7 of them 
+stop the star in less than 0.2 s. 
+(4) 
+ 
+END 
+ 
+ 
+N6994 
+5 
+ 
+ 
+PMT
+PMT

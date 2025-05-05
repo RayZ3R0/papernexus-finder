@@ -1,0 +1,1246 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P46941A
+©2016 Pearson Education Ltd.
+6/6/6/6/3/
+*P46941A0128*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition Metals 
+and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Wednesday 27 January 2016 – Afternoon
+Time: 1 hour 40 minutes
+WCH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+•  Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+•  The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•  Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P46941A0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 Which of the following elements is both a d-block element and a transition element?
+ 
+ 
+A Calcium 
+ 
+ 
+B Copper
+ 
+ 
+C Scandium
+ 
+ 
+D Zinc
+(Total for Question 1 = 1 mark)
+2 The following complexes have different shapes.    
+ 
+A [Ag(NH3)2]+
+ 
+B [CrCl4] −
+ 
+C [Ni(H2NCH2CH2NH2)3]2+
+ 
+D [Pt(NH3)2Cl2]
+ 
+(a) Which complex is square-planar?
+ 
+(1)
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+ 
+(b) Which complex has geometric isomers?
+(1)
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+ (Total for Question 2 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+3
+*P46941A0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 This question is about water, and equimolar aqueous solutions of ammonia, butylamine and 
+phenylamine. 
+ 
+The order of increasing pH is
+ 
+ 
+A phenylamine, butylamine, ammonia, water. 
+ 
+ 
+B water, ammonia, butylamine, phenylamine.
+ 
+ 
+C water, phenylamine, ammonia, butylamine.  
+ 
+ 
+D ammonia, phenylamine, butylamine, water. 
+(Total for Question 3 = 1 mark)
+4 What are the colours of the complex ions formed by copper(II) ions with butylamine 
+and chloride ions?
+ 
+ 
+[Cu(C4H9NH2)4(H2O)2]2+
+[CuCl4]2−
+A
+blue
+yellow
+B
+blue
+green
+C
+yellow
+blue
+D
+yellow
+green
+(Total for Question 4 = 1 mark)
+5 Iron(III) ions form a more stable complex with EDTA than with water.  What is the best 
+explanation for this?
+ 
+ 
+A Iron(III) ions form stronger bonds with EDTA than with water.
+ 
+ 
+B Iron(III) ions form more bonds with EDTA than with water.
+ 
+ 
+C ǻSsystem is positive for the formation of the EDTA complex from [Fe(H2O)6]3+.
+ 
+ 
+D ǻHreaction is positive for the formation of the EDTA complex from [Fe(H2O)6]3+.
+(Total for Question 5 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P46941A0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+6 What is the relationship between the equilibrium constant, K, and E
+9
+cell for a reaction?
+ 
+ 
+A K is directly proportional to lnE
+9
+cell
+ 
+ 
+B K is directly proportional to E
+9
+cell
+ 
+ 
+C lnK is inversely proportional to E
+9
+cell
+ 
+ 
+D lnK is directly proportional to E
+9
+cell
+(Total for Question 6 = 1 mark)
+7 What is the order of increasing reducing power of the ions Cr2+, Fe2+ and V2+?  
+Use items 20, 54 and 26 on pages 14 and 15 of your Data Booklet.
+ 
+ 
+A V2+
+, Cr2+, Fe2+.
+ 
+ 
+B Cr2+, V2+, Fe2+.
+ 
+ 
+C Fe2+, V2+, Cr2+.
+ 
+ 
+D Fe2+, Cr2+, V2+.
+(Total for Question 7 = 1 mark)
+8 Which of the following cannot disproportionate?
+ 
+ 
+A I2
+ 
+ 
+B Cu+
+ 
+ 
+C H2O2
+ 
+ 
+D MnO4
+−
+(Total for Question 8 = 1 mark)
+9 Dichromate(VI) ions, Cr2O7
+2− in dilute sulfuric acid,  react with ethanol, CH3CH2OH, on 
+warming to form chromium(III) ions and ethanal, CH3CHO.  The half equation for this 
+oxidation of ethanol is 
+CH3CH2OH      ĺ       CH3CHO + 2H+ + 2e−
+ 
+What is the mole ratio of dichromate(VI) ions to ethanol in this redox reaction?
+ 
+ 
+A 3:1
+ 
+ 
+B 2:3 
+ 
+ 
+C 3:2
+ 
+ 
+D 1:3
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P46941A0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 These are four successive ionization energies (in kJ mol−1) of four different elements.  
+Which could be those of a transition element?
+ 
+ 
+A      658     1310     2653     4175     9573
+ 
+ 
+B      578     1817     2745     11578   14831 
+ 
+ 
+C      738     1451     7733     10541   13629
+ 
+ 
+D      496     4563     6913     9544     13352
+(Total for Question 10 = 1 mark)
+11 Hydrated chromium(III) chloride, CrCl3.6H2O, exists in several isomeric forms with 
+varying numbers of chloro and water ligands.
+ 
+A solution containing 0.10 mol of one of these isomers reacts with excess silver nitrate. 
+0.20 mol of silver chloride, AgCl, is precipitated immediately.  
+The formula of the complex ion in this isomer is
+ 
+ 
+A [Cr(H2O)6]3+
+ 
+ 
+B [CrCl(H2O)5]2+
+ 
+ 
+C [CrCl2(H2O)4]+
+ 
+ 
+D [CrCl3(H2O)3]
+(Total for Question 11 = 1 mark)
+12 A solution is prepared for use in the standard half cell Fe3+(aq), Fe2+(aq)|Pt. 
+ 
+What is the mole ratio of the solids iron(II) sulfate, FeSO4, and iron(III) sulfate, Fe2(SO4)3, 
+which should be dissolved to make the solution for this cell?
+ 
+ 
+A 2:1
+ 
+ 
+B  1:1
+ 
+ 
+C 1:2 
+ 
+ 
+D 3:2
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P46941A0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 The structure of caffeine, C8H10O2N4, is
+ 
+Which functional group is not present?
+ 
+ 
+A  ketone
+ 
+ 
+B alkene
+ 
+ 
+C amide 
+ 
+ 
+D amine
+(Total for Question 13 = 1 mark)
+14 The overall reaction between ethanoyl chloride and ethylamine to form  
+N-ethyl ethanamide is best classified as
+ 
+ 
+A free radical substitution.
+ 
+ 
+B nucleophilic substitution.
+ 
+ 
+C free radical addition.
+ 
+ 
+D nucleophilic addition.
+(Total for Question 14 = 1 mark)
+15 Four isomers with the formula C4H9NH2 are
+ 
+A 1-aminobutane, CH3CH2CH2CH2NH2
+ 
+B 2-aminobutane, CH3CH2CH(NH2)CH3
+ 
+C 1-amino-2-methylpropane, (CH3)2CHCH2NH2
+ 
+D 2-amino-2-methylpropane, (CH3)3CNH2
+ 
+(a) Which isomer is chiral?
+(1)
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+N
+N
+N
+CH3
+N
+CH3
+O
+CH3
+O
+PMT
+
+
+--- Page Break ---
+
+7
+*P46941A0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Which isomer gives a low resolution proton nmr spectrum with the fewest peaks?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C 
+ 
+ 
+D
+(Total for Question 15 = 2 marks)
+16 The formulae of four synthetic polymers, W, X, Y and Z, are given below.
+ 
+W  Poly(methyl-2-methylpropenoate)
+    
+O
+n
+O
+ 
+X  Poly(propenamide)    
+n
+O
+NH2
+ 
+Y  Poly(amide 6)    
+H
+N
+O
+n
+ 
+Z  Poly(ethylene terephthalate)    
+O
+O
+O
+O
+n
+ 
+Which polymers are made by condensation polymerization reactions?
+ 
+ 
+A W and Z
+ 
+ 
+B X and Y
+ 
+ 
+C Y and Z
+ 
+ 
+D W and X
+(Total for Question 16 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P46941A0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+17 All naturally occurring amino acids exist as crystalline solids. 
+ 
+The best explanation for this is that amino acids
+ 
+ 
+A have large numbers of electrons.
+ 
+ 
+B form hydrogen bonds.
+ 
+ 
+C form ionic bonds.  
+ 
+ 
+D are symmetrical so the molecules can pack closely in the lattice.
+(Total for Question 17 = 1 mark)
+18 When recrystallization is used to purify a solid, which of the following statements is true?
+ 
+ 
+A Soluble impurities are removed by filtering the hot solution. 
+ 
+ 
+B Insoluble impurities are removed by filtering the hot solution.
+ 
+ 
+C All impurities must be insoluble in the solvent used.
+ 
+ 
+D All impurities must be soluble in the solvent used.
+(Total for Question 18 = 1 mark)
+  TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*P46941A0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer all the questions.  Write your answers in the spaces provided.
+19 Methanol fuel cells have significant advantages over hydrogen fuel cells.
+ 
+The half equations for the methanol fuel cell are 
+CO2   +   6H+   +   6e−    U   CH3OH   +   H2O   E
+9  =  +0.02 V
+½O2   +   2H+   +   2e−  U   H2O 
+E
+9  =  +1.23 V
+ 
+(a) Use your knowledge of the hydrogen electrode to draw a labelled diagram of the 
+half cell that could be used to measure the oxygen electrode potential. 
+ 
+ 
+Include the conditions needed for the standard electrode potential to be measured.
+(3)
+ 
+(b) Write the overall equation for the methanol fuel cell reaction. 
+State symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+10
+*P46941A01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Calculate the emf of this methanol cell.
+(1)
+ 
+ *(d) Suggest one advantage and one disadvantage of a methanol fuel cell compared 
+to a hydrogen fuel cell.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 7 marks)
+PMT
+
+
+--- Page Break ---
+
+11
+*P46941A01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+20 This question is about the naturally occurring substance, 2-hydroxybenzoic acid, 
+which can be extracted from the bark of willow trees.
+C
+OH
+O
+OH
+ 
+(a) Give the molecular formula of 2-hydroxybenzoic acid.
+(1)
+ 
+(b) The presence of the carboxylic acid group in 2-hydroxybenzoic acid is shown by 
+the fact that it neutralizes sodium carbonate solution. 
+ 
+ 
+Write the equation for this neutralization.  State symbols are not required.
+(2)
+ 
+(c) The 2-hydroxybenzoic acid forms a hydrogen bond within the molecule.
+ 
+ 
+(i) Complete the formula below to show this hydrogen bonding by displaying all 
+the remaining atoms and bonds.
+(1)
+ 
+ 
+ 
+ *(ii) Will the melting temperature of 4-hydroxybenzoic acid be higher or lower 
+than that of 2-hydroxybenzoic acid?  Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P46941A01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Phenol and 2-hydroxybenzoic acid react with excess bromine water in a similar way. 
+ 
+ 
+Suggest the structural formula and name of the organic product formed when excess 
+bromine water reacts with 2-hydroxybenzoic acid.
+(2)
+Name  ..................................................................................................................................................................................................................................................................  
+ 
+(e) The main chemical present in oil of wintergreen is methyl 2-hydroxybenzoate 
+which is a liquid at room temperature.
+O
+OCH3
+OH
+ 
+ 
+(i) Give the chemicals and conditions needed to prepare  
+methyl 2-hydroxybenzoate from 2-hydroxybenzoic acid in a single step reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P46941A01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(ii) Because methyl 2-hydroxybenzoate is sparingly soluble in water, it is extracted 
+from the reaction mixture using ethyl ethanoate. 
+ 
+ 
+ 
+Explain why methyl 2-hydroxybenzoate is sparingly soluble in water.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) The solution of methyl 2-hydroxybenzoate in ethyl ethanoate is washed and 
+then dried.
+ 
+ 
+ 
+Suggest the chemicals needed for these steps.
+ 
+ 
+ 
+Justify your suggestions.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) State how methyl 2-hydroxybenzoate is separated from ethyl ethanoate.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P46941A01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(v) The identity of methyl 2-hydroxybenzoate can be confirmed by infrared 
+spectroscopy.
+ 
+ 
+ 
+Which of the infrared spectra below is given by methyl 2-hydroxybenzoate 
+and which by 2-hydroxybenzoic acid?
+ 
+ 
+ 
+Justify your answer by identifying the bond responsible for a distinguishing 
+absorption.  Give the wavenumber range for this absorption.
+(2)
+Spectrum A
+100
+50
+0
+Transmittance (%)
+Wavenumber / cm−1
+4000
+3000
+2000
+1500
+1000
+500
+Spectrum B
+100
+50
+0
+4000
+3000
+2000
+1500
+1000
+500
+Wavenumber / cm−1
+Transmittance (%)
+PMT
+
+
+--- Page Break ---
+
+15
+*P46941A01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Calculate the volume of methyl 2-hydroxybenzoate produced from 9.00 g of 
+2-hydroxybenzoic acid, assuming the yield for this reaction is 60%, and the 
+other reagents are present in excess.
+ 
+ 
+ 
+DATA
+ 
+ 
+ 
+Molar mass of 2-hydroxybenzoic acid = 138 g mol−1
+ 
+ 
+ 
+Molar mass of methyl 2-hydroxybenzoate = 152 g mol−1
+ 
+ 
+ 
+Density of methyl 2-hydroxybenzoate = 1.174 g cm−3
+(3)
+(Total for Question 20 = 22 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P46941A01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+21 This question is about the element chromium and some of its compounds.
+ 
+(a) (i) Complete the electronic configuration of the chromium atom, using  
+the s, p, d notation.
+(1)
+ 
+ 
+ 
+[Ar]  ...............................................................................................................
+ 
+ 
+ *(ii) State how this electronic configuration of the chromium atom is unusual 
+compared with most other transition metals. 
+ 
+ 
+ 
+Give two reasons why chromium has this electronic configuration.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P46941A01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) (i) A solution containing chromium(II) ions can be produced in the laboratory 
+by reducing a solution of potassium dichromate(VI) using zinc in 50% 
+hydrochloric acid.  This reaction takes place in two steps.  Dichromate(VI) ions 
+are reduced to chromium(III) ions and the chromium(III) ions are then reduced 
+to chromium(II) ions.
+ 
+ 
+ 
+Use the relevant standard reduction potentials from page 17 or standard 
+electrode potentials on pages 14 and 16 of the Data Booklet to calculate E
+9
+cell 
+for each step. 
+ 
+ 
+ 
+Use your E
+9
+cell values to explain why both steps are spontaneous.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State the colour changes you would expect to see during this reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) A student suggests that the hydrogen produced by the reaction of the zinc 
+with hydrochloric acid in this experiment is a serious risk.  Evaluate the 
+student’s suggestion.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*P46941A01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Chromium(II) ions in aqueous solution are quickly oxidized by the oxygen in air. 
+One method of stabilising chromium(II) ions is by adding a solution of  
+sodium ethanoate, forming a complex, [Cr2(CH3CO2)4(H2O)2].  This complex may be 
+represented by the structure below.
+H2O
+Cr
+Cr
+OH2
+O
+O
+C
+OC
+O
+O
+O
+O
+O
+C
+C
+CH3
+CH3
+CH3
+CH3
+ 
+ 
+(i) What type of ligand is the ethanoate ion in this complex?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State the type of bonding which occurs between the ligands and the 
+chromium(II) ions.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest two unusual features in the structure and bonding of this complex.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) This complex is red.   
+Explain why the colour of chromium(II) ethanoate is different from that of 
+Cr(H2O)6
+2+(aq).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P46941A01928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(v) Predict the number and relative areas of the peaks in the low resolution 
+proton nmr spectrum of Cr2(CH3CO2)4(H2O)2.
+ 
+ 
+ 
+Justify your answers.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+20
+*P46941A02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) An experiment is carried out to check the oxidation number of chromium in 
+chromium(II) ethanoate Cr2(CH3CO2)4(H2O)2.
+ 
+ 
+1.00 g (2.66 × 10−3 mol) of chromium(II) ethanoate is dissolved in 25 cm3 of  
+1.00 mol dm−3 sulfuric acid.
+ 
+ 
+The solution is diluted with distilled water until the volume is 250 cm3.
+ 
+ 
+25.0 cm3 portions of the diluted solution are titrated with 0.00750 mol dm−3 
+potassium manganate(VII).
+ 
+ 
+Calculate the volume of potassium manganate(VII) needed to oxidize the 
+chromium(II) ions present in each 25.0 cm3 portion to the +6 oxidation state.   
+The manganese is reduced to the +2 oxidation state.
+ 
+ 
+Comment on your answer and suggest how the experiment could be improved to 
+give a more suitable titre.
+(5)
+Comment  .......................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 21 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+21
+*P46941A02128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer all the questions.  Write your answers in the spaces provided.
+22 Naphthalene is a white solid traditionally used in mothballs and is extracted from coal tar.  
+It is an arene which can be represented by the formula below.
+8
+1
+5
+4
+7
+6
+2
+3
+ 
+Although it is an aromatic compound, naphthalene has carbon to carbon bonds of 
+different lengths. 
+ 
+Like benzene, naphthalene undergoes electrophilic substitution.  Substitution 
+usually occurs at one of the carbons 1, 4, 5 or 8 and naphthalene reacts under milder 
+conditions than benzene.
+ 
+Oxidation of naphthalene, using oxygen gas with vanadium(V) oxide catalyst at 
+about 650 K, produces phthalic anhydride:
+O
+O
+O
+PMT
+
+
+--- Page Break ---
+
+22
+*P46941A02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(a) State which physical method would be used to determine the lengths of  
+the carbon to carbon bonds in naphthalene.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Use your knowledge of benzene to draw an alternative way of representing the 
+structure of naphthalene.  Explain what this structure represents and how it arises.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*P46941A02328*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+(c) Naphthalene is nitrated using a mixture of concentrated nitric and sulfuric acids. 
+Write a mechanism for this reaction.  Include one or more equations to show how 
+the electrophile is formed.
+(4)
+PMT
+
+
+--- Page Break ---
+
+24
+*P46941A02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) 1.28 g of naphthalene is completely burned in oxygen.
+ 
+ 
+Write the equation for the combustion of naphthalene.  State symbols are not 
+required.
+ 
+ 
+Calculate the volume of carbon dioxide produced, measured at room temperature 
+and pressure. 
+ 
+ 
+1 mol of a gas occupies 24.0 dm3 at room temperature and pressure.
+(3)
+ 
+(e) Suggest the reagent and appropriate conditions for the synthesis of decalin from 
+naphthalene.
+Decalin
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+25
+*P46941A02528*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+(f) When phenol is heated with phthalic anhydride in the presence of the catalyst 
+concentrated sulfuric acid, the indicator phenolphthalein is formed.
+O
+O
+HO
+OH
+O
+O
+O
+Phthalic anhydride
+Phenolphthalein
+ 
+ 
+(i) When phenol reacts with phthalic anhydride to form phenolphthalein, state 
+the inorganic product of the reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) When phenolphthalein is colourless it can be represented as H2In. 
+ 
+ 
+ 
+At very low pH, H3In+ is formed which is orange.
+ 
+ 
+ 
+Between pH 9 and 12, In2−  is formed which has the familiar pink colour.
+ 
+ 
+ 
+By referring to the structure of phenolphthalein given above, suggest how 
+these two ions are formed.
+(2)
+H3 In+ 
+ ...................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+In2− 
+ .........................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+26
+*P46941A02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(g) Coal tar also contains 2-naphthol. 
+OH
+ 
+ 
+2-naphthol and phenol react with phenylamine in a similar way to form dyes.
+ 
+ 
+Suggest a synthesis of a chemical dye starting with 2-naphthol and phenylamine.
+ 
+ 
+You should include chemicals and conditions for your reactions.
+ 
+ 
+Suggest the structural formula of your dye.
+(4)
+(Total for Question 22 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+27
+*P46941A02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*P46941A02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PMT

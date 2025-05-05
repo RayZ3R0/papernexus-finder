@@ -1,0 +1,372 @@
+Paper Reference(s) 
+6679/01 
+Edexcel GCE 
+Mechanics M3 
+Advanced Subsidiary 
+Wednesday 25 January 2006  Morning 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Mathematical Formulae (Lilac)                                  Nil 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett 
+Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+The marks for individual questions and the parts of questions are shown in round brackets: e.g. (2). 
+There are 7 questions on this paper. The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+ 
+without working may gain no credit.
+N21136A 
+ 
+This publication may only be reproduced in accordance with Edexcel Limited copyright policy. 
+©2006 Edexcel Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+      Figure 1 
+ 
+ 
+ 
+ 
+ 60 
+ P
+ A 
+ F N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A particle P of mass 0.8 kg is attached to one end of a light inelastic string, of natural length 
+1.2 m and modulus of elasticity 24 N. The other end of the string is attached to a fixed point A. 
+A horizontal force of magnitude F newtons is applied to P. The particle P in in equilibrium 
+with the string making an angle 60 with the downward vertical, as shown in Figure 1. 
+ 
+ 
+Calculate 
+ 
+ 
+(a) the value of F, 
+(3) 
+ 
+(b) the extension of the string, 
+(3) 
+ 
+(c) the elasticity stored in the string. 
+(2) 
+      
+ 
+2. 
+A particle P moves along the x-axis. At time t seconds the velocity of P is v m s–1 and its 
+acceleration is 2 sin 2
+1 t m s–2, both measured in the direction of Ox. Given that v = 4 when 
+t = 0,  
+ 
+ 
+(a) find v in terms of t, 
+(4) 
+ 
+(b) calculate the distance travelled by P between the times t = 0 and t = 2
+. 
+ (4) 
+ 
+N21136A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N21136A 
+3 
+Turn over 
+ 
+3. 
+A rocket is fired vertically upwards with speed U from a point on the Earth’s surface. The 
+rocket is modelled as a particle P of constant mass m, and the Earth as a fixed sphere of 
+radius R. At a distance x from the centre of the Earth, the speed of P is v. The only force 
+acting on P is directed towards the centre of the Earth and has magnitude 
+2
+x
+cm , where c is a 
+constant. 
+ 
+ 
+(a) Show that v2 = U 2 + 2c
+
+
+
+
+
+
+R
+x
+1
+1
+. 
+(5) 
+ 
+ 
+The kinetic energy of P at x = 2R is half of its kinetic energy at x = R. 
+  
+ 
+(b) Find c in terms of U and R. 
+ (3) 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+       Figure 2 
+ 
+ 
+ 
+H
+C
+O
+r
+ 
+ 
+ 
+h
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A body consists of a uniform solid circular cylinder C, together with a uniform solid 
+hemisphere H which is attached to C. The plane face of H coincides with the upper plane face 
+of C, as shown in Figure 2. The cylinder C has base radius r, height h and mass 3M. The mass 
+of H is 2M. The point O is the centre of the base of C. 
+ 
+ 
+(a) Show that  the distance of the centre of mass of the body from O is 
+ 
+20
+3
+14
+r
+h 
+. 
+(5) 
+ 
+ 
+The body is placed with its plane face on a rough plane which is inclined at an angle  to the 
+horizontal, where tan  = 3
+4 . The plane is sufficiently rough to prevent slipping. Given that 
+the body is on the point of toppling, 
+ 
+(b) find h in terms of r.  
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+5. 
+A light elastic string of natural length l has one end attached to a fixed point A. A particle P of 
+mass m is attached tot he other end of the string and hangs in equilibrium at the point O, 
+where AO = 4
+5 l. 
+ 
+ 
+(a) Find the modulus of the elasticity of the string. 
+(2) 
+ 
+ 
+The particle P is then pulled down and released from rest. At time t the length of the string 
+is 4
+5l  + x. 
+ 
+ 
+(b) Prove that, while the string is taut, 
+ 
+2
+2
+d
+d
+t
+x  = –
+l
+gx
+4
+. 
+(5) 
+ 
+ 
+When P is released, AP = 4
+7 l. The point B is a distance l vertically below A. 
+ 
+ 
+(c) Find the speed of P at B. 
+(4) 
+ (d) Describe briefly the motion of P after it has passed through B for the first time until it 
+next passes through O. 
+(2) 
+ 
+6. 
+One end  of a light inextensible string of length l is attached to a fixed point A. The other end 
+is attached to a particle P of mass m which is hanging freely at rest at point B. The particle P 
+is projected horizontally from B with speed (3gl). When AP makes an angle  with the 
+downward vertical and the string remains taut, the tension in the string is T. 
+ 
+ 
+(a) Show that T = mg(1 + 3 cos  ). 
+(6) 
+ 
+(b) Find the speed of P at the instant when the string becomes slack. 
+(3) 
+ 
+(c) Find the maximum height above the level of B reached by P. 
+(5) 
+ 
+ 
+N21136A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N21136A 
+5 
+ 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+     Figure 3 
+ 
+ 
+ A
+ 
+ 
+ 
+ 
+ 2a
+ 
+ 
+ 30
+ 
+ P
+ O
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A particle P of mass m is attached to one end of a light inextensible string of length 2a. The 
+other end of the string is fixed to a point A which is vertically above the point O on a smooth 
+horizontal table. The particle P remains in contact with the surface of the table and moves in a 
+circle with centre O and with angular speed 
+
+
+
+
+
+
+a
+kg
+3
+, where k is a constant. Throughout the 
+motion the string remains taut and APO = 30, as shown in Figure 3. 
+ 
+ 
+(a) Show that the tension in the string is 
+3
+2kmg .  
+(3) 
+ 
+(b) Find, in terms of m, g and k, the normal reaction between P and the table.  
+(3) 
+ 
+(c) Deduce the range of possible values of k. 
+(2) 
+ 
+ 
+The angular speed of P is changed to 
+
+
+
+
+
+
+a
+g
+2
+. The particle P now moves in a horizontal 
+circle above the table. The centre of this circle is X. 
+ 
+ 
+(d) Show that X is the mid-point of OA. 
+(7) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+PMT
+PMT

@@ -1,0 +1,508 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+Advanced Level 
+Wednesday 12 January 2005  Afternoon 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. 
+The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+ 
+without working may gain no credit.
+N16740A 
+ 
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy. 
+©2005 London Qualifications Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+A particle P of mass 0.5 kg is attached to one end of a light inextensible string of 
+length 1.5 m. The other end of the string is attached to a fixed point A. The particle is moving, 
+with the string taut, in a horizontal circle with centre O vertically below A. The particle is 
+moving with constant angular speed 2.7 rad s–1. Find 
+ 
+ 
+(a) the tension in the string, 
+(4) 
+ 
+(b) the angle, to the nearest degree, that AP makes with the downward vertical. 
+(3) 
+      
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+        Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   3r 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+      B  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2r 
+ 
+ 
+A child’s toy consists of a uniform solid hemisphere, of mass M and base radius r, joined to a 
+uniform solid right circular cone of mass m, where 2m < M. The cone has vertex O, base 
+radius r and height 3r. Its plane face, with diameter AB, coincides with the plane face of the 
+hemisphere, as shown in Figure 1. 
+ 
+ 
+(a) Show that the distance of the centre of mass of the toy from AB is 
+ 
+.
+)
+(
+8
+)
+2
+(3
+r
+m
+M
+m
+M
+
+
+ 
+(5) 
+ 
+ 
+The toy is placed with OA on a horizontal surface. The toy is released from rest and does not 
+remain in equilibrium. 
+ 
+ 
+(b) Show that M > 26m. 
+(4) 
+N16740A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N16740A 
+3 
+ 
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+   Figure 2 
+ 
+ 
+ 
+ 
+    y 
+ 
+ 
+ 
+    1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    O 
+ 
+ 
+ 
+       
+R 
+ 
+ 
+A uniform lamina occupies the region R bounded by the x-axis and the curve 
+ 
+y = sin x,           0  x  , 
+ 
+ 
+as shown in Figure 2. 
+ 
+ 
+(a) Show, by integration, that the y-coordinate of the centre of mass of the lamina is 8
+. 
+(6) 
+ 
+Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+R 
+ 
+ 
+A uniform prism S has cross-section R. The prism is placed with its rectangular face on a table 
+which is inclined at an angle   to the horizontal. The cross-section R lies in a vertical plane 
+as shown in Figure 3. The table is sufficiently rough to prevent S sliding. Given that S does 
+not topple, 
+ 
+ 
+(b) find the largest possible value of . 
+(3) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+   Figure 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       b 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         P                Q 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  C 
+ 
+4L 
+A 
+B 
+ 
+ 
+ 
+In a game at a fair, a small target C moves horizontally with simple harmonic motion between 
+the points A and B, where AB = 4L.  The target moves inside a box and takes 3 s to travel 
+from A to B. A player has to shoot at C, but C is only visible to the player when it passes a 
+window PQ, where PQ = b. The window is initially placed with Q at the point as shown in 
+Figure 4. The target C takes 0.75 s to pass from Q to P. 
+ 
+ 
+(a) Show that b = (2 – 2)L. 
+(5) 
+ 
+(b) Find the speed of C as it passes P. 
+(2) 
+ 
+Figure 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      b 
+ 
+ 
+ 
+ 
+ 
+ 
+        P               Q                Q 
+ 
+ 
+ 
+ 
+ 
+ 
+             C 
+ 
+4L 
+B 
+A 
+ 
+ 
+For advanced players, the window PQ is moved to the centre of AB so that AP = QB, as 
+shown in Figure 5. 
+ 
+ (c) Find the time, in seconds to 2 decimal places, taken for C to pass from Q to P in this new 
+position. 
+(3) 
+ 
+5. 
+At time t = 0, a particle P is at the origin O, moving with speed 18 m s–1 along the x-axis, in 
+the positive x-direction. At time t seconds (t > 0) the acceleration of P has magnitude 
+)
+4
+(
+3
+
+t
+ m s–2 and is directed towards O. 
+ 
+ 
+(a) Show that, at time t seconds, the velocity of P is [30 – 6(t + 4)] m s–1.  
+(5) 
+ 
+(b) Find the distance of P from O when P comes to instantaneous rest. 
+(7) 
+ 
+N16740A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N16740A 
+5 
+ 
+6. 
+A light spring of natural length L has one end attached to a fixed point A. A particle P of 
+mass m is attached to the other end of the spring. The particle is moving vertically. As it 
+passes through the point B below A, where AB = L, its speed is (2gL). The particle comes to 
+instantaneous rest at a point C, 4L below A. 
+ 
+ 
+(a) Show that the modulus of elasticity of the spring is 
+9
+8mg . 
+(4) 
+ 
+ 
+ 
+At the point D the tension in the spring is mg. 
+ 
+ 
+ 
+(b) Show that P performs simple harmonic motion with centre D. 
+(5) 
+ 
+(c) Find, in terms of L and g, 
+ 
+ 
+ 
+(i) the period of the simple harmonic motion, 
+ 
+ 
+ 
+(ii) the maximum speed of P. 
+(5) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+     Figure 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O 
+ 
+ 
+N16740A 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+        5 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           120 
+ 
+ 
+                            P  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q 
+ 
+ 
+ 
+ 
+      A 
+ 
+ 
+ 
+A trapeze artiste of mass 60 kg is attached to the end A of a light inextensible rope OA of 
+length 5 m. The artiste must swing in an arc of a vertical circle, centre O, from a platform P to 
+another platform Q, where PQ is horizontal. The other end of the rope is attached to the fixed 
+point O which lies in the vertical plane containing PQ, with  POQ = 120 and 
+OP = OQ = 5 m, as shown in Figure 6. 
+ 
+  
+As part of her act, the artiste projects herself from P with speed 15 m s–1 in a direction 
+perpendicular to the rope OA and in the plane POQ. She moves in a circular arc towards Q. At 
+the lowest point of her path she catches a ball of mass m kg which is travelling towards her 
+with speed 3 m s–1 and parallel to QP. After catching the ball, she comes to rest at the point Q.  
+ 
+ 
+By modelling the artiste and the ball as particles and ignoring her air resistance, find 
+ 
+ 
+(a) the speed of the artiste immediately before she catches the ball, 
+(4) 
+ 
+(b) the value of m, 
+(7) 
+ 
+(c) the tension in the rope immediately after she catches the ball. 
+(3) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+PMT
+PMT

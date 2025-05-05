@@ -1,0 +1,486 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 50. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t You will be assessed on your ability to organise and present information, ideas, 
+ 
+descriptions and arguments clearly and logically, including your use of 
+ 
+grammar, punctuation and spelling.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+6CH08/01
+Edexcel GCE
+Chemistry
+Advanced
+Unit 6B:  Chemistry Laboratory Skills II Alternative
+Monday 16 January 2012 – Afternoon
+Time: 1 hour 15 minutes
+Candidates may use a calculator.
+P35988A
+©2012 Pearson Education Ltd.
+7/7/5/5/3/
+*P35988A0116*
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+2
+*P35988A0216*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 Three compounds A, B and C are subjected to a series of chemical tests.  Some 
+information about these compounds is given below.
+
+x The three compounds are isomers with molecular formula C3H6O.
+ 
+• A and B contain only one functional group, but C contains two separate functional 
+groups.
+
+x None of the three compounds contains a ring of atoms.
+
+x In each of the three compounds the oxygen atom is bonded to only one carbon atom.
+ 
+(a) (i) A and B are tested separately with 2,4-dinitrophenylhydrazine solution and both 
+give an orange precipitate.
+ 
+ 
+ 
+When A and B are heated separately with a mixture of potassium 
+dichromate(VI) and dilute sulfuric acid, the solution containing B turns from 
+orange to green.  The solution containing A remains orange.
+ 
+ 
+ 
+Use these results and the information at the start of the question to deduce 
+displayed formulae for A and B.
+(2)
+A
+B
+PMT
+
+
+--- Page Break ---
+
+3
+*P35988A0316*
+Turn over  
+ 
+ 
+(ii)
+ 
+ 
+ 
+State whether this is the nmr spectrum of A or B.  Justify your answer.
+ 
+ 
+ 
+Explain how the nmr spectrum of the other isomer will differ.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+PPM
+PMT
+
+
+--- Page Break ---
+
+4
+*P35988A0416*
+ 
+(b) (i) C does not react with 2,4-dinitrophenylhydrazine.
+ 
+ 
+ 
+When C is heated with acidified potassium dichromate(VI), the solution turns 
+from orange to green.
+ 
+ 
+ 
+When C is shaken with bromine water, the bromine water quickly turns 
+colourless.
+ 
+ 
+ 
+Name the two functional groups present in C.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State two observations you would expect to make when a small piece of sodium 
+is added to C.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Draw two possible displayed formulae for C which are consistent with the 
+above information.
+(2)
+(Total for Question 1 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+5
+*P35988A0516*
+Turn over  
+2 A green crystalline solid, D, dissolves in water to give a pale green solution.
+ 
+(a) When dilute sodium hydroxide is added to the solution of D, a green precipitate, E, 
+is observed.
+ 
+ 
+When ammonia solution is added to the solution of D, the same green precipitate, E, 
+forms which does not dissolve in excess ammonia solution.
+ 
+ 
+Identify, by name or formula, substance E.
+(1)
+................................................................................................................................................................................................................................................
+ 
+(b) When a solution of D is warmed with dilute sodium hydroxide, a gas, F, which turns 
+moist red litmus paper blue, is given off.
+ 
+ 
+Identify, by name or formula, the gas F.
+(1)
+................................................................................................................................................................................................................................................
+ 
+(c) When a solution of barium chloride is added to a solution of D, a white precipitate, 
+G, forms which is insoluble in dilute hydrochloric acid.
+ 
+ 
+Identify, by name or formula, the precipitate G.
+(1)
+................................................................................................................................................................................................................................................
+ 
+(d) Deduce the formulae of the three ions present in the salt, D.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 2 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*P35988A0616*
+3 The equation for the reaction of iodine with propanone is
+CH3COCH3(aq) + I2(aq) o CH3COCH2I(aq) + H+(aq) + I–(aq)
+ 
+An experiment was carried out to find the order of reaction with respect to iodine.
+ 
+50 cm3 of iodine solution, concentration 0.020 mol dm–3, was added to 25 cm3 of sulfuric 
+acid, concentration 2.0 mol dm–3, in a conical flask.
+ 
+25 cm3 of propanone solution, concentration 2.0 mol dm–3, was added to the mixture and 
+a timer started.
+ 
+A 10.0 cm3 sample was removed after one minute.  Further 10.0 cm3 samples were 
+removed every three minutes.
+ 
+Immediately, each sample was added to 20 cm3 of sodium hydrogencarbonate 
+solution (an excess).  Each sample was then titrated with sodium thiosulfate solution, 
+concentration 0.010 mol dm–3.
+ 
+(a) (i) Show, by calculation of the number of moles, whether propanone or iodine was 
+in excess.
+(2)
+ 
+ 
+(ii) What would be the most suitable piece of apparatus for removing a 10.0 cm3 
+sample from the mixture?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) What would be the most suitable piece of apparatus for measuring 20 cm3 of the 
+sodium hydrogencarbonate solution?
+(1)
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+7
+*P35988A0716*
+Turn over  
+ 
+ 
+(iv) Suggest why each sample was added to sodium hydrogencarbonate solution.  
+Explain your answer.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) (i) What colour change would you expect to see as the reaction takes place?
+(2)
+From .............................................................................................................. to .............................................................................................................
+ 
+ 
+(ii) To make the end-point of the titration easier to see, an indicator can be added.
+ 
+ 
+ 
+Name the indicator and state the colour change you would expect to see.
+(2)
+Indicator .........................................................................................................................................................................................................................
+Colour change from .......................................................................................... to ..............................................................................................
+ 
+ 
+(iii) At what stage in the titration should this indicator be added?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+PMT
+
+
+--- Page Break ---
+
+8
+*P35988A0816*
+ 
+(c) The following results were obtained in the experiment.
+ Time / min
+Volume of sodium thiosulfate solution / cm3
+1
+19.1
+4
+15.9
+7
+13.0
+10
+ 9.9
+13
+ 7.1
+16
+ 3.9
+19
+ 1.0
+ 
+ 
+(i) Explain why these results can be used to determine the order of the reaction 
+directly, without calculating the corresponding concentrations of iodine in the 
+solution.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P35988A0916*
+Turn over  
+ 
+ 
+(ii) Plot a graph of the volume of sodium thiosulfate solution on the vertical axis 
+against time on the horizontal axis.
+(2)
+ 
+ 
+(iii) Use your graph to deduce the order of the reaction with respect to iodine.
+ 
+ 
+ 
+Explain how you arrived at your answer.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*P35988A01016*
+ 
+(d) The following rate-determining step for the reaction between propanone and iodine 
+is suggested.
+CH3COCH3  + H+ oCH3C+
+OH
+CH3
+ 
+ 
+Explain why your order of reaction with respect to iodine is consistent with this 
+rate-determining step.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 3 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+11
+*P35988A01116*
+Turn over  
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P35988A01216*
+4 2-ethanoylaminobenzoic acid, C9H9NO3, is a compound which emits flashes of light 
+when its crystals are crushed or scraped.  It is prepared under strictly supervised 
+conditions.
+ 
+The steps of the experimental procedure are as follows.
+ 
+1. Place 3.5 g of 2-aminobenzoic acid, C7H7NO2, in a dry 50 cm3 flask fitted with a 
+reflux condenser.
+ 
+2. Add 7.0 cm3 of ethanoyl chloride (an excess) by pouring it carefully down the 
+condenser.
+ 
+3. Heat slowly to boiling and reflux for 15 minutes.
+ 
+4. Allow to cool and then add 5 cm3 of water.
+ 
+5. Bring the solution back to boiling by heating slowly.
+ 
+6. Allow the solution to cool slowly at room temperature.
+ 
+7.   Collect the crystals of  2-ethanoylaminobenzoic acid by suction filtration.
+ 
+8. Recrystallize the 2-ethanoylaminobenzoic acid from a 50% ethanoic acid/water 
+mixture.
+ 
+(a) Explain how the process of heating under reflux works and why it is often necessary 
+to heat under reflux, as in step 3.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P35988A01316*
+Turn over  
+ 
+(b) (i) Suggest why water was added (step 4).
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii)  Suggest why the mixture was cooled before the water was added (step 4).
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) (i) Draw a fully labelled diagram of the apparatus used for suction filtration (step 7).
+(3)
+ 
+ 
+(ii) Suggest two advantages of suction filtration over normal filtration.
+(2)
+First advantage ...........................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Second advantage .....................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P35988A01416*
+ 
+(d) (i) Draw a fully labelled diagram of the apparatus you would use to determine the 
+melting temperature of the 2-ethanoylaminobenzoic acid crystals.
+(2)
+ 
+ 
+(ii) Give two aspects of the melting temperature determination that would indicate 
+the crystals were pure.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P35988A01516*
+ 
+(e) In the equation for this reaction, the mole ratio of 2-aminobenzoic acid, C7H7NO2, 
+and 2-ethanoylaminobenzoic acid, C9H9NO3, is 1:1.
+ 
+ 
+In an experiment, 3.5 g of 2-aminobenzoic acid produced 2.35 g of recrystallized 
+2-ethanoylaminobenzoic acid.
+ 
+ 
+Calculate the percentage yield of the product for this reaction.
+(3)
+(Total for Question 4 = 17 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*P35988A01616*
+PMT

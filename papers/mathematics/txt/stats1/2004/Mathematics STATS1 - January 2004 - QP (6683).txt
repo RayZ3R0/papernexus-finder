@@ -1,0 +1,175 @@
+Paper Reference(s)
+6683
+Edexcel GCE
+Statistics S1
+Advanced/Advanced Subsidiary
+Wednesday 14 January 2004 −  Morning
+Time:  1 hour 30 minutes
+Materials required for examination                       Items included with question papers
+Answer Book (AB16)                                                Nil
+Graph Paper (ASG2)
+Mathematical Formulae (Lilac)
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G.
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S1), the paper reference (6683), 
+your surname, other name and signature.
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has six questions. 
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers
+without working may gain no credit.
+N16969A
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy.
+©2004 London Qualifications Limited.
+PMT
+
+
+--- Page Break ---
+
+1.
+An office has the heating switched on at 7.00 a.m. each morning. On a particular day, the temperature of the 
+office, t °C, was recorded m minutes after 7.00 a.m. The results are shown in the table below.
+m
+0
+10
+20
+30
+40
+50
+t
+6.0
+8.9
+11.8
+13.5
+15.3
+16.1
+                                                                                         
+(a) Calculate the exact values of Smt and Smm.
+(4) 
+(b) Calculate the equation of the regression line of t on m in the form t = a + bm.
+(3)
+(c) Use your equation to estimate the value of t at 7.35 a.m.
+(2)
+(d) State, giving a reason, whether or not you would use the regression equation in (b) to estimate the 
+temperature
+(i)
+at 9.00 a.m. that day,
+(ii) at 7.15 a.m. one month later.
+(4)
+         
+2.
+The random variable X is normally distributed with mean µ and variance σ 2. 
+(a) Write down 3 properties of the distribution of X.
+(3)
+Given that µ = 27 and σ  = 10
+(b) find P(26 < X < 28).
+(4)
+PMT
+
+
+--- Page Break ---
+
+3.
+A discrete random variable X has the probability function shown in the table below.
+x
+0
+1
+2
+3
+P(X = x)
+3
+1
+2
+1
+12
+1
+12
+1
+Find
+(a) P(1 < X ≤ 3),
+ (2)
+(b) F(2.6), 
+(1)
+(c) E(X),
+(2)
+(d) E(2X – 3),
+(2)
+(e) Var(X)
+(3)
+4.
+The events A and B are such that P(A) = 5
+2 , P(B) = 2
+1  and P(AB ′) = 5
+4 . 
+(a) Find 
+(i)
+P(A ∩ B′),
+(ii) P(A ∩ B),
+(iii) P(A ∪ B),
+(iv) P(AB ). 
+(7)
+(b) State, with a reason, whether or not A and B are 
+(i)
+mutually exclusive,
+(2)
+(ii) independent.
+(2)
+N16969A
+3
+Turn over
+PMT
+
+
+--- Page Break ---
+
+5. 
+The values of daily sales, to the nearest £, taken at a newsagents last year are summarised in the table below. 
+Sales
+Number of days
+1 – 200
+166
+201 – 400
+100
+401 – 700
+59
+701 – 1000
+30
+1001 – 1500
+5
+(a) Draw a histogram to represent these data.
+      (5)
+(b) Use interpolation to estimate the median and inter-quartile range of daily sales. 
+(5)
+(c) Estimate the mean and the standard deviation of these data. 
+(6)
+The newsagent wants to compare last year’s sales with other years. 
+(d) State whether the newsagent should use the median and the inter-quartile range or the mean and the 
+standard deviation to compare daily sales. Give a reason for your answer. 
+                                                                                                                     (2)
+6.
+One of the objectives of a computer game is to collect keys. There are three stages to the game. The probability 
+of collecting a key at the first stage is 3
+2 , at the second stage is 2
+1 , and at the third stage is 4
+1 .
+(a) Draw a tree diagram to represent the 3 stages of the game. 
+(4)
+(b) Find the probability of collecting all 3 keys.
+(2)
+(c) Find the probability of collecting exactly one key in a game.
+(5)
+(d) Calculate the probability that keys are not collected on at least 2 successive stages in a game.
+                                                                                                                              (5)
+END
+N16969A
+4
+PMT

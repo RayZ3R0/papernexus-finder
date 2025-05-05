@@ -1,0 +1,651 @@
+Turn over
+Printer’s Log. No.
+M36363A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2010 Edexcel Limited.
+W850/6002/57570   1/1/1/1/1/
+*M36363A*
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 2 – Corporate and Management Accounting
+Wednesday 27 January 2010 – Afternoon
+Source booklet for use with Questions 
+1 to 7.
+Do not return this booklet with the 
+question paper.
+
+
+--- Page Break ---
+
+M36363A	
+	
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. 	 Rajshahi Footwear plc produces shoes at its factory.  The shoes are then delivered to the company’s 
+shops before sale to customers.  The trial balance at 31 December 2009 was as follows.
+Debit
+£
+Credit
+£
+Advertising
+72 000
+Bank
+118 000
+Cash
+77 000
+Creditors
+98 000
+Direct materials
+456 000
+Factory buildings at cost
+2 800 000
+Fuel for vehicles
+63 000
+Interest on bank loan
+88 000
+Long term bank loan
+800 000
+Motor lorries – net book value
+360 000
+Office expenses
+81 000
+Ordinary shares £1
+1 000 000
+Professional fees
+53 000
+Profit and loss account
+303 000
+Rent on shop premises
+102 000
+Sales
+2 777 000
+Stock of finished goods at 1 January 2009
+83 000
+Wages
+625 000
+625 000
+4 978 000
+4 978 000
+
+
+--- Page Break ---
+
+M36363A	
+
+
+Turn over
+	
+Additional information at 31 December 2009:
+	
+• 	 Stock of finished goods £85 000.
+	
+• 	 Interest on bank loan £8 000 owing.
+	
+• 	 Rent on shop premises includes £7 000 paid in advance.
+	
+• 	 Wages include:  
+£
+Shop staff
+204 000
+Lorry drivers
+  97 000
+Direct factory labour
+324 000
+	
+• 	 Assuming a nil residual value and using the straight line method, the factory building is to be 
+depreciated over a 40 year life.
+	
+• 	 A provision for corporation tax of £175 000 is to be made.
+	
+Required:
+	
+Final accounts must be prepared using Format 1 as required by the Companies Act 1985. Show all 
+workings clearly labelled in arriving at your figures.     
+	
+Note:
+	
+• 	 Notes required by the Companies Act 1985 are not required.
+	
+• 	 Ignore all the exemptions permitted for small and medium sized companies.
+	
+(a)	 Prepare for Rajshahi Footwear plc a:
+	
+	
+(i)	 profit and loss account for the year ended 31 December 2009
+                                                                                                                                   (24)
+	
+	
+(ii)	 balance sheet as at 31 December 2009.
+                                                                                                                                   (16)
+	
+(b)	 Evaluate the usefulness of limited companies preparing their final accounts in accordance with 
+the Companies Act 1985.                 
+                                                                                                                                   (12)
+ (Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+M36363A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.	 West Anglian Farms has purchased a farm. The farm consists of four fields of different sizes. 
+	
+The field sizes are:
+Field
+A
+B
+C
+D
+Size (hectares)
+120
+100
+85
+65
+ 	
+The owners have decided to grow four different crops, one crop in each field for the next year.
+	
+The information is as follows:
+Crop
+Wheat
+Barley
+Sugar
+Maize
+Output per hectare (tonnes)
+8
+5
+10
+3
+Variable costs per tonne
+£50
+£70
+£450
+£100
+Market price per tonne
+£150
+£160
+£800
+£200
+	
+Required:
+	
+(a)	 (i)	 Calculate the contribution per hectare for each of the four crops.
+(12)
+	
+	
+(ii)	 Arrange the contribution per hectare from each of the four crops in order, starting with the 
+largest. 
+(2)
+	
+	
+(iii)	Decide the field in which each of the four crops will be grown to obtain maximum 
+contribution.
+(2)
+	
+	
+(iv)	Calculate the maximum profit for the year for West Anglian Farms if fixed costs for the 
+year are £328 000.
+(14)
+
+
+--- Page Break ---
+
+M36363A	
+5
+
+Turn over
+	
+The owners estimate that income from all sales will be as follows:
+July
+August
+September
+35%
+50%
+15%
+	
+(b)	 Prepare a sales budget for the months July, August and September.   
+     (10)
+	
+(c)	 Evaluate the usefulness to West Anglian Farms of preparing a cash budget for the year.
+(12) 
+ (Total 52 marks)
+Answer space for question 2 is on pages 8 to 15 of the question paper.
+
+
+--- Page Break ---
+
+M36363A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.	 BowTie plc is an advertising agency which has the following authorised share capital:
+Nominal value £1 shares
+Type
+900 000
+ordinary shares
+200 000
+8% preference shares
+	
+The following balances were available on 1 January 2009:
+	
+	
+£
+	
+11% debenture 2014	
+400 000
+	
+Ordinary share capital	
+700 000
+	
+8% preference share capital 	
+150 000
+	
+Profit and loss reserve	
+174 000
+	
+Revaluation reserve	
+90 000
+	
+For the financial year ended 31 December 2009, the profit on ordinary activities after tax was
+£226 000.
+	
+In December 2009, the directors of BowTie plc made the following decisions: 
+	
+(i)	 Provide a final dividend to ordinary shareholders of 5.2 pence per share. The dividend was paid 
+on 31 December 2009.
+	
+(ii)	 The preference shares are cumulative and during the year ended 31 December 2008 preference 
+shareholders received a 6% dividend. The directors decided to provide for arrears of dividend 
+from last year together with this year’s dividend in full.
+	
+(iii)	Create a general reserve and transfer a sum of £40 000 into the general reserve.
+	
+(iv)	Revalue the property from £500 000 to a market value of £560 000.
+	
+(v)	 Redeem £75 000 of the preference shares at par.
+
+
+--- Page Break ---
+
+M36363A	
+
+
+Turn over
+	
+Required:
+	
+(a)	 Journal entries to show items (i) to (v) as recorded in the books of BowTie plc. Dates and 
+narratives are not required.
+(18) 
+	
+(b)	 The Capital and Reserves section from the balance sheet after the Journal entries from part (a) 
+have been entered into the books.
+(14) 
+	
+(c)	 Calculate the gearing ratio for BowTie plc on 31 December 2009, clearly stating the formula 
+used.
+(8) 
+	
+(d)	 Evaluate the decisions of the directors in 2009 from the point of view of an ordinary 
+shareholder. 
+                      (12)
+                                                                                       
+(Total 52 marks)
+Answer space for question 3 is on pages 16 to 22 of the question paper.
+
+
+--- Page Break ---
+
+M36363A	
+	
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4.	 Yasmin Faraz makes tablecloths in her workshop. She has recently introduced a standard costing 
+system.
+	
+The following information is available for December 2009:
+	
+•	
+Each standard costing period of one month is to be 4 weeks.
+	
+•	
+The workshop employs 7 production staff, working 9 hours per day, 5 days per week.
+	
+•	
+Production staff are paid a basic wage of £6.50 per hour.
+	
+•	
+A production target for each worker is to be introduced and this is to produce one tablecloth 
+every 45 minutes.
+	
+•	
+To meet the production target for December, each production worker worked one hour overtime 
+per day, for the final four days of the month.
+	
+•	
+Overtime is paid at a rate of £11.00 per hour.
+	
+Required:
+	
+(a)	 Calculate for December 2009 the:
+	
+	
+(i)	 standard hours worked, and the actual hours worked                             
+(4)
+	
+	
+(ii)	 labour efficiency variance                                                                        
+(4) 
+	
+	
+(iii)	total standard wages cost, and the total actual wages cost                     
+(4)
+	
+	
+(iv)	total wages cost variance                                                                         
+(4)
+	
+	
+(v)	 actual wage rate                                                                                        
+(4)
+	
+	
+(vi)	wage rate variance.                                                                                   
+(4)
+	
+(b)	 As Yasmin Faraz’s accountant, evaluate the likely effects of a standard costing system on the 
+production workers.
+(8)
+                                                                                                             
+ (Total 32 marks)
+Answer space for question 4 is on pages 23 to 26 of the question paper.
+
+
+--- Page Break ---
+
+M36363A	
+
+
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5.	 SkyeLine Limited produces roof tiles for the building industry. The projected figures for the next 
+quarter (3 months) are as follows:
+	
+•	
+Factory rent £6 000 per quarter
+	
+•	
+Management salaries £11 000 per quarter
+	
+•	
+Material costs 15 pence (£0.15) per tile
+	
+•	
+Direct labour costs 10 pence (£0.10) per tile
+	
+•	
+Delivery costs 2 pence (£0.02) per tile
+	
+•	
+Other fixed costs £4 750 per quarter
+	
+•	
+Selling price 85 pence (£0.85) per tile
+	
+Normal sales for SkyeLine Limited are 50 000 tiles per quarter. However, the building industry is 
+in a recession, and projected sales for the next quarter are 35 000 tiles.
+	
+Required:
+	
+(a)	 Calculate the expected break-even point for the next quarter in:
+	
+	
+(i)	 units of output (tiles)
+	
+	
+(ii)	 sales revenue.
+(8)
+ 	
+(b)	 Calculate the projected profit or loss for the next quarter.          
+(4)
+	
+The Chairman of SkyeLine Limited has set a target profit of £10 000 for the next quarter.
+	
+(c)  Assuming all costs and selling prices remain the same, calculate the:
+	
+	
+(i)	 units of output (tiles) that must be sold to achieve the target profit of £10 000                          
+   (5)
+	
+	
+(ii)	 margin of safety, in units of output (tiles), if the target profit of £10 000 is reached. 
+     (3) 
+	
+At a board meeting, the Managing Director makes the following suggestions:
+	
+•	
+Increase the selling price by 15 pence (£0.15) per tile
+	
+•	
+Negotiate a decrease in the rent to £4 000 per quarter
+	
+•	
+Reduce the management salaries to £8 000 per quarter
+	
+•	
+Pay direct labour 9 pence (£0.09) per tile
+	
+•	
+Reduce other fixed costs to £3 750 per quarter
+	
+•	
+Ensure sales are 35 000 tiles during the quarter.
+
+
+--- Page Break ---
+
+M36363A	
+10	
+	
+(d)  Calculate the expected profit if the Managing Director’s suggestions are carried out. 
+ (4)
+	
+(e)   Evaluate the suggestions of the Managing Director.
+(8)
+                                                                                                             
+ (Total 32 marks)
+Answer space for question 5 is on pages 27 to 31 of the question paper.
+
+
+--- Page Break ---
+
+M36363A	
+11
+
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6.	 The senior accountant at Manakopolous plc has prepared the Cash Flow Statement (FRS 1 Revised) 
+for the year ended 31 December 2009. He requires you, the junior accountant, to assist him. You 
+are asked to prepare a reconciliation, which he hopes will agree with the figures he calculated on 
+the Cash Flow Statement.
+	
+You are given the following information:
+31 December 2008
+31 December 2009
+£
+£
+Current assets
+Stocks – finished goods
+ 21 412
+  20 320
+Stocks – work in progress
+11 024
+ 15 039
+Debtors
+4 329
+ 2 135
+Prepayments
+ 750
+520
+Bank
+ 8 904
+–
+Cash
+3 581
+1 986
+ 50 000
+40 000
+Current liabilities
+Trade creditors
+ 11 896
+15 843
+Accrued expenses
+1 460
+ 1 578
+Debenture interest
+12 000
+12 000
+Taxation due
+20 644
+22 135
+Proposed ordinary dividends
+4 000
+3 000
+Bank overdraft
+      –
+5 444
+50 000
+60 000
+
+
+--- Page Break ---
+
+M36363A	
+12	
+	
+Additional information:
+	
+(i)	
+Net operating profit after interest was £98 438.
+	
+(ii)	 Interest charges on the bank overdraft for the year were £776.
+	
+(iii)	 The debenture interest is payable on a 12% debenture of £200 000 repayable in 2015.
+	
+(iv)	 Depreciation is charged only on assets in the books at the year end.
+	
+(v)	
+Machinery bought on 1 January 2007 had a net book value of £60 000 at 31 December 2008, 
+and was still in the books at 31 December 2009. Depreciation is at a rate of 20% per year, 
+using the straight line method. 
+	
+(vi)	 Total depreciation on all other fixed assets for 2009 is £15 000. 
+	
+(vii)	 On 12 September 2009, a motor van with a net book value of £18 000 was sold for £15 600.
+	
+(viii)	On 4 December 2009, furniture with a net book value of £1 250 was sold for £1 675.
+	
+Required:
+	
+(a)	 Provide a statement reconciling the net operating profit to the net cash flow from operating 
+activities for the year ended 31 December 2009.
+                                                                          (18)
+	
+(b)	 Give an analysis of the changes in bank and cash balances for the year ended 31 December 
+2009.
+(6) 
+	
+Maria Manakopolous, the Marketing Director, has studied the figures and said “I am concerned 
+about the liquidity of the business”.  
+	
+(c)	 Evaluate this statement.
+ (8)
+(Total 32 marks)
+Answer space for question 6 is on pages 32 to 35 of the question paper.
+
+
+--- Page Break ---
+
+M36363A	
+13
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.	 MetroTransit plc has been offered a contract by the government to build an underground railway 
+across the city. MetroTransit plc will be able to operate the railway, and collect and retain all fares, 
+for five years before the government takes over the railway. The directors of MetroTransit plc are 
+considering whether to accept the contract and invest in the project.
+	
+The following information is available:
+	
+(i)	
+Forecasts show that the initial cost of the investment will be £900 million (£900 000 000).
+	
+(ii)	
+Depreciation on all fixed assets of the railway is forecast to be £135 million (£135 000 000) 
+per year for each of the five years.
+	
+(iii)	 Operating expenses, including depreciation, for the first two years are forecast to be
+£228 million (£228 000 000) per year.  In year three, operating expenses, including 
+depreciation, are forecast to rise by 5%. In years four and five, operating expenses are 
+forecast to stay at the same level as in year three. 
+	
+(iv)	 The railway will run for 365 days of the year.
+	
+(v)	
+In years one, two and three, it is forecast that the railway will carry 280 000 passengers per 
+day, paying a fare of £4 each. 
+	
+(vi)	 In years four and five, it is forecast that the railway will carry 310 000 passengers a day, and 
+the price of a fare will rise by 10%. 
+	
+(vii)	 The company’s cost of capital is 11%.  
+	
+(viii)	 The following is an extract of the present value table:
+	
+11%
+	
+Year 1  0.901
+	
+Year 2  0.812
+	
+Year 3  0.731
+	
+Year 4  0.659
+	
+Year 5  0.593
+	
+Required:
+	
+(a)	 Calculate the net present value for the project.
+(24)
+	
+(b)	 Evaluate the project for MetroTransit plc, using the calculations made and considering any 
+other relevant factors.  
+(8) 
+   
+(Total 32 marks)
+Answer space for question 7 is on pages 36 to 38 of the question paper.
+
+
+
+--- Page Break ---
+
+M36363A	
+14	
+BLANK PAGE
+
+
+--- Page Break ---
+
+M36363A	
+15
+BLANK PAGE
+
+
+
+--- Page Break ---
+
+M36363A	
+16	
+BLANK PAGE

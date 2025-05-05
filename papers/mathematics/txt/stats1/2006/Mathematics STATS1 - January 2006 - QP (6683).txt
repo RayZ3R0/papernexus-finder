@@ -1,0 +1,350 @@
+Paper Reference(s) 
+6683/01 
+Edexcel GCE 
+Statistics S1 
+Advanced/Advanced Subsidiary 
+Monday 16 January 2006 − Morning 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Mathematical Formulae (Green or Lilac)                   Nil 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S1), the paper reference (6683), 
+your surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+The marks for individual questions and the parts of questions are shown in round brackets: e.g. (2). 
+There are 7 questions on this paper. The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N20908A 
+ 
+This publication may only be reproduced in accordance with Edexcel Limited copyright policy. 
+©2006 Edexcel Limited. 
+ 
+PMT
+
+
+--- Page Break ---
+
+1. 
+Over a period of time, the number of people x leaving a hotel each morning was recorded. 
+These data are summarised in the stem and leaf diagram below. 
+ 
+Number leaving 
+3 
+2  means 32 
+Totals 
+2 7 
+9 
+9 
+ 
+ 
+ 
+ 
+(3) 
+3 2 
+2 
+3 
+5 
+6 
+ 
+ 
+(5) 
+4 0 
+1 
+4 
+8 
+9 
+ 
+ 
+(5) 
+5 2 
+3 
+3 
+6 
+6 
+6 
+8 
+(7) 
+6 0 
+1 
+4 
+5 
+ 
+ 
+ 
+(4) 
+7 2 
+3 
+ 
+ 
+ 
+ 
+ 
+(2) 
+8 1 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+ 
+ 
+ 
+For these data, 
+ 
+ 
+(a) write down the mode, 
+(1) 
+ 
+(b) find the values of the three quartiles. 
+(3) 
+ 
+ 
+Given that Σx = 1335 and Σx2 = 71 801, find 
+ 
+ 
+(c) the mean and the standard deviation of these data. 
+(4) 
+ 
+ 
+One measure of skewness is found using 
+ 
+deviation
+standard
+mode
+mean −
+. 
+ 
+ 
+(d) Evaluate this measure to show that these data are negatively skewed. 
+(2) 
+ 
+(e) Give two other reasons why these data are negatively skewed. 
+(4) 
+      
+ 
+N20908A 
+2 
+PMT
+
+
+--- Page Break ---
+
+ 
+2. 
+The random variable X has probability distribution 
+ 
+x 
+1 
+2 
+3 
+4 
+5 
+P(X = x) 
+0.10 
+p 
+0.20 
+q 
+0.30 
+ 
+ 
+(a) Given that E(X) = 3.5, write down two equations involving p and q. 
+(3) 
+ 
+ 
+Find 
+ 
+ 
+(b) the value of p and the value of q, 
+(3) 
+ 
+(c) Var (X), 
+(4) 
+ 
+(d) Var (3 – 2X). 
+ (2) 
+ 
+ 
+3. 
+A manufacturer stores drums of chemicals. During storage, evaporation takes place. A 
+random sample of 10 drums was taken and the time in storage, x weeks, and the evaporation 
+loss, y ml, are shown in the table below.  
+ 
+x 
+3 
+5 
+6 
+8 
+10 
+12 
+13 
+15 
+16 
+18 
+y 
+36 
+50 
+53 
+61 
+69 
+79 
+82 
+90 
+88 
+96 
+ 
+ 
+(a) On graph paper, draw a scatter diagram to represent these data. 
+(3) 
+ 
+(b) Give a reason to support fitting a regression model of the form y = a + bx to these data. 
+ (1) 
+ 
+(c) Find, to 2 decimal places, the value of a and the value of b.  
+ 
+(You may use Σx2 = 1352,   Σy2 = 53 112  and  Σxy = 8354.) 
+(7) 
+ 
+(d) Give an interpretation of the value of b. 
+(1) 
+ 
+(e) Using your model, predict the amount of evaporation that would take place after 
+ 
+ 
+ 
+(i) 19 weeks, 
+ 
+ 
+ 
+(ii) 35 weeks. 
+(2) 
+ 
+(f ) Comment, with a reason, on the reliability of each of your predictions. 
+(4) 
+ 
+N20908A 
+3 
+Turn over 
+ 
+PMT
+
+
+--- Page Break ---
+
+4. 
+A bag contains 9 blue balls and 3 red balls. A ball is selected at random from the bag and its 
+colour is recorded. The ball is not replaced. A second ball is selected at random and its colour 
+is recorded. 
+ 
+ 
+(a) Draw a tree diagram to represent the information. 
+(3) 
+ 
+ 
+Find the probability that 
+ 
+ 
+(a) the second ball selected is red, 
+(2) 
+(b) both balls selected are red, given that the second ball selected is red.  
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+ 
+ 
+5. 
+(a) Write down two reasons for using statistical models. 
+(2) 
+ 
+(b) Give an example of a random variable that could be modelled by 
+ 
+ 
+ 
+(i) a normal distribution, 
+ 
+ 
+ 
+(ii) a discrete uniform distribution. 
+ (2) 
+ 
+6. 
+For the events A and B, 
+ 
+P(A ∩ B′) = 0.32, P(A′ ∩ B) = 0.11 and P(A ∪ B) = 0.65. 
+ 
+ 
+(a) Draw a Venn diagram to illustrate the complete sample space for the events A and B. 
+(3) 
+ 
+(b) Write down the value of P(A) and the value of P(B). 
+(3) 
+ 
+(c) Find P(AB′). 
+(2) 
+ 
+(d) Determine whether or not A and B are independent. 
+(3) 
+N20908A 
+4 
+PMT
+
+
+--- Page Break ---
+
+ 
+7. 
+The heights of a group of athletes are modelled by a normal distribution with mean 180 cm 
+and a standard deviation 5.2 cm. The weights of this group of athletes are modelled by a 
+normal distribution with mean 85 kg and standard deviation 7.1 kg.  
+ 
+ 
+Find the probability that a randomly chosen athlete  
+ 
+ 
+(a) is taller than 188 cm,  
+(3) 
+ 
+(b) weighs less than 97 kg.  
+(2) 
+ 
+(c) Assuming that for these athletes height and weight are independent, find the probability 
+that a randomly chosen athlete is taller than 188 cm and weighs more than 97 kg. 
+(3) 
+ 
+(d) Comment on the assumption that height and weight are independent. 
+(1) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+N20908A 
+5 
+ 
+ 
+PMT

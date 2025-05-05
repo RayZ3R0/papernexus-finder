@@ -1,0 +1,803 @@
+Turn over
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 2 – Corporate and 
+ 
+Management Accounting
+Tuesday 12 June 2012 – Morning
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P40267A
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2012 Pearson Education Ltd.
+W850/6002/57570   1/1/1
+*P40267A*
+
+
+--- Page Break ---
+
+P40267A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Columbo Fireworks plc produces fireworks at its factory.  The fireworks are then delivered to 
+Columbo Fireworks plc shops, where they are sold to customers.  
+ 
+At 31 March 2012, the following were some of the balances in the books:
+Debit
+£
+Credit
+£
+Bad debts written off
+9 450
+Bank interest on overdraft
+2 980
+9% Bank loan
+500 000
+Commission on sales
+147 500
+Computers
+79 800
+Delivery charges
+215 670
+Direct materials
+447 760
+Discount allowed
+96 432
+Discount received on materials
+68 740
+Dividends received from shares held in other companies
+32 810
+Factory buildings at cost
+6 300 000
+Factory machinery at cost
+1 350 000
+Fees paid to debt collection agency
+2 000
+Hire of photocopiers
+9 650
+Hire of plant and machinery
+24 300
+Insurance
+11 120
+Interest on bank balance
+4 651
+Inventory of finished goods at 1 April 2011 
+367 000
+Marketing and advertising
+37 584
+Rent on shop premises
+52 855
+Rent received from property lettings
+32 860
+Revenue
+3 321 765
+Sales staff travel and entertaining
+32 750
+Wages
+989 000
+Warehousing
+638 543
+
+
+--- Page Break ---
+
+P40267A 
+3
+ 
+Turn over
+ 
+Additional information at 31 March 2012:
+ 
+(i) Inventory of finished goods £379 000.
+ 
+(ii) Rent received from property lettings account has £4 880 owing.  
+ 
+(iii) Hire of photocopiers account includes £2 350 paid in advance.
+ 
+(iv) Wages include: 
+Administration staff
+£289 000
+Factory staff
+£350 000
+Shop staff
+£126 000
+Accountancy staff
+£224 000
+ 
+(v) Assuming a nil residual value in each case and using the straight line method: 
+ 
+ 
+ 
+the factory building is to be depreciated over a 50 year life
+ 
+ 
+ 
+factory machinery is to be depreciated over an 8 year life
+ 
+ 
+ 
+computers are to be depreciated over a 3 year life.
+ 
+(vi)  A provision for corporation tax is to be made for £110 000.
+ 
+Required:
+ 
+(a) Prepare a statement of comprehensive income for Columbo Fireworks plc for the year ended 
+31 March 2012, using International Accounting Standard (IAS) 1. Columbo Fireworks plc 
+analyses expenses by function.
+ 
+ 
+You must show all workings, clearly labelled, in arriving at your figures to be shown in the 
+published statement of comprehensive income.
+(40)
+ 
+The information given includes revenues and expenses for unused shop premises that Columbo 
+Fireworks plc rents out.  Next year, Columbo Fireworks plc intends to sell these premises and 
+record this in the accounts as a Discontinued Activity.
+ 
+(b) Evaluate the usefulness of recording the shop premises as a Discontinued Activity in next 
+year’s accounts.
+(12)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+P40267A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. Miles of Tiles Limited produces clay tiles for sale to customers.  All tiles are produced to orders, 
+and no stocks of tiles are held by the company.
+ 
+For the month of April 2012, the following information is available.
+ 
+Budget for April 2012:
+ 
+ 
+Each tile should use 4 kilograms of clay in production.
+ 
+ 
+Clay is to be purchased from suppliers at a rate of £0.06 per kilo.
+ 
+ 
+Workers are to be paid £5.85 per hour, and are to produce 40 tiles per hour.
+ 
+Actual figures for April 2012:  
+ 
+ 
+341 120 kilograms of clay used for production at a total cost of £17 056.
+ 
+ 
+2 132 hours of labour used for production at a total cost of £12 792.
+ 
+The budgeted production target of 83 200 tiles was achieved.
+ 
+Required:
+ 
+(a) Calculate for April 2012 the:
+ 
+ 
+(i) actual amount of clay in kilograms used to produce each tile
+(3)
+ 
+ 
+(ii) actual cost of clay per kilogram
+(3)
+ 
+ 
+(iii) standard time in hours needed to produce the budgeted output of tiles
+(3)
+ 
+ 
+(iv) actual wage rate per hour.
+(3)
+ 
+(b) Calculate the following variances for April 2012, stating the formula used in each case:
+ 
+ 
+(i) materials usage variance, materials price variance, and total materials variance
+(12)
+ 
+ 
+(ii) labour efficiency variance, labour rate variance, and total labour variance.
+(12)
+ 
+All tiles were sold at the budgeted price of £0.75 per tile.
+ 
+Fixed costs for April 2012 totalled £12 500.
+ 
+(c) Calculate the actual profit for the month of April 2012.
+(4)
+
+
+--- Page Break ---
+
+P40267A 
+5
+ 
+Turn over
+ 
+Bernard Miles, the Chief Executive of Miles of Tiles Limited, has stated “If there is an adverse 
+variance, this must be bad for the business.”
+ 
+(d) Evaluate this statement.
+(12)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 13 of the question paper.
+
+
+--- Page Break ---
+
+P40267A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. The statement of financial position of Jesoree Investments plc at the start of the financial year,
+ 
+1 April 2011, contained the following information.
+ 
+Equity and Liabilities
+Equity
+£m
+£m
+Ordinary shares of £1
+250
+Share premium reserve
+50
+8% Preference shares of £1
+75
+Retained earnings
+38
+General reserve
+40
+Capital redemption reserve
+25
+Revaluation reserve
+30
+508
+Non-Current Liabilities
+6% Debenture 2015
+150
+Bank loan
+175
+325
+ 
+Required:
+ 
+(a) Briefly state how the following reserves are 1) created and 2) used:
+ 
+ 
+(i) Retained earnings
+ 
+ 
+(ii) General reserve
+ 
+ 
+(iii) Share premium reserve
+ 
+ 
+(iv) Capital redemption reserve
+ 
+ 
+(v) Revaluation reserve.
+(12)
+ 
+The directors decided to raise another £60 million to take advantage of a business opportunity. 
+When faced with a choice between a share issue and a debenture issue, the directors decided to 
+issue shares.
+ 
+During the 12 months to 31 March 2012, the following events occurred relating to share capital.
+ 
+1. On 1 June 2011, the company offered 50 million £1 ordinary shares at a price of £1.20 on the 
+following terms:
+ 
+ 
+50p on application 
+ 
+ 
+30p on allotment 
+ 
+ 
+40p first and final call (including the 20p premium).
+
+
+--- Page Break ---
+
+P40267A 
+7
+ 
+Turn over
+ 
+2. On 16 June 2011, applications for 64 million shares had been received. The directors rejected 
+applications for 4 million shares and allotted shares to the remaining applicants on the basis of 
+5 shares for every 6 applied for.
+ 
+3. On 26 June 2011 monies were returned to the unsuccessful applicants of the 4 million shares.
+ 
+4. The balances due on allotment were fully received on 31 July 2011.
+ 
+5. The first and final call was made on 1 October 2011 and the amounts were fully received on 
+31 October 2011.
+ 
+Required:
+ 
+(b) Prepare the following ledger accounts to record the above transactions: 
+ 
+ 
+(i) Ordinary share capital
+ 
+ 
+(ii) Share premium
+ 
+ 
+(iii) Application and allotment
+ 
+ 
+(iv) First and final call.
+ 
+ 
+You should show the following where possible:
+ 
+ 
+ 
+dates
+ 
+ 
+ 
+opening balances at the start of the year
+ 
+ 
+ 
+closure of any relevant accounts during the year
+ 
+ 
+ 
+closing balances at the end of the year.
+(20)
+ 
+(c) Calculate the gearing ratio on 1 November 2011, clearly stating the formula used.
+(8)
+ 
+(d) Evaluate the decision to raise further finance by issuing ordinary shares, rejecting the possibility 
+of raising funds by the issue of debentures.
+(12)
+(Total 52 marks)
+Answer space for question 3 is on pages 14 to 17 of the question paper.
+
+
+--- Page Break ---
+
+P40267A 
+8 
+BLANK PAGE
+
+
+--- Page Break ---
+
+P40267A 
+9
+ 
+Turn over
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. A group of business people are thinking of creating a cycling team, Team Minerva, to take part in 
+cycle races over the next four years. The initial investment to create the team will be £1 500 000.
+ 
+The following figures are estimated for the cycling team:
+ 
+(i) Salaries for cyclists will be:
+
+
+
+	
+	
+
+
+
+
+
+	
+		
+
+
+ 
+(ii) Running costs are £800 000 per year including depreciation.
+ 
+(iii) Depreciation is expected to be £260 000 per year.
+ 
+(iv) Estimated prize money the team will earn is
+ 
+ 
+Year 1  £600 000         Year 2  £850 000         Year 3  £1 100 000         Year 4  £900 000
+ 
+(v) A contract with sponsors will result in revenue of £400 000 per year for four years.
+ 
+(vi) Television revenue will be  
+ 
+ 
+Years 1 + 2  £250 000 per year         Years 3 + 4   £300 000 per year.
+ 
+(vii) The cost of capital for the project is 9%.
+ 
+(viii) The discount factors for 9% are
+ 
+ 
+Year 1  0.917         Year 2  0.842         Year 3  0.772         Year 4  0.708
+ 
+Required:
+ 
+(a) Calculate the Net Present Value of the project at the end of Year 4.
+(16)
+ 
+(b) (i) State the Internal Rate of Return of the project.
+(2)
+ 
+ 
+(ii) Explain your answer given in b (i).
+(6)
+ 
+(c) Evaluate the Internal Rate of Return as a project appraisal method.
+(8)
+(Total 32 marks)
+Answer space for question 4 is on pages 18 to 21 of the question paper.
+
+
+--- Page Break ---
+
+P40267A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Panoramic Cinemas Limited purchased Luxury Cinemas Limited on 1 April 2012. 
+ 
+The directors of Panoramic Cinemas Limited agreed to take over all assets except the cash balance, 
+and to settle all liabilities.
+ 
+The purchase price was agreed at £18 590 000. This was settled by the issue of Panoramic Cinemas 
+Limited shares. 
+ 
+Luxury Cinemas Limited shareholders received 11 000 000 Panoramic Cinemas Limited ordinary 
+shares of £1 each at a premium of £0.60 per share, with the balance settled in cash.
+ 
+The statements of financial position of the two companies on 31 March 2012 were as follows:
+Panoramic Cinemas Limited
+Luxury Cinemas Limited
+£
+£
+£
+£
+Assets
+Non-current Assets
+Property, plant and equipment
+121 000 000
+15 000 000
+Intangible assets
+    2 000 000
+----------- 
+123 000 000
+15 000 000
+Current Assets
+Inventories
+       656 000
+120 000
+Trade receivables
+         74 000
+  11 000
+Cash
+    1 780 000
+  40 000
+    2 510 000
+      171 000
+Total Assets
+125 510 000
+ 15 171 000
+Equity and Liabilities
+£
+£
+£
+£
+Equity
+Ordinary Shares of £1 each
+80 000 000
+11 000 000
+Share premium
+20 000 000
+     500 000
+Retained earnings
+20 342 660
+       24 690
+120 342 660
+  11 524 690
+Non-current Liabilities
+Bank loan
+ 5 000 000
+  2 500 000
+    5 000 000
+    2 500 000
+Current Liabilities
+Loans repayable within 12 
+months
+-------------
+  1 000 000
+Trade payables
+      167 340
+     146 310
+       167 340
+    1 146 310
+Total Equity and Liabilities
+125 510 000
+  15 171 000
+
+
+--- Page Break ---
+
+P40267A 
+11
+ 
+Turn over
+ 
+Additional information at 1 April 2012:
+ 
+The assets of Luxury Cinemas Limited were revalued as follows:
+ 
+ 
+Property with a book value of £12 000 000 to a current market value of £12 800 000 
+ 
+ 
+Equipment with a book value of £2 000 000 was reduced by £750 000
+ 
+ 
+Inventories to a net realisable value of £115 000
+ 
+ 
+Trade receivables were reduced by 10%.
+ 
+Required:
+ 
+(a) Calculate the goodwill paid by Panoramic Cinemas Limited in the purchase of Luxury Cinemas 
+Limited.
+(8)
+ 
+(b) Devran, a shareholder in Luxury Cinemas Limited, received a cheque for £639 for his shares. 
+How many shares in Luxury Cinemas Limited did he hold before the purchase by Panoramic 
+Cinemas Limited? 
+(4)
+ 
+(c) Prepare the statement of financial position of Panoramic Cinemas Limited at 1 April 2012, 
+immediately following the purchase of Luxury Cinemas Limited.
+(12)
+ 
+(d) Evaluate the treatment of the goodwill created in the accounts of Panoramic Cinemas Limited 
+following the purchase of Luxury Cinemas Limited. 
+(8)
+(Total 32 marks)
+Answer space for question 5 is on pages 22 to 25 of the question paper.
+
+
+--- Page Break ---
+
+P40267A 
+12 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. South American Mining plc is a multinational copper mining company. Every quarter (three 
+months) the directors review the profitability of each copper mine. At present, the market price of 
+copper is £6 500 a tonne, and all production is sold. South American Mining plc would not be able 
+to raise their selling price of copper, as buyers would purchase from other suppliers.
+ 
+Figures for the four mines in the Western Region, for the three months ended 31 March 2012 are:
+San Pedro
+La Rioja
+Copresol
+Andacalla
+Fixed Costs
+£105 600
+£60 900
+£25 000
+£20 000
+Direct Labour 
+£1 664 000
+£1 050 000
+£675 000
+£408 000
+Direct Materials
+£288 000
+£315 000
+£150 000
+£96 000
+Production — tonnes
+320
+210
+125
+80
+ 
+Required:
+ 
+(a) Calculate the profit or loss for each of the four mines of the Western Region, for the three 
+months ended 31 March 2012.
+(8)
+ 
+(b) Calculate the:
+ 
+ 
+(i) profit or loss per tonne and
+ 
+ 
+(ii) contribution per tonne
+ 
+ 
+made by each of the four mines, for the three month period ended 31 March 2012.
+(16)
+ 
+(c) Evaluate the figures calculated in (b) to make a decision as to the future of each of the four 
+mines.
+(8)
+(Total 32 marks)
+Answer space for question 6 is on pages 26 to 28 of the question paper.
+
+
+--- Page Break ---
+
+P40267A 
+13
+ 
+Turn over
+BLANK PAGE
+
+
+--- Page Break ---
+
+P40267A 
+14 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. The directors of Chittagong Stores plc have prepared a statement of cash flow in accordance with 
+International Accounting Standard (IAS) 7, as shown below.
+Statement of Cash Flow for year ended 31 March 2012
+£
+£
+Cash Flows from Operating Activities
+Profit after tax
+213 657
+Taxation charge for year on profit
+42 784
+Add Depreciation of non-current assets
+75 000
+Add Loss on sale of property, plant and equipment
+20 000
+Less Profit on sale of intangible asset
+(45 000)
+Operating cash flow before working capital changes
+30 6441
+Increase in inventories
+(13 745)
+Decrease in trade receivables
+7 360
+Increase in trade payables
+6 320
+Cash generated from operations
+306 376
+Add Interest received
+2 171
+Less Interest paid
+(16 162)
+Less Tax paid
+(35 768)
+Net Cash generated from Operating Activities
+256 617
+Cash Flow from Investing Activities
+Payments to acquire tangible fixed assets
+(215 000)
+Proceeds from sale of tangible fixed assets
+65 000
+Proceeds from sale of intangible fixed asset
+135 000
+Dividends received
+6 000
+Net Cash Used in Investing Activities
+(9 000)
+Cash Flow from Financing Activities
+Issue of ordinary shares
+120 000
+Redemption of preference shares
+ (100 000)
+Repayment of debenture
+ (200 000)
+Dividends paid
+17 000
+Net Cash used in Financing Activities
+(163 000)
+Net increase in cash and cash equivalents
+84 617
+Cash and cash equivalents at the beginning of the year
+(34 476)
+Cash and cash equivalents at the end of the year
+50 141
+
+
+--- Page Break ---
+
+P40267A 
+15
+ 
+Required:
+ 
+(a) Prepare answers to the following questions:
+ 
+ 
+(i) How much was the tax charged on profit for the year ended 31 March 2011?
+(1)
+ 
+ 
+(ii) What happened to the level of unsold goods during the year ended 31 March 2012?
+(1)
+ 
+ 
+(iii) If £22 654 was owed to suppliers on 31 March 2011, how much was owed to suppliers on 
+31 March 2012?
+(2)
+ 
+ 
+(iv) The interest on an overdraft was £4 162.  All other interest paid relates to the debenture, 
+which was repaid on 31 December 2011.  What was the interest rate of the debenture?
+(4)
+ 
+ 
+(v) A patent was sold in January 2012. What was the book value of the patent when sold?
+(2)
+ 
+ 
+(vi) All of the preference shares were redeemed on 1 April 2011 and received no dividends. 
+The ordinary share dividends included: 
+ 
+ 
+ 
+ 
+Year ended 31 March 2011  £8 000 – paid May 2011
+ 
+ 
+ 
+ 
+Year ended 31 March 2012  £7 000 – proposed.
+ 
+ 
+ 
+Calculate the interim dividend paid in November 2011.
+(2)
+ 
+ 
+(vii) At 1 April 2011, Chittagong Stores plc had £12 473 cash.  What was the bank balance at 
+1 April 2011?
+(2)
+ 
+ 
+(viii) At 1 April 2012, Chittagong Stores plc had £13 685 cash.  What was the movement on the 
+bank balance in the year ended 31 March 2012?
+(4)
+ 
+ 
+(ix) If customers owed £16 799 on 31 March 2012, how much did they owe on 1 April 2011?
+(2)
+ 
+(b) Explain two differences between a statement of cash flow and a cash budget.
+(4)
+ 
+Henna Mahmood, a director of Chittagong Stores plc, has stated at a board meeting “liquidity is 
+more important than profitability”.
+ 
+Required:
+ 
+(c) Evaluate this statement.
+(8)
+(Total 32 marks)
+Answer space for question 7 is on pages 29 to 32 of the question paper.
+
+
+--- Page Break ---
+
+P40267A 
+16 
+BLANK PAGE

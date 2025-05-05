@@ -1,0 +1,17 @@
+2025-05-06 01:47:22,356 - INFO - Starting PaperNexus Extractor
+2025-05-06 01:47:22,356 - INFO - Found subjects: accounting, biology, chemistry, economics, mathematics, physics, psychology
+2025-05-06 01:47:22,356 - INFO - Creating directory structure...
+2025-05-06 01:47:22,367 - INFO - Processing subject: accounting
+2025-05-06 01:47:23,601 - INFO - Processing subject: biology
+2025-05-06 01:47:25,891 - ERROR - Error extracting text from papers/biology/qp/u6/2012/Biology Unit 6 - May 2012 - QP (6BI06).pdf: Failed to open file 'papers/biology/qp/u6/2012/Biology Unit 6 - May 2012 - QP (6BI06).pdf'.
+2025-05-06 01:47:26,156 - INFO - Processing subject: chemistry
+2025-05-06 01:47:28,516 - INFO - Processing subject: economics
+2025-05-06 01:47:32,058 - INFO - Processing subject: mathematics
+2025-05-06 01:47:38,425 - INFO - Processing subject: physics
+2025-05-06 01:47:42,115 - INFO - Processing subject: psychology
+2025-05-06 01:47:44,535 - INFO - Extraction complete. Statistics:
+2025-05-06 01:47:44,535 - INFO - Total papers: 1778
+2025-05-06 01:47:44,535 - INFO - Successfully extracted: 1777
+2025-05-06 01:47:44,535 - INFO - Failed extractions: 1
+2025-05-06 01:47:44,535 - INFO - Subjects processed: 7
+2025-05-06 01:47:44,535 - INFO - Total time: 0h 0m 22s

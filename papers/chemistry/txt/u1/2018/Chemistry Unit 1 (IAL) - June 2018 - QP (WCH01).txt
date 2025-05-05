@@ -1,0 +1,1103 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Tuesday 22 May 2018 – Morning
+Time: 1 hour 30 minutes
+WCH01/01
+Candidates must have: Scientific calculator.
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+	
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+	
+– there may be more space than you need.
+Information
+•	 The total mark for this paper is 80.
+•	 The marks for each question are shown in brackets
+	
+– use this as a guide as to how much time to spend on each question.
+•	 Questions labelled with an asterisk (*) are ones where the quality of your  
+	
+written communication will be assessed 
+	
+– you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+•	 A Periodic Table is printed on the back cover of this paper.
+Advice
+•	 Read each question carefully before you start to answer it.
+•	 Check your answers if you have time at the end.
+•	 Show all your working in calculations and include units where appropriate.
+Pearson Edexcel 
+International
+Advanced Level
+Turn over    
+*P51942A0124*
+P51942A
+©2018 Pearson Education Ltd.
+5/4/5/2/1/1/
+PMT
+
+
+--- Page Break ---
+
+2
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1	 The type of formula that shows all the bonds and all the atoms in a molecule is
+	
+	
+A	 an empirical formula.
+	
+	
+B	 a molecular formula.
+	
+	
+C	 a structural formula.
+	
+	
+D	 a displayed formula.
+(Total for Question 1 = 1 mark)
+2	 The concentration of potassium ions in human blood is in the range 3.5 × 10–3 to 
+5.0 × 10–3 mol dm–3.
+	
+An average person has 5 dm3 of blood.
+	
+What is the minimum mass of potassium ions in the blood of an average person?
+	
+[Molar mass of potassium = 39.1 g mol–1]
+	
+	
+A	 0.137 g
+	
+	
+B	 0.684 g
+	
+	
+C	 0.978 g
+	
+	
+D	 684.0 g
+(Total for Question 2 = 1 mark)
+3	 What is the number of atoms present in 3.06 dm3 of carbon dioxide, at 373 K?
+	
+[Molar volume of a gas at 373 K is 30.6 dm3 mol–1, Avogadro constant = 6.0 × 1023 mol–1]
+	
+	
+A	 1.8 × 1022
+	
+	
+B	 6.0 × 1022
+	
+	
+C	 1.8 × 1023
+	
+	
+D	 6.0 × 1023
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0324*
+4	 A sample of seawater contains 3.54% sodium chloride by mass.
+	
+What is the concentration of sodium chloride in parts per million?
+	
+	
+A	 3.54 × 10–6
+	
+	
+B	 3.54 × 10–4
+	
+	
+C	 3.54 × 104
+	
+	
+D	 3.54 × 106
+(Total for Question 4 = 1 mark)
+5	 Hot packs and cold packs are used to heat and cool parts of the body.
+	
+What are the signs of the standard enthalpy changes of reaction used in hot packs 
+and cold packs?
+Hot packs
+Cold packs
+A
+negative
+negative
+B
+positive
+negative
+C
+negative
+positive
+D
+positive
+positive
+(Total for Question 5 = 1 mark)
+6	 For reactions with the ionic equation
+H+(aq)  +  OH–(aq)  →  H2O(l)
+	
+the type of enthalpy change is
+	
+	
+A	 ΔHatomisation
+	
+	
+B	 ΔHcombustion
+	
+	
+C	 ΔHformation
+	
+	
+D	 ΔHneutralisation
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0424*
+7	 An excess of zinc powder is added to a solution of copper(II) sulfate and the 
+maximum change in temperature of the solution is measured.
+	
+The energy transferred is calculated using
+	
+Energy transferred in joules = mass × specific heat capacity × temperature change
+	
+In this calculation, it is usual to assume that the
+	
+	
+A	 mass is equal to the mass of zinc added to the mass of copper(II) sulfate solution.
+	
+	
+B	 mass is equal to the volume of copper(II) sulfate solution.
+	
+	
+C	 specific heat capacity is the average of the specific heat capacities of the solution and zinc.
+	
+	
+D	 specific heat capacity is the specific heat capacity of zinc.
+(Total for Question 7 = 1 mark)
+8	 When 10 cm3 of 1 mol dm–3 nitric acid is mixed with 20 cm3 of 1 mol dm–3 
+sodium hydroxide solution, there is a temperature rise of ΔT.
+	
+If the reaction is repeated with 20 cm3 of nitric acid of 1 mol dm–3 and 20 cm3 of 
+1 mol dm–3 sodium hydroxide solution, the temperature rise is
+	
+	
+A	 2 ΔT
+	
+	
+B	 1.5 ΔT
+	
+	
+C	 ΔT
+	
+	
+D	 0.75 ΔT
+(Total for Question 8 = 1 mark)
+9	 Which of the following equations shows the process occurring when the 
+second ionisation energy of magnesium is measured?
+	
+	
+A	 Mg(s)    –  2e–  →  Mg2+(g)
+	
+	
+B	 Mg(g)    –  2e–  →  Mg2+(g)
+	
+	
+C	 Mg+(g)  +  e–    →  Mg(s)
+	
+	
+D	 Mg+(g)  –  e–    →  Mg2+(g)
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0524*
+10	 Graph 1 shows the variation in first ionisation energy with increasing atomic number.
+Na
+Element
+Mg
+Al
+Si
+P
+S
+Cl
+Ar
+Graph 1
+	
+Graph 2 shows the variation in successive ionisation energies for sodium.
+Graph 2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Number of electrons removed
+	
+(a)	 What quantities were plotted on the y‑axes to produce these graphs?
+(1)
+Graph 1 
+First ionisation energy of 
+successive elements
+Graph 2 
+Successive ionisation energies 
+of sodium
+A
+actual value
+log of value
+B
+log of value
+log of value
+C
+log of value
+actual value
+D
+actual value
+actual value
+	
+(b)	 What is the number of quantum shells in a sodium atom suggested by Graph 2?
+(1)
+	
+	
+A	 Two
+	
+	
+B	 Three
+	
+	
+C	 Four
+	
+	
+D	 Six
+(Total for Question 10 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0624*
+11	 The smallest ion which is isoelectronic with the sodium ion, Na+, is
+	
+	
+A	 hydride ion, H–.
+	
+	
+B	 nitride ion, N3–.
+	
+	
+C	 oxide ion, O2–.
+	
+	
+D	 fluoride ion, F–.
+(Total for Question 11 = 1 mark)
+12	 The electronic configuration of a metal ion with a charge of +3 could be
+	
+	
+A	 1s22s22p6
+	
+	
+B	 1s22s22p63s1
+	
+	
+C	 1s22s22p63s23p1
+	
+	
+D	 1s22s22p63s23p3
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0724*
+13	 Two pieces of filter paper are soaked in water and attached to microscope slides.
+	
+A few crystals of purple potassium manganate(VII) are placed on the filter paper 
+attached to the first slide.
+	
+A few crystals of blue copper(II) sulfate are placed on the filter paper attached to the 
+second slide.
+	
+Both are connected to a DC supply of 20 V for a few minutes.
+	
+Which electrodes do the colours on the filter papers move towards?
+Filter paper with 
+potassium manganate(VII)
+Filter paper with 
+copper(II) sulfate
+A
+positive
+positive
+B
+positive
+ negative
+C
+ negative
+positive
+D
+ negative
+ negative
+(Total for Question 13 = 1 mark)
+14	 The similarity between metallic elements and ionic compounds is that both
+	
+	
+A	 are held together by forces of attraction between positive and negative ions.
+	
+	
+B	 are held together by electrostatic forces.
+	
+	
+C	 consist of lattices containing only positive ions.
+	
+	
+D	 consist of giant structures of atoms.
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0824*
+15	 In what states do sodium and sodium chloride conduct electricity?
+Sodium
+Sodium chloride
+A
+solid and liquid
+liquid
+B
+solid and liquid
+solid and liquid
+C
+solid
+solid
+D
+liquid
+solid
+(Total for Question 15 = 1 mark)
+16	 Four dot‑and‑cross electron diagrams are shown.
+C
+H
+H
+X
+X
+X H
+X
+H
+O
+X O
+X
+X C
+H
+X H
+C
+X
+X
+X
+[
+]
+I
+X X
+X
+X
+X
+X –
+X
+W
+X
+Y
+Z
+	
+Which diagrams are correct?
+	
+	
+A	 W, X, Y and Z only
+	
+	
+B	 W, Y and Z only
+	
+	
+C	 W and Z only
+	
+	
+D	 X and Z only
+(Total for Question 16 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+9
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A0924*
+17	 Which molecule contains the greatest number of π bonds?
+	
+	
+A	 CO2
+	
+	
+B	 C2H4
+	
+	
+C	 C2H6
+	
+	
+D	 C4H8
+(Total for Question 17 = 1 mark)
+18	 The diagrams show the shape and relative size of four of the atomic orbitals occupied 
+in a magnesium atom.
+	
+E	
+F	
+G	
+H
+	
+Which diagram shows a 2s orbital?
+	
+	
+A	 E
+	
+	
+B	 F
+	
+	
+C	 G
+	
+	
+D	 H
+(Total for Question 18 = 1 mark)
+19	 The number of structural isomers with formula C6H14 is
+	
+	
+A	 3
+	
+	
+B	 4
+	
+	
+C	 5
+	
+	
+D	 6
+(Total for Question 19 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20	 This question is about mass spectrometery.
+	
+(a)	 A diagram of a mass spectrometer is shown.
+P
+vaporised 
+sample
+R
+Q
+electron 
+source
+to vacuum 
+pump
+detector
++
+	
+	
+(i)	 Identify P and state its purpose.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Identify Q.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Suggest two ways in which the ions following path R could differ from the 
+ions that reach the detector.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01124*
+	
+(b)	 The mass spectrum of magnesium shows the presence of three isotopes.
+	
+	
+(i)	 Complete the table to show the numbers of subatomic particles in the atom 
+of each isotope.
+(2)
+Isotope mass 
+number
+Number of 
+protons
+Number of 
+neutrons
+Number of 
+electrons
+24
+25
+26
+	
+	
+(ii)	 Explain, with reference to the subatomic particles of the isotopes of 
+magnesium, the meaning of the term isotope.
+	
+	
+	
+Quote data from the table in (b)(i).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01224*
+	
+	
+(iii)	Data obtained using the mass spectrum of magnesium are given in the table.
+Isotope mass 
+number
+Relative 
+abundance
+24
+0.786
+25
+0.101
+26
+0.113
+	
+	
+	
+Calculate the relative atomic mass of magnesium in the sample.
+	
+	
+	
+Give your answer to two decimal places.
+(2)
+	
+(c)	 State two further uses of mass spectrometers.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+13
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01324*
+21	 Cyclohexane, C6H12, is a colourless liquid which shows the typical reactions of alkanes.
+cyclohexane
+	
+Data:    Boiling temperature = 81°C         Density = 0.779 g cm–3
+	
+(a)	 Cyclohexane is carefully added to bromine water in a test tube.
+	
+	
+The test tube is shaken, allowed to settle and then the mixture is allowed to stand 
+in sunlight.
+	
+	
+(i)	 Describe what you see in the test tube before it is shaken.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Describe what you would see in the test tube after it is shaken and allowed 
+to settle.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Describe the change you would see in the test tube after it is allowed to stand 
+in sunlight.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01424*
+	
+(b)	 The reaction that occurs in (a)(iii) is a free radical substitution.
+	
+	
+(i)	 Draw the skeletal formula and give the name of the monosubstitution 
+product of this reaction.
+(2)
+Name...........................................................................................................................
+	
+	
+(ii)	 Write the equation for the initiation step of the reaction.  Include appropriate 
+curly arrows.
+(2)
+	
+	
+(iii)	Draw the skeletal formula for the product of a termination step of the 
+reaction between two cyclohexyl free radicals, .C6H11.
+(1)
+	
+(c)	 Write the equation for the reaction when cyclohexane burns completely in air.
+	
+	
+Use molecular formulae and give the state symbols for the reactants and products 
+at room temperature.
+(2)
+PMT
+
+
+--- Page Break ---
+
+15
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01524*
+	
+(d)	 Suggest why cyclohexane is often added to petrol for use in 
+internal combustion engines.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(e)	 (i)	 Complete the equation, including state symbols, for the atomisation of 
+gaseous cyclohexane.
+(1)
+	
+	
+	
+C6H12(g)  →
+	
+	
+(ii)	 Calculate the enthalpy change of atomisation of gaseous cyclohexane, using 
+the bond energies in the table.  Include a sign and units in your answer.
+Bond
+Mean bond energy 
+/ kJ mol–1
+C–C
+347
+C–H
+415
+(2)
+	
+	
+(iii)	Suggest how the enthalpy change of atomisation for liquid cyclohexane 
+would differ from the value for gaseous cyclohexane calculated in (e)(ii).
+	
+	
+	
+Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01624*
+22	 This question is about alkenes.
+	
+(a)	 But‑2‑ene has two geometric isomers.
+	
+	
+(i)	 Draw the skeletal formulae of these two isomers and give their names.
+(2)
+	
+	
+*(ii)	 Explain how geometric isomerism arises in but‑2‑ene.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 (i)	 Give the mechanism for the reaction between hydrogen bromide and but‑2‑ene.  
+Use appropriate curly arrows and include relevant dipoles and lone pairs.
+(4)
+PMT
+
+
+--- Page Break ---
+
+17
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01724*
+	
+	
+*(ii)	 2‑bromobutane is formed by the addition of hydrogen bromide to both 
+but‑1‑ene and but‑2‑ene.
+	
+	
+	
+Explain why the atom economy, by mass, for the formation of 2‑bromobutane 
+is different for each reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 Name the product of the reaction between but‑2‑ene and acidified 
+potassium manganate(VII).
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+(d)	 (i)	 Draw the structure of poly(but‑2‑ene).  Show two repeat units.
+(2)
+	
+	
+(ii)	 State a problem associated with the disposal of used polymer products such 
+as poly(but‑2‑ene).
+.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	State one way in which the use of polymers can be made more sustainable.
+.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01824*
+23	 This is a question about nitric acid, HNO3, and nitrates.
+	
+(a)	 Nitric acid can be prepared in the laboratory by heating concentrated sulfuric acid 
+with sodium nitrate in a glass retort.
+                                      
+glass retort
+cold water
+reactants
+heat
+nitric acid
+	
+	
+(i)	 Write the chemical equation for this reaction in which nitric acid and 
+sodium hydrogensulfate are the only products.
+	
+	
+	
+State symbols are not required.
+(1)
+	
+	
+(ii)	 The nitric acid obtained by this method is coloured by dissolved oxides 
+of nitrogen.  Pure nitric acid is colourless, and normally stored in brown 
+glass bottles.
+	
+	
+	
+Suggest why nitric acid needs to be stored in brown glass bottles.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Complete the table by giving the meanings of the three hazard symbols 
+associated with concentrated nitric acid.
+(2)
+PMT
+
+
+--- Page Break ---
+
+19
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A01924*
+	
+	 *(iv)	 Silver and copper react with concentrated nitric acid to form soluble salts but 
+pure gold does not react.  Gold is often alloyed with silver and/or copper.  
+Use this information to outline the steps required to determine the 
+percentage of gold in an alloy of gold, silver and copper. 
+Do not include practical details or an explanation of the calculation.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(v)	 Magnesium reacts with very dilute nitric acid to form a solution of 
+magnesium nitrate and hydrogen.
+	
+	
+	
+Write the ionic equation for this reaction, including state symbols.
+(2)
+PMT
+
+
+--- Page Break ---
+
+20
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A02024*
+	
+(b)	 (i)	 The lattice energy of silver nitrate is found to be –832 kJ mol–1 using the 
+energy cycle.
+Ag+(g)            +            NO3
+–(g)            →            AgNO3(s)
+Ag(g)
+ΔHx
+Ag(s)              +              ½N2(g)  +  3/2O2(g)
+	
+	
+	
+Calculate ΔHx.
+Enthalpy change
+Value / kJ mol–1
+ΔHf[AgNO3(s)]
+–124
+ΔHat[Ag(s)]
++285
+First ionisation energy [Ag(g)]
++731
+(2)
+PMT
+
+
+--- Page Break ---
+
+21
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A02124*
+	
+	
+*(ii)	 The theoretical lattice energy for silver nitrate is –820 kJ mol–1.
+	
+	
+	
+What can you deduce about the bonding in silver nitrate?  Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 Silver nitrate sticks are used for the treatment of warts.  The affected area is 
+moistened and rubbed with the stick.
+	
+	
+(i)	 Suggest why the skin is moistened.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 A stick weighing 20.0 g contains 95% silver nitrate by mass.
+	
+	
+	
+Calculate the number of moles of silver nitrate in the stick.
+	
+	
+	
+[molar mass of silver nitrate = 169.9 g mol–1]
+(2)
+(Total for Question 23 = 16 marks)
+TOTAL FOR SECTION B = 60 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+22
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A02224*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+23
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51942A02424*
+PMT

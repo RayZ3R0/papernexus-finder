@@ -1,0 +1,236 @@
+Paper Reference(s) 
+6684 
+Edexcel GCE 
+Statistics S2 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Wednesday 23 January 2002 − Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S2), the paper reference (6684), 
+your surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has 7 questions. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+  
+N9111 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2002 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+Explain what you understand by  
+ 
+(a) a population, 
+ (1) 
+(b) a statistic. 
+(2) 
+A questionnaire concerning attitudes to classes in a college was completed by a 
+random sample of 50 students. The students gave the college a mean approval 
+rating of 75%. 
+ 
+(c) Identify the population and the statistic in this situation. 
+(2) 
+(d) Explain what you understand by the sampling distribution of this statistic. 
+(2)         
+ 
+ 
+2. 
+The number of houses sold per week by a firm of estate agents follows a Poisson 
+distribution with mean 2.5. The firm appoints a new salesman and wants to find 
+out whether or not house sales increase as a result. After the appointment of the 
+salesman, the number of house sales in a randomly chosen 4-week period is 14. 
+ 
+Stating your hypotheses clearly test, at the 5% level of significance, whether or 
+not the new salesman has increased house sales. 
+ (7)  
+ 
+ 
+3.  
+An airline knows that overall 3% of passengers do not turn up for flights. The 
+airline decides to adopt a policy of selling more tickets than there are seats on a 
+flight. For an aircraft with 196 seats, the airline sold 200 tickets for a particular 
+flight. 
+ 
+(a) Write down a suitable model for the number of passengers who do not turn up 
+for this flight after buying a ticket. 
+(2) 
+By using a suitable approximation, find the probability that  
+ 
+(b) more than 196 passengers turn up for this flight, 
+(3) 
+(c) there is at least one empty seat on this flight. 
+ (2) 
+ 
+N9111 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+Jean catches a bus to work every morning. According to the timetable the bus is 
+due at 8 a.m., but Jean knows that the bus can arrive at a random time between 
+five minutes early and 9 minutes late. The random variable X represents the time, 
+in minutes, after 7.55 a.m. when the bus arrives. 
+ 
+(a) Suggest a suitable model for the distribution of X and specify it fully. 
+(2) 
+(b) Calculate the mean time of arrival of the bus. 
+(3) 
+(c) Find the cumulative distribution function of X. 
+(4) 
+Jean will be late for work if the bus arrives after 8.05 a.m. 
+  
+(d) Find the probability that Jean is late for work. 
+(2) 
+ 
+ 
+5. 
+An Internet service provider has a large number of users regularly connecting to 
+its computers. On average only 3 users every hour fail to connect to the Internet 
+at their first attempt. 
+ 
+(a) Give 2 reasons why a Poisson distribution might be a suitable model for the 
+number of failed connections every hour. 
+(2) 
+(b) Find the probability that in a randomly chosen hour  
+ 
+(i) all Internet users connect at their first attempt, 
+(2) 
+(ii) more than 4 users fail to connect at their first attempt. 
+(2) 
+(c) Write down the distribution of the number of users failing to connect at their 
+first attempt in an 8-hour period.  
+(1) 
+(d) Using a suitable approximation, find the probability that 12 or more users fail 
+to connect at their first attempt in a randomly chosen 8-hour period.  
+(6) 
+ 
+N9111 
+3 
+Turn over 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+The owner of a small restaurant decides to change the menu. A trade magazine 
+claims that 40% of all diners choose organic foods when eating away from home. 
+On a randomly chosen day there are 20 diners eating in the restaurant. 
+ 
+ 
+(a) Assuming the claim made by the trade magazine to be correct, suggest a 
+suitable model to describe the number of diners X who choose organic foods. 
+(2) 
+(b) Find P(5 < X < 15). 
+(4) 
+(c) Find the mean and standard deviation of X. 
+(3) 
+The owner decides to survey her customers before finalising the new menu. She 
+surveys 10 randomly chosen diners and finds 8 who prefer eating organic foods. 
+ 
+(d) Test, at the 5% level of significance, whether or not there is reason to believe 
+that the proportion of diners in her restaurant who prefer to eat organic foods is 
+higher than the trade magazine’s claim. State your hypotheses clearly. 
+(5) 
+ 
+ 
+7. 
+A continuous random variable X has cumulative distribution function F(x) given 
+by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F(x) = 
+
+
+
+>
+≤
+≤
++
+<
+.2
+,
+8
+,2
+0
+,
+2
+,0
+,0
+2
+x
+k
+x
+kx
+kx
+x
+ 
+ 
+(a) Show that k = 8
+1 . 
+(1) 
+(b) Find the median of X. 
+(3) 
+(c) Find the probability density function f(x). 
+(3) 
+(d) Sketch f(x) for all values of x. 
+(3) 
+(e) Write down the mode of X. 
+(1) 
+(f) Find E(X). 
+(3) 
+(g) Comment on the skewness of this distribution. 
+(2) 
+ 
+END 
+N9111 
+4 
+PMT
+PMT

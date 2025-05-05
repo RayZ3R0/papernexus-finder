@@ -1,0 +1,490 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+*N34104A0116*
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 3B:  Chemistry Laboratory Skills I Alternative
+Monday 11 January 2010 – Afternoon
+Time: 1 hour 15 minutes
+Candidates may use a calculator.
+6CH07/01
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• You will be assessed on your ability to organise and present information, ideas,
+ 
+descriptions and arguments clearly and logically, including your use of
+ 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+N34104A
+©2010 Edexcel Limited.
+7/7/5/3/
+PMT
+
+
+--- Page Break ---
+
+2
+*N34104A0216*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 Compound A is a white solid that contains one cation and one anion.
+ 
+(a) A flame test is carried out on compound A by mixing the solid with concentrated 
+hydrochloric acid and using a piece of wire to place some of the solution formed in a 
+Bunsen flame.  The flame is coloured yellow.
+ 
+ 
+(i) Name a material from which the wire is made.
+ 
+ 
+ 
+Suggest ONE reason why this material is used.
+(2)
+Name .................................................................................................................................................................................................................................................................
+Reason .............................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Identify, by name or formula, the cation present in compound A.
+(1)
+................................................................................................................................................................................................................................................
+ 
+(b) When aqueous silver nitrate solution is added to a solution of compound A, a cream 
+precipitate forms.  The cream precipitate dissolves in concentrated aqueous ammonia 
+solution.
+ 
+ 
+(i) Name the cream precipitate formed when aqueous silver nitrate is added to the 
+solution of compound A.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the formula of the anion in compound A.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Describe what you would see if the cream precipitate in (b)(i) was left in 
+sunlight.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+3
+*N34104A0316*
+Turn over  
+ 
+(c) Concentrated sulfuric acid is added to compound A in a test tube.  Steamy fumes are 
+seen at the mouth of the test tube.
+ 
+ 
+After a few minutes, the contents of the test tube turn brown.  A gas is given off 
+which is tested with a piece of filter paper soaked in a solution of aqueous acidified 
+potassium dichromate(VI).  The paper turns green.
+ 
+ 
+(i) Identify, by name or formula, the steamy fumes formed initially.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Describe a further test you could carry out to confirm the identity of the steamy 
+fumes.  Give the result of your test.
+(2)
+Test  ....................................................................................................................................................................................................................................................................
+Result  ..............................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Identify, by name or formula, the substance responsible for the brown colour in 
+the test tube.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Name the gas which turned the filter paper green.  Suggest the type of reaction 
+by which this gas was formed from sulfuric acid.
+(2)
+Gas  .....................................................................................................................................................................................................................................................................
+Type of reaction  ....................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 1 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*N34104A0416*
+2 This question is about two isomeric alcohols, X and Y, each with molar mass 60 g mol–1.
+ 
+A solution of potassium dichromate(VI) in dilute sulfuric acid is added to each alcohol.  
+Both alcohols cause the same colour change of the mixture on heating.
+ 
+(a) A colourless liquid, B, is distilled from the mixture containing alcohol X.
+ 
+ 
+The liquid B forms a red precipitate when it is boiled with Benedict’s or Fehling’s 
+solution.
+ 
+ 
+Give the displayed formula of liquid B, and the name of alcohol X.
+(2)
+Liquid B
+Name of alcohol X .............................................................................................................................................................................................................................
+ 
+(b) A colourless liquid, C, is distilled from the mixture containing alcohol Y.
+ 
+ 
+C does not react when it is boiled with Benedict’s or Fehling’s solution.
+ 
+ 
+Give the names of liquid C and alcohol Y.
+(2)
+Liquid C  .......................................................................................................................................................................................................................................................
+Alcohol Y ....................................................................................................................................................................................................................................................
+(Total for Question 2 = 4 marks)
+PMT
+
+
+--- Page Break ---
+
+5
+*N34104A0516*
+Turn over  
+3 This question is about calcium hydroxide, Ca(OH)2.
+ 
+The solubility of calcium hydroxide in water can be found by titrating a saturated 
+solution of calcium hydroxide with hydrochloric acid of known concentration.
+ 
+(a) Describe how you would make a saturated solution of calcium hydroxide suitable for 
+use in this titration.  Do not describe the subsequent titration procedure.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) 10.0 cm3 portions of the saturated solution are placed in a conical flask and titrated 
+with 0.0500 mol dm–3 hydrochloric acid added from a burette.
+ 
+ 
+(i) Name the apparatus used to measure the 10.0 cm3 portions.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest a suitable indicator for this titration and state the colour change you 
+would expect to see at the end-point.
+(2)
+Indicator ...........................................................................................................................................................................................................................
+Colour change from ........................................................................................... to ...........................................................................................
+PMT
+
+
+--- Page Break ---
+
+6
+*N34104A0616*
+ 
+(c) The following results were obtained:
+Titration numbers
+1
+2
+3
+Final burette reading / cm3
+19.20
+28.05
+37.10
+Initial burette reading / cm3
+10.00
+19.20
+28.15
+Titre / cm3
+ 9.20
+ 8.85
+ 
+ 
+(i) Fill in the third titre value in the table.
+(1)
+ 
+ 
+(ii) Suggest why the first titre should be disregarded.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Calculate the mean titre.
+(1)
+ 
+ .............................................................  cm3
+ 
+ 
+(iv) Calculate the number of moles of hydrochloric acid in the mean titre.
+(1)
+PMT
+
+
+--- Page Break ---
+
+7
+*N34104A0716*
+Turn over  
+ 
+ 
+(v) The equation for the reaction is
+Ca(OH)2(aq) + 2HCl(aq) → CaCl2(aq) + 2H2O(l)
+ 
+ 
+ 
+Calculate the number of moles of calcium hydroxide in a 10.0cm3 portion of the 
+saturated solution.
+(1)
+ 
+ 
+(vi) Calculate the concentration of calcium hydroxide in mol dm–3.
+(1)
+ 
+ 
+(vii) Calculate the solubility of calcium hydroxide in g dm–3.
+(1)
+PMT
+
+
+--- Page Break ---
+
+8
+*N34104A0816*
+ 
+(d) The standard enthalpy change for the reaction of calcium hydroxide with 
+hydrochloric acid was found by reacting 0.0100 mol of solid calcium hydroxide 
+with 50.0 cm3 of a 1.00 mol dm–3 solution of hydrochloric acid (an excess), in a 
+polystyrene cup.  The temperature rose from 21.2 °C to 26.7 °C.
+ 
+ 
+(i) Calculate the energy, in joules, transferred in the reaction.  Use the expression
+ 
+ 
+ 
+Energy transferred = mass × specific heat capacity × temperature change
+ 
+ 
+ 
+[Assume density of solution = 1.0 g cm–3,
+specific heat capacity of solution = 4.18 J g–1°C –1]
+(1)
+ 
+ 
+(ii) Calculate the standard enthalpy change, ΔH
+○, for the reaction.  Include a sign 
+and units in your answer.
+(2)
+ 
+ 
+(iii) Calculate the percentage error in the temperature change caused by an 
+uncertainty of 0.1°C in each thermometer reading.
+(2)
+PMT
+
+
+--- Page Break ---
+
+9
+*N34104A0916*
+Turn over  
+ 
+ 
+(iv) The experiment was repeated using 50.0 cm3 of a 1.00 mol dm–3 solution of 
+nitric acid instead of the hydrochloric acid.  Explain why the temperature 
+change was the same in both experiments.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(v) The experiment was repeated again using 25 cm3 of 2.00 mol dm−3 hydrochloric 
+acid.  Predict the temperature change in this experiment.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Which of the experiments in (iv) and (v) gave the least error in the temperature 
+change? Justify your answer.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 3 = 20 marks)
+PMT
+
+
+--- Page Break ---
+
+10
+*N34104A01016*
+4 An experiment to prepare a sample of 2-chloro-2-methylpropane uses the reaction of 
+2-methylpropan-2-ol with concentrated hydrochloric acid.
+(CH3)3COH + HCl → (CH3)3CCl + H2O
+ 
+The steps of the experimental procedure are as follows
+ 
+1. Place 0.20 mol of 2-methylpropan-2-ol and 70 cm3 of concentrated hydrochloric acid 
+in a large conical flask.
+ 
+2. Stopper and shake the flask at intervals, releasing any pressure after each shaking.
+ 
+3. Separate the 2-chloro-2-methylpropane from the aqueous solution using a separating 
+funnel.
+ 
+4. To the 2-chloro-2-methylpropane in the separating funnel, add 20 cm3 of
+sodium hydrogencarbonate solution.  Shake the separating funnel, carefully
+releasing carbon dioxide frequently.
+ 
+5. Separate the 2-chloro-2-methylpropane and repeat the washing with
+sodium hydrogencarbonate solution until this washing step is no longer necessary.
+ 
+6.   Transfer the 2-chloro-2-methylpropane to a small conical flask and add a suitable 
+drying agent.
+ 
+7. Filter off the drying agent, collecting the 2-chloro-2-methylpropane into a distillation 
+flask.  Heat the flask, collecting the fraction that distils off between 50 °C and 52 °C.
+ 
+ 
+     Data
+Property
+2-methylpropan-2-ol
+2-chloro-2-methylpropane
+Density / g cm–3
+   0.789
+   0.842
+Molar mass / g mol–1
+74.1
+92.6
+Boiling temperature / °C
+82.4
+50.8
+PMT
+
+
+--- Page Break ---
+
+11
+*N34104A01116*
+Turn over  
+ 
+(a) Calculate the volume of 2-methylpropan-2-ol used in the preparation.
+(1)
+ 
+(b) Draw a diagram of a separating funnel that could be used in step 3.
+Label the 2-chloro-2-methylpropane layer.
+(2)
+ 
+(c) (i) Suggest why the product is washed with sodium hydrogencarbonate solution 
+(step 4).
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) How would you know that no further washing with sodium hydrogencarbonate 
+was necessary?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*N34104A01216*
+ 
+(d) Suggest a suitable drying agent to dry the 2-chloro-2-methylpropane (step 6).
+(1)
+................................................................................................................................................................................................................................................
+ 
+(e) Draw a labelled diagram of the apparatus you would use to carry out the final 
+distillation (step 7).
+(4)
+PMT
+
+
+--- Page Break ---
+
+13
+*N34104A01316*
+ 
+(f) A reaction produced 18.7 cm3 of 2-chloro-2-methylpropane starting from 0.20 mol  
+2-methylpropan-2-ol.  Calculate the percentage yield of the product of this reaction.
+(2)
+ 
+(g) A suitable chemical test for the chlorine in a chloroalkane, such as 
+2-chloro-2-methylpropane, is to add the chloroalkane to a mixture of aqueous silver 
+nitrate solution and ethanol.
+ 
+ 
+(i) Suggest why ethanol is added to the mixture.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the expected result of this test.
+(1)
+................................................................................................................................................................................................................................................
+(Total for Question 4 = 14 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+14
+*N34104A01416*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+15
+*N34104A01516*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+16
+*N34104A01616*
+PMT

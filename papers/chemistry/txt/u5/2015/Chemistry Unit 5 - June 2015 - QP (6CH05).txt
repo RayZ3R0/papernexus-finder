@@ -1,0 +1,1161 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P45073RA
+©2015 Pearson Education Ltd.
+6/6/6/6/1/2/
+*P45073RA0128*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Monday 15 June 2015 – Afternoon
+Time: 1 hour 40 minutes
+6CH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PMT
+
+
+--- Page Break ---
+
+2
+*P45073RA0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 Which of the following is a redox reaction?
+ 
+ 
+A Cr2O7
+2– + 2OH
+– 
+ĺ  2CrO4
+2– + H2O
+ 
+ 
+B [Cu(H2O)6]2+ + 4Cl
+– ĺ  [CuCl4]2– + 6H2O
+ 
+ 
+C 4OH
+– + 4MnO4
+– 
+ĺ  4MnO4 
+2– + 2H2O + O2
+ 
+ 
+D [Fe(H2O)6]3+ + 3OH
+– ĺ  [Fe(H2O)3(OH)3] + 3H2O
+(Total for Question 1 = 1 mark)
+2 The oxidation state of nickel is not +2 in 
+ 
+ 
+A [Ni(CO)4] 
+ 
+ 
+B [Ni(H2O)4(OH)2]
+ 
+ 
+C [Ni(NH3)6]2+
+ 
+ 
+D [Ni(CN)4]2–
+(Total for Question 2 = 1 mark)
+3 Which of the statements about a standard hydrogen electrode, for which E
+9 = 0 V, is 
+correct?
+ 
+ 
+A A suitable solution for use in the electrode is hydrochloric acid with a 
+concentration of 0.1 mol dm–3.
+ 
+ 
+B The pressure of the hydrogen has no effect on the value of E
+9.
+ 
+ 
+C The metal used in the electrode is platinum.
+ 
+ 
+D The temperature is 273 K.
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P45073RA0328*
+Turn over    
+4 The table below gives the standard electrode potentials of three half cells. 
+System
+E
+9/ V
+H+(aq) + e—       U ½H2(g)
+ 0.00
+Ag+(aq) + e—    U Ag(s)
++0.80
+Ag2+(aq) + e—  U Ag+(aq)
++1.98
+ 
+From these data it may be deduced that, under standard conditions,
+ 
+ 
+A Ag is a stronger reducing agent than H2.
+ 
+ 
+B Ag2+ ions are stronger oxidizing agents than H+ ions.
+ 
+ 
+C Ag+ ions will disproportionate.
+ 
+ 
+D Ag+ ions will react with H+ ions.
+(Total for Question 4 = 1 mark)
+5 The value of Ecell indicates whether the cell reaction is thermodynamically feasible. 
+Which of the following is a correct statement about Ecell?
+ 
+ 
+A Ecell is directly proportional to the equilibrium constant.
+ 
+ 
+B Ecell is directly proportional to the entropy change of the system, ¨Ssystem.
+ 
+ 
+C Ecell is directly proportional to the total entropy change, ¨Stotal.
+ 
+ 
+D The value of In Ecell is directly proportional to the total entropy change, ¨Stotal.
+(Total for Question 5 = 1 mark)
+6 In a methanol fuel cell, the following half-reaction occurs
+CH3OH(l)  +  H2O(l)  ĺ  6H+(aq)  +  CO2(g)  +  6e–
+ 
+The half-reaction occurring in the other half of the fuel cell is
+ 
+ 
+A H2(g)  +  O2(g)  +  2e
+– 
+ĺ  2OH
+–(aq)
+ 
+ 
+B 2H+(aq)  +  ½O2(g)  +  2e
+– ĺ  H2O(l)
+ 
+ 
+C 2OH
+–(aq) 
+ĺ  H2(g)  +  O2(g)  +  2e
+–
+ 
+ 
+D H2O(l)                                 ĺ  2H+(aq)  +  ½O2(g)  +  2e
+–
+ (Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P45073RA0428*
+7 Which of the following statements about fuel cells is not true?
+ 
+ 
+A Reactants must constantly be fed into the cell when it is in use.
+ 
+ 
+B Fuel cells are 100% efficient.
+ 
+ 
+C Fuel cells convert chemical energy directly into electrical energy.
+ 
+ 
+D Fuel cells produce electricity more efficiently than a diesel generator.
+(Total for Question 7 = 1 mark)
+8 Copper(II) ions combine with three molecules of 1,2-diaminoethane, NH2CH2CH2NH2, 
+to form a complex ion.
+ 
+A bond angle, N — Cu — N, in this complex is
+ 
+ 
+A 120°
+ 
+ 
+B 109.5°
+ 
+ 
+C 107°
+ 
+ 
+D 90°
+(Total for Question 8 = 1 mark)
+9 Which of the following does not have a central metal ion having six bonds and an 
+oxidation state of +2?
+ 
+ 
+A [Cu(C2O4)3]4–
+ 
+ 
+B [Co(CN)5(H2O)]3–
+ 
+ 
+C [Fe(CN)6]3–
+ 
+ 
+D [Zn(OH)4(H2O)2]2–
+(Total for Question 9 = 1 mark)
+10 The reaction
+ 
+[Fe(H2O)6]2+  +  H2O  ĺ  [Fe(H2O)5(OH)]+  +  H3O+
+ 
+is an example of
+ 
+ 
+A oxidation.
+ 
+ 
+B reduction.
+ 
+ 
+C ligand exchange.
+ 
+ 
+D acid-base behaviour.
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P45073RA0528*
+Turn over    
+11 Hydrated crystals of a compound have the formula CrCl3(H2O)6. 
+A solution containing one mole of the compound reacts with two moles of silver nitrate 
+to form two moles of silver chloride. 
+The complex chromium ion in the compound is most likely to be
+ 
+ 
+A [Cr(H2O)3Cl3]  
+3+
+ 
+ 
+B [Cr(H2O)4Cl2]  
++
+ 
+ 
+C [Cr(H2O)5Cl]  
+2+
+ 
+ 
+D [Cr(H2O)6]  
+3+
+(Total for Question 11 = 1 mark)
+12 A heterogeneous catalyst is often preferred to a homogenous catalyst for an 
+industrial process because
+ 
+ 
+A it is easily separated from the products.
+ 
+ 
+B it has empty d-orbitals.
+ 
+ 
+C it has more than one oxidation state.
+ 
+ 
+D it cannot be poisoned.
+(Total for Question 12 = 1 mark)
+13 In the reaction of benzene with chloromethane, aluminium chloride is added because 
+it reacts with
+ 
+ 
+A benzene to produce an electrophile.
+ 
+ 
+B benzene to produce a nucleophile.
+ 
+ 
+C chloromethane to produce a nucleophile.
+ 
+ 
+D chloromethane to produce an electrophile.
+(Total for Question 13 = 1 mark)
+14 The reaction below can be catalysed by either Fe2+ ions or Fe3+ ions.
+ 
+S2O8
+2–(aq)  +  2I
+–(aq)  ĺ  2SO4
+2–(aq)  +  I2(aq)
+ 
+This is because
+ 
+ 
+A both reactants can react with Fe2+ ions.
+ 
+ 
+B both reactants can react with Fe3+ ions.
+ 
+ 
+C S2O8
+2– ions can be oxidized by Fe3+ ions and I
+– ions can be reduced by Fe2+ ions.
+ 
+ 
+D S2O8
+2– ions can be reduced by Fe2+ ions and I
+– ions can be oxidized by Fe3+ ions.
+(Total for Question 14 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P45073RA0628*
+15 The enthalpy changes of the reactions below are similar.  The equilibrium constants 
+for the two reactions are K1 and K2 respectively.
+Reaction 1 
+[Cu(H2O)6]2+(aq)  +  EDTA4–(aq)  U  [Cu(EDTA)]2–(aq)  +  6H2O(l)
+Reaction 2 
+[Cu(H2O)6]2+(aq)  +  4Cl–(aq)       U  [CuCl4]2–(aq)  +  6H2O(l)
+ 
+The value of K1 is greater than K2 because
+ 
+ 
+A ¨Ssystem is much more positive in Reaction 1.
+ 
+ 
+B ¨Ssurroundings is much more positive in Reaction 1.
+ 
+ 
+C the EDTA4– is more highly charged than Cl–.
+ 
+ 
+D a lower concentration of EDTA4– is needed than Cl–.
+(Total for Question 15 = 1 mark)
+16 Which of the following reacts with benzene under suitable conditions to form 
+C6H5COC6H5?
+ 
+ 
+A C6H5CHO
+ 
+ 
+B C6H5COOH
+ 
+ 
+C C6H5CH2OH
+ 
+ 
+D C6H5COCl
+(Total for Question 16 = 1 mark)
+17 Benzene is converted to benzenesulfonic acid, C6H5SO3H, by reaction with
+ 
+ 
+A sulfuric(IV) acid, H2SO3.
+ 
+ 
+B sulfuric(VI) acid, H2SO4.
+ 
+ 
+C sulfur dioxide dissolved in sulfuric(IV) acid.
+ 
+ 
+D sulfur trioxide dissolved in sulfuric(VI) acid.
+(Total for Question 17 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+*P45073RA0728*
+Turn over    
+18 Benzene reacts with chlorine to produce 1,2,3,4,5,6-hexachlorocyclohexane, C6H6Cl6, by
+ 
+ 
+A free radical addition.
+ 
+ 
+B free radical substitution.
+ 
+ 
+C electrophilic addition.
+ 
+ 
+D electrophilic substitution.
+(Total for Question 18 = 1 mark)
+19 The skeletal formula of an organic compound is shown below.
+O
+N
+ 
+This compound is
+ 
+ 
+A an amino acid. 
+ 
+ 
+B an amide.
+ 
+ 
+C a primary amine.
+ 
+ 
+D a secondary amine.
+(Total for Question 19 = 1 mark)
+20
+CH3
+H
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+C
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢CH3
+CH3
+C
+n
+ 
+Which is the IUPAC name for the monomer which reacts to make the polymer shown 
+above?
+ 
+ 
+A 2-methylbut-1-ene
+ 
+ 
+B 2-methylbut-2-ene
+ 
+ 
+C 1,2-dimethylpropene
+ 
+ 
+D 1,1,2-trimethylethene
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+8
+*P45073RA0828*
+SECTION B
+Answer ALL the questions. Write your answers in the spaces provided.
+21 (a) The table below shows the first and second ionization energies of nickel, copper 
+and zinc.
+Element
+1st ionization energy
+/ kJ mol–1
+2nd ionization energy
+/ kJ mol–1
+Ni
+737
+1753
+Cu
+746
+1958
+Zn
+906
+1733
+ 
+ 
+(i) Complete the electronic configurations for an atom of nickel and an atom of copper.
+(2)
+Ni:  1s2  2s2 2p6  ............................................................................................................................................................................................................................................
+Cu:  1s2  2s2 2p6  ...........................................................................................................................................................................................................................................
+ 
+ 
+*(ii) The values for the first ionization energies of copper and nickel are similar, but 
+the values of the second ionization energies are significantly different. 
+ 
+ 
+ 
+Explain how these data give evidence for the electronic configuration of a 
+copper atom.
+(2)
+   .................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P45073RA0928*
+Turn over    
+ 
+ 
+(iii) Suggest why you might expect the third ionization energies of the three 
+elements to increase from nickel to zinc.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) (i) Cu+(aq) ions are not stable in solution and undergo a disproportionation reaction. 
+ 
+ 
+ 
+Suggest an equation for this reaction, including state symbols.
+(1)
+ 
+ 
+(ii) Suggest in what way the appearance of CuI is similar to that of ZnI2.
+ 
+ 
+ 
+Give a reason for this similarity.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Explain why zinc is not classified as a transition element.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+10
+*P45073RA01028*
+22 This question is about vanadium and its ions.
+ 
+(a) Consider the data below.
+Electrode system
+Standard electrode potential
+E
+9/ V
+V2+(aq)|V(s)
+–1.18
+V3+(aq), V2+(aq)|Pt
+–0.26
+ 
+ 
+(i) Draw a labelled diagram showing how to set up a cell, using the two electrode 
+systems in the table above, in order to measure E 9
+cell. 
+Include standard conditions in your labelling.
+(3)
+ 
+ 
+(ii) Write an equation for the reaction in this cell.  State symbols are not required.
+(2)
+ 
+(b) (i) Complete the table below with the missing standard electrode potentials.  
+Use the table starting on page 14 of your Data Booklet.
+(1)
+Electrode system
+Standard electrode potential 
+E
+9/ V
+[VO2+(aq) + 2H+(aq)], [V3+(aq) + H2O(l)]|Pt
+[VO2
++(aq) + 2H+(aq)], [VO2+(aq) + H2O(l)]|Pt
+I2(aq),2I–(aq)|Pt
++0.54
+[2H+(aq) + O2(g)], [H2O2(aq)]|Pt
++0.68
+PMT
+
+
+--- Page Break ---
+
+11
+*P45073RA01128*
+Turn over    
+ 
+ 
+(ii) The colours of the different oxidation states of vanadium are shown below.
+Oxidation state
+Colour
++5
+yellow
++4
+blue
++3
+green
++2
+violet
+ 
+ 
+ 
+For each of the following experiments, A and B, calculate the E 9 value for the 
+proposed reaction.  Use your answers to predict whether or not a reaction occurs in 
+each case.
+ 
+ 
+ 
+Give the formula of the vanadium product formed where a reaction occurs 
+and give one observation you would make in each experiment.
+(6)
+Experiment A: 
+ Hydrogen peroxide is added to an aqueous solution containing VO2
++ ions. 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Experiment B: 
+ An aqueous solution of potassium iodide is added to an aqueous 
+solution containing VO2+ ions.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P45073RA01228*
+ 
+(c) An experiment was carried out to determine the percentage purity of a sample of 
+ammonium vanadate(V), NH4VO3.
+ 
+ 
+An impure sample of ammonium vanadate(V) with mass 0.150 g was dissolved 
+in dilute sulfuric acid.  This produced a solution containing VO2
++ ions.  Excess zinc 
+powder was added to the solution, and this reduced the VO2
++ ions to V2+ ions. 
+ 
+ 
+The solution containing V2+ ions was titrated with potassium manganate(VII) of 
+concentration 0.0200 mol dm–3.  The manganate(VII) ions oxidized the V2+ back to 
+VO2
++.  The volume of potassium manganate(VII) required was 35.50 cm3.
+ 
+ 
+(i) The manganate(VII) ions react as shown:
+MnO4
+– + 8H+ + 5e–  ĺ  Mn2+ + 4H2O
+ 
+ 
+ 
+Show, by writing the appropriate half equation or otherwise, that 5 mol V2+ 
+react with 3 mol MnO4
+–.
+(1)
+ 
+ 
+(ii) Calculate the number of moles of manganate(VII) ions used in the titration.
+(1)
+PMT
+
+
+--- Page Break ---
+
+13
+*P45073RA01328*
+Turn over    
+ 
+ 
+(iii) Calculate the number of moles of VO2
++ in the original solution, and hence 
+the percentage purity of the sample of NH4VO3.  Give your answer to three 
+significant figures.
+ 
+ 
+ 
+Molar mass of NH4VO3 = 116.9 g mol–1.
+(3)
+(Total for Question 22 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P45073RA01428*
+23 Benzene is sometimes represented as Structure X, shown below, called a Kekulé 
+structure after the chemist who suggested it.
+Structure X
+ 
+(a) What structural feature of benzene shows that Structure X is not an accurate 
+representation?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The enthalpy changes for the formation of cyclohexane from cyclohexene and 
+from the actual structure of benzene are given below.
+ 
+ 
+         +    H2        ĺ         
+                            ¨H  =  –118 kJ mol–1
+ 
+ 
+         +  3H2        ĺ         
+                            ¨H  =  –205 kJ mol–1
+ 
+ 
+(i) Use the necessary data to estimate the enthalpy change for the theoretical 
+conversion of Structure X to cyclohexane.
+(1)
+PMT
+
+
+--- Page Break ---
+
+15
+*P45073RA01528*
+Turn over    
+ 
+ 
+(ii) On the enthalpy level diagram below, draw labelled horizontal lines to show 
+the relative enthalpies of the actual structure of benzene, Structure X and 
+cyclohexane.  Add an arrow to show the enthalpy change from Structure X to 
+benzene and calculate the value of this enthalpy change in kJ mol–1.  Write this 
+value next to your arrow.
+(2)
+ 
+ 
+*(iii) Explain the difference in the arrangement of the electrons between benzene 
+and Structure X.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Enthalpy
+PMT
+
+
+--- Page Break ---
+
+16
+*P45073RA01628*
+ 
+(c) Benzene reacts with bromine in the presence of a catalyst of iron(III) bromide. 
+ 
+ 
+Write a mechanism for the reaction of benzene with bromine to form 
+bromobenzene.  Include an equation to show the involvement of the catalyst.
+(4)
+PMT
+
+
+--- Page Break ---
+
+17
+*P45073RA01728*
+Turn over    
+ 
+(d) (i) State two observations which would be made when phenol reacts with 
+bromine water.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation for this reaction showing the structure of the organic product.
+(2)
+ 
+ 
+*(iii) Explain why phenol can react with either bromine or with bromine water without a 
+catalyst.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+*P45073RA01828*
+24 Benzene can be converted to phenylamine, C6H5NH2, in two steps.
+Step 1
+Step 2
+C6H6
+C6H5NO2
+C6H5NH2
+ 
+(a) (i) Name the two reagents needed in Step 1.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest why the temperature should not be allowed to go above 55°C in Step 1.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Identify the two reagents used to carry out the reduction in Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Some reactions of phenylamine are shown below.
+C6H5NH2
+Substance A
+Substance D
+HCl(aq)
+Cu2+(aq)
+ CH3COCl
+Reagents G and H 
+B + Organic Substance C 
+C6H5N2
++Cl–
+Substance E
+ C6H5N=NC6H2(CH3)2NH2
+Substance F
+PMT
+
+
+--- Page Break ---
+
+19
+*P45073RA01928*
+Turn over    
+ 
+ 
+(i) Give the formula of Substance A.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the displayed formula of the organic Substance C.
+ 
+ 
+ 
+You need not display the benzene ring.
+(1)
+ 
+ 
+(iii) Substances D and F are both brightly coloured but for different reasons.  
+Classify Substances D and F.
+(2)
+Substance D .................................................................................................................................................................................................................................................
+Substance F ..................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Name Substance E.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) What two Substances, G and H, are required in the conversion of phenylamine 
+to Substance E?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Suggest the structural formula of the substance which reacts with Substance E 
+to form Substance F.
+(1)
+(Total for Question 24 = 10 marks)
+TOTAL FOR SECTION B = 52 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P45073RA02028*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+25 Read the passage below carefully and answer the questions which follow.
+ 
+The general formula of most naturally occurring amino acids can be written 
+RCH(NH2)COOH, though in some amino acids, such as proline, the nitrogen atom is part  
+of a five-membered ring.  Amino acids are water soluble, though the extent of their 
+solubility varies.  All but one of the naturally occurring amino acids show optical activity.
+ 
+The formula of the R group for some naturally occurring amino acids is shown below.  
+Amino acid
+Formula of R group
+serine
+–CH2OH
+lysine
+–(CH2)4NH2
+phenylalanine
+–CH2C6H5
+leucine
+–CH2CH(CH3)2
+iso-leucine
+–CH(CH3)CH2CH3
+alanine
+–CH3
+ 
+Mixtures of amino acids can be separated by electrophoresis.  This method depends on 
+amino acids moving different distances through paper or gel when an electric field is 
+applied.  They can also be separated by chromatography.  Ninhydrin, shown below, is the 
+chemical which is used to locate the position of the amino acids on chromatograms.
+OH
+O
+O
+OH
+ 
+Ninhydrin detects ammonia and primary and secondary amines.  When it reacts with 
+primary amines, a deep blue or purple colour is produced in a complex series of 
+reactions.  With proline, a yellow compound forms.
+ 
+Ninhydrin is widely used to detect fingerprints.  Sweat secretions from ridges on the 
+finger contain dipeptides and proteins.  These are left on porous surfaces such as paper, 
+and react with ninhydrin. 
+ 
+When ninhydrin reacts with amino acids, carbon dioxide is released from the carboxylic 
+acid group.  Archaeologists have used this reaction to release the carbon from proteins 
+in ancient bones, and, by comparing the proportions of carbon and nitrogen in the 
+remains, they have obtained evidence for the diets of these animals.
+PMT
+
+
+--- Page Break ---
+
+21
+*P45073RA02128*
+Turn over    
+ 
+(a) (i) At a pH of 5.68, serine exists as a zwitterion.  Draw the formula of serine at this pH.
+(1)
+ 
+ 
+*(ii) At pH 5.68, serine and lysine can be separated by electrophoresis.  By 
+considering the structures of the amino acids at this pH, suggest why this 
+separation occurs.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(b) Serine is very soluble in water, whilst phenylalanine is much less soluble.  Explain 
+the difference, disregarding any effect of zwitterion formation.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The naturally occurring amino acid which does not show optical activity is not 
+shown in the table.  Give the formula of the R group for this acid.
+(1)
+PMT
+
+
+--- Page Break ---
+
+22
+*P45073RA02228*
+ 
+(d) The optical activity of equimolar solutions of naturally occurring samples of leucine 
+and iso-leucine can be measured in an experiment using plane-polarized light.
+ 
+ 
+(i) What measurement is made to show the optical activity of amino acids?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) By considering the structures of iso-leucine and leucine, explain why iso-leucine has 
+more stereoisomers than leucine.
+Amino acid
+Formula of R group
+leucine
+–CH2CH(CH3)2
+iso-leucine
+–CH(CH3)CH2CH3
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) The amino acid proline, shown below, does not contain a primary amine group, 
+but it can still form peptide bonds.  
+O
+OH
+NH
+ 
+ 
+Draw the structure of the dipeptide formed when the carboxylic acid group of 
+alanine reacts with proline.  Circle the peptide group on your drawing.
+(2)
+PMT
+
+
+--- Page Break ---
+
+23
+*P45073RA02328*
+ 
+(f) The first steps of the reaction of ninhydrin with alanine can be summarised in the 
+equation shown below.
+OH
+O
+O
+OH
+  + CH3 CH(NH2)COOH  ĺ    
+NH2
+O
+O
+ +  CO2 + H2O + Z
+ 
+ 
+(i) By balancing the equation, suggest the structural formula of the product Z.
+(1)
+ 
+ 
+(ii) In the final stage, Y reacts with another molecule of ninhydrin to form a 
+ 
+ 
+ 
+dye, Q, shown below.
+N
+O
+O
+O
+O
+ 
+ 
+ 
+What is the molecular formula of Q?
+(1)
+Y
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+24
+*P45073RA02428*
+ 
+ 
+(iii) On combustion, 1.000 g of Q produces 2.614 g carbon dioxide, 0.2673 g water 
+and 0.04620 g nitrogen.
+ 
+ 
+ 
+Use these data to calculate the percentage composition by mass of Q, and 
+hence its empirical formula.  Show whether your answer is consistent with the 
+molecular formula of Q.
+(4)
+ 
+ 
+(iv) Evidence for the structure of Q is obtained from data in its mass spectrum, 
+and the number of peaks in its low resolution nmr spectrum. 
+ 
+ 
+ 
+Suggest one piece of evidence from each type of spectroscopy which would 
+support the structure shown in (f)(ii).  Give data where appropriate.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 25 = 18 marks)
+TOTAL FOR SECTION C = 18 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+25
+*P45073RA02528*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+26
+*P45073RA02628*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+27
+*P45073RA02728*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*P45073RA02828*
+PMT

@@ -1,0 +1,397 @@
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Monday 14 January 2002 −  Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s-2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has eight questions. Pages 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+ 1. 
+A ball of mass 0.3 kg is moving vertically downwards with speed 8 m s−1 when it hits 
+the floor which is smooth and horizontal. It rebounds vertically from the floor with 
+speed 6 m s−1. Find the magnitude of the impulse exerted by the floor on the ball. 
+ 
+     (3)   
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+ 
+2. 
+A railway truck A of mass 1800 kg is moving along a straight horizontal track with 
+speed 4 m s−1. It collides directly with a stationary truck B of mass 1200 kg on the 
+same track. In the collision, A and B are coupled and move off together. 
+ 
+ 
+ 
+ 
+ 
+(a) Find the speed of the trucks immediately after the collision. 
+(3)  
+After the collision, the trucks experience a constant resistive force of magnitude 
+R newtons. They come to rest 8 s after the collision. 
+ 
+ 
+(b) Find R. 
+(3) 
+ 
+ 
+3.  
+A racing car moves with constant acceleration along a straight horizontal road. It 
+passes the point O with speed 12 m s−1. It passes the point A 4 s later with speed 
+60 m s−1. 
+ 
+(a) Show that the acceleration of the car is 12 m s−2. 
+(2) 
+(b) Find the distance OA. 
+(3) 
+The point B is the mid-point of OA. 
+ 
+(c) Find, to 3 significant figures, the speed of the car when it passes B.  
+ 
+ 
+ 
+(3) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+4. 
+A motor scooter and a van set off along a straight road. They both start from rest at 
+the same time and level with each other. The scooter accelerates with constant 
+acceleration until it reaches its top speed of 20 m s−1. It then maintains a constant 
+speed of 20 m s−1. The van accelerates with constant acceleration for 10 s until it 
+reaches its top speed V m s−1, V > 20. It then maintains a constant speed of V m s−1. 
+The van draws level with the scooter when the scooter has been travelling for 40 s at 
+its top speed. The total distance travelled by each vehicle is then 850 m. 
+ 
+(a) Sketch on the same diagram the speed-time graphs of both vehicles to illustrate 
+their motion from the time when they start to the time when the van overtakes the 
+scooter. 
+(3) 
+ 
+(b) Find the time for which the scooter is accelerating. 
+(3) 
+ 
+(c) Find the top speed of the van. 
+ 
+(3) 
+ 
+ 
+ 
+TURN OVER FOR QUESTION 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+5. 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+A     C                                    D                          B 
+  1 m  
+ 
+ 
+ 
+3 m 
+ 
+ 
+ 
+ 
+ 
+ 
+     10 m 
+ 
+A heavy uniform steel girder AB has length 10 m. A load of weight 150 N is attached 
+to the girder at A and a load of weight 250 N is attached to the girder at B. The 
+loaded girder hangs in equilibrium in a horizontal position, held by two vertical steel 
+cables attached to the girder at the points C and D, where AC = 1 m and DB = 3 m, 
+as shown in Fig. 1. The girder is modelled as a uniform rod, the loads as particles and 
+the cables as light inextensible strings. The tension in the cable at D is three times the 
+tension in the cable at C. 
+ 
+(a) Draw a diagram showing all the forces acting on the girder. 
+(2) 
+Find 
+ 
+ 
+(b) the tension in the cable at C, 
+(5) 
+  
+(c) the weight of the girder. 
+(2) 
+(d) Explain how you have used the fact that the girder is uniform. 
+(1) 
+ 
+ 
+6. 
+A particle P, of mass 3 kg, moves under the action of two constant forces (6i + 2j) N 
+and (3i – 5j) N. 
+ 
+(a) Find, in the form (ai + bj) N, the resultant force F acting on P. 
+(1) 
+(b) Find, in degrees to one decimal place, the angle between F and j. 
+(3) 
+(c) Find the acceleration of P, giving your answer as a vector. 
+(2) 
+The initial velocity of P is (−2i + j) m s−1. 
+ 
+(d) Find, to 3 significant figures, the speed of P after 2 s. 
+(5) 
+  
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+         Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      α 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     2.5 N 
+ 
+ 
+ 
+ 
+ 
+ 
+A ring of mass 0.3 kg is threaded on a fixed, rough horizontal curtain pole. A light 
+inextensible string is attached to the ring. The string and the pole lie in the same 
+vertical plane. The ring is pulled downwards by the string which makes an angle α to  
+the horizontal, where tan α = 4
+3  as shown in Fig. 2. The tension in the string is 2.5 N. 
+Given that, in this position, the ring is in limiting equilibrium, 
+ 
+ 
+(a) find the coefficient of friction between the ring and the pole. 
+(8) 
+ 
+       Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          2.5 N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       α 
+ 
+ 
+ 
+ 
+The direction of the string is now altered so that the ring is pulled upwards. The 
+string lies in the same vertical plane as before and again makes an angle α with the 
+horizontal, as shown in Fig. 3. The tension in the string is again 2.5 N. 
+ 
+(b) Find the normal reaction exerted by the pole on the ring. 
+(2) 
+ 
+(c) State whether the ring is in equilibrium in the position shown in Fig. 3, giving a 
+brief justification for your answer. You need make no further detailed calculation of 
+the forces acting. 
+(2) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+6 
+8. 
+ 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P(3m) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Q (5m) 
+ 
+ 
+ 
+ 
+Two particles P and Q have masses 3m and 5m respectively. They are connected by a 
+light inextensible string which passes over a small smooth light pulley fixed at the 
+edge of a rough horizontal table. Particle P lies on the table and particle Q hangs 
+freely below the pulley, as shown in Fig. 4. The coefficient of friction between P and 
+the table is 0.6. The system is released from rest with the string taut. For the period 
+before Q hits the floor or P reaches the pulley, 
+ 
+(a) write down an equation of motion for each particle separately, 
+(4) 
+(b) find, in terms of g, the acceleration of Q, 
+(4) 
+(c) find, in terms of m and g, the tension in the string. 
+(2) 
+When Q has moved a distance h, it hits the floor and the string becomes slack. Given 
+that P remains on the table during the subsequent motion and does not reach the 
+pulley, 
+ 
+(d) find, in terms of h, the distance moved by P after the string becomes slack until P 
+comes to rest. 
+(6) 
+ 
+END 
+ 
+ 
+ 
+ 
+PMT
+PMT

@@ -1,0 +1,1109 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+Edexcel GCE
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+6CH04/01
+Wednesday 27 January 2010 – Morning
+Time: 1 hour 40 minutes
+N36289A
+©2010 Edexcel Limited.
+7/7/5/5/2/
+*N36289A0128*
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your 
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*N36289A0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question select one answer from A to D and put a cross in the box 
+.
+If you change your mind, put a line through the box 
+ and then mark your new answer with
+a cross 
+.
+1 Consider the equilibrium
+Cl2(g) + PCl3(g)  U  PCl5(g)
+ 
+Which of the following is true when the total pressure of the system is increased at 
+constant temperature?
+Value of Kp
+Mole fraction of PCl5(g)
+A
+decreases
+decreases
+B
+unaltered
+increases
+C
+decreases
+increases
+D
+unaltered
+unaltered
+(Total for Question 1 = 1 mark)
+2 In which of the following reactions is nitric acid acting as a base?
+ 
+ A 
+HNO3 + NaOH     →  NaNO3 + H2O
+ 
+ B 
+HNO3 + H2O       →  H3O+ + NO3–
+ 
+ C 
+HNO3 + H2SO4    →  H2NO3+ + HSO4–
+ 
+ D 
+HNO3 + NaHCO3 →  NaNO3 + H2O + CO2
+(Total for Question 2 = 1 mark)
+3 Why does phenolphthalein, which is colourless in acidic solutions, turn pink in alkaline 
+solutions? 
+ 
+ A 
+It is oxidized to a pink compound by hydroxide ions.
+ 
+ B 
+It forms a pink anion by loss of H+ ions.
+ 
+ C 
+It forms a pink anion by gain of H+ ions.
+ 
+ D 
+It forms a pink cation by gain of H+ ions.
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*N36289A0328*
+Turn over  
+4 The dissociation of ethanoic acid in aqueous solution is represented by
+CH3COOH(aq) + H2O(l) U H3O+(aq) + CH3COO–(aq)
+ 
+Which of the following statements is true for this equilibrium?
+ 
+ A 
+CH3COOH is an acid and its conjugate base is CH3COO–.
+ 
+ B 
+H2O is an acid and its conjugate base is OH–.
+ 
+ C 
+At equilibrium, the concentrations of each substance are the same.
+ 
+ D 
+At equilibrium, the reaction from left to right and the reaction from right to 
+left have stopped.
+(Total for Question 4 = 1 mark)
+5 Why are aqueous solutions of sodium ethanoate slightly alkaline?
+ 
+ A 
+The sodium ions react with water to give an alkali.
+ 
+ B 
+The ethanoate ions react with water to give hydroxide ions.
+ 
+ C 
+All sodium salts give alkaline solutions.
+ 
+ D 
+The sodium ethanoate is fully ionized in solution.
+(Total for Question 5 = 1 mark)
+6 When ammonium nitrate crystals dissolve in water, the entropy of the system
+ 
+ A 
+remains the same.
+ 
+ B 
+falls, because the hydrated ions are more ordered than the solid.
+ 
+ C 
+rises, because the ions in the crystal become hydrated in the solution.
+ 
+ D 
+rises, because the ions are arranged more randomly in the solution than in the 
+crystal.
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*N36289A0428*
+7 Which of the following molecules is a methyl ester?
+ 
+ A 
+CH3COOCH2CH3
+ 
+ B 
+HCOOCH3
+ 
+ C 
+CH3COCH2CH3
+ 
+ D 
+CH3COCl
+(Total for Question 7 = 1 mark)
+8 During the preparation of a liquid compound, samples were taken of the product at 
+various stages in the purification procedure.  Which of the following techniques would 
+be most suitable for showing the change in composition of these samples during the 
+purification procedure?
+ 
+ A 
+Gas-liquid chromatography
+ 
+ B 
+Fractional distillation
+ 
+ C 
+Filtration
+ 
+ D 
+Distillation
+(Total for Question 8 = 1 mark)
+9 Which of the following compounds would react with lithium tetrahydridoaluminate 
+(lithium aluminium hydride) and also with phosphorus(V) chloride (phosphorus 
+pentachloride)?
+ 
+ A 
+CH3CH2CH2COOH
+ 
+ B 
+CH3CH2COCH3
+ 
+ C 
+CH3CH=CHCH3
+ 
+ D 
+CH2=CHCH2CH2OH
+(Total for Question 9 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*N36289A0528*
+Turn over  
+10 In the synthesis of an ester, the use of an acyl chloride and an alcohol gives a better 
+yield than the use of a carboxylic acid and an alcohol. 
+ 
+This is because the reaction between
+ 
+ A 
+an acyl chloride and an alcohol is an equilibrium.
+ 
+ B 
+an acid and an alcohol goes to completion.
+ 
+ C 
+an acid and an alcohol requires a catalyst.
+ 
+ D 
+an acyl chloride and an alcohol goes to completion.
+(Total for Question 10 = 1 mark)
+11 Not all molecules will absorb infrared radiation.  Those that do
+ 
+ A 
+change their dipole moment when their bonds stretch or bend.
+ 
+ B 
+undergo homolytic fission.
+ 
+ C 
+must be polar.
+ 
+ D 
+are always organic substances.
+(Total for Question 11 = 1 mark)
+12 Which of the following methods may be used in a single step to make carboxylic acids?
+ 
+ A 
+Hydrolysis of an ester with an alkali.
+ 
+ B 
+Reaction of acidified potassium manganate(VII) with an alkene.
+ 
+ C 
+Hydrolysis of a nitrile with hydrochloric acid.
+ 
+ D 
+Reaction of an acyl chloride with ammonia.
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*N36289A0628*
+13 A solution of a weak acid cannot be titrated with a weak base using an indicator to find 
+the end-point because 
+ 
+ A 
+the pH change is too gradual close to the equivalence point. 
+ 
+ B 
+there are too few H+ ions to affect the indicator.
+ 
+ C 
+there are too few OH– ions to affect the indicator.
+ 
+ D 
+the pH change occurs outside the range of any indicator.
+(Total for Question 13 = 1 mark)
+14 Which of the following reagents could be used to produce propanamide, 
+CH3CH2CONH2?
+ 
+ A 
+Ammonia and 1-chloropropane
+ 
+ B 
+Ammonia and propanoyl chloride
+ 
+ C 
+Methylamine and 1-chloropropane
+ 
+ D 
+Methylamine and propanoyl chloride
+(Total for Question 14 = 1 mark)
+15 The radio waves used in proton nmr 
+ 
+ A 
+must not be absorbed by the sample.
+ 
+ B 
+cause electron transitions in the hydrogen atom.
+ 
+ C 
+can only be used with organic substances.
+ 
+ D 
+cause the hydrogen nucleus to change its spin state.
+(Total for Question 15 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+*N36289A0728*
+Turn over  
+16 Which of the following graphs shows that a reaction is first order with respect to 
+reactant X?
+ 
+ A
+ 
+ B
+ 
+ C
+ 
+ D
+(Total for Question 16 = 1 mark)
+[X]
+time
+[X]
+rate
+time
+[X]
+[X]
+rate
+PMT
+
+
+--- Page Break ---
+
+8
+*N36289A0828*
+17 Which of the following changes will lead to the greatest increase in the rate of the 
+following endothermic reaction?
+N2(g) + O2(g)  →  2NO(g)   ∆H +ve
+Temperature
+Initial concentration of N2 and O2
+A
+decrease by 15%
+decrease by 15%
+B
+increase by 15%
+stay the same
+C
+decrease by 15%
+increase by 15%
+D
+increase by 15%
+increase by 15%
+(Total for Question 17 = 1 mark)
+18 The repeat unit of the polyester formed from ethane-1,2-diol, HOCH2CH2OH, and
+ 
+benzene-1,4-dicarboxylic acid, HOOC—
+—COOH, is
+ 
+ A 
+—O—CH2CH2—O—C—
+—C—O—CH2CH2—O—
+O
+O
+
+
+
+
+
+
+
+
+ 
+ B 
+—O—CH2CH2—C—O—
+—O—C—CH2CH2—O—
+O
+O
+
+
+
+
+
+
+
+
+ 
+ C 
+—O—CH2CH2—O—C—
+—C—
+O
+
+
+
+
+
+
+
+
+O
+ 
+ D 
+—O—CH2CH2—O—C—
+—C—O—
+O
+O
+
+
+
+
+
+
+
+
+(Total for Question 18 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*N36289A0928*
+Turn over  
+19 Iron and steam at high temperature react in a closed vessel to give an equilibrium 
+mixture
+3Fe(s) + 4H2O(g)  U  Fe3O4(s) + 4H2(g)
+ 
+Which of the following is the correct expression for Kp?
+ 
+ A 
+Kp = 
+P
+P
+H
+H O
+2
+2
+ 
+ B 
+Kp = 
+P
+P
+P P
+Fe O
+H
+Fe
+H O
+3
+4
+2
+2
+4
+3
+4
+ 
+ C 
+Kp = 
+P
+P
+H
+H O
+2
+2
+4
+4
+ 
+ D 
+Kp = PH2
+4
+(Total for Question 19 = 1 mark)
+20 At 100 °C, pure water has a pH of 6, whereas at 25 °C it has a pH of 7.  This is because
+ 
+ A 
+the dissociation of water is endothermic, so the concentration of hydrogen 
+ions is lower at 100 °C than it is at 25 °C.
+ 
+ B 
+the dissociation of water is exothermic, so the concentration of hydrogen ions 
+is lower at 100 °C than it is at 25 °C.
+ 
+ C 
+the dissociation of water is endothermic, so the concentration of hydrogen 
+ions is higher at 100 °C than it is at 25 °C.
+ 
+ D 
+at 100 °C, water has a higher concentration of hydrogen ions than of 
+hydroxide ions.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*N36289A01028*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 (a) (i) Define pH.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Calculate the pH of  0.0100 mol dm–3 hydrochloric acid, which is a strong acid.
+(1)
+ 
+(b) Ethanoic acid is a weak acid with an acid dissociation constant, Ka, of value 
+1.75 × 10–5 mol dm–3 at 25 °C.
+ 
+ 
+(i) Calculate the pH of 0.0100 mol dm–3 ethanoic acid at 25 °C, stating any ONE 
+assumption that you have made.
+(4)
+Assumption  ..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*N36289A01128*
+Turn over  
+ 
+ 
+(ii) The pH of hydrochloric and of ethanoic acid at two different concentrations is 
+given in the table.
+pH of 0.00100 mol dm–3 
+solution
+pH of 0.000100 mol dm–3 
+solution
+Hydrochloric acid
+3.0
+4.0
+Ethanoic acid
+3.9
+4.4
+ 
+ 
+ 
+In the case of hydrochloric acid, dilution by a factor of 10 increases the pH by 
+one unit.  Suggest why ethanoic acid behaves differently.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) Orange marmalade usually contains sodium citrate as a preservative.  Together with 
+the fruit in the marmalade, it forms a buffer solution which, at a suitable pH, inhibits 
+mould growth.
+ 
+ 
+(i) Define the term buffer solution.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What is the substance in the fruit that produces a buffer with sodium citrate?
+(1)
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*N36289A01228*
+ 
+ 
+(iii) Explain how a buffer solution works using this system or any other of your 
+choice.  Support your explanation with equations.
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 21 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+13
+*N36289A01328*
+Turn over  
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+14
+*N36289A01428*
+22 *(a) Ethanol can be oxidized successively to ethanal and to ethanoic acid.
+ 
+ 
+The boiling temperatures of these substances are:
+ 
+ 
+ethanol 78 °C, ethanal 21°C, ethanoic acid 118 °C.
+ 
+ 
+Explain in terms of the intermolecular forces in the liquids why the order of the 
+boiling temperature is
+ethanal < ethanol < ethanoic acid
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) State what tests you would perform in each case, and the result you would expect, to 
+show that
+ 
+ 
+(i) ethanal contains a carbonyl group.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) ethanal is an aldehyde.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*N36289A01528*
+Turn over  
+ 
+(c)  Ethanal reacts with HCN, in the presence of a catalyst of cyanide ions from KCN, to 
+give a cyanohydrin, CH3CH(OH)CN.
+ 
+ 
+(i) Give the mechanism for this reaction.
+(3)
+ 
+ 
+(ii)  Explain why it is necessary to use HCN and KCN in this reaction, rather than 
+HCN on its own.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+*(iii) Explain why the product mixture from this reaction is not optically active.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 22 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*N36289A01628*
+23 Iodine and propanone react in the presence of an aqueous acid catalyst as follows
+CH3COCH3 + I2  →  CH3COCH2I + HI
+ 
+To determine the rate equation for the reaction, propanone is reacted with iodine in the 
+presence of aqueous hydrochloric acid at constant temperature.  Samples are withdrawn 
+at known times, quenched with sodium hydrogencarbonate solution, and the iodine 
+remaining titrated with a standard solution of sodium thiosulfate.
+ 
+The rate equation for the reaction is
+rate = k[CH3COCH3]1 [H+]1 [I2]0
+ 
+(a) The graph of [I2] against time is a straight line, showing that the order of reaction 
+with respect to iodine is zero.
+ 
+ 
+(i) Explain why the propanone and the hydrogen ions must be in large excess in 
+this experiment in order to give this straight line.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What further experiment could be done to show that the order of reaction with 
+respect to propanone is one?  State the effect of this change on the graph.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*N36289A01728*
+Turn over  
+ 
+ 
+(iii) Explain why the minimum number of steps in the mechanism for this reaction is 
+two.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) Sodium hydrogencarbonate stops the reaction by neutralizing the acid catalyst.
+ 
+ 
+(i) Give the ionic equation for the reaction between sodium hydrogencarbonate and 
+acid.
+(1)
+ 
+ 
+(ii) Sodium hydroxide cannot be used for neutralization because under very alkaline 
+conditions a reaction occurs between propanone and iodine.
+ 
+ 
+ 
+Write the equation for this reaction.  State symbols are not required.
+(3)
+(Total for Question 23 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+*N36289A01828*
+24 Hydrogen is used in very large quantities as a fuel, as a reducing agent, and in the 
+production of ammonia.  Hydrogen is manufactured by steam reforming of methane 
+from natural gas. Two reactions are involved, both being in equilibrium in closed 
+systems.
+Reaction I           CH4(g) + H2O(g)  U  CO(g) + 3H2(g)      ∆H = + 210 kJ mol−1
+Reaction  II         CO(g)  +  H2O(g)  U  CO2(g)  +  H2(g)   ∆H = −42 kJ mol−1
+ 
+(a) Write the expression for the equilibrium constant, Kp, for reaction I.
+(1)
+ 
+(b) Reaction I occurs at a temperature of 1000 K and a pressure of 30 atm over a nickel 
+catalyst.
+ 
+ 
+(i) State and explain the effect, if any, on the value of Kp of increasing the pressure 
+on the reaction.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain, in terms of your answers to (a) and (b)(i), why an increase in the 
+pressure leads to a decrease in yield in reaction I.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*N36289A01928*
+Turn over  
+ 
+ 
+(iii) Increasing the pressure on this heterogeneously-catalysed reaction I has very 
+little effect on the rate of the reaction.  Suggest why this is so.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) The expression for Kp for reaction II is
+K
+P
+P
+P P
+p
+CO
+H
+CO
+H O
+=
+2
+2
+2
+ 
+ 
+At a particular temperature and 30 atm pressure, a mixture of equal amounts of  
+carbon monoxide and steam react to give an equilibrium mixture where 75 % of the 
+CO has reacted. 
+ 
+ 
+Calculate the value of Kp showing your working.
+(3)
+PMT
+
+
+--- Page Break ---
+
+20
+*N36289A02028*
+ 
+(d) Carbon dioxide and hydrogen are separated by washing the gas with potassium 
+carbonate solution to give potassium hydrogencarbonate solution, leaving hydrogen 
+in the gas stream.  Potassium carbonate is expensive and is regenerated by heating 
+the potassium hydrogencarbonate and liberating the carbon dioxide.
+ 
+ 
+(i) Hydrogen is often claimed to be a non-polluting fuel as it only produces water 
+on burning.
+ 
+ 
+ 
+Explain why its manufacture using reactions I and II does not support this 
+claim.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation for the thermal decomposition of potassium hydrogencarbonate.
+ 
+ 
+ 
+State symbols are not required.
+(1)
+ 
+(e)  Although industrial processes are often discussed in terms of equilibria, they are 
+rarely allowed to reach equilibrium. 
+ 
+ 
+Suggest why, apart from insufficient reaction time, this is so. 
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 24 = 12 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+21
+*N36289A02128*
+Turn over  
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+25 The oxidation of iron metal in the presence of oxygen is spontaneous.
+4Fe(s) + 3O2(g)  →  2Fe2O3(s)
+ 
+(a) Explain the meaning of spontaneous in a thermodynamic context.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) (i) Find the values of the standard molar entropies of iron and of iron(III) oxide 
+from your data booklet.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The standard molar entropy at 298 K for oxygen molecules O2 is +205 J mol–1 K–1. 
+ 
+ 
+ 
+Calculate the standard entropy change of the system for the reaction between 
+iron and oxygen.  Include a sign and units in your answer.
+(2)
+ 
+ 
+(iii) The standard enthalpy change for the reaction at 25 °C is –1648 kJ mol–1.
+ 
+ 
+ 
+Calculate ∆Ssurroundings.
+(1)
+PMT
+
+
+--- Page Break ---
+
+22
+*N36289A02228*
+ 
+ 
+(iv) Use your answers to (b)(ii) and (iii) to calculate the total standard entropy 
+change for the reaction.  Include a sign and units in your answer.
+(2)
+ 
+*(v) The reaction is thermodynamically spontaneous.
+  
+ Use your answers to (b)(ii), (iii) and (iv) to explain, in terms of the physical 
+states of the substances in the reaction and the movement of the molecules in 
+the surroundings, why this is so.
+(3)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+(Total for Question 25 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+23
+*N36289A02328*
+Turn over  
+26 This question is about compounds X, C4H10O, and Y, C4H8O.
+ 
+(a) Compound X, C4H10O, can be oxidized to compound Y, C4H8O.  The infrared 
+spectrum of X is given below.
+ 
+ 
+Infrared Spectrum of X
+ 
+ 
+What can be deduced about the structures of X and Y using all this information and 
+the data booklet?  Justify your answer.
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+100
+4000
+50
+0
+3000
+2000
+1500
+1000
+500
+Wavenumber/cm–1
+Transmittance
+/%
+PMT
+
+
+--- Page Break ---
+
+24
+*N36289A02428*
+ 
+(b) Below are the nmr spectra of X and Y.
+ 
+ 
+nmr spectrum of X
+ 
+ 
+nmr spectrum of Y
+Chemical shift/ppm
+7
+6
+5
+4
+3
+2
+1
+0
+Chemical shift/ppm
+7
+6
+5
+4
+3
+2
+1
+0
+PMT
+
+
+--- Page Break ---
+
+25
+*N36289A02528*
+ 
+*Use these nmr spectra and your answer to (a) to deduce the structural formulae of X 
+and Y.  Justify your answer and explain why both nmr spectra are consistent with 
+these structures.
+(6)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 26 = 10 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+26
+*N36289A02628*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+27
+*N36289A02728*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*N36289A02828*
+PMT

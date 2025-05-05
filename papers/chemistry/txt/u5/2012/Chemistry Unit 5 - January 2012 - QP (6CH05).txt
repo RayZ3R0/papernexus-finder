@@ -1,0 +1,1128 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+P35302A
+©2012 Pearson Education Ltd.
+7/7/5/5/3/
+6CH05/01
+Edexcel GCE
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Wednesday 1 February 2012 – Morning
+Time: 1 hour 40 minutes
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+*P35302A0128*
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+2
+*P35302A0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 An electrochemical cell consists of a standard hydrogen electrode and a Cu2+(aq)|Cu(s) 
+electrode which uses copper(II) sulfate solution.  Which one of the following does not 
+affect the e.m.f. of the cell?
+ 
+ 
+A 
+The volume of the copper(II) sulfate solution.
+ 
+ 
+B 
+The temperature.
+ 
+ 
+C 
+The pressure of the hydrogen.
+ 
+ 
+D 
+The concentration of the copper(II) sulfate solution.
+(Total for Question 1 = 1 mark)
+2 Which answer corresponds to the correct value of E
+9
+cell for the oxidation of  
+hydrogen peroxide by manganate(VII) ions?  The half-reactions are
+ 
+2H+ + O2 + 2e– U H2O2 
+E
+9 = + 0.68 V
+MnO4– + 8H+ + 5e– U Mn2+ + 4H2O   E
+9 = + 1.51 V
+ 
+The overall equation is
+2MnO4– + 6H+ + 5H2O2 U 2Mn2+ + 8H2O + 5O2
+ 
+ 
+A 
+E
+9
+cell = + 2.19 V
+ 
+ 
+B 
+E
+9
+cell = – 0.83 V
+ 
+ 
+C 
+E
+9
+cell = – 0.38 V
+ 
+ 
+D 
+E
+9
+cell = + 0.83 V
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P35302A0328*
+Turn over  
+3 The transition metal complex Pt(NH3)2Cl2 exists as two geometric isomers.  This is 
+because the complex
+  
+A is square-planar.
+  
+B is tetrahedral.
+  
+C contains a double bond.
+  
+D is octahedral.
+(Total for Question 3 = 1 mark)
+4 Hydrogen peroxide, H2O2, can be analysed by titration.  The hydrogen peroxide solution 
+is treated with acidified potassium iodide solution, and the liberated iodine is titrated 
+with a standard solution of sodium thiosulfate, Na2S2O3.  The products are iodide ions 
+and tetrathionate ions, S4O62ì.
+ 
+Which of the following applies to this reaction?
+Action of H2O2
+Action of S2O3í
+A
+oxidizing agent
+oxidizing agent
+B
+oxidizing agent
+reducing agent
+C
+reducing agent
+oxidizing agent
+D
+reducing agent
+reducing agent
+(Total for Question 4 = 1 mark)
+5 A hydrated transition metal ion is colourless.  Which of the following could be the 
+electronic configuration of this ion?
+  
+A [Ar] 3d54s2
+  
+B [Ar] 3d8
+  
+C [Ar] 3d104s2
+  
+D [Ar] 3d10
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P35302A0428*
+6 Which of the following reagents would enable you to separate iron(III) hydroxide from a 
+mixture of iron(III) hydroxide and copper(II) hydroxide?
+ 
+ 
+A 
+Dilute hydrochloric acid
+ 
+ 
+B 
+Aqueous ammonia
+ 
+ 
+C 
+Dilute nitric acid
+ 
+ 
+D 
+Sodium hydroxide solution
+(Total for Question 6 = 1 mark)
+7 When a solution containing 0.10 mol of chromium(III) chloride, CrCl3.6H2O, is treated 
+with excess silver nitrate solution, 0.20 mol of silver chloride, AgCl, is immediately 
+precipitated.  The formula of the complex ion in the solution is
+ 
+ 
+A 
+[Cr(OH)6]3–
+ 
+ 
+B 
+[Cr(H2O)6]3+
+ 
+ 
+C 
+[CrCl(H2O)5]2+
+ 
+ 
+D 
+[CrCl2(H2O)4]+
+(Total for Question 7 = 1 mark)
+8 Which of the following species is not able to act as a ligand in the formation of 
+transition metal complexes?
+ 
+ 
+A 
+C6H5NH2
+ 
+ 
+B 
+NH3
+ 
+ 
+C 
+NH2CH2CH2CH2NH2
+ 
+ 
+D 
+NH4+
+(Total for Question 8 = 1 mark)
+9 The element zinc, with electronic configuration 1s22s22p63s23p63d104s2, is not regarded 
+as a transition element because
+ 
+ 
+A 
+the oxide of zinc is amphoteric.
+ 
+ 
+B 
+none of its ions has an unpaired electron in the d-subshell.
+ 
+ 
+C 
+it does not readily form complex ions.
+ 
+ 
+D 
+it has a boiling temperature low enough for it to be easily distilled.
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P35302A0528*
+Turn over  
+10 The compounds below were heated with aqueous sodium hydroxide solution.  Which 
+one of them did not give sodium ethanoate, CH3COONa, as one of the products?
+  
+A CH3COOCH3
+  
+B CH3COCH3
+  
+C CH3COOH
+  
+D CH3COCl
+(Total for Question 10 = 1 mark)
+11 Which of the following products is formed when phenylamine (aniline) is reacted with 
+dilute sulfuric acid?
+  
+A 
+NO2
+  
+B 
+SO3H
+  
+C 
+ +       –
+NH3HSO4
+  
+D 
+NH2
+SO3H
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P35302A0628*
+12 For the nitration of phenol, which is the most suitable set of conditions and the reason 
+for its use?
+Conditions
+Reactivity of phenol to 
+electrophiles compared 
+with benzene
+A
+dilute nitric acid at room temperature
+more reactive
+B
+concentrated nitric and sulfuric acid at room 
+temperature
+more reactive
+C
+concentrated nitric and sulfuric acid at 55 °C
+the same
+D
+dilute nitric acid and dilute sulfuric acid at 
+room temperature
+less reactive
+(Total for Question 12 = 1 mark)
+13 Phenol reacts with excess bromine water to give as the organic product(s)
+ 
+ 
+A 
+      
+Br
+OH
+      and      
+OH
+Br
+ 
+ 
+B 
+      
+Br
+ 
+ 
+C 
+  
+Br
+OH
+Br
+Br
+ 
+ 
+D 
+      
+(Total for Question 13 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P35302A0728*
+Turn over  
+14 An organic compound, X, shows the following properties:
+x Oxidation of compound X produces a substance that reacts with 
+2,4-dinitrophenylhydrazine to give a yellow precipitate but does not react with 
+Fehling’s or Benedict’s solution.
+x Compound X reacts with ice-cold nitrous acid to form a compound that gives a 
+yellow precipitate with an alkaline solution of phenol.
+ 
+ What is the formula of compound X?
+  
+A 
+CHO
+NH2
+  
+B 
+CH(OH)CH3
+NH2
+  
+C 
+CHO
+CH3
+  
+D 
+CHOHCH3
+CH3
+(Total for Question 14 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P35302A0828*
+15 Which sequence shows the bases in order of decreasing strength?
+ 
+ 
+A 
+C6H5NH2  >  CH3NH2  >  NH3
+ 
+ 
+B 
+NH3  >  CH3NH2  >  C6H5NH2
+ 
+ 
+C 
+CH3NH2  >  NH3  >  C6H5NH2
+ 
+ 
+D 
+NH3  >  C6H5NH2  >  CH3NH2
+(Total for Question 15 = 1 mark)
+16 Bromoethane can be made by heating ethanol under reflux with 50% sulfuric acid and 
+sodium bromide.  When the mixture is distilled, the products include sulfur dioxide, 
+bromine, hydrogen bromide and water as well as bromoethane.
+ 
+The product mixture is shaken with sodium carbonate solution and later with anhydrous 
+sodium sulfate before being re-distilled.  Which of the following shows the correct list 
+of impurities removed at each step?
+Aqueous sodium 
+carbonate wash
+Addition of sodium 
+sulfate
+A
+HBr
+SO2, Br2, water
+B
+SO2, Br2
+HBr, water
+C
+SO2, HBr
+Br2, water
+D
+SO2, Br2, HBr
+water
+(Total for Question 16 = 1 mark)
+17 A compound is known to have either the structure H2NCH2CH2NH2 or H2NCH2COOH.  
+Which of the following tests would best distinguish between the two compounds?
+ 
+ 
+A 
+Reaction with concentrated aqueous sodium hydroxide.
+ 
+ 
+B 
+Reaction with nitrous acid.
+ 
+ 
+C 
+Reaction with aqueous sodium hydrogencarbonate.
+ 
+ 
+D 
+Reaction with ethanoyl chloride.
+(Total for Question 17 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P35302A0928*
+Turn over  
+18 Poly(ethenol) is a water-soluble polymer.  A section of the chain has the structure shown 
+below.
+ 
+The polymer is used for making hospital laundry bags so that laundry can be loaded 
+directly into washing machines without it having to be handled.
+ 
+Poly(ethenol) is water soluble because the polymer
+  
+A is broken down by the water into monomers.
+  
+B is broken down by the washing detergent.
+  
+C breaks into monomers at the temperature of the wash.
+  
+D forms many strong hydrogen bonds with the water.
+(Total for Question 18 = 1 mark)
+19 Which of the following substances is capable of damaging the ozone layer?
+  
+A NaCl
+  
+B CO2
+  
+C C2HF5
+  
+D C2F3Cl3
+(Total for Question 19 = 1 mark)
+20 Analysis suggests that a particular organic synthesis produces a medicine that contains 
+trace impurities that may be hazardous.  What is the best way for this discovery to be 
+reported and evaluated?
+  
+A In a scientific journal which subjects its articles to peer review.
+  
+B On the Internet in an article on a website.
+  
+C In a newspaper article in several broadsheet newspapers.
+  
+D In a widely circulated magazine.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+C
+C
+C
+C
+H
+H
+H
+H
+H
+OH H
+OH
+PMT
+
+
+--- Page Break ---
+
+10
+*P35302A01028*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 (a) Chromium is a typical transition metal, although its electronic configuration does not 
+fit the general trend found in the first transition series.
+ 
+ 
+Complete the electronic configurations in s,p,d notation for vanadium and chromium.
+(1)
+Vanadium: [Ar]  .........................................................................................................................................................................................................
+Chromium: [Ar]  ........................................................................................................................................................................................................
+ 
+(b) Some interconversions found in the chemistry of chromium are shown below.  Use 
+this information to answer the questions that follow.
+ 
+ 
+(i) State two typical properties of transition metals, other than the formation of 
+coloured ions, which are shown in the diagram above.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+[Cr(H2O)6]2+ 
+ [Cr(H2O)6]3+ 
+ CrO42–
+metal + H2SO4
+step 2
+step 1
+  sky blue 
+violet 
+yellow
+H2NCH2CH2NH2
+charcoal catalyst
+step 4
+[Cr(H2NCH2CH2NH2)3]3+
+deep blue
+OH–(aq)
+H3O+(aq)    step 3
+Cr2O72–
+orange
+PMT
+
+
+--- Page Break ---
+
+11
+*P35302A01128*
+Turn over  
+ 
+ 
+(ii) Use E
+9 values from your data booklet to suggest a metal that could be used for 
+step 1.  Justify your answer by calculating E
+9 for your cell.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain, using oxidation numbers, whether or not the conversion in step 3 is a 
+redox reaction.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) The organic compound H2NCH2CH2NH2 that is used in step 4 is  
+1,2-diaminoethane, often called ethylenediamine.  
+ 
+ 
+ 
+It is a bidentate ligand.  Explain the meaning of this term.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(v) Explain, in terms of its structure, how H2NCH2CH2NH2 can act as a bidentate 
+ligand whereas H2NNH2 cannot.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P35302A01228*
+ 
+(c) The half-equations relating the interconversion of the species Cr2+(aq), Cr3+(aq) and 
+Cr2O72–(aq) are given below.
+ 
+ 
+Half-equation I:  Cr3+(aq) + e– o Cr2+(aq)
+ 
+ 
+Half-equation II:  Cr2O72–(aq) + 6e– + 14H+(aq) o 2Cr3+(aq) + 7H2O(l) 
+ 
+ 
+(i) Use your data booklet to find E
+9 for each of the above half-equations.
+(1)
+Half-equation I  ...........................................................................................................................................................................................  Volts
+Half-equation II  .........................................................................................................................................................................................  Volts
+ 
+ 
+*(ii) Write the overall equation for the disproportionation of Cr3+ into Cr2+ and  
+Cr2O72–.
+ 
+ 
+ 
+Use the E
+9 values you have obtained in (c)(i) to show whether or not this 
+disproportionation is feasible under standard conditions.
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 21 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+13
+*P35302A01328*
+Turn over  
+22 (a) Tiglic acid is a compound that is used as a defensive agent by some beetles.
+ 
+ 
+(i) Tiglic acid contains, by mass, 60% carbon, 8% hydrogen, with the remainder 
+being oxygen.  Show that these data are consistent with the formula C5H8O2.
+(1)
+ 
+ 
+(ii) Tiglic acid contains a carbon-carbon double bond and a carboxylic acid group.
+ 
+ 
+ 
+Suggest one test for each of these groups in tiglic acid.  State what you would 
+do and what you would see as a positive result for the tests.
+(4)
+Test for C
+C  .............................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Test for 
+COOH .....................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P35302A01428*
+ 
+(b) It is suggested that the structure of tiglic acid is either that of A or B.
+ 
+A 
+B
+ 
+ 
+(i) State, with a reason, whether B is the E- or Z- isomer.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The mass spectrum of tiglic acid shows two prominent peaks at mass/charge 
+ratios 45 and 55.  Write the formulae of the fragments giving rise to each of 
+these peaks.
+(2)
+45  ........................................................................................................................................................................................................................................
+55  ........................................................................................................................................................................................................................................
+ 
+ 
+(iii) Does this data from the mass spectrum alone enable you to decide which of A 
+or B is the structure of tiglic acid?  Explain your answer.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+C
+C
+CH3CH2
+H
+H
+COOH
+C
+C
+CH3
+H
+COOH
+CH3
+PMT
+
+
+--- Page Break ---
+
+15
+*P35302A01528*
+Turn over  
+ 
+(c) The position of a C
+C double bond in a molecule can be determined by ozonolysis.  
+The compound is reacted with ozone and then dilute acid, two carbonyl compounds 
+being produced as shown below.
+ 
+ 
+Ozonolysis of tiglic acid gives two carbonyl compounds, C and D.
+ 
+ 
+Compound C gives a silver mirror with Tollens’ reagent and gives iodoform with 
+iodine in alkali.
+ 
+ 
+Compound D does not give a silver mirror with Tollens’ reagent, but does give 
+iodoform with iodine in alkali.
+ 
+ 
+*(i) From the results of the experiments, deduce the functional groups present in       
+C and D.  By considering the two possible structures for tiglic acid, give the 
+structural formulae of C and D.
+ 
+ 
+ 
+From the structures you have drawn, state which of the structures A or B could 
+represent tiglic acid.
+(6)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain whether or not these tests show definitely that your answer to (c)(i) 
+represents tiglic acid.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+C
+C
+a
+d
+b
+e
+C
+O
+a
+b
+O
+C
+d
+e
+O3
++
+PMT
+
+
+--- Page Break ---
+
+16
+*P35302A01628*
+ 
+(d) Lactic acid is a chiral molecule that is found in sweat as the (–) isomer only.  Its 
+structural formula is
+(–) - lactic acid
+ 
+ 
+(i) Lactic acid can be made from ethanol in three steps.
+ 
+ 
+ 
+Give the structural formula of the intermediate X and the reagents and 
+conditions required for steps 1 and 2.
+(4)
+Step 1 .................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Step 2 .................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+C
+OH
+HOOC
+H
+CH3
+step 1
+C2H5OH 
+ compound X
+OH
+CH3
+C
+H
+CN
+OH
+CH3
+C
+H
+COOH
+step 2
+ethanol
+lactic acid
+step 3
+PMT
+
+
+--- Page Break ---
+
+17
+*P35302A01728*
+Turn over  
+ 
+ 
+(ii) Classify the type and mechanism of the reaction that occurs in step 2.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ *(iii) By considering the stereochemistry of the mechanism in step 2, explain why 
+this synthesis would not give a single optical isomer of lactic acid.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest why synthetic pathways for the manufacture of pharmaceuticals may 
+require reactions that are highly stereospecific.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 22 = 25 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+*P35302A01828*
+23 3URWHLQVDUHSRO\PHUVRIĮDPLQRDFLGVWKHVLPSOHVWRIZKLFKLVJO\FLQH
+ 
+(a) (i) Draw the structural formula for the zwitterion of glycine in the solid state.
+(1)
+ 
+ 
+(ii) Explain, on the basis of your answer to (a)(i), why glycine has a relatively high 
+melting temperature for such a small molecule.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Draw the structure of the protein chain that would be formed if glycine alone 
+were to be polymerized.  Show part of the chain containing two glycine 
+residues.
+(2)
+C
+NH2
+HOOC
+H
+H
+PMT
+
+
+--- Page Break ---
+
+19
+*P35302A01928*
+Turn over  
+ *(b) A solution of hydrolysed protein contains the individual amino acids that make up 
+the protein.  Briefly state how you would use chromatography, together with known 
+samples of amino acids, to show which amino acids the protein contained.  Do not 
+give detailed experimental instructions.
+(5)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 23 = 10 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P35302A02028*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24 Read the passage below carefully and answer the questions which follow.
++ H2  
+  
+Molecular structure and colour chemistry
+ 
+The sight of tubes of paint or of coloured pencils in an artists’ supply shop is 
+something that most people enjoy; we love colour.
+ 
+The ability to synthesise brightly-coloured compounds coincides with the rapid 
+growth of the organic chemicals industry.  Synthetic organic dyes started to 
+appear in the mid-19th century when William Perkin synthesised Mauve in 
+1856 at the age of 18.  He was trying to synthesise quinine even though he did 
+not know the structure of the molecule.
+ 
+In the 19th century many chemists did not believe that molecules existed.  The 
+work of Butlerov, Couper, and notably Kekulé showed that molecules not only 
+exist but have specific structures.  In 1865 Kekulé suggested a ring structure for 
+the aromatic compound benzene which he represented as
+ 
+Kekulé knew that benzene does not react with bromine water.  Later work 
+showed that the enthalpy change of hydrogenation of the compound is 
+–205 kJ mol–1,  rather than the value of  –360 kJ mol–1 that would be expected 
+if the structure was exactly as shown above, given that the enthalpy change of 
+hydrogenation for cyclohexene to cyclohexane
+ 
+is –120 kJ mol–1.
+ 
+When Greiss in 1856 discovered diazotisation and the azo dyes, he used a 
+reaction characteristic of aromatic amines.  Witt, in 1876, found the functional 
+groups in the dye molecule that make it water-soluble and enable it to attach to 
+the cloth fibres.  Graebe, Liebermann and Perkin in 1869 patented the synthesis 
+of alizarin, found in madder root grown in Holland and Von Baeyer synthesised 
+indigo in 1880, until then grown in India.  Synthetic dyes were made available 
+in large quantities and were cheaper than the sources from plants.
+ 
+Now the organic chemical industry produces a vast range of pigments and 
+dyestuffs for use in paints and for fabrics, inks and other materials, making our 
+world the most colourful that it has ever been.
++ H2  
+  
+PMT
+
+
+--- Page Break ---
+
+21
+*P35302A02128*
+Turn over  
+ 
+(a) (i) Explain why Perkin’s attempted synthesis of quinine was almost certain to fail.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest the effect that the growth of the organic chemicals industry in the late 
+19th century had on Holland and India in particular.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) (i) What observation did Kekulé make to show that benzene does not react 
+with bromine water?  Explain the significance of this with reference to his 
+representation of the molecule.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain, in terms of the bonding in the benzene ring, why the enthalpy of 
+hydrogenation is less exothermic than would be expected from a molecule with 
+three double bonds.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*P35302A02228*
+ 
+(c) The first steps in the preparation of an azo dye from benzene are shown below.
+ 
+ 
+Give the mechanism for the reaction in step 1, including the equation for the 
+formation of the electrophile.
+(4)
+Equation for formation of electrophile
+Mechanism
+NO2
+NH2
+step 1
+step 2
+nitrobenzene
+benzenediazonium cation
+phenylamine
+PMT
+
+
+--- Page Break ---
+
+23
+*P35302A02328*
+Turn over  
+ 
+(d) (i) Phenylamine is converted into the benzenediazonium cation using sodium nitrite 
+and hydrochloric acid at a temperature between 0 °C and 10 °C.
+ 
+ 
+ 
+Explain why the temperature must not be lower or higher than these limits if a 
+good yield is to be obtained.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the structural formula of the benzenediazonium cation showing all the 
+bonds and the charge.
+(1)
+ 
+ 
+(iii) Suggest how you could convert a sample of the benzenediazonium cation into an 
+azo dye.  Give the name of the other compound you would use and the skeletal 
+formula of the azo dye you would obtain.
+(3)
+PMT
+
+
+--- Page Break ---
+
+24
+*P35302A02428*
+ 
+(e) The structural formula of methyl orange is given below.
+ 
+ 
+Suggest the main features of methyl orange which make it water-soluble, giving your 
+reasons.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 24 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+Na+ –O3S
+N(CH3)2
+N
+N
+PMT
+
+
+--- Page Break ---
+
+25
+*P35302A02528*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+26
+*P35302A02628*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+27
+*P35302A02728*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*P35302A02828*
+PMT

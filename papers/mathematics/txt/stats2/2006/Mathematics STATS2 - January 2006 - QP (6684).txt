@@ -1,0 +1,238 @@
+Paper Reference(s) 
+6684/01 
+Edexcel GCE 
+Statistics S2 
+Advanced/Advanced Subsidiary 
+Monday 16 January 2006 − Morning 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Mathematical Formulae (Lilac)                                  Nil 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S2), the paper reference (6684), 
+your surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+The marks for individual questions and the parts of questions are shown in round brackets: e.g. (2). 
+There are 7 questions on this paper. The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N20909A 
+ 
+This publication may only be reproduced in accordance with Edexcel Limited copyright policy. 
+©2006 Edexcel Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+A fair coin is tossed 4 times. 
+ 
+ 
+Find the probability that 
+ 
+ 
+(a) an equal number of head and tails occur 
+(2) 
+ 
+(b) all the outcomes are the same, 
+(3) 
+ 
+(c) the first tail occurs on the third throw. 
+ (2) 
+      
+ 
+2. 
+Accidents on a particular stretch of motorway occur at an average rate of 1.5 per week. 
+ 
+ 
+(a) Write down a suitable model to represent the number of accidents per week on this 
+stretch of motorway. 
+(1) 
+ 
+Find the probability that 
+ 
+ 
+(b) there will be 2 accidents in the same week, 
+(2) 
+ 
+(c) there is at least one accident per week for 3 consecutive weeks, 
+(3) 
+ 
+(d) there are more than 4 accidents in a 2 week period. 
+ (2) 
+ 
+ 
+3. 
+The random variable X is uniformly distributed over the interval [–1, 5]. 
+ 
+ 
+(a) Sketch the probability density function f(x) of X. 
+(3) 
+ 
+ 
+Find 
+ 
+ 
+(b) E(X), 
+ (1) 
+ 
+(c) Var(X), 
+(2) 
+ 
+(d) P(–0.3 < X < 3.3). 
+ (2) 
+ 
+ 
+ 
+N20909A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4. 
+The random variable X ∼ B(150, 0.02). 
+ 
+ 
+Use a suitable approximation to estimate P(X > 7).  
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+ 
+ 
+5. 
+A continuous random variable X has probability density function f(x) where 
+ 
+f(x) = 
+
+
+
+≤
+≤
+−
+otherwise,
+,0
+,3
+2
+),
+2
+(
+x
+x
+kx
+ 
+ 
+ 
+where k is a positive constant. 
+ 
+ 
+(a) Show that k = 4
+3 . 
+(4) 
+ 
+ 
+Find 
+ 
+ 
+(b) E(X), 
+(3) 
+ 
+(c) the cumulative distribution function F(x). 
+(6) 
+ 
+(d) Show that the median value of X lies between 2.70 and 2.75. 
+ (2) 
+ 
+6. 
+A bag contains a large number of coins. Half of them are 1p coins, one third are 2p coins and 
+the remainder are 5p coins. 
+ 
+ 
+(a) Find the mean and variance of the value of the coins. 
+(4) 
+ 
+ 
+A random sample of 2 coins is chosen from the bag. 
+ 
+ 
+(b) List all the possible samples that can be drawn. 
+(3) 
+ 
+(c) Find the sampling distribution of the mean value of these samples. 
+(6) 
+N20909A 
+3 
+Turn over 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+A teacher thinks that 20% of the pupils in a school read the Deano comic regularly. 
+ 
+ 
+He chooses 20 pupils at random and finds 9 of them read the Deano.  
+ 
+ 
+(a) (i) Test, at the 5% level of significance, whether or not there is evidence that the 
+percentage of pupils that read the Deano is different from 20%. State your 
+hypotheses clearly. 
+ 
+ 
+ 
+(ii) State all the possible numbers of pupils that read the Deano from a sample of size 20 
+that will make the test in part (a)(i) significant at the 5% level.  
+(9) 
+ 
+ 
+The teacher takes another 4 random samples of size 20 and they contain 1, 3, 1 and 4 pupils 
+that read the Deano. 
+ 
+ 
+(b) By combining all 5 samples and using a suitable approximation test, at the 5% level of 
+significance, whether or not this provides evidence that the percentage of pupils in the 
+school that read the Deano is different from 20%.  
+(8) 
+ 
+(c) Comment on your results for the tests in part (a) and part (b). 
+ (2) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+N20909A 
+4 
+PMT
+PMT

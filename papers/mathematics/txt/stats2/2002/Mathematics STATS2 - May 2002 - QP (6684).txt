@@ -1,0 +1,257 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6684 
+Edexcel GCE 
+Statistics S2 
+Advanced/Advanced Subsidiary 
+Friday 14 June 2002 − Morning 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S2), the paper reference (6684), 
+your surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N10638 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2002 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+The manager of a leisure club is considering a change to the club rules. The club has 
+a large membership and the manager wants to take the views of the members into 
+consideration before deciding whether or not to make the change. 
+ 
+(a) Explain briefly why the manager might prefer to use a sample survey rather than 
+a census to obtain the views. 
+(2) 
+(b) Suggest a suitable sampling frame. 
+(1) 
+(c) Identify the sampling units. 
+(1)            
+ 
+ 
+2. 
+A random sample X1 , X2 , ..., Xn is taken from a finite population. A statistic Y is 
+based on this sample. 
+ 
+(a) Explain what you understand by the statistic Y. 
+(2) 
+(b) Give an example of a statistic. 
+(1) 
+(c) Explain what you understand by the sampling distribution of Y. 
+(2) 
+ 
+ 
+3. 
+The continuous random variable R is uniformly distributed on the interval α ≤ R ≤ β. 
+Given that E(R) = 3 and Var(R) = 3
+25 , find 
+ 
+(a) the value of α and the value of β, 
+(7) 
+(b) P(R < 6.6). 
+(2) 
+ 
+N10638 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+Past records show that 20% of customers who buy crisps from a large supermarket 
+buy them in single packets. During a particular day a random sample of 25 customers 
+who had bought crisps was taken and 2 of them had bought them in single packets. 
+ 
+(a) Use these data to test, at the 5% level of significance, whether or not the 
+percentage of customers who bought crisps in single packets that day was lower than 
+usual. State your hypotheses clearly. 
+ 
+(6) 
+At the same supermarket, the manager thinks that the probability of a customer 
+buying a bumper pack of crisps is 0.03. To test whether or not this hypothesis is true 
+the manager decides to take a random sample of 300 customers. 
+ 
+(b) Stating your hypotheses clearly, find the critical region to enable the manager to 
+test whether or not there is evidence that the probability is different from 0.03. The 
+probability for each tail of the region should be as close as possible to 2.5%. 
+ 
+ 
+ 
+(6) 
+(c) Write down the significance level of this test. 
+(1) 
+ 
+ 
+5.  
+A garden centre sells canes of nominal length 150 cm. The canes are bought from a 
+supplier who uses a machine to cut canes of length L where L ~ N(µ, 0.32). 
+ 
+(a) Find the value of µ, to the nearest 0.1 cm, such that there is only a 5% chance 
+that a cane supplied to the garden centre will have length less than 150 cm. 
+ 
+(4) 
+A customer buys 10 of these canes from the garden centre. 
+ 
+(b) Find the probability that at most 2 of the canes have length less than 150 cm. 
+ 
+(3) 
+Another customer buys 500 canes. 
+ 
+(c) Using a suitable approximation, find the probability that fewer than 35 of the 
+canes will have length less than 150 cm. 
+ 
+(6) 
+ 
+ 
+N10638 
+3 
+Turn over 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+From past records, a manufacturer of twine knows that faults occur in the twine at 
+random and at a rate of 1.5 per 25 m. 
+ 
+(a) Find the probability that in a randomly chosen 25 m length of twine there will be 
+exactly 4 faults. 
+(2) 
+The twine is usually sold in balls of length 100 m. A customer buys three balls of 
+twine. 
+ 
+(b) Find the probability that only one of them will have fewer than 6 faults. 
+(6) 
+As a special order a ball of twine containing 500 m is produced. 
+ 
+(c) Using a suitable approximation, find the probability that it will contain between 
+23 and 33 faults inclusive. 
+(6) 
+ 
+ 
+7. 
+The continuous random variable X has probability density function 
+ 
+
+
+
+
+
+
+
+
+
+
+≤
+≤
+−
+<
+<
+≤
+≤
+=
+otherwise.
+,0
+,
+10
+7
+,
+45
+2
+9
+4
+,7
+2
+,
+15
+2
+,2
+0
+,
+15
+)
+(
+f
+x
+x
+x
+x
+x
+x
+ 
+ 
+(a) Sketch f(x) for all values of x. 
+(3) 
+(b) (i) Find expressions for the cumulative distribution function, F(x), for 0 ≤ x ≤ 2 
+and for 7 ≤ x ≤ 10. 
+ 
+(ii) Show that for 2 < x < 7, F(x) = 
+15
+2
+15
+2
+−
+x
+. 
+ 
+(iii) Specify F(x) for x < 0 and for x > 10. 
+(8) 
+(c) Find P(X ≤ 8.2). 
+(2) 
+(d) Find, to 3 significant figures, E(X). 
+(4) 
+ 
+END 
+N10638 
+4 
+PMT
+PMT

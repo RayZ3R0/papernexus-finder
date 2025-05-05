@@ -1,0 +1,1350 @@
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!"#
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+S45364A
+©2013 Pearson Education Ltd.
+!"#$%&#'()%*!
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Sample Assessment Material
+Time: 1 hour 40 minutes
+WCH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$%
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 The following data are provided.
+ 
+E
+d/ V
+  ClO−(aq) + H2O(l)  +  e−  U  ½Cl2(aq)  +  2OH−(aq) 
++0.40
+Cl2(aq)  +  2e−  U  2Cl−(aq) 
++1.36
+ 
+What is the value of E
+d
+cell in which the following disproportionation reaction occurs?
+Cl2(aq)  +  2OH−(aq)  →  ClO−(aq)  +  Cl−(aq)  +  H2O(l)
+ 
+ 
+A + 1 36
+2
+.
+  –  0.40 V
+ 
+ 
+B + 1 36
+2
+.
+  +  0.40 V
+ 
+ 
+C +  1.36   –  0.40 V
+ 
+ 
+D +  1.36   +  0.40 V
+(Total for Question 1 = 1 mark)
+2 
+Which of the following is always proportional to E
+d
+cell for a chemical reaction?
+ 
+ 
+A ǻHreaction
+ 
+ 
+B ǻSsystem
+ 
+ 
+C ǻSsurroundings
+ 
+ 
+D ǻStotal
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$!
+3 The electrode system based on the half-equation below has the standard electrode 
+potential  +1.51 V.
+ 
+MnO4
+−(aq)  +  8H+(aq)  +  5e−  U  Mn2+(aq)  +  4H2O(l)             E
+d =  +1.51 V
+ 
+Which of the following statements about this electrode system is correct?
+ 
+ 
+A Changing the concentration of Mn2+(aq) would cause a change in the electrode 
+potential.
+ 
+ 
+B Mn2+(aq) is acting as an oxidizing agent.
+ 
+ 
+C The electrode used is made of manganese.
+ 
+ 
+D When connected to a standard hydrogen electrode, the resulting cell voltage 
+would be +0.51 V.
+(Total for Question 3 = 1 mark)
+4 Consider the following reaction.
+ 
+S2O8
+2−(aq)  +  2I−(aq)  →  2SO4
+2−(aq)  +  I2(aq)
+ 
+Which of the following ions could catalyse this reaction?
+ 
+ 
+A Zn2+
+ 
+ 
+B Al3+
+ 
+ 
+C Fe2+
+ 
+ 
+D Na+
+(Total for Question 4 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$&
+5 EDTA ions form a complex with aqueous nickel(II) ions as shown by the equation
+ 
+[Ni(H2O)6]2+(aq)  +  (EDTA)4−(aq)  U  Ni(EDTA)2−(aq)  +  6H2O(l)
+ 
+Aqueous nickel(II) ions also form a complex ion with ammonia as shown by the 
+equation
+ 
+[Ni(H2O)6]2+(aq)  +  6NH3(aq)  U  [Ni(NH3)6]2+(aq)  +  6H2O(l)
+ 
+Aqueous nickel(II) ions form a more stable complex with EDTA ions than with 
+ammonia because
+ 
+ 
+A six ammonia ligands cause steric hindrance around the central nickel(II) ion. 
+ 
+ 
+B EDTA ions carry a negative charge whereas ammonia molecules do not.
+ 
+ 
+C there is a large increase in entropy when aqueous nickel(II) ions react with 
+EDTA ions, but not when aqueous nickel(II) ions react with ammonia.
+ 
+ 
+D ammonia molecules tend to evaporate from the solution of the complex 
+whereas EDTA ions do not.
+(Total for Question 5 = 1 mark)
+6 The hydrolysis of a transition metal cation can be represented by the following 
+equation
+ 
+[M(H2O)6]n+(aq)  +  H2O(l)  U  [M(H2O)5OH](n−1)+(aq)  +  H3O+(aq)
+ 
+In this reaction
+ 
+ 
+A the solvent  H2O is acting as an acid by donating a proton to the metal cation.
+ 
+ 
+B the pH of the solution will be lower if the value of n is 2 instead of 3.
+ 
+ 
+C the equilibrium position lies further to the right if the value of n is 3 instead of 2.
+ 
+ 
+D the oxidation state of the metal in the cation has decreased from n to (n −1).
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$'
+7 In aqueous solution, manganate(VI) ions disproportionate into manganate(VII) ions 
+and manganese(IV) oxide when carbon dioxide is bubbled through the solution.  The 
+ionic equation for the reaction is 
+ 
+3MnO4
+2−(aq)  +  4H+(aq)  →  2MnO4
+−(aq)  +  MnO2(s)  +  2H2O(l)
+ 
+The role of the carbon dioxide is to
+ 
+ 
+A lower the pH of the solution.
+ 
+ 
+B raise the pH of the solution.
+ 
+ 
+C oxidize the manganate(VI) ions.
+ 
+ 
+D reduce the manganate(VI) ions.
+(Total for Question 7 = 1 mark)
+8 Which of the following shows the correct oxidation states of chromium in the ions given?
+                     [Cr(OH)6]3−                     CrO4
+2−                     [Cr(H2O)6]2+
+ 
+ 
+A                                          −3                                −2                                +2
+ 
+ 
+B                                          −3                               +10                               +2
+ 
+ 
+C                                          +3                                +8                                +6
+ 
+ 
+D                                          +3                                +6                                +2
+(Total for Question 8 = 1 mark)
+9 Transition metals are often used as heterogeneous catalysts.  Which of the following 
+processes does not occur during such a catalysed reaction?
+ 
+ 
+A Adsorption of reactant molecules on the surface of the metal.
+ 
+ 
+B Bond breaking in the reactant molecules.
+ 
+ 
+C Desorption of product molecules from the surface of the metal.
+ 
+ 
+D An overall change in the oxidation number of the metal.
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$(
+10 Consider the equation below.
+ 
+[Cu(H2O)6]2+(aq)  +  4NH3(aq)  U  [Cu(NH3)4]2+(aq)  +  6H2O(l)
+ 
+This reaction is best described as
+ 
+ 
+A acid-base.
+ 
+ 
+B redox.
+ 
+ 
+C addition.
+ 
+ 
+D ligand exchange.
+(Total for Question 10 = 1 mark)
+11 Which of the following will not reduce an acidified solution of potassium dichromate(VI)?
+ 
+ 
+A (CH3)2C(OH)CH3
+ 
+ 
+B FeSO4
+ 
+ 
+C CH3CH2CH(OH)CH3
+ 
+ 
+D Zn
+(Total for Question 11 = 1 mark)
+12 The total number of isomers of dibromobenzene, C6H4Br2, containing a benzene ring is
+ 
+ 
+A 2 
+ 
+ 
+B 3
+ 
+ 
+C 4
+ 
+ 
+D 5
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$)
+13 A section of the polypeptide made from a single amino acid is shown below.
+ 
+The polypeptide was heated with excess dilute sodium hydroxide solution until no 
+further change took place.
+ 
+Which of the following products is formed?
+ 
+ 
+A    
+C
+C
+C
+H2N
+H
+H
+H
+H
+O
+O–
+ 
+ 
+B    
+C
+C
+H2N
+H
+CH3
+O
+O–
+ 
+ 
+C    
+C
+C
+H2N
+H
+CH3
+O
+OH
+ 
+ 
+D    
+C
+C
+H3N+
+H
+CH3
+O
+O–
+(Total for Question 13 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+N
+C
+C
+N
+C
+C
+H
+H
+CH3
+O
+H
+H
+O
+CH3
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$"
+14 Which of the following pairs of compounds could form a polyamide?
+ 
+ 
+A 
+Cl
+CH2
+CH2
+Cl     and    H2N
+CH2
+CH2
+NH2
+ 
+ 
+B 
+HO
+CH2
+CH2
+OH     and    
+C
+CH2
+CH2
+C
+O
+NH2
+O
+H2N
+ 
+ 
+C 
+C
+CH2
+CH2
+C
+O
+OH
+O
+HO
+    and    CH3
+CH2
+NH2
+ 
+ 
+D 
+C
+CH2
+CH2
+C
+O
+Cl
+O
+Cl
+    and    H2N
+CH2
+CH2
+NH2
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$$
+15 Which of the following amino acids is optically active and produces an approximately 
+neutral solution when dissolved in water? 
+ 
+ 
+A H2NCH2COOH
+ 
+ 
+B 
+H2NCHCOOH
+CH3
+ 
+ 
+C 
+H2NCHCOOH
+(CH2)4
+NH2
+ 
+ 
+D 
+H2NCHCOOH
+CH2
+COOH
+(Total for Question 15 = 1 mark)
+16 Which of the following is not planar?
+ 
+ 
+A 
+ 
+ 
+B CCl4
+ 
+ 
+C BF3
+ 
+ 
+D [Pt(NH3)2Cl2]
+(Total for Question 16 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$*
+17 A 50 cm3 sample of a gaseous hydrocarbon required exactly 250 cm3 of oxygen for 
+complete combustion.  A volume of 150 cm3 of carbon dioxide was produced.
+ 
+[All volume measurements were made at the same temperature and pressure.]
+ 
+Which of the following is the correct formula of the hydrocarbon?
+ 
+ 
+A C3H4
+ 
+ 
+B C3H8
+ 
+ 
+C C5H10
+ 
+ 
+D C5H12
+(Total for Question 17 = 1 mark)
+18 The first step of a nucleophilic addition reaction to a carbonyl group by a nucleophile, 
+Nu−, is shown below.
+ 
+The above step is possible because the 
+ 
+ 
+A nucleophile bonds to the δ+ carbon atom and the carbonyl oxygen accepts an 
+electron pair from the double bond. 
+ 
+ 
+B nucleophile bonds to the δ+ carbon atom and the carbonyl oxygen accepts 
+one electron from the double bond.
+ 
+ 
+C methyl group donates electrons to the carbonyl carbon atom.
+ 
+ 
+D C
+O bond is weak.
+(Total for Question 18 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+CH3
+C
+H  +  Nu–  
+  CH3
+C
+H
+O–
+Nu
+O
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$#
+19 In a reaction carried out between ethanoic acid and methanol, the methanol was  
+labelled with the 18O isotope.  The 18O was found to be in the organic product of the 
+reaction
+ 
+From the above information it can be deduced that the mechanism involves
+ 
+ 
+A free radical substitution.
+ 
+ 
+B breaking the C
+O bond in the ethanoic acid.
+ 
+ 
+C nucleophilic attack by ethanoic acid on methanol.
+ 
+ 
+D breaking the C
+18O bond in methanol.
+(Total for Question 19 = 1 mark)
+20 The hydride ion, H−, is a strong reducing agent, a good nucleophile and a strong base.
+ 
+Which of the following changes could not be brought about by the hydride ion?
+ 
+ 
+A CH3CHO to CH3CH2OH
+ 
+ 
+B C2H5Br to C2H6
+ 
+ 
+C CH2
+CH2 to C2H6
+ 
+ 
+D CH3COOH to CH3COO−
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+CH3
+C
+OH  +  CH3
+OH  U  CH3
+C
+O
+CH3  +  H2O
+O
+O
+18
+18
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*%
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*!
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Hydrogen-oxygen fuel cells can operate in acidic or alkaline conditions.
+ 
+One such commercial cell uses porous platinum electrodes in contact with 
+concentrated aqueous potassium hydroxide solution, KOH(aq).
+ 
+(a) Use relevant standard electrode potential values, on pages 15 and 17 of the Data 
+Booklet, to complete the table below in which two E
+d values are missing.
+(2)
+Half-equation
+E
+d / V
+2H2O(l)  +  2e−  U  2OH−(aq)  +  H2(g)
+−0.83 
+2H+(aq)  +  2e−  U  H2(g)
+0.00 
+O2(g)  +  2H2O(l)  +  4e−  U  4OH−(aq)
+O2(g)  +  4H+(aq)  +  4e−  U  2H2O(l)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*&
+ 
+(b) (i) Fill in the boxes to identify, by name or formula, the substances used in the 
+standard hydrogen electrode.
+(2)
+ 
+ 
+(ii) State three conditions that are necessary for a standard hydrogen electrode.
+(2)
+1. ...............................................................................................................................................................................................................................................................................
+2. ...............................................................................................................................................................................................................................................................................
+3. ...............................................................................................................................................................................................................................................................................
+ 
+(c) Write appropriate half-equations and use them to derive an overall equation for 
+the reaction which occurs when an alkaline hydrogen-oxygen fuel cell operates.
+(2)
+V
+platinum 
+electrode
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*'
+ 
+(d) Use the E
+d values from the table in part (a) to calculate the E
+d
+cell for a hydrogen-
+oxygen fuel cell operating in alkaline conditions.
+(1)
+ 
+(e) Suggest why the E
+d
+cell for a hydrogen-oxygen fuel cell, operating in acidic conditions, is 
+identical to that of an alkaline fuel cell.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) Give one reason (other than cost implications) why the platinum electrodes are 
+made by coating porous material with platinum rather than by using platinum rods.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(g) Suggest one disadvantage of using a hydrogen-oxygen fuel cell compared with a  
+rechargeable battery when providing electrical energy for a motor vehicle.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*(
+22 (a) Equations for the catalytic hydrogenation of cyclohexene and of benzene are 
+shown below.
+  + H2 
+ǻH = −120 kJ mol–1
++ 3H2 
+ǻH = −208 kJ mol–1
+ 
+ 
+(i) What is the type of reaction in both of these hydrogenations?
+(1)
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) The enthalpy of hydrogenation of benzene might be expected to be −360 kJ mol−1.
+ 
+ 
+ 
+Explain why this is not the actual value.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Complete the following equation for the total hydrogenation of phenylethene.  
+Suggest a value for the enthalpy change of this reaction.
+(3)
+ 
+ 
+ 
++ ............................. H2 →
+CH
+CH2
+ǻH = ....................................... kJ mol−1
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*)
+ 
+(b) The compound benzophenone is used as a sunscreen.  It can be prepared from 
+benzene, in the presence of aluminium chloride by the following reaction.
+COCl
++
+O
+C
+     +    HCl
+ 
+benzene  +  compound A                        benzophenone 
+ 
+ 
+(i) Complete the diagram below by showing the displayed formula of the −COCl 
+group in compound A.
+(1)
+ 
+ 
+(ii) Classify the type and mechanism of the reaction between benzene and 
+compound A.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Give the names of the two chemists associated with the type of reaction 
+described in (b)(ii).
+(1)
+.................................................................................................................................... and ...................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*"
+ 
+ 
+(iv) Give the mechanism for the reaction between benzene and compound A in 
+the presence of an aluminium chloride catalyst. 
+ 
+ 
+ 
+Start by showing the equation for the generation of the species which then 
+attacks the benzene ring.
+(4)
+ 
+ 
+ 
+Equation to show generation of species attacking the benzene ring:
+ 
+ 
+ 
+Rest of the mechanism:
+ 
+ 
+(v) Suggest the essential property of a substance that will be used as a sunscreen.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*$
+ 
+(c) (i) The identity of a sample of benzophenone can be confirmed by recording its 
+infrared and proton nmr spectra.
+ 
+ 
+ 
+Identify two different bonds that would produce an absorption in the 
+infrared spectrum of benzophenone.  Use the Data Booklet to suggest the 
+wavenumber of each of these absorptions.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) In benzophenone there are three different hydrogen environments, X, Y 
+and Z, that produce signals in the ratio 2:2:1 respectively in the proton nmr 
+spectrum.
+ 
+ 
+ 
+Identify, on the structure drawn below, the positions of all the hydrogen 
+atoms in each environment, labelling the different environments X, Y and Z. 
+(2)
+(Total for Question 22 = 20 marks)
+O
+C
+benzophenone
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!**
+23 A scientist investigated the typical behaviour of primary amines.
+ 
+(a) Amines such as butylamine, CH3CH2CH2CH2NH2, and phenylamine, C6H5NH2, both 
+behave as bases.
+ 
+ 
+(i) Which feature of an amine molecule allows it to act as a base?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The scientist reacted butylamine with two different acids.
+ 
+ 
+ 
+Give the formulae of the salts that are formed when butylamine reacts with
+(2)
+sulfuric acid, H2SO4 ................................................................................................................................................................................................................................
+ethanoic acid, CH3COOH .................................................................................................................................................................................................................
+ 
+(b) Phenylamine, C6H5NH2, is formed by the reduction of nitrobenzene, C6H5NO2.
+ 
+ 
+Give the reagents that are used for this reduction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!*#
+ 
+(c) Phenylamine was reacted with a mixture of sodium nitrite, NaNO2, and 
+hydrochloric acid at a temperature between 0 °C and 5 °C.  A diazonium ion 
+was formed.  In a second step, the scientist reacted the diazonium ion with 
+phenol, under suitable conditions.  A precipitate of  4-hydroxyazobenzene 
+(4-hydroxyphenylazobenzene) was formed.
+ 
+ 
+(i) Draw the structure of the diazonium ion, clearly displaying the functional 
+group present in the ion.
+(1)
+ 
+ 
+(ii) Draw the structural formula of 4-hydroxyazobenzene.
+(1)
+ 
+ 
+(iii) State a condition, other than a suitable temperature, required for the reaction 
+of the diazonium ion with phenol and give a use for 4-hydroxyazobenzene.
+(2)
+Condition required: 
+....................................................................................................................................................................................................................................................................................
+Use for 4-hydroxyazobenzene:
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#%
+ 
+(d) The scientist repeated the first step in experiment (c), but the temperature was 
+allowed to rise above 10 oC.  Under these conditions, the diazonium ion reacted 
+with water to produce phenol.  An unreactive gas, of molar mass 28.0 g mol–1, was 
+also formed along with one other product.
+ 
+ 
+Use this information to write the equation for the reaction of the diazonium ion 
+with water.
+(2)
+ 
+(e) The impure sample of 4-hydroxyazobenzene formed in part (c) may be purified by 
+recrystallization.  During this process
+ 
+ 
+ 
+• 
+the solid is dissolved in the minimum volume of hot solvent
+ 
+ 
+ 
+• 
+the mixture is then filtered whilst still hot
+ 
+ 
+ 
+• 
+the filtrate is cooled in an ice bath to produce crystals of 4-hydroxyazobenzene
+ 
+ 
+ 
+• 
+the crystals are removed by filtration and dried.
+ 
+ 
+(i) Why is the “minimum volume of hot solvent” used?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The impure 4-hydroxyazobenzene may contain both insoluble and soluble 
+impurities.  Describe how
+(2)
+ 
+ 
+ 
+I. insoluble impurities are removed during recrystallization
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+ 
+II. soluble impurities are removed during recrystallization
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#!
+ 
+ 
+(iii) How would you check the purity of 4-hydroxyazobenzene after 
+recrystallization, other than by using spectroscopy?
+(1)
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+(Total for Question 23 = 15 marks)
+TOTAL FOR SECTION B = 47 MARKS
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#&
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24
+Titanium is the seventh most abundant metal in the Earth’s crust and occurs   
+principally as rutile (impure titanium(IV) oxide, TiO2).
+Early attempts to extract the metal from its oxide by reduction with heated 
+carbon failed because the compound titanium carbide is formed.  In 1910, 
+however, pure titanium was made by heating titanium(IV) chloride with sodium.
+Titanium has a high melting temperature and a density of 4.50 g cm−3.  
+Titanium is as strong as steel, but is about 40% less dense and is therefore 
+suitable for use in the aircraft industry.  Titanium metal resists corrosion as it 
+has an impervious coating of titanium(IV) oxide.  The metal adheres well to 
+bone, is not rejected by the body and is in demand for the manufacture of 
+replacement joints.
+Titanium has two common oxidation states, +3 and +4.  Solutions containing 
+the [Ti(H2O)6]3+(aq) ion, such as titanium(III) chloride, are purple in colour 
+and are readily oxidized by the oxygen in air to colourless titanium(IV) ions.  
+An aqueous solution of titanium(III) chloride is a strong reducing agent.  
+Titanium(IV) chloride, TiCl4, is a colourless liquid with a boiling temperature 
+of 136 °C.  This compound is used, in conjunction with organic compounds of 
+aluminium, as a catalyst for the polymerization of propene to poly(propene).  
+Titanium(IV) chloride is hydrolysed by water to give titanium(IV) oxide, TiO2 
+and hydrogen chloride gas.
+Titanium(IV) oxide is a white, non-toxic solid at room temperature.  It is used 
+as a white pigment in paint, largely replacing toxic lead compounds which 
+were used previously.  Titanium(IV) oxide reacts with concentrated sulfuric 
+acid to form a salt and water.  Titanium(IV) oxide also reacts with aqueous 
+potassium hydroxide solution, under suitable conditions, to form a compound 
+with formula K2Ti(OH)6.
+ 
+(a) (i) Write the equation for the reaction which occurs during the manufacture of 
+titanium from titanium(IV) chloride as described in the article above.  State 
+symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#'
+ 
+ 
+(ii) Explain, by stating the changes of oxidation numbers, why the reaction in (i) is 
+classified as a redox reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Complete the electronic configurations of
+(2)
+ 
+ 
+Ti                   [Ar] ....................................................................................................................................................................................................................
+ 
+ 
+Ti3+                [Ar] ....................................................................................................................................................................................................................
+ 
+ 
+Ti4+                [Ar] ....................................................................................................................................................................................................................
+ 
+(c) Use your answer to (b) to explain why titanium is
+ 
+ 
+(i) a d-block element
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) a transition element
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#(
+ 
+*(d) (i) Explain why the  hexaaquatitanium(III) ion, [Ti(H2O)6]3+, is coloured.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain briefly why titanium(IV) compounds are colourless.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#)
+ 
+*(e) (i) Titanium(IV) oxide has a melting temperature of 1830 oC.  Use this data, 
+plus information in the article at the start of the question, to compare the 
+structure and bonding in titanium(IV) oxide with that in titanium(IV) chloride.  
+Hence explain why these two compounds change state at very different 
+temperatures. 
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the term used to describe an oxide, such as titanium(IV) oxide, which can 
+react with both acids and bases.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Using information in the article, write the equation for the reaction between 
+titanium(IV) oxide and aqueous potassium hydroxide solution.  State symbols 
+are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#"
+ 
+ 
+(iv) Titanium(IV) chloride is one of the catalysts used in the polymerization of 
+propene to form poly(propene).
+ 
+ 
+ 
+Give the displayed formula of the repeat unit of poly(propene).
+(1)
+ 
+(f) The concentration of a solution of titanium(III) chloride can be determined by 
+titration with a solution of hydrogen peroxide, H2O2, in acidic conditions.  The 
+end-point of the reaction is when the solution of titanium(III) chloride in the flask 
+goes colourless.
+ 
+ 
+(i) Complete the ionic half-equation to show the reduction of hydrogen 
+peroxide.
+(1)
+H2O2 + 2H+ +  ....................... → ....................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#$
+ 
+ 
+*(ii) One mole of hydrogen peroxide reacts with two moles of titanium(III) 
+chloride.
+ 
+ 
+ 
+In an experiment, 5.00 cm3 of a sample of titanium(III) chloride solution was 
+transferred to a volumetric flask and made up to 250 cm3 of an aqueous 
+solution. A 25.0 cm3 portion of this diluted solution was acidified and titrated 
+with a 0.0200 mol dm−3  solution of hydrogen peroxide, H2O2.  The mean titre 
+was 22.50 cm3.
+ 
+ 
+ 
+Calculate the concentration of the original titanium(III) chloride solution, in 
+mol dm–3. 
+(3)
+ 
+ 
+(iii) Use information in the article to suggest why this titration gives a value that 
+is lower than the true value for the concentration of titanium(III) chloride 
+solutions.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 24 = 23 marks)
+TOTAL FOR SECTION C = 23 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#*
+30
+!"#$%&#'(%(%)!
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!##31
+!"#$%&#'(%)%*!
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&%%
+32
+!"#$%&#'(%)%)!
+PMT

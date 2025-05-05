@@ -1,0 +1,432 @@
+FP2 Paper   *adapted 2008 
+1.
+Solve the differential equation
+to obtain y as a function of x.    
+    (Total 5 marks) 
+2.
+(a) 
+Simplify the expression
+, giving your answer in the form 
+, where a, b and c are integers. 
+    (4) 
+ (b) Hence, or otherwise, solve the inequality 
+(4)(Total 8 marks) 
+3.
+(a) 
+Find the general solution of the differential equation
+(8) 
+ (b) Find the particular solution for which, at x = 0, y = 2 and 
+.(6)(Total 14 marks) 
+4.
+The diagram above shows the curve C1 which has polar equation
+r = a(3 + 2 cos θ), 0 ≤ θ < 2π and the circle C2 with equation r =
+4a, 0 ≤ θ < 2π, where a is a positive constant.
+(a) 
+Find, in terms of a, the polar coordinates of the points
+where the curve C1 meets the circle C2.(4) 
+The regions enclosed by the curves C1 and C2 overlap and this 
+common region R is shaded in the figure. 
+(b) 
+Find, in terms of a, an exact expression for the area of the 
+shaded 
+region R.(8) 
+ (c) 
+In a single diagram, copy the two curves in the diagram above and also sketch the curve C3 
+with polar equation r = 2acosθ, 0 ≤ θ < 2π Show clearly the coordinates of the points of 
+intersection of C1, C2 and C3 with the initial line, θ = 0.(3)(Total 15 marks) 
+5.
+(a) 
+Find, in terms of k, the general solution of the differential equation
+, where k is a constant and t > 0.(7) 
+For large values of t, this general solution may be approximated by a linear function. 
+(b) 
+Given that k = 6, find the equation of this linear function.(2)(Total 9 marks) 
+x
+y
+x
+y
+=
+−3
+d
+d
+)
+5
+3
+(
+1
+)
+9
+)(
+3
+(
+−
+−
+−
++
++
+x
+x
+x
+x
+1
+)
+)(
+(
+−
++
++
+x
+c
+x
+b
+x
+a
+5
+3
+1
+)
+9
+)(
+3
+(
+−
+>
+−
++
++
+x
+x
+x
+x
+2
+2
+2
+2
+d
+d
+d
+d
+3
+x
+y
+x
+y
+x
+y
+=
+−
+−
+3
+d
+d
+=
+x
+y
+5
+3
+d
+d
+4
+d
+d
+2
+2
++
+=
++
++
+kt
+x
+t
+x
+t
+x
+= 0
+O
+C2
+C1
+PMT
+
+
+--- Page Break ---
+
+6.
+(a) 
+Find, in the simplest surd form where appropriate, the exact values of x for which
+.(5) 
+ (b) Sketch, on the same axes, the line with equation 
+ and the graph of 
+(3)
+ (c) 
+Find the set of values of x for which 
+(2)(Total 10 marks) 
+7.
+(a) 
+Show that the substitution y = vx transforms the differential equation
+ 
+(I) 
+into the differential equation 
+(II)           (3) 
+(b) 
+By solving differential equation (II), find a general solution of differential equation (I) in 
+the form y = f(x).   
+   (7) 
+Given that y = 3 at x = 1,        (c)find the particular solution of differential equation (I).(2) 
+8.
+The curve C shown in the diagram above has polar equation
+At the point P on C, the tangent to C is parallel to the line 
+ 
+(a) 
+Show that P has polar coordinates 
+.(5) 
+The curve C meets the line 
+ at the point A. The tangent to C at 
+P meets 
+the initial line at the point N. The finite region R, shown shaded in 
+the diagram above, is bounded by the initial line, the line 
+, 
+the arc AP of C and the line PN. 
+(b) 
+Calculate the exact area of R. 
+(8) 
+9. 
+ 
+(a) 
+By differentiating equation (I) with respect to x, show that 
+x
+x
+4
+3
+2
+=
++
+3
+2
++
+= x
+y
+.0
+,
+4
+≠
+=
+x
+x
+y
+.
+4
+3
+2
+x
+x
+>
++
+0
+,0
+,
+3
+d
+d
+>
+>
++
+=
+y
+x
+x
+y
+y
+x
+x
+y
+.
+1
+2
+d
+d
+v
+v
+x
+v
+x
++
+=
+.
+2
+0
+),
+cos
+1(
+4
+π
+θ
+θ
+≤
+≤
+−
+=
+r
+.
+2
+π
+θ =
+
+
+
+
+
+
+3
+,2 π
+2
+π
+θ =
+2
+π
+θ =
+)I(
+d
+d
+)
+2
+1(
+2
+d
+d
+)1
+(
+2
+2
+2
+2
+x
+y
+x
+y
+x
+y
+x
+−
++
+=
++
+A
+N
+O
+C
+P
+R
+Initial line
+PMT
+
+
+--- Page Break ---
+
+.        (3) 
+Given that 
+, 
+(b) find the series solution for y, in ascending powers of x, up to and including the term in x3.(4) 
+(c) 
+Use your series to estimate the value of y at x = – 0.5, giving your answer to two decimal 
+places.(1) 
+10.
+The point P represents a complex number z on an Argand diagram such that
+|z – 3| = 2 |z|. 
+(a) 
+Show that, as z varies, the locus of P is a circle, and give the coordinates of the centre and 
+the radius of the circle.(5) 
+The point Q represents a complex number z on an Argand diagram such that 
+|z + 3| = |z – i√3|. 
+(b) 
+Sketch, on the same Argand diagram, the locus of P and the locus of Q as z varies.(5) 
+ (c) 
+On your diagram shade the region which satisfies 
+|z – 3| ≥ 2 |z| and |z + 3| ≥ |z – i√3|.    (2) 
+11.
+De Moivre’s theorem states that
+ 
+ 
+(a) 
+Use induction to prove de Moivre’s theorem for n ∈ 
++.       (5) 
+ (b) Show that cos5θ = 16cos5θ – 20cos3θ + 5cosθ 
+   (5) 
+(c) 
+Hence show that 
+ is a root of the equation 
+x4 – 5x2 + 5 = 0 
+(3) 
+x
+y
+y
+x
+y
+x
+x
+y
+x
+d
+d
+)
+2
+4
+(
+d
+d
+)
+4
+1(
+d
+d
+)1
+(
+2
+2
+3
+3
+2
+−
++
+−
+=
++
+0
+at
+1
+d
+d
+and
+1
+=
+=
+=
+x
+x
+y
+y
+ℜ
+∈
++
+=
++
+n
+n
+n
+n
+for
+sin
+i
+cos
+)
+sin
+i
+(cos
+θ
+θ
+θ
+θ
+10
+cos
+2
+π
+PMT

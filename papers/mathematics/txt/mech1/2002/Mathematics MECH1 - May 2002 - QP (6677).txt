@@ -1,0 +1,336 @@
+ 
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Thursday 23 May 2002 −  Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. Pages 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+1. 
+A car moves with constant acceleration along a straight horizontal road. The car 
+passes the point A with speed 5 m s−1 and 4 s later it passes the point B, where 
+AB = 50m. 
+ 
+(a) Find the acceleration of the car. 
+(3) 
+When the car passes the point C, it has speed 30 m s−1. 
+ 
+(b) Find the distance AC. 
+(3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+2. 
+The masses of two particles A and B are 0.5 kg and m kg respectively. The particles 
+are moving on a smooth horizontal table in opposite directions and collide directly. 
+Immediately before the collision the speed of A is 5 m s−1 and the speed of B is 
+3 m s−1.  In the collision, the magnitude of the impulse exerted by B on A is 3.6 Ns. 
+As a result of the collision the direction of motion of A is reversed. 
+ 
+(a) Find the speed of A immediately after the collision. 
+(3) 
+The speed of B immediately after the collision is 1 m s−1. 
+ 
+(b) Find the two possible values of m. 
+(4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+3.  
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+A 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+A uniform rod AB has length 100 cm. Two light pans are suspended, one from each 
+end of the rod, by two strings which are assumed to be light and inextensible. The 
+system forms a balance with the rod resting horizontally on a smooth pivot, as shown 
+in Fig. 1. 
+ 
+A particle of weight 16 N is placed in the pan at A and a particle of weight 5 N is 
+placed in the pan at B. The rod rests horizontally in equilibrium when the pivot is at 
+the point C on the rod, where AC = 30 cm. 
+ 
+(a) Find the weight of the rod. 
+(3) 
+The particle in the pan at A is replaced by a particle of weight 3.5 N. The particle of 
+weight 5 N remains in the pan at B. The rod now rests horizontally in equilibrium 
+when the pivot is moved to the point D. 
+ 
+(b) Find the distance AD. 
+ 
+(4) 
+(c) Explain briefly where the assumption that the strings are light has been used in 
+your answer to part (a). 
+ 
+(1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+4. 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+P N 
+ 
+ 
+ 
+ 
+                   30° 
+ 
+ 
+A box of mass 6 kg lies on a rough plane inclined at an angle of 30° to the horizontal. 
+The box is held in equilibrium by means of a horizontal force of magnitude 
+P newtons, as shown in Fig. 2. The line of action of the force is in the same vertical 
+plane as a line of greatest slope of the plane. The coefficient of friction between the 
+box and the plane is 0.4. The box is modelled as a particle. 
+ 
+Given that the box is in limiting equilibrium and on the point of moving up the plane, 
+find, 
+ 
+(a) the normal reaction exerted on the box by the plane, 
+(4) 
+(b) the value of P. 
+(3) 
+The horizontal force is removed. 
+ 
+(c) Show that the box will now start to move down the plane. 
+(5) 
+ 
+5. 
+A particle P of mass 2 kg moves in a plane under the action of a single constant force 
+F newtons. At time t seconds, the velocity of P is v m s−1. When t  = 0, v = (−5i + 7j) 
+and when t = 3, v = (i − 2j). 
+ 
+(a) Find in degrees the angle between the direction of motion of P when t = 3 and 
+the vector j. 
+(3) 
+(b) Find the acceleration of P. 
+(2) 
+(c) Find the magnitude of F. 
+(3) 
+(d) Find in terms of t the velocity of P. 
+(2) 
+(e) Find the time at which P is moving parallel to the vector i + j. 
+(3) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+6. 
+A man travels in a lift to the top of a tall office block. The lift starts from rest on the 
+ground floor and moves vertically. It comes to rest again at the top floor, having 
+moved a vertical distance of 27 m. The lift initially accelerates with a constant 
+acceleration of 2 m s−1 until it reaches a speed of 3 m s−1. It then moves with a 
+constant speed of 3 m s−1 for T seconds. Finally it decelerates with a constant 
+deceleration for 2.5 s before coming to rest at the top floor. 
+ 
+(a) Sketch a speed-time graph for the motion of the lift. 
+(2) 
+(b) Hence, or otherwise, find the value of T. 
+(3) 
+(c) Sketch an acceleration-time graph for the motion of the lift. 
+(3) 
+The mass of the man is 80 kg and the mass of the lift is 120 kg. The lift is pulled up 
+by means of a vertical cable attached to the top of the lift. By modelling the cable as 
+light and inextensible, find 
+ 
+(d) the tension in the cable when the lift is accelerating, 
+ 
+(3) 
+(e) the magnitude of the force exerted by the lift on the man during the last 2.5 s of 
+the motion. 
+ 
+(3) 
+ 
+ 
+ 
+TURN OVER FOR QUESTION 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+6 
+7. 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+                   A (2m) 
+ 
+ 
+          B (m) 
+ 
+ 
+30° 
+ 
+ 
+ 
+Particles A and B, of mass 2m and m respectively, are attached to the ends of a light 
+inextensible string. The string passes over a small smooth pulley fixed at the edge of 
+a rough horizontal table. Particle A is held on the table, while B rests on a smooth 
+plane inclined at 30° to the horizontal, as shown in Fig. 3. The string is in the same 
+vertical plane as a line of greatest slope of the inclined plane. The coefficient of 
+friction between A and the table is µ. The particle A is released from rest and begins 
+to move. 
+ 
+By writing down an equation of motion for each particle, 
+ 
+(a) show that, while both particles move with the string taut. Each particle has an 
+acceleration of magnitude 6
+1 (1 − 4µ)g. 
+(7) 
+When each particle has moved a distance h, the string breaks. The particle A comes to 
+rest before reaching the pulley. Given that µ = 0.2, 
+ 
+(b) find, in terms of h, the total distance moved by A. 
+(6) 
+For the model described above, 
+ 
+(c) state two physical factors, apart from air resistance, which could be taken into 
+account to make the model more realistic. 
+(2) 
+ 
+END 
+ 
+ 
+ 
+ 
+PMT
+PMT

@@ -1,0 +1,343 @@
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Friday 12 January 2001 −  Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Graph Paper (GP02) 
+ 
+Mathematical Formulae  
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. Pages 6, 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+ 1. 
+ 
+ 
+ 
+ 
+A 
+P 
+ 
+ 
+Q 
+ 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+                                 0.5 m 
+ 
+ 
+ 
+ 
+ 
+     3m  
+ 
+ 
+ 
+ 
+ 
+ 
+         Fig. 1 
+ 
+A uniform rod AB has weight 70 N and length 3m. It rests in a horizontal position 
+on two smooth supports placed at P and Q, where AP = 0.5 m, as shown in Fig. 1. 
+The reaction on the rod at P has magnitude 20 N. Find 
+ 
+(a) the magnitude of the reaction on the rod at Q, 
+ 
+ 
+      (2 marks) 
+ 
+(b) the distance AQ.   
+ 
+ 
+ 
+ 
+ 
+      (4 marks) 
+     
+       
+ 
+2. 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+                                         T N 
+ 
+                                    α           P                             15 N 
+ 
+ 
+Fig. 2 
+ 
+A particle P of mass 2 kg is held in equilibrium under gravity by two light 
+inextensible strings. One string is horizontal and the other is inclined at an 
+angle α to the horizontal, as shown in Fig. 2. The tension in the horizontal string 
+is 15 N. The tension in the other string is T newtons. 
+ 
+(a) Find the size of the angle α. 
+ 
+ 
+ 
+ 
+      (6 marks) 
+ 
+(b) Find the value of T. 
+ 
+ 
+ 
+ 
+ 
+      (2 marks) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                         B (km) 
+ 
+ 
+ 
+      A (3m) 
+ 
+ 
+ 
+Fig. 3 
+ 
+Two particles A and B have masses 3m and km respectively, where k > 3. They 
+are connected by a light inextensible string which passes over a smooth fixed 
+pulley. The system is released from rest with the string taut and the hanging parts 
+of the string vertical, as shown in Fig. 3. While the particles are moving freely, 
+A has an acceleration of magnitude 5
+2 g. 
+ 
+(a) Find, in terms of m and g, the tension in the string. 
+ 
+      (3 marks) 
+ 
+(b) State why B also has an acceleration of magnitude 5
+2 g.         
+        (1 mark) 
+ 
+(c) Find the value of k. 
+ 
+ 
+ 
+ 
+ 
+      (4 marks) 
+ 
+(d) State how you have used the fact that the string is light.  
+        (1 mark) 
+ 
+ 
+4. 
+A particle P moves in a straight line with constant velocity. Initially P is at the 
+point A with position vector (2i − j) m relative to a fixed origin O, and 2 s later it 
+is at the point B with position vector (6i + j) m. 
+ 
+(a) Find the velocity of P. 
+ 
+ 
+ 
+ 
+ 
+      (3 marks) 
+ 
+(b) Find, in degrees to one decimal place, the size of the angle between the 
+direction of motion of P and the vector i.  
+ 
+ 
+ 
+      (2 marks) 
+ 
+Three seconds after it passes B the particle P reaches the point C. 
+ 
+(c) Find, in m to one decimal place, the distance OC.  
+ 
+      (4 marks) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+5. 
+Two small balls A and B have  masses  0.6 kg and 0.2 kg  respectively.  They  are  
+moving towards each other in opposite directions on a horizontal table when they 
+collide directly. Immediately before the collision, the speed of A is 4.5 m s−1 and 
+the speed of B is 3 m s−1. Immediately after the collision, A and B move in the 
+same direction and the speed of B is twice the speed of A. 
+ 
+ 
+By modelling the balls as particles, find 
+ 
+(a) the speed of B immediately after the collision, 
+ 
+ 
+      (4 marks) 
+ 
+(b) the magnitude of the impulse exerted on B in the collision, stating the units in 
+which your answer is given.  
+ 
+ 
+ 
+ 
+      (3 marks) 
+ 
+The table is rough. After the collision, B moves a distance of 2 m on the table 
+before coming to rest. 
+ 
+ 
+(c) Find the coefficient of friction between B and the table.  
+      (6 marks) 
+ 
+ 
+6. 
+A parachutist drops from a helicopter H and falls vertically from rest towards the 
+ground. Her parachute opens 2 s after she leaves H and her speed then reduces to 
+4 m s−1. For the first 2 s her motion is modelled as that of a particle falling freely 
+under gravity. For the next 5 s the model is motion with constant deceleration, so 
+that her speed is 4 m s−1 at the end of this period. For the rest of the time before 
+she reaches the ground, the model is motion with constant speed of 4 m s−1. 
+ 
+(a) Sketch a speed-time graph to illustrate her motion from H to the ground. 
+ 
+(3 marks) 
+ 
+ 
+(b) Find her speed when the parachute opens. 
+ 
+ 
+      (2 marks) 
+ 
+A safety rule states that the helicopter must be high enough to allow the 
+parachute to open and for the speed of a parachutist to reduce to 4 m s−1 before 
+reaching the ground. Using the assumptions made in the above model, 
+ 
+(c) find the minimum height of H for which the woman can make a drop without 
+breaking this safety rule. 
+ 
+ 
+ 
+ 
+ 
+      (5 marks) 
+ 
+Given that H is 125 m above the ground when the woman starts her drop, 
+ 
+(d) find the total time taken for her to reach the ground. 
+ 
+      (4 marks) 
+ 
+(e) State one way in which the model could be refined to make it more realistic. 
+ 
+(1 mark) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+7. 
+A sledge of mass 78 kg is pulled up a slope by means of a rope. The slope is 
+modelled as a rough plane inclined at an angle α to the horizontal, where 
+tan α = 12
+5 . The rope is modelled as light and inextensible and is in a line of 
+greatest slope of the plane. The coefficient of friction between the sledge and the 
+slope is 0.25. Given that the sledge is accelerating up the slope with acceleration 
+0.5 m s−2, 
+ 
+(a) find the tension in the rope. 
+ 
+ 
+ 
+ 
+      (9 marks) 
+ 
+The rope suddenly breaks. Subsequently the sledge comes to instantaneous rest 
+and then starts sliding down the slope. 
+ 
+(b) Find the acceleration of the sledge down the slope after it has come to 
+instantaneous rest. 
+ 
+ 
+ 
+ 
+ 
+ 
+      (6 marks) 
+ 
+END 
+PMT
+PMT

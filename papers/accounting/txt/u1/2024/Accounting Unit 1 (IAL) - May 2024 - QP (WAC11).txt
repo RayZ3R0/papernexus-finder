@@ -1,0 +1,723 @@
+Turn over    
+*P75882A*
+P75882A
+©2024 Pearson Education Ltd.
+F:1/1/1/1/1/1/1/1/
+
+
+Pearson Edexcel International Advanced Level
+Friday 10 May 2024
+Afternoon (Time: 3 hours)
+WAC11/01
+Paper
+reference 
+Accounting
+International Advanced Subsidiary
+PAPER 1: The Accounting System and Costing
+Source Booklet
+Do not return this Booklet with the question paper.
+
+
+--- Page Break ---
+
+2
+P75882A
+ 
+ 
+SECTION A
+Answer BOTH questions in this section.
+1 	 Rapid Supplies buys and sells goods on credit to local businesses.
+	
+The following balances were recorded in the books of account on 30 April 2024.
+£
+Allowance for irrecoverable debts
+300
+5% bank loan (repayable 2026)
+20 000
+Bank loan interest paid
+500
+Capital
+100 000
+Cash and bank
+10 120 Dr
+Commission received
+8 000
+Delivery vehicle expenses
+6 250
+Discount allowed
+1 350
+Discount received
+950
+Drawings
+28 000
+General expenses
+7 450
+Insurance
+2 100
+Inventory – 1 May 2023
+9 800
+Irrecoverable debts
+850
+Marketing costs
+11 250
+Non‑current assets (at cost)
+	
+Premises
+90 000
+	
+Delivery vehicles
+54 000
+	
+Office equipment
+30 000
+Non‑current assets 
+	
+(provision for depreciation)
+	
+Premises
+9 000
+	
+Delivery vehicles
+31 500
+	
+Office equipment
+13 400
+Power and water
+13 500
+Purchases
+187 900
+Rates
+11 900
+Returns inwards
+11 180
+Returns outwards
+5 700
+Revenue
+345 000
+Trade payables
+15 500
+Trade receivables
+12 800
+Wages and salaries
+60 400
+
+
+--- Page Break ---
+
+ 
+ 
+3
+Turn over     
+P75882A
+	
+Additional information at 30 April 2024
+	
+(1)	 Inventory £12 000
+	
+(2)	 The 5% bank loan was taken out on 1 August 2023.
+	
+(3)	 Marketing costs included £4 500 paid for a promotion running from 
+1 January to 30 June 2024.
+	
+(4)	 Power owing was £1 100 and water prepaid was £400
+	
+(5)	 A delivery vehicle costing £14 000 and with an accumulated depreciation of 
+£11 500 was sold for £3 750 cash on 20 April 2024. No entries had been made in 
+the books of account to record the sale or receipt of cash.
+	
+(6)	 A full year’s depreciation is charged on all non‑current assets owned at the end of 
+the year. Depreciation is charged at the rates of:
+	
+	 Premises – 2% using the straight‑line method 
+Delivery vehicles – 20% using the reducing balance method 
+Office equipment – 25% using the straight‑line method.
+	
+(7)	 Trade receivables of £400 are now irrecoverable and are to be written off.
+	
+(8)	 The allowance for irrecoverable debts is to be maintained at 5% of 
+trade receivables.
+	
+Required
+	
+(a)	 Prepare the Statement of Profit or Loss and Other Comprehensive Income for the 
+year ended 30 April 2024.
+(21)
+	
+(b)	 Prepare the Statement of Financial Position at 30 April 2024.
+(18)
+	
+(c)	 Explain the terms:
+	
+	
+(i)	 day work
+(2)
+	
+	
+(ii)	 piecework.
+(2)
+	
+Rapid Supplies employs delivery drivers. At present, delivery drivers are paid a fixed 
+rate per week. It is proposed to change their method of remuneration to a payment 
+based on the deliveries made by the drivers.
+	
+(d)	 Evaluate the proposal to change the delivery drivers’ remuneration to a system 
+based on the deliveries made by the drivers.
+(12)
+(Total for Question 1 = 55 marks)
+
+
+--- Page Break ---
+
+4
+P75882A
+ 
+ 
+2 	 Asheni is considering purchasing an electrical retail business. 
+She has identified two businesses that could be purchased, Alpha Stores and 
+Beta Bargains.
+	
+The following summary financial information is available for both businesses.
+Alpha 
+Stores
+Beta 
+Bargains
+Total for the year ended 
+30 April 2024
+£ 000s
+£ 000s
+Revenue
+800
+800
+Cost of sales
+480
+420
+Expenses
+300
+260
+Balances at 
+30 April 2024
+£ 000s
+£ 000s
+Trade receivables
+  40
+  50
+Trade payables
+  35
+  55
+Non‑current assets
+  60
+  80
+Cash and bank
+  10 Dr
+  24 Cr
+Inventory
+  32
+  36
+Bank loan repayable 2024
+–
+  10
+
+
+--- Page Break ---
+
+ 
+ 
+5
+Turn over     
+P75882A
+	
+Additional information
+	
+(1)	 The inventory on 1 May 2023
+	
+	 Alpha Stores	 £28 000
+	
+	 Beta Bargains	£48 000
+	
+(2)	 Alpha Stores had the following profit for the year as a percentage of revenue in 
+the previous two years ended 30 April
+	
+	 2022	
+10%
+	
+	 2023	
+  8%
+	
+(3)	 The bank loan of Beta Bargains is repayable on 30 September 2024.
+	
+(4)	 Revenue (sales) is made for cash and on credit.
+Alpha 
+Stores
+Beta 
+Bargains
+Cash
+20%
+50%
+Credit
+80%
+50%
+	
+(5)	 All purchases for Alpha Stores and Beta Bargains are made on credit.
+
+
+--- Page Break ---
+
+6
+P75882A
+ 
+ 
+	
+Required
+	
+(a)	 Calculate for each of Alpha Stores and Beta Bargains the:
+	
+	
+(i)	 gross profit as a percentage of revenue
+(4)
+	
+	
+(ii)	 profit for the year as a percentage of revenue
+(4)
+	
+	
+(iii)	 inventory turnover (times)
+(4)
+	
+	
+(iv)	 current ratio
+(4)
+	
+	
+(v)	 liquid (acid test) ratio
+(4)
+	
+	
+(vi)	 trade payables payment period (days)
+(4)
+	
+	 (vii)	 trade receivables collection period (days).
+(4)
+	
+(b)	 Comment upon the following:
+	
+	
+(i)	 Profitability of Alpha Stores
+(3)
+	
+	
+(ii)	 Liquidity of Beta Bargains.
+(3)
+	
+(c)	 Explain the term ‘goodwill’.
+(2)
+	
+(d)	 State three reasons why Asheni may be willing to pay for the goodwill of 
+a business.
+(3)
+	
+The owner of Beta Bargains has stated that he would be prepared to sell his business 
+for £100 000
+	
+(e)	 Calculate the value of the goodwill that Asheni would have to pay if she were to 
+purchase Beta Bargains for £100 000
+(4)
+	
+Alpha Stores and Beta Bargains do not use information communication technology 
+(ICT) in the operation of their businesses or the preparation of their books of account.
+	
+(f)	 Evaluate the use of information communication technology (ICT) in a business.
+(12)
+(Total for Question 2 = 55 marks)
+TOTAL FOR SECTION A = 110 MARKS
+
+
+--- Page Break ---
+
+ 
+ 
+7
+Turn over     
+P75882A
+BLANK PAGE
+
+
+--- Page Break ---
+
+8
+P75882A
+ 
+ 
+SECTION B
+Answer THREE questions from this section.
+3 	 The following information is available for the Oldmixon Tennis Club for the year 
+ended 30 April 2024.
+	
+(1)	 Subscriptions were £60 per annum for each of the 90 members for the year 
+ended 30 April 2024.
+	
+	 On 1 May 2023 seven members had paid their subscriptions in advance and five 
+members were in arrears.
+	
+	 Two of the members in arrears on 1 May 2023 paid in full and the remainder were 
+considered irrecoverable debts.
+	
+	 On 30 April 2024 four members had paid in advance for the year commencing 
+1 May 2024 and six members’ subscriptions were in arrears.
+	
+	 All receipts for subscriptions were paid by cheque.
+	
+(2)	 Refreshments were sold to members. Sales of refreshments during the year 
+were £11 900
+	
+	 On 1 May 2023 the inventory was valued at a cost of £950. Purchases of 
+£4 500 had been paid during the year and invoices for £1 200 had payment 
+still outstanding.
+	
+	 A member had carried out an inventory count on 30 April 2024 and had valued 
+the inventory at the selling price of £1 400. The club marks up refreshment costs 
+by 25%.
+	
+(3)	 A grant was received from the Tennis Association of £5 000
+	
+(4)	 Depreciation is charged on equipment owned at the end of the year at the rate of 
+20% per annum using the straight‑line method.
+	
+	 On 1 May 2023 the club owned equipment with a cost of £30 000 and a carrying 
+value of £19 200
+	
+	 During the year equipment costing £4 000 which had been owned by the club 
+for three years was sold for £2 300. Replacement equipment costing £6 000 
+was purchased.
+
+
+--- Page Break ---
+
+ 
+ 
+9
+Turn over     
+P75882A
+	
+(5)	 Other expenses
+Receipts and Payment Account entries 
+for year ended 30 April 2024
+Other information
+Expense
+£
+Rent
+1 500
+One quarter’s (three months’) rent is still 
+outstanding at the end of the year.
+Electricity and water
+   890
+Electricity of £190 was outstanding and water of 
+£135 was prepaid at the end of the year.
+Wages
+4 655
+A short‑term loan of £400 made to an employee 
+was included in the balance.
+Equipment repairs
+1 500
+All equipment repairs were paid in the year.
+Sundry expenses
+1 200
+A refund to the club of £100 on sundry expenses 
+was outstanding.
+	
+Required
+	
+(a)	 State two differences when preparing accounts for:
+•	
+a club, such as the Oldmixon Tennis Club, and
+•	
+a sole trader.
+(4)
+	
+(b)	 Prepare for the year ended 30 April 2024 the:
+	
+	
+(i)	 Subscriptions Account
+(5)
+	
+	
+(ii)	 Refreshments Trading Account
+(4)
+	
+	
+(iii)	 Income and Expenditure Account.
+(11)
+	
+The Oldmixon Tennis Club is considering improvement works to the clubhouse.
+	
+Two options have been put forward by members to pay for the refurbishment:
+	
+(1)	 The club takes out a £20 000 bank loan at 8% per annum for ten years
+	
+(2)	 The subscription fee should be raised in one year to fund the refurbishment.
+	
+(c)	 Evaluate whether the Oldmixon Tennis Club should fund the refurbishment by 
+taking out a £20 000 bank loan at 8% per annum or fund the refurbishment from 
+raised subscription fees in one year.
+(6)
+(Total for Question 3 = 30 marks)
+
+
+--- Page Break ---
+
+10
+P75882A
+ 
+ 
+4	 Pire Solutions prepared a draft income statement for the year ended 30 April 2024 
+which showed a profit for the year of £19 000. The business was aware that there 
+were some errors in the books of account.
+	
+On further inspection the following errors were discovered in the books of account.
+	
+(1)	 Credit purchases costing £7 100 had been correctly posted in the Suppliers 
+Account but had been recorded in the Purchases Account as £1 700
+	
+(2)	 The owner of Pire Solutions had been paid £30 per week which had been paid 
+and posted to the General Expenses Account for the 52 weeks of the year.
+	
+(3)	 Commission receivable at the rate of 2.5% of £30 000 sales had been recorded in 
+the Cash Book but no other entry had been made in the books.
+	
+(4)	 Depreciation on office equipment had been charged for the year using the 
+reducing balance method which had been calculated at £350. This should have 
+been charged at 20% using the straight‑line method on the office equipment cost 
+of £3 000
+	
+(5)	 The allowance for irrecoverable debts on 1 May 2023 of £3 450 was not adjusted 
+at the year end. The balance of trade receivable at 30 April 2024 was £80 000 and 
+Pire Solutions estimated that 3.5% of debts would become irrecoverable.
+Required
+	
+(a)	 Explain the terms:
+	
+	 (i)	 error of principle
+(2)
+	
+	 (ii)	 suspense account.
+(2)
+	
+(b)	 Prepare the journal entries to correct the errors.
+(10)
+	
+(c)	 Complete the table in the question paper showing the corrected profit after the 
+correction of all errors.
+(10)
+	
+(d)	 Evaluate the use of International Accounting Standards (IAS) when preparing 
+financial statements.
+(6)
+(Total for Question 4 = 30 marks)
+
+
+--- Page Break ---
+
+ 
+ 
+11
+P75882A
+Turn over     
+BLANK PAGE
+
+
+--- Page Break ---
+
+12
+P75882A
+ 
+ 
+5	 Astil is in business as a sole trader. He is considering the purchase of a new car to use 
+in his business.
+	
+He is considering two options manufactured by Molvo Cars, the Classic petrol version 
+and the Super electric.
+	
+The following information is available for both cars.
+Classic petrol
+Super electric
+Cost
+£35 000
+£52 500
+Resale value after 5 years
+£15 000
+£20 000
+Annual usage
+20 000 kilometres (km) 
+per annum
+20 000 kilometres (km) 
+per annum
+Fuel usage
+8 km per litre of fuel
+One electrical charge per 
+200 km
+Fuel cost
+£1.50 per litre
+One electric charge costs £2 
+per hour for three hours
+Service maintenance
+£150 every 3 months
+£175 every 10 000 km
+Repairs
+£200 per year
+£150 per year
+Road tax
+£150 per year
+£0 per year
+Insurance
+£200 plus £50 per year 
+for each 5 000 km over 
+10 000 km
+£100 per 3 months
+
+
+--- Page Break ---
+
+ 
+ 
+13
+P75882A
+Required
+	
+(a)	 Explain two causes of depreciation.
+(4)
+	
+(b)	 Explain why some non‑current assets are depreciated using the 
+reducing balance method and other non‑current assets are depreciated using the 
+straight‑line method.
+(4)
+	
+(c)	 Calculate the total cost per year, by completing the table in the question paper, 
+of operating the:
+	
+	 (i)	 Classic petrol car
+(6)
+	
+	 (ii)	 Super electric car.
+(6)
+	
+(d)	 Calculate the total cost per kilometre of operating the:
+	
+	 (i)	 Classic petrol car
+(2)
+	
+	 (ii)	 Super electric car.
+(2)
+	
+(e)	 Evaluate whether Astil should purchase the Classic petrol car or the Super electric 
+car. Your answer may consider financial and non‑financial factors.
+(6)
+(Total for Question 5 = 30 marks)
+Turn over     
+
+
+--- Page Break ---
+
+14
+P75882A
+ 
+ 
+6	 Abeer owns a business with two productive departments: machining and assembly, 
+and two service departments: design and administration.
+	
+The projections of overhead costs for the next period were as follows.
+Machining
+Assembly
+Design
+Administration
+Overhead cost (£)
+100 000
+70 000
+30 000
+30 000
+Expected labour 
+hours worked
+    1 500
+  5 900
+–
+–
+Expected machine 
+hours worked
+    4 250
+     900
+–
+–
+	
+The usages of the service departments were as follows.
+Machining
+Assembly
+Design
+Administration
+Design
+40%
+40%
+–
+20%
+Administration
+50%
+40%
+10%
+–
+	
+Required
+	
+(a)	 Explain the terms:
+	
+	
+(i)	 Allocation of overheads
+(2)
+	
+	
+(ii)	 Apportionment of overheads.
+(2)
+	
+(b)	 Calculate the total overhead cost of operating the productive departments by 
+apportioning the service departments’ overheads using continuous allotment.
+(9)
+	
+(c)	 Calculate the overhead recovery rate per hour to be charged by Abeer for each 
+of the machining department and the assembly department, rounding to the 
+nearest penny.
+(6)
+
+
+--- Page Break ---
+
+ 
+ 
+15
+P75882A
+	
+During the year ended 30 April 2024 the actual expenditure on overheads was 
+£184 000 and the actual hours worked were:
+Machining
+Assembly
+Actual hours worked
+Labour
+1 550
+5 500
+Machine
+4 400
+   650
+	
+(d)	 Calculate the total under absorption or over absorption of overheads for the 
+business of Abeer for the year ended 30 April 2024.
+(5)
+	
+(e)	 Evaluate the use of overhead recovery rates by Abeer.
+(6)
+(Total for Question 6 = 30 marks)
+TOTAL FOR SECTION B = 90 MARKS 
+TOTAL FOR PAPER = 200 MARKS
+
+
+--- Page Break ---
+
+16
+P75882A
+ 
+ 
+BLANK PAGE

@@ -1,0 +1,365 @@
+Paper Reference(s) 
+6678 
+Edexcel GCE 
+Mechanics M2 
+Advanced Subsidiary 
+Wednesday 12 January 2005 − Afternoon 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Mathematical Formulae (Lilac or Green)                                  Nil 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M2), the paper reference (6678), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. 
+The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+ 
+without working may gain no credit.
+N17136A 
+ 
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy. 
+©2005 London Qualifications Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+         Figure 1 
+ 
+ 
+ 
+8a
+C 
+ B
+ A 
+6a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A uniform rod AB, of length 8a and weight W, is free to rotate in a vertical plane about a 
+smooth pivot at A. One end of a light inextensible string is attached to B. The other end is 
+attached to point C which is vertically above A, with AC = 6a. The rod is in equilibrium with 
+AB horizontal, as shown in Figure 1. 
+ 
+ 
+(a) By taking moments about A, or otherwise, show that the tension in the string is 6
+5 W. 
+(4) 
+ 
+(b) Calculate the magnitude of the horizontal component of the force exerted by the pivot on 
+the rod. 
+ (3) 
+      
+ 
+N17136A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N17136A 
+3 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+Figure 2 
+ 
+3 cm 
+ O 
+10 cm 
+ B 
+ C 
+20 cm 
+6 cm 
+ D 
+5 cm
+ A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 shows a metal plate that is made by removing a circle of centre O and radius 3 cm 
+from a uniform rectangular lamina ABCD, where AB = 20 cm and BC = 10 cm. The point O is 
+5 cm from both AB and CD and is 6 cm from AD. 
+ 
+ 
+(a) Calculate, to 3 significant figures, the distance of the centre of mass of the plate from AD. 
+ (5) 
+ 
+ 
+The plate is freely suspended from A and hangs in equilibrium. 
+ 
+ 
+(b) Calculate, to the nearest degree, the angle between AB and the vertical. 
+(3) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N17136A 
+4 
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+ 
+ 
+30°
+ T
+ P
+ S
+12 m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A small package P is modelled as a particle of mass 0.6 kg. The package slides down a rough 
+plane from a point S to a point T, where ST = 12 m. The plane is inclined at an angle of 30° to 
+the horizontal and ST is a line of greatest slope of the plane, as shown in Figure 3. The speed 
+of P at S is 10 m s–1 and the speed of P at T is 9 m s–1. Calculate  
+ 
+ 
+(a) the total loss of energy of P in moving from S to T, 
+(4) 
+ 
+(b) the coefficient of friction between P and the plane. 
+(5) 
+ 
+ 
+4. 
+A particle P of mass 0.4 kg is moving under the action of a single force F newtons. At time 
+t seconds, the velocity of P, v m s–1, is given by 
+ 
+v = (6t + 4)i + (t2 + 3t)j. 
+ 
+ 
+When t = 0, P is at the point with position vector (–3i + 4j) m. When t = 4, P is at the point S. 
+ 
+ 
+(a) Calculate the magnitude of F when t = 4. 
+(4) 
+ 
+(b) Calculate the distance OS. 
+(5) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N17136A 
+5 
+ 
+5. 
+A car of mass 1000 kg is towing a trailer of mass 1500 kg along a straight horizontal road. 
+The tow-bar joining the car to the trailer is modelled as a light rod parallel to the road. The 
+total resistance to motion of the car is modelled as having constant magnitude 750 N. The 
+total resistance to motion of the trailer is modelled as of magnitude R newtons, where R is a 
+constant. When the engine of the car is working at a rate of 50 kW, the car and the trailer 
+travel at a constant speed of 25 m s–1. 
+ 
+ 
+(a) Show that R = 1250. 
+(3) 
+ 
+ 
+When travelling at 25 m s–1 the driver of the car disengages the engine and applies the brakes. 
+The brakes provide a constant braking force of magnitude 1500 N to the car. The resisting 
+forces of magnitude 750 N and 1250 N are assumed to remain unchanged. Calculate 
+ 
+ 
+ 
+(b) the deceleration of the car while braking, 
+(3) 
+ 
+(c) the thrust in the tow-bar while braking, 
+(2) 
+ 
+(d) the work done, in kJ, by the braking force in bringing the car and the trailer to rest. 
+(4) 
+ 
+(e) Suggest how the modelling assumption that the resistances to motion are constant could 
+be refined to be more realistic. 
+(1) 
+ 
+ 
+6. 
+A particle P of mass 3m is moving with speed 2u in a straight line on a smooth horizontal 
+table. The particle P collides with a particle Q of mass 2m moving with speed u in the 
+opposite direction to P. The coefficient of restitution between P and Q is e. 
+ 
+ 
+(a) Show that the speed of Q after the collision is 5
+1 u(9e + 4). 
+(5) 
+ 
+ 
+As a result of the collision, the direction of motion of P is reversed. 
+ 
+ 
+(b) Find the range of possible values of e. 
+(5) 
+ 
+ 
+Given that the magnitude of the impulse of P on Q is 5
+32 mu, 
+ 
+ 
+(c) find the value of e.  
+(4) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N17136A 
+6 
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+        Figure 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 m 
+20 m 
+32 m s–1 
+C 
+O 
+A 
+B 
+α 
+ 
+ 
+A particle P is projected from a point A with speed 32 m s–1 at an angle of elevation α , where 
+sin α = 5
+3 . The point O is on horizontal ground, with O vertically below A and OA = 20 m. 
+The particle P moves freely under gravity and passes through a point B, which is 16 m above 
+ground, before reaching the ground at the point C, as shown in Figure 4. 
+ 
+ 
+Calculate 
+ 
+ 
+(a) the time of the flight from A to C,  
+(5) 
+ 
+(b) the distance OC, 
+(3) 
+ 
+(c) the speed of P at B, 
+ (4) 
+ 
+(d) the angle that the velocity of P at B makes with the horizontal. 
+(3) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+PMT
+PMT

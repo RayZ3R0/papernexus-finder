@@ -1,0 +1,1002 @@
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!"
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+S45361A
+©2013 Pearson Education Ltd.
+!"#$%&'()'*#!
+Chemistry
+Advanced Subsidiary
+Unit 2: Application of Core Principles of Chemistry
+Sample Assessment Material
+Time: 1 hour 30 minutes
+WCH02/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!#
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes  
+on this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Which of the following molecules has the smallest bond angle?
+ 
+ 
+A H2O
+ 
+ 
+B NH3
+ 
+ 
+C CH4
+ 
+ 
+D SF6
+(Total for Question 1 = 1 mark)
+2 A charged rod is held beside a stream of liquid coming from a burette.  Which of the 
+following liquids would NOT be significantly deflected?
+ 
+ 
+A H2O
+ 
+ 
+B CCl4
+ 
+ 
+C C2H5OH
+ 
+ 
+D C2H5Br
+(Total for Question 2 = 1 mark)
+3 Which of the following statements about electronegativity is true?
+ 
+ 
+A Non-metals have lower electronegativity than metals.
+ 
+ 
+B Electronegativity decreases across a period in the Periodic Table.
+ 
+ 
+C Electronegativity decreases going down a group in the Periodic Table.
+ 
+ 
+D The bonds between atoms with equal electronegativity are always weak.
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!$
+4 In which series of compounds does the covalent character increase, going from left to 
+right?
+ 
+ 
+A NaCl, MgCl2, AlCl3, SiCl4
+ 
+ 
+B SiO2, Al2O3, MgO,  Na2O
+ 
+ 
+C LiI, NaI, KI, RbI
+ 
+ 
+D KI, KBr, KCl, KF
+(Total for Question 4 = 1 mark)
+5 Going down Group 2 from calcium to barium
+ 
+ 
+A the first ionization energy of the element increases.
+ 
+ 
+B the strength of the metallic bonding increases.
+ 
+ 
+C the polarizing power of the 2+ ion decreases.
+ 
+ 
+D the stability of the nitrate to heat decreases.
+(Total for Question 5 = 1 mark)
+6 Fullerenes, graphite and diamond are all forms of carbon.  Fullerenes dissolve in 
+petrol, but diamond and graphite do not.  This is because
+ 
+ 
+A the bonds between the carbon atoms in fullerenes are weaker than in 
+diamond or graphite.
+ 
+ 
+B diamond and graphite are giant structures but fullerenes are molecular.
+ 
+ 
+C there are delocalized electrons in diamond and graphite but not in fullerenes.
+ 
+ 
+D there are covalent bonds in diamond and graphite, but not in fullerenes.
+(Total for Question 6 = 1 mark)
+7 Sodium chloride is more soluble in water than in hexane because
+ 
+ 
+A the intermolecular forces between water molecules are stronger than those 
+between hexane molecules.
+ 
+ 
+B hexane molecules cannot fit between the ions in the sodium chloride lattice.
+ 
+ 
+C energy is released when the ions in sodium chloride are hydrated.
+ 
+ 
+D sodium ions and chloride ions form hydrogen bonds with water.
+(Total for Question 7 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!%
+8 Hydrochloric acid and sodium carbonate solution react as shown below.
+2HCl(aq) + Na2CO3(aq) → 2NaCl(aq) + CO2(g) + H2O(l)
+ 
+Which sample of sodium carbonate solution will be neutralized by 20 cm3 of 
+0.05 mol dm–3 hydrochloric acid?
+Volume of sodium 
+carbonate/
+cm3
+Concentration of sodium 
+carbonate/
+mol dm–3
+A
+10
+0.05
+B
+40
+0.05
+C
+40
+0.10
+D
+10
+0.10
+(Total for Question 8 = 1 mark)
+9 A white solid produces oxygen when it is heated, but no other gases.  The solid could 
+be
+ 
+ 
+A lithium nitrate.
+ 
+ 
+B potassium nitrate.
+ 
+ 
+C strontium nitrate.
+ 
+ 
+D calcium oxide.
+(Total for Question 9 = 1 mark)
+10 A solid is soluble in water and produces steamy acidic fumes with concentrated 
+sulfuric acid.  The solid could be
+ 
+ 
+A potassium carbonate.
+ 
+ 
+B magnesium sulfate.
+ 
+ 
+C silver chloride.
+ 
+ 
+D sodium chloride.
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!!
+11
+ 
+The systematic name of the compound with skeletal formula shown above is
+ 
+ 
+A 1,1-dimethylethanol.
+ 
+ 
+B 2,2-dimethylethanol.
+ 
+ 
+C 2-methylpropan-1-ol.
+ 
+ 
+D 2-methylpropan-2-ol.
+(Total for Question 11 = 1 mark)
+12 Samples of 1-chloropropane and 1-bromopropane are warmed with water containing 
+dissolved silver nitrate in the presence of ethanol.  The 1-chloropropane reacts more 
+slowly because
+ 
+ 
+A the C—Cl bond is more polar than the C—Br bond.
+ 
+ 
+B the C—Cl bond is stronger than the C—Br bond.
+ 
+ 
+C 1-chloropropane is less soluble than 1-bromopropane.
+ 
+ 
+D 1-chloropropane is a weaker oxidizing agent than 1-bromopropane.
+(Total for Question 12 = 1 mark)
+13 The reaction of 1-chloropropane with water containing dissolved silver nitrate in the 
+presence of ethanol is
+ 
+ 
+A a redox reaction.
+ 
+ 
+B a nucleophilic substitution.
+ 
+ 
+C an electrophilic substitution.
+ 
+ 
+D a free radical substitution.
+(Total for Question 13 = 1 mark)
+OH
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!&
+14 The compound with formula CH3CH(NH2)CH3 can be made by reacting alcoholic 
+ammonia with
+ 
+ 
+A propane.
+ 
+ 
+B propene.
+ 
+ 
+C 2-chloropropane.
+ 
+ 
+D propan-2-ol.
+(Total for Question 14 = 1 mark)
+15
+ 
+The energy marked X in the Maxwell-Boltzmann distribution shows
+ 
+ 
+A the most common energy of the molecules.
+ 
+ 
+B the activation energy of the reaction.
+ 
+ 
+C the activation energy of a catalysed reaction.
+ 
+ 
+D the number of molecules with energy greater than the activation energy.
+(Total for Question 15 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Fraction of 
+molecules with 
+energy, E
+Energy, E
+X
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!'
+16 In the industrial process involving gas phase reactions to produce ammonia, many 
+collisions between molecules are unsuccessful because
+ 
+ 
+A gas phase reactions are reversible.
+ 
+ 
+B the collisions are not energetic enough to break the bonds in the molecules.
+ 
+ 
+C gas phase reactions can only occur when a catalyst is present.
+ 
+ 
+D gas phase reactions can only occur when UV light is present.
+(Total for Question 16 = 1 mark)
+17 The molecular (parent) ion in the mass spectrum of a hydrocarbon containing 12C and 
+1H only
+ 
+ 
+A is the peak with highest relative abundance.
+ 
+ 
+B is the peak with highest charge.
+ 
+ 
+C is the peak produced by the most stable fragment.
+ 
+ 
+D is the peak with highest mass to charge ratio.
+(Total for Question 17 = 1 mark)
+18 A compound which has major peaks with mass / charge ratio at 29, 57 and 58 in the 
+mass spectrum could be
+ 
+ 
+A propanal, CH3CH2CHO.
+ 
+ 
+B propanone, CH3COCH3.
+ 
+ 
+C propan-1-ol, CH3CH2CH2OH.
+ 
+ 
+D propan-2-ol, CH3CH(OH)CH3.
+ (Total for Question 18 = 1 mark)
+19 Which of the following would not be used to assess whether the use of a biofuel 
+produced from a crop of sugar cane is carbon neutral?
+ 
+The amount of
+ 
+ 
+A fuel used to operate farm machinery.
+ 
+ 
+B pesticides and fertilisers used.
+ 
+ 
+C energy released per tonne of biofuel.
+ 
+ 
+D fuel used to process the crop.
+(Total for Question 19 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!(
+20   The principal reason why scientists have recommended that chlorofluorocarbons 
+(CFCs) are not used in aerosols is that they cause
+ 
+ 
+A global warming.
+ 
+ 
+B acid rain.
+ 
+ 
+C ozone depletion.
+ 
+ 
+D water pollution.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+!)
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 (a) (i) An alkaline solution is produced when barium reacts with cold water.  Write 
+the equation for this reaction, including all state symbols.
+(2)
+ 
+ 
+(ii) The reaction in (a)(i) is a redox reaction.  State the initial and final oxidation 
+number of any element that changes its oxidation number.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Dilute hydrochloric acid is added to the solution produced in (a)(i).  Write the 
+equation for the reaction which occurs.  State symbols are not required.
+(1)
+ 
+(c) Dilute sulfuric acid is added to another sample of the solution produced in  
+(a)(i).  How would the appearance of the resulting mixture differ from the mixture 
+produced in (b)?  Explain this difference.
+(2)
+Appearance  .................................................................................................................................................................................................................................................
+Explanation  ..................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&"
+ 
+(d) (i) Two white powders are known to be barium carbonate and magnesium 
+carbonate.
+ 
+ 
+ 
+How could you distinguish between the two powders by heating them? 
+[No practical details are required.]
+ 
+ 
+ 
+Include the equation for the action of heat on one of these carbonates.  State 
+symbols are not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Equation:
+ 
+ 
+(ii) Suggest another test, other than heating or the use of an acid, which could be 
+used to distinguish between magnesium carbonate and barium carbonate.  
+State the results for both compounds.
+(2)
+Test  .......................................................................................................................................................................................................................................................................
+Result with magnesium carbonate  .....................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Result with barium carbonate  ..................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&#
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&$
+22 (a) The products of the reaction when 2-chlorobutane is heated with sodium 
+hydroxide depend on the conditions.
+ 
+ 
+(i) What condition, other than a suitable temperature and sodium hydroxide 
+concentration, would produce a mixture of but-1-ene and but-2-ene?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What type of reaction occurs in (a)(i)?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) What condition, other than a suitable temperature and sodium hydroxide 
+concentration, would produce butan-2-ol in the reaction of 2-chlorobutane 
+with sodium hydroxide?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest the mechanism for the reaction of 2-chlorobutane with hydroxide 
+ions to form butan-2-ol.  Use curly arrows to show the movement of electron 
+pairs.
+(2)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&%
+ 
+(b) Phosphorus(V) chloride, PCl5, can be used to test for the –OH group.
+ 
+ 
+Describe what would be seen when phosphorus(V) chloride is added to 
+butan-2-ol.  Give the equation for the reaction.  State symbols are not required.
+(2)
+Observation  .................................................................................................................................................................................................................................................
+Equation
+ 
+(c) A tertiary alcohol, A, is an isomer of butan-2-ol.
+ 
+ 
+(i) Butan-2-ol and A can be distinguished  by warming separate samples with a 
+mixture of potassium dichromate(VI) and sulfuric acid.  State the observations 
+which would be made with each alcohol.
+(2)
+Observation with butan-2-ol  .....................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Observation with A  .............................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the structural formula of the organic product which forms when 
+butan-2-ol is oxidized.
+(1)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&!
+ 
+ 
+(iii) Explain how infrared spectroscopy could be used to detect whether 
+butan-2-ol has been oxidized.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&&
+23 The boiling temperatures of fluorine and two of its compounds are given below.
+Substance
+F2
+CH3F
+HF
+Tb /K
+85
+195
+293
+ 
+(a) A molecule of F2 has 18 electrons.
+ 
+ 
+Which intermolecular force depends to a large extent on the number of electrons 
+in the molecule?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Calculate the number of electrons in a molecule of CH3F.
+(1)
+ 
+(c) Explain why the boiling temperature of CH3F is greater than that of F2, referring to 
+the intermolecular forces present.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Explain why the boiling temperature of HF is the highest in the series.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&'
+ 
+(e) Explain why the values of the boiling temperatures for Cl2, CH3Cl and HCl do not 
+follow the same trend as F2, CH3F and HF.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&(
+24 The percentage by mass of tin in a piece of rock containing tin(IV) oxide, SnO2, was 
+determined as described in the procedure below.
+ 
+Step 1 A sample of rock, with mass 10.25 g, was crushed and dissolved in sulfuric 
+acid.
+ 
+Step 2 The solution was treated with a reducing agent to convert the Sn4+ to Sn2+ 
+ions.
+ 
+Step 3 50 cm3 of aqueous iodine solution with concentration 0.250 mol dm–3 was 
+added to the solution of Sn2+ ions.  The following reaction occurred:
+Sn2+(aq) + I2(aq) →!Sn4+(aq) + 2I–(aq)
+ 
+Step 4 The excess iodine was titrated with sodium thiosulfate solution with 
+concentration 0.100 mol dm–3.  The volume of sodium thiosulfate solution 
+required was 11.60 cm3.
+ 
+(a) Thiosulfate ions react with iodine as shown below.
+2S2O3
+2–(aq) + I2(aq) →!S4O6
+2–(aq) + 2I–(aq)
+ 
+ 
+(i) Calculate the number of moles of sodium thiosulfate which were used in  
+Step 4.
+(1)
+ 
+ 
+(ii) Calculate the number of moles of iodine which reacted with this amount of 
+sodium thiosulfate.
+(1)
+ 
+ 
+(iii) Calculate the number of moles of iodine added to the solution of Sn2+ ions in 
+Step 3.
+(1)
+ 
+ 
+(iv) Use your results from (ii) and (iii) to calculate the number of moles of iodine 
+which reacted with the Sn2+ ions from the rock.
+(1)
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+&)
+ 
+ 
+(v) Hence calculate the percentage by mass of tin in the rock.
+(2)
+ 
+(b) (i) What change could be made in Step 4 to improve the reliability of the result?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The error each time the burette was read was ± 0.05 cm3.  Calculate the 
+percentage error in the titre value of 11.60 cm3.
+(1)
+ 
+ 
+(iii) How could the percentage error in the titre value be reduced without using a 
+different burette?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The titration can be carried out with or without an indicator.  What colour change 
+would be seen at the end-point if an indicator was not used?  The tin ions are 
+colourless.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 24 = 10 marks)
+TOTAL FOR SECTION B = 38 MARKS
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+'*
+SECTION C
+Answer ALL the questions in this section.  Write your answers in the spaces provided.
+25 (a) Sea water is a source of chemicals.  The most abundant chemical dissolved in 
+sea water is sodium chloride.  Compounds of magnesium and bromine are also 
+present.  Magnesium occurs at 1300 parts per million (ppm) and bromine at 
+60 ppm by mass.
+ 
+ 
+The solution left after crystallizing sodium chloride from sea water is even richer 
+in bromine, and contains around 2.2 g dm–3 of bromine.
+ 
+ 
+Bromine is extracted from this solution by passing in chlorine gas.  The mixture is 
+acidified to prevent hydrolysis of bromine by the reaction
+Br2(aq) + H2O(l) U 2H+(aq) + Br–(aq) + BrO–(aq)
+ 
+ 
+The bromine can be separated by heating the solution to collect bromine vapour 
+which is then condensed, or by blowing air through the solution.
+ 
+ 
+(i) Show by calculation that a solution containing 2.2 g dm–3 of bromine is richer 
+in bromine than one containing 60 ppm.
+ 
+ 
+ 
+[Assume that the mass of 1 dm3 of the bromine solution is 1000 g]
+(1)
+ 
+ 
+(ii) Write an ionic equation, including state symbols, for the reaction in which 
+chlorine gas reacts with bromide ions in solution to produce bromine.
+(2)
+ 
+ 
+(iii) What would be observed when the reaction in (ii) occurs?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+'"
+ 
+ 
+(iv) Explain why the addition of an acid, such as hydrochloric acid, prevents 
+hydrolysis of bromine.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Assuming the hydrolysis of bromine is endothermic, explain how an increase 
+in temperature would affect the equilibrium position for the hydrolysis of 
+bromine.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Use your knowledge of activation energy to explain why an increase in 
+temperature increases the rate of hydrolysis of bromine.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vii) Use the equation for the hydrolysis of bromine to show that it is a 
+disproportionation reaction.
+Br2(aq) + H2O(l) U 2H+(aq) + Br–(aq) + BrO–(aq)
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+'#
+ 
+(b) At the surface of the sea, there is a dynamic equilibrium between carbon dioxide 
+gas in air and dissolved carbon dioxide in the surface sea water.
+CO2(g) U CO2(aq)
+ 
+ 
+(i) State two features of a system which has reached dynamic equilibrium.
+(2)
+1.  .............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+2.  .............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ *(ii) Carbon dioxide dissolves more easily in seawater than in pure water because 
+seawater contains carbonate ions, CO3
+2–(aq), and the following reaction 
+occurs. 
+CO2(aq) + H2O(l) + CO3
+2–(aq) U 2HCO3
+–(aq)
+ 
+ 
+ 
+Explain how an increase in concentration of carbonate ions in sea water 
+affects the amount of carbon dioxide gas in the atmosphere.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Carbon dioxide and water vapour both contain polar bonds.
+ 
+ 
+ 
+What effect does infrared radiation have on the bonds in these molecules?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+'$
+ 
+ *(iv) Outline the mechanism by which molecules such as carbon dioxide and water 
+cause global warming.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ *(v) Without water vapour in the atmosphere, the earth would be many degrees 
+colder than it is at present.  Why are many climate change scientists more 
+concerned about warming due to carbon dioxide in the atmosphere, than 
+warming due to the presence of water vapour?  Refer to the difference 
+between anthropogenic climate change and natural climate change in your 
+answer.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 25 = 22 marks)
+TOTAL FOR SECTION C = 22 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+!"#$%&'()*"+,"-(.'/"$'#/0&'#-(
+1(!"#$%&'()*2,#/0&'(3040/"*(5678(
+9#4:-"(;%%"%%4"'/(<#/"$0#-%(
+;*=#',"*(3"="-(0'(>?"40%/$@
+'%24
+!"#$%&'()*#*#!
+PMT

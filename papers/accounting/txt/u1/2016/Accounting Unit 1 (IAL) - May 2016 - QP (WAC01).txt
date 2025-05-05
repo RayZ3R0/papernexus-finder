@@ -1,0 +1,846 @@
+Paper Reference
+Turn over    
+Pearson Edexcel 
+International Advanced Level
+*P49575A*
+P49575A
+©2016 Pearson Education Ltd.
+1/1/1/1/1/1/1/1
+Do not return this source booklet with question paper.
+WAC11/01
+Tuesday 17 May 2016 – Afternoon
+Source Booklet
+Accounting
+Paper 1: The Accounting System and Costing
+
+
+--- Page Break ---
+
+2
+P49575A
+SECTION A
+Answer BOTH questions in this section.
+1 Azlina and Siti are in partnership retailing clothing. Their partnership agreement 
+states that:
+ 
+• 
+The agreed capital is: Azlina £50 000 and Siti £25 000.
+ 
+• 
+Profits and losses will be shared equally.
+ 
+• 
+Salaries will be paid: £5 000 per annum to Azlina and £5 000 per annum to Siti.
+ 
+• 
+Interest on capital is allowed at the rate of 5% per annum.
+ 
+• 
+There will be no interest charged on drawings.
+ 
+• 
+Azlina made a loan to the business of £20 000 on 1 January 2014. Interest is payable 
+at the rate of 8% per annum. The loan is repayable in full on 31 December 2016.
+ 
+The following balances were extracted from the books on 31 March 2016:
+ 
+ 
+£
+ 
+Capital accounts 1 April 2015:
+ 
+Azlina 
+50 000
+ 
+Siti 
+25 000
+ 
+Current accounts 1 April 2015:
+ 
+Azlina 
+400 Dr
+ 
+Siti 
+200 Cr
+ 
+Drawings (excluding salaries paid):
+ 
+Azlina 
+4 000
+ 
+Siti 
+1 500
+ 
+Non-current assets (at cost):
+ 
+ 
+Freehold premises 
+128 000
+ 
+ 
+Delivery vehicles 
+12 000
+ 
+ 
+Fixtures and fittings 
+14 000
+ 
+Provisions for depreciation:
+ 
+ 
+Delivery vehicles 
+8 400
+ 
+ 
+Fixtures and fittings 
+5 600 
+ 
+Loans:
+ 
+ 
+8% Loan from Azlina 
+20 000
+ 
+ 
+5% Bank loan (repayable 1 January 2018) 
+40 000
+ 
+Inventory 1 April 2015 
+19 500
+ 
+Trade receivables 
+7 500
+ 
+Trade payables 
+9 800
+ 
+Bank overdraft  
+9 520
+ 
+Revenue  
+ 
+117 300
+ 
+Purchases  
+ 
+54 000
+ 
+Purchase returns 
+1 700
+ 
+Commission receivable 
+900
+ 
+Rates  
+ 
+ 
+4 750
+ 
+Wages and salaries 
+24 500
+ 
+Electricity and water 
+8 150
+ 
+Sundry expenses 
+10 300
+ 
+Allowance (Provision) for doubtful debts 
+180
+
+
+--- Page Break ---
+
+3
+P49575A
+Turn over    
+ 
+Additional information at 31 March 2016
+ 
+(1) Inventory £13 800
+ 
+(2) Wages and salaries include the salaries paid in full to the partners.
+ 
+(3) Rates £250 were prepaid and electricity £600 was owing.
+ 
+(4) No interest has been paid on the 8% loan from Azlina or the 5% bank loan for  
+the year.
+ 
+(5) Depreciation is to be charged as follows:
+ 
+ 
+• 
+no depreciation on the freehold premises
+ 
+ 
+• 
+delivery vehicles at the rate of 25% per annum reducing balance
+ 
+ 
+• 
+fixtures and fittings at the rate of 10% per annum straight line.
+ 
+(6) The allowance (provision) for doubtful debts is to be maintained at 4% of trade 
+receivables.
+ 
+Required
+ 
+(a) Prepare for the partnership the:
+ 
+ 
+(i) Statement of Profit or Loss and Other Comprehensive Income (including an 
+appropriation section) for the year ended 31 March 2016
+(18)
+ 
+ 
+(ii) Current accounts of the partners for the year ended 31 March 2016
+(6)
+ 
+ 
+(iii) Statement of Financial Position at 31 March 2016.
+(14)
+ 
+The business premises of Azlina and Siti are located in a retail area that is growing 
+in popularity with shoppers. Azlina and Siti have plans to take advantage of this 
+popularity by expanding their business in the next financial year. They propose to:
+ 
+(1) Undertake building work to expand the sales area available.
+ 
+(2) Substantially increase the level of inventory in the business.
+ 
+(3) Redecorate the premises.
+ 
+(4) Employ an additional sales assistant.
+ 
+(5) Purchase an electronic bar code system for inventory.
+ 
+(b) State whether each of the above proposals is capital expenditure or revenue 
+expenditure.
+(5)
+ 
+To finance the expansion of the business Azlina and Siti will have to obtain finance in 
+the form of additional bank loans.
+ 
+(c) Evaluate whether Azlina and Siti should expand their business.
+(12)
+(Total for Question 1 = 55 marks)
+
+
+--- Page Break ---
+
+4
+P49575A
+2 Holborn Products manufactures parts for the motor industry. The following balances 
+were extracted from the books on 30 April 2016.
+ 
+ 
+£
+ 
+Inventories at 1 May 2015:
+ 
+ 
+Raw material 
+23 400
+ 
+ 
+Work in progress 
+52 000
+ 
+ 
+Finished goods 
+72 000
+ 
+Purchases of raw materials 
+97 800
+ 
+Carriage inwards 
+8 450
+ 
+Manufacturing wages 
+81 400
+ 
+Production management salaries 
+59 500
+ 
+Non-current assets:
+ 
+Manufacturing equipment 
+ 
+ 
+Cost 
+280 000
+ 
+ 
+Provision for depreciation 
+160 000
+ 
+Computing equipment
+ 
+ 
+Cost 
+150 000
+ 
+ 
+Provision for depreciation 
+90 000
+ 
+Computing technician wages 
+40 000
+ 
+Factory consumables 
+45 200
+ 
+Rent and rates 
+16 000
+ 
+Electricity and water charges 
+15 600
+ 
+General expenses 
+21 000
+ 
+Property maintenance expenses 
+11 000
+ 
+Provision for unrealised profit 
+12 000
+
+
+--- Page Break ---
+
+5
+P49575A
+Turn over    
+ 
+Additional information at 30 April 2016
+ 
+(1) Inventories:
+ 
+ 
+ 
+Raw materials 
+£16 950
+ 
+ 
+ 
+Work in progress 
+£58 000
+ 
+ 
+ 
+Finished goods 
+£90 000
+ 
+(2) Manufacturing wages of £2 600 were owing.
+ 
+(3) All of the costs of computing are charged 60% to manufacturing and 40% to 
+administration.
+ 
+(4) Depreciation is charged on all non-current assets using the reducing  
+balance method:
+ 
+ 
+(i) manufacturing equipment at the rate of 20% per annum
+ 
+ 
+(ii) computing equipment at the rate of 30% per annum.
+ 
+(5) Factory consumables of £35 300 are direct.
+ 
+(6) Half of the general expenses relate to manufacturing.
+ 
+(7) Property maintenance expenses of £1 800 are owing.
+ 
+(8) Rent and rates, electricity and water, property maintenance expenses are 
+allocated 75% to manufacturing and 25% to administration.
+ 
+(9) Production is transferred to finished goods at cost plus 20%.
+ 
+Required
+ 
+(a) Prepare, for the year ended 30 April 2016, the:
+ 
+ 
+(i) Manufacturing Account
+(21)
+ 
+ 
+(ii) Provision for Unrealised Profit on Manufactured Goods Account
+(5)
+ 
+ 
+(iii) Manufacturing Wages Account.
+(5)
+
+
+--- Page Break ---
+
+6
+P49575A
+ 
+The owner of Holborn Products is proposing changes to the way in which financial 
+statements are prepared. There are four proposals.
+ 
+Proposal 1
+ 
+Include a sum for the skill of the workforce as a non-current asset in the Statement of 
+Financial Position.
+ 
+Proposal 2
+ 
+Charge the full cost price of non-current assets to the year in which they are 
+purchased.
+ 
+Proposal 3
+ 
+No longer provide for unrealised profit by removing the provision for unrealised 
+profit on manufactured goods from the accounts.
+ 
+Proposal 4
+ 
+Charge the drawings of the owner to the Statement of Profit or Loss and Other 
+Comprehensive Income.
+ 
+(b) State, giving reasons for your answer, an accounting principle or concept that 
+would not be complied with if each of the proposals 1, 2, 3 and 4  
+were introduced.
+(12)
+ 
+(c) Evaluate the use of International Accounting Standards (IAS) in the preparation of 
+financial statements.
+(12)
+(Total for Question 2 = 55 marks)
+TOTAL FOR SECTION A = 110 MARKS
+
+
+--- Page Break ---
+
+7
+P49575A
+Turn over    
+BLANK PAGE
+QUESTION 3 STARTS ON THE NEXT PAGE.
+
+
+--- Page Break ---
+
+8
+P49575A
+SECTION B
+Answer THREE questions from this section.
+3 Channa commenced business as a market trader on 1 May 2015. His capital was an 
+inventory of £4 000 and cash from an 8% bank loan of £5 000 repayable in 2018.
+ 
+The following balances were extracted from the books at 30 April 2016.
+ 
+ 
+£
+ 
+Revenue 
+90 000
+ 
+Purchases 
+60 000
+ 
+Wages 
+12 000
+ 
+General expenses 
+8 200
+ 
+Rental of market stall 
+7 200
+ 
+Fixtures and fittings 
+2 500
+ 
+Additional information at 30 April 2016
+ 
+(1) Inventory £6 000
+ 
+(2) General expenses included £200 for bank loan interest.
+ 
+(3) Fixtures and fittings were valued at £1 700.
+ 
+Required
+ 
+(a) Prepare the Statement of Profit or Loss and Other Comprehensive Income for the 
+year ended 30 April 2016.
+(5)
+ 
+(b) Calculate the:
+ 
+ 
+(i) rate of inventory turnover
+(3)
+ 
+ 
+(ii) net profit for the year as a percentage of revenue.
+(3)
+ 
+Channa has been offered shop premises and is considering moving his business from 
+market trading to a shop. To assist him to make that decision the following estimates 
+were made for the year ended 30 April 2017:
+ 
+• 
+Revenue volume would increase by 331/3%. Selling prices would also be increased 
+by 20%.
+ 
+• 
+The inventory on 30 April 2017 would be £12 000.
+ 
+• 
+The rate of inventory turnover would be 8 times for the year.
+ 
+• 
+The rent of the shop would be £18 200 per annum.
+ 
+• 
+Wages and general expenses would rise by 25%.
+ 
+• 
+Additional fixtures and fittings costing £18 500 would be purchased. At the end of 
+the year all fixtures and fittings would have a value of £15 000.
+ 
+• 
+To finance the move to the shop the 8% bank loan would be increased to £25 000.
+
+
+--- Page Break ---
+
+9
+P49575A
+Turn over    
+ 
+(c) Prepare the Forecast Statement of Profit or Loss and Other Comprehensive 
+Income for the first year of trading in the shop ending 30 April 2017.
+(10)
+ 
+(d) Calculate the forecast net profit for the year as a percentage of revenue.
+(3)
+ 
+(e) Evaluate whether Channa should move his business into the shop premises.
+(6)
+(Total for Question 3 = 30 marks)
+
+
+--- Page Break ---
+
+10
+P49575A
+4 The following is a schedule of non-current assets from the records of Jabir.
+Non-current 
+assets
+Balances at 1 May 2015
+For the year ended 30 April 
+2016
+Cost
+Provision for 
+depreciation
+Additions at 
+cost
+Disposals at 
+cost
+£
+£
+£
+£
+Land and 
+buildings
+85 000
+8 000
+20 000
+-
+Computers
+30 000
+9 200
+10 000
+5 000
+Fixtures and 
+fittings
+9 500
+4 300
+1 500
+-
+ 
+The depreciation policy of Jabir is as follows:
+ 
+• 
+No depreciation is charged on land, which cost £35 000. Depreciation is charged 
+on buildings at the rate of 2% per annum using the straight line method.
+ 
+• 
+Computers are depreciated at the rate of 20% per annum using the straight  
+line method.
+ 
+• 
+Fixtures and fittings are depreciated at the rate of 10% per annum using the 
+straight line method.
+ 
+• 
+A full year’s depreciation is charged in the year of addition (purchase).
+ 
+• 
+A half year’s depreciation is charged in the year of disposal (sale).
+
+
+--- Page Break ---
+
+11
+P49575A
+Turn over    
+ 
+Additional information
+ 
+(1) All non-current asset additions were paid for by cheque.
+ 
+(2) All disposals were transferred to the Disposals Account.
+ 
+(3) The computer disposed of in the year had been purchased on 1 January 2014.
+ 
+Required
+ 
+(a) Explain why Jabir needs to charge depreciation on his non-current assets.
+(4)
+ 
+(b) Calculate the depreciation to be charged on the computers for the year ended 
+30 April 2016.
+(2)
+ 
+(c) Prepare, for the year ended 30 April 2016, the:
+ 
+ 
+(i) Computers Account
+(5)
+ 
+ 
+(ii) Computers – Provision for Depreciation Account.
+(5)
+ 
+(d) Complete in the question paper the extract from the Statement of Financial 
+Position at 30 April 2016 for the non-current assets.
+(8)
+Non-current assets
+Cost
+Accumulated 
+depreciation
+Carrying value
+£
+£
+£
+Land and buildings
+Computers
+Fixtures and fittings
+Total
+ 
+(e) Evaluate Jabir’s depreciation policy for computers.
+(6)
+(Total for Question 4 = 30 marks)
+
+
+--- Page Break ---
+
+12
+P49575A
+5 Hiruni makes parts for washing machines. Her largest contract is to supply part PNC3 
+to a major manufacturer, Wash the World. 
+ 
+The following information is available for part PNC3:
+ 
+• 
+Manufacture of part PNC3 is in batches of 200 
+ 
+• 
+Raw materials cost £303.70 per batch
+ 
+• 
+Direct labour per batch – 30 hours Assembly
+ 
+ 
+ 
+20 hours Finishing
+ 
+ 
+Direct labour is paid at the rate of £5 per hour for Assembly and £4 per hour  
+for Finishing
+ 
+• 
+Overheads:
+ 
+£
+ 
+Rent and rates 
+16 000
+ 
+Employment insurance 
+9 000
+ 
+Premises maintenance 
+12 000
+ 
+Management salaries 
+18 000
+ 
+There are three departments, two production departments, Assembly and Finishing 
+and one service department, Administration
+ 
+Additional information
+  
+Assembly 
+Finishing 
+Administration
+ Floor area occupied (sq m) 
+4 000 
+2 400 
+1 600
+ Direct labour hours (per annum) 
+9 200 
+5 600 
+3 200
+ 
+Administration costs are reapportioned to the production departments on the basis 
+of 50% to Assembly and 50% to Finishing.
+ 
+Overheads are recovered on the basis of direct labour hours
+ 
+• 
+Mark-up
+ 
+ 
+Hiruni adds 15% to production cost for her profit.
+ 
+Required
+ 
+(a) Explain the terms:
+ 
+ 
+(i) semi-fixed cost
+(2)
+ 
+ 
+(ii) semi-variable cost.
+(2)
+ 
+(b) Explain the difference between allocated overheads and apportioned 
+overheads.
+(4)
+
+
+--- Page Break ---
+
+13
+P49575A
+ 
+(c) Calculate the:
+ 
+ 
+(i) total overhead for each of the three departments
+(7)
+ 
+ 
+(i) overhead recovery rate to be used in each of the Assembly and  
+Finishing Departments.
+(2)
+ 
+(d) Calculate the selling price of one part PNC3.
+(7)
+ 
+Hiruni has been requested by Wash the World to reduce the price of part PNC3 from 
+the existing £5 per part to £4 per part.
+ 
+(e) Evaluate whether Hiruni should meet Wash the World’s request to reduce her 
+selling price for part PNC3.
+(6)
+(Total for Question 5 = 30 marks)
+Turn over    
+
+
+--- Page Break ---
+
+14
+P49575A
+6 Dula prepared draft financial statements that showed a profit of £72 000 for the year 
+ended 30 April 2016. On further inspection the following errors were discovered:
+ 
+(1) The entries for a credit sale of goods to Ruwan, £750, had been reversed in  
+the books.
+ 
+(2) Some goods had been shown in the closing inventory count at their retail value 
+of £1 350. All goods are marked-up by 50%.
+ 
+(3) Motor vehicle expenses of £400 had been recorded in the Motor Vehicles 
+Account. Depreciation of £80 had been charged wrongly in the draft financial 
+statements.
+ 
+(4) Rent receivable of £2 300 had been correctly entered in the Bank Account and 
+debited to the Rent Receivable Account.
+ 
+(5) Dula had paid herself a salary of £6 100, which had been recorded in the  
+Wages Account.
+ 
+Required
+ 
+(a) State four types of error that will not affect the balancing of the books.
+(4)
+ 
+(b) Prepare the journal entries to correct the errors (1) to (5). Narratives are  
+not required.
+(12)
+
+
+--- Page Break ---
+
+15
+P49575A
+ 
+(c) Complete the table, in the question paper, showing the revised profit for the year 
+after the correction of all errors.
+(8)
+£
+Draft profit for the year
+72 000
+Increase 
+Profit
+Decrease 
+Profit
+Error
+£
+£
+(1)
+The entries for a sale of goods to 
+Ruwan, £750, had been reversed in 
+the books
+(2)
+Some goods had been shown 
+in the closing inventory count 
+at their retail value of £1 350. All 
+goods are marked-up by 50%
+(3)
+Motor vehicle expenses of £400 
+had been recorded in the Motor 
+Vehicles Account. Depreciation of 
+£80 had been charged wrongly in 
+the draft financial statements
+(4)
+Rent receivable of £2 300 had 
+been correctly entered in the Bank 
+Account and debited to the Rent 
+Receivable Account
+(5)
+Dula had paid herself a salary of 
+£6 100, which had been recorded 
+in the Wages Account.
+Total increase profit and decrease 
+profit
+Revised profit for the year
+ 
+A friend of Dula has advised her that the use of an information and communications 
+technology (ICT) accounting software package would avoid errors and provide many 
+other benefits.
+ 
+(d) Evaluate the use of information and communications technology (ICT) accounting 
+software packages.
+(6)
+(Total for Question 6 = 30 marks)
+TOTAL FOR SECTION B = 90 MARKS 
+TOTAL FOR PAPER = 200 MARKS

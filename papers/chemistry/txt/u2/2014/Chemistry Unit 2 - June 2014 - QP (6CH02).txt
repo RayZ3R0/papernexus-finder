@@ -1,0 +1,959 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42971A
+©2014 Pearson Education Ltd.
+6/6/6/6/3/3/
+*P42971A0124*
+Chemistry
+Advanced Subsidiary
+Unit 2:  Application of Core Principles of Chemistry
+Tuesday 3 June 2014 – Afternoon
+Time: 1 hour 30 minutes
+6CH02/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.  
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PMT
+
+
+--- Page Break ---
+
+2
+*P42971A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 When sodium is added to ethanol, which of the following observations would be 
+made?
+ 
+ A Colour change of orange to green
+ 
+ B Effervescence
+ 
+ C Yellow flame
+ 
+ D No change
+(Total for Question 1 = 1 mark)
+2 Which of the following substances does not have intermolecular hydrogen bonds?
+ 
+ A Ethanoic acid, CH3COOH 
+ 
+ B Propanone, CH3COCH3
+ 
+ C Methanol, CH3OH
+ 
+ D Water, H2O
+(Total for Question 2 = 1 mark)
+3 Which of the following molecules has the lowest boiling temperature?
+ 
+ 
+Pentane 
+C3H6 
+ 
+A 
+B 
+C 
+D
+ 
+ A 
+ 
+ B 
+ 
+ C 
+ 
+ D 
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P42971A0324*
+Turn over    
+4 Which of the following molecules has the highest melting temperature?
+ 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+(Total for Question 4 = 1 mark)
+5 Which of the following isomeric alcohols, with molecular formula C5H12O, can be 
+oxidized to a carboxylic acid with five carbon atoms?
+ 
+A 
+OH
+ 
+B 
+OH
+ 
+C 
+OH
+ 
+D
+OH
+(Total for Question 5 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42971A0424*
+6 Consider the infrared spectrum shown below.
+ 
+The IR absorption ranges associated with some organic functional groups are given 
+below.
+ 
+O–H stretching in alcohols (variable, broad) 
+ 
+3750 – 3200 cm–1 
+ 
+O–H stretching in carboxylic acids (weak) 
+ 
+3300 – 2500 cm–1
+ 
+C=O stretching in aldehydes (strong)  
+ 
+1740 – 1720 cm–1
+ 
+C=O stretching in ketones (strong) 
+ 
+ 
+1700 – 1680 cm–1
+ 
+C=O stretching in carboxylic acids, alkyl (strong) 
+1725 – 1700 cm–1
+ 
+C–H stretching in aldehydes (weak) 
+ 
+ 
+ 2900 – 2820 cm–1 and 2775 – 2700 cm–1
+ 
+Which of the following could have produced the above spectrum?
+ 
+ A An aldehyde
+ 
+ B An alcohol
+ 
+ C A carboxylic acid
+ 
+ D A ketone
+(Total for Question 6 = 1 mark)
+Wavenumber / cm–1
+Transmittance  
+/ %
+4000
+3000
+2000
+1500
+1000
+500
+100
+50
+0
+PMT
+
+
+--- Page Break ---
+
+5
+*P42971A0524*
+Turn over    
+7 In a mass spectrum of butane, C4H10, where would a peak be seen for the molecular 
+ion if it had a charge of 2+?
+ 
+A 29
+ 
+B 56
+ 
+C 58
+ 
+D 60
+(Total for Question 7 = 1 mark)
+8 When a flame test is carried out on calcium iodide, the colour of the flame is
+ 
+A yellow-red.
+ 
+B pale green.
+ 
+C purple.
+ 
+D crimson.
+(Total for Question 8 = 1 mark)
+9 The indicator methyl orange is a weak acid and may be represented by the formula 
+HA(aq).  The equation for its dissociation is shown below.
+ 
+ 
+HA(aq) 
+U 
+A–(aq) 
++ 
+H+(aq)
+ 
+Colour: 
+Red 
+ 
+Yellow
+ 
+Under certain conditions, at equilibrium, a solution of HA has a yellow colour.  On 
+addition of a small volume of dilute sodium hydroxide, the colour of this solution 
+would
+ 
+A change from yellow to red.
+ 
+B change from yellow to orange.
+ 
+C change from yellow to orange and then to red.
+ 
+D not change.
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P42971A0624*
+10 Consider the following Group 2 compounds.
+Group 2 hydroxides
+Group 2 sulfates
+Mg(OH)2
+MgSO4
+Ca(OH)2
+CaSO4
+Sr(OH)2
+SrSO4
+ 
+The solubility
+ 
+ A increases down the group for both hydroxides and sulfates.
+ 
+ B increases down the group for hydroxides but increases up the group for sulfates.
+ 
+ C increases up the group for hydroxides but increases down the group for sulfates.
+ 
+ D increases up the group for both hydroxides and sulfates.
+(Total for Question 10 = 1 mark)
+11 Which of the following is the correct equation for the decomposition of the 
+corresponding nitrate?
+ 
+ A 4LiNO3 
+o 2Li2O 
++ 
+4NO2 
++ 
+O2
+ 
+ B 4NaNO3 
+o 2Na2O 
++ 
+4NO2 
++ 
+O2
+ 
+ C Mg(NO3)2 o Mg(NO2)2 
++ 
+O2
+ 
+ D Ba(NO3)2 o Ba(NO2)2 
++ 
+O2
+(Total for Question 11 = 1 mark)
+12 What is the oxidation number of phosphorus in P4O6?
+ 
+ A +3
+ 
+ B +4
+ 
+ C +5
+ 
+ D +6
+(Total for Question 12 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42971A0724*
+Turn over    
+13 For barium, the third ionization energy is higher than the second ionization energy 
+because
+ 
+A there is an increase in the number of protons.
+ 
+B there is an increase in the shielding.
+ 
+C the ionic radius is greater.
+ 
+D the electron being removed is closer to the nucleus.
+(Total for Question 13 = 1 mark)
+14 The reaction profile for an endothermic reaction is shown below.
+ 
+(a) Which arrow represents the activation energy for the forward reaction?
+(1)
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+ 
+(b) Which arrow represents the activation energy for the backward reaction?
+(1)
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+(Total for Question 14 = 2 marks)
+Energy
+Products
+Reactants
+A
+B
+C
+D
+Progress of reaction
+PMT
+
+
+--- Page Break ---
+
+8
+*P42971A0824*
+15 Consider the Maxwell-Boltzmann distribution of energies for a gas shown below.  
+Ea represents the activation energy.
+ 
+The shaded area of the diagram indicates the total number of particles that
+ 
+ A do have enough energy to react.
+ 
+ B do not have enough energy to react.
+ 
+ C do have enough energy to react in the presence of a catalyst.
+ 
+ D do not have enough energy to react in the presence of a catalyst.
+(Total for Question 15 = 1 mark)
+16 Which of the following is a pure form of carbon that has both hexagonal and 
+pentagonal rings in its structure and can conduct electricity?
+ 
+ A Charcoal
+ 
+ B Buckminsterfullerene
+ 
+ C Diamond
+ 
+ D Graphite
+(Total for Question 16 = 1 mark)
+17 Hydrogen, H2, is not a completely ‘carbon neutral’ fuel.  Which of the following is an 
+incorrect reason for this?
+ 
+ A Some CO2 is released in the transportation of H2 fuel.
+ 
+ B CO2 is made when the electricity is generated for the manufacture of H2.
+ 
+ C A small amount of CO2 is produced on the combustion of H2 fuel.
+ 
+ D CO2 is released during the construction of the H2 manufacturing plant.
+(Total for Question 17 = 1 mark)
+Number of 
+particles with 
+energy, E
+Energy, E
+Ea
+PMT
+
+
+--- Page Break ---
+
+9
+*P42971A0924*
+Turn over    
+18 When steam is passed over heated magnesium, which of the following occurs?
+ 
+A Mg    +     H2O    o    MgO 
++      H2
+ 
+B Mg    +     H2O    o    MgOH 
++    ½H2
+ 
+C Mg    +    2H2O    o    Mg(OH)2 
++      H2
+ 
+D There is no reaction with the magnesium.
+(Total for Question 18 = 1 mark)
+19 Which of the following will not affect the rate of the reaction below?
+CaCO3(s)  +  2HCl(aq)  oCaCl2(aq)  +  H2O(l)  +  CO2(g)
+ 
+A Surface area
+ 
+B Concentration
+ 
+C Pressure
+ 
+D Temperature
+(Total for Question 19 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P42971A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 Brand X is unlike many conventional toilet cleaners in that it does not contain 
+bleach, but instead contains hydrochloric acid.  The label states that the toilet cleaner 
+contains 9 g of HCl per 100 cm3 of the toilet cleaner.
+ 
+An industrial technician was given the task of checking the validity of this statement.  
+Using 25.0 cm3 portions of the toilet cleaner, the technician carried out a titration 
+using 2.50 mol dm–3 sodium hydroxide solution and obtained the following results.
+Titration
+Trial
+1
+2
+Final Volume /cm3
+25.00
+49.60
+24.50
+Initial Volume /cm3
+0.00
+25.00
+0.00
+Volume Added /cm3
+ 
+(a) (i) Complete the table and calculate the mean titre by selecting the appropriate 
+results.
+(1)
+ 
+ 
+(ii) Write the equation for the titration reaction.  State symbols are not required.
+(1)
+ 
+ 
+(iii) Calculate the number of moles of sodium hydroxide that reacted.
+(1)
+PMT
+
+
+--- Page Break ---
+
+11
+*P42971A01124*
+Turn over    
+ 
+ 
+(iv) Hence state the number of moles of hydrochloric acid that reacted with the 
+sodium hydroxide.
+(1)
+ 
+ 
+(v) Calculate the mass of HCl present in 100 cm3 of the toilet cleaner.  Give your 
+answer to 3 significant figures.
+(2)
+ 
+ 
+(vi) Using the technician’s results, comment on the validity of the manufacturer’s 
+statement that the toilet cleaner contained 9 g of HCl per 100 cm3.  Justify 
+your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vii) Explain why titrations involving the use of a 2.50 mol dm–3 sodium hydroxide 
+solution would not be advisable in a school or college laboratory.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P42971A01224*
+ 
+(b) Conventional toilet cleaners contain a bleaching agent.  Chloric(I) acid, HOCl, is 
+one such substance.
+ 
+ 
+Draw the dot and cross diagram for chloric(I) acid.  Show outer electrons only.
+(1)
+ 
+(c) The instructions for the use of Brand X state that the toilet cleaner should not be 
+used with bleaching agents.
+ 
+ 
+Complete the equation for the reaction between the hydrochloric acid in the 
+toilet cleaner and the chloric(I) acid in the bleaching agent.  Give a reason why 
+this reaction is to be avoided in accordance with the instructions for the use of 
+the toilet cleaner.
+(2)
+ 
+ 
+Equation      HCl  +  HOCl  o
+Reason
+
+
+ 
+(d) Another bleaching agent is sodium chlorate(I), NaClO, which can be purchased 
+as a solution.  It can also be obtained by bubbling chlorine gas into sodium 
+hydroxide solution.
+ 
+ 
+(i) Give the oxidation numbers of the chlorine-containing species in the equation 
+below and classify the reaction as a result of your answer.
+2NaOH(aq)    +    Cl2(g)    
+    NaCl(aq)    +    NaClO(aq)    +    H2O(l)
+Oxidation 
+Number
+ 
+…..........…… 
+….............…… 
+…...............……
+(2)
+Type of reaction  ......................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P42971A01324*
+Turn over    
+ 
+ 
+(ii) State how the reaction conditions would need to be changed in order to 
+produce sodium chlorate(V) instead of sodium chlorate(I).
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Give the equation for the reaction between chlorine and sodium hydroxide 
+solution that forms sodium chlorate(V) as one of the products.  State symbols 
+are not required.
+(2)
+(Total for Question 20 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P42971A01424*
+21 This is a question about halogenoalkanes.
+ 
+(a) Halogenoalkanes can react with hydroxide ions in different ways depending on 
+the conditions used.  Using 1-chloro-1-fluoroethane, CH3CHClF, as an example of a 
+halogenoalkane, the following reaction could occur in aqueous solution.
+CH3CHClF    +    OH−    o    CH3CHOHF    +    Cl–
+ 
+ 
+(i) Suggest why it is unlikely that the fluorine atom in CH3CHClF would be 
+substituted by the hydroxide ion.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) A student attempted to draw the reaction mechanism for the reaction in (a)(i), 
+but made a total of three errors.
+ 
+ 
+ 
+Identify these errors and state how they should be corrected.
+(3)
+First error .........................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Second error .................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Third error .......................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P42971A01524*
+Turn over    
+ 
+ 
+(iii) In hot alcoholic solution, a different reaction may occur between 
+halogenoalkanes and hydroxide ions.
+ 
+ 
+ 
+Write the equation for the reaction between 1-chloro-1-fluoroethane, 
+CH3CHClF, and hydroxide ions in alcoholic solution.
+(2)
+ 
+(b) Chloroethane can be produced in various ways as shown below.  Identify, by 
+name or formula, the reagent needed for each of these reactions.
+(3)
+ 
+(c) (i) Chloroethane will react with alcoholic ammonia initially to produce 
+ethylamine.  Complete the equation for this reaction.
+(1)
+..............................    +    NH3    o    ..............................    +    ..............................
+ 
+ 
+(ii) Name the type and mechanism of the reaction occurring in (c)(i).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) What feature of the ammonia molecule enables the reaction in (c)(i) to take 
+place?
+(1)
+....................................................................................................................................................................................................................................................................................
+C2H6
+C2H5OH
+C2H5Cl
+C2H4
+(i) .......................................................
+(ii) .....................................................
+(iii) ....................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P42971A01624*
+ 
+ 
+(iv) If aqueous ammonia was used in (c)(i), instead of alcoholic ammonia, suggest 
+the identity of the organic product that would be formed.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Dichlorodifluoromethane, CCl2F2, is also known as Freon 12 and its manufacture 
+was banned in 1994 under the terms of the Montreal Protocol.
+ 
+ 
+(i) Complete the equation for the initiation stage and suggest equations for two 
+of the propagation stages and a termination stage for the mechanism of the 
+reaction that this molecule might undergo with ozone.
+(4)
+ 
+ 
+ 
+Initiation 
+CCl2F2   o
+ 
+ 
+ 
+Propagation 1
+ 
+ 
+ 
+Propagation 2
+ 
+ 
+ 
+Termination
+ 
+ 
+*(ii) Explain why the effect of Freon 12 molecules on the ozone layer was such a 
+serious issue that scientists recommended its use to be discontinued.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Freon 12, CCl2F2, could also be described as a “greenhouse gas”.  Explain what 
+the term ‘greenhouse gas’ means.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P42971A01724*
+Turn over    
+ 
+ 
+(iv) Freon 12, and other similar molecules, are not normally viewed as contributors 
+to the greenhouse effect.  Suggest why this is so.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 23 marks)
+TOTAL FOR SECTION B = 39 MARKS
+PMT
+
+
+--- Page Break ---
+
+18
+*P42971A01824*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+22
+ 
+(a) Complete and balance the equation for this reaction.  State symbols are not 
+required.
+(2)
+Mg2Si    +    ............HCl    
+    .....................................................................    +    .....................................................................
+ 
+(b) Bubbles of silane rise to the surface in the reaction mixture and spontaneously 
+combust with oxygen in the air.
+ 
+ 
+Suggest the names or formulae of the products of the reaction between silane 
+and oxygen.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Predict the molecular shape of silane, SiH4, and suggest the bond angle.
+(2)
+Shape  .................................................................................................................................................................................................................................................................
+Bond angle ....................................................................................................................................................................................................................................................
+Spontaneous combustion is often a subject of fantasy in movies, but it does 
+actually happen with some chemical compounds.  One such compound is silane, 
+SiH4, which is analogous to methane, CH4.  Methane is the main gas that is used 
+in school and college laboratories with Bunsen burners, but it requires a spark or 
+a lighted splint to ignite.  Silane does not require any such ignition, and at room 
+temperature is spontaneously flammable.  This can make an interesting chemical 
+demonstration.
+One method of making silane is by mixing together two solids, silicon dioxide 
+and magnesium, with the magnesium being in excess.  The two chemicals are 
+thoroughly mixed together.  This mixture is then heated to red-heat and initially 
+produces powdered silicon.  The silicon then reacts further with the excess 
+magnesium powder and forms magnesium silicide, Mg2Si.  The two reactions which 
+occur are shown in the equations below.
+ 
+SiO2    +    2Mg    
+    2MgO    +    Si
+ 
+Si 
+ +    2Mg    
+    Mg2Si
+The magnesium silicide formed is then reacted with hydrochloric acid to form 
+silane, SiH4.
+PMT
+
+
+--- Page Break ---
+
+19
+*P42971A01924*
+Turn over    
+ 
+(d) Explain why the Si–H bond is longer than the C–H bond.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(e) Identify the intermolecular forces present in pure samples of both silane and 
+methane.
+ 
+ 
+Explain why silane has a higher boiling temperature than methane and why both 
+are gases at room temperature.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) (i) Define the term electronegativity.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+20
+*P42971A02024*
+ 
+ 
+*(ii) Some Pauling electronegativity values for selected elements are given below.
+H 
+2.1
+ 
+ 
+ 
+ 
+ 
+ 
+Li 
+1.0
+Be 
+1.5
+B 
+2.0
+C 
+2.5
+N 
+3.0
+O 
+3.5
+F 
+4.0
+Na 
+0.9
+Mg 
+1.2
+Al 
+1.5
+Si 
+1.8
+P 
+2.1
+S 
+2.5
+Cl 
+3.0
+ 
+ 
+ 
+Using the values in the table above, compare the polarity of the bonds in a 
+molecule of methane with that found in a molecule of silane.
+ 
+ 
+ 
+Comment on the significance of any difference.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Using the table in (f)(ii), choose an element which, when covalently bonded to 
+hydrogen, forms a molecule containing bonds that are more polar than those 
+in silane or methane.  Give the formula of the hydride of your chosen element 
+and state the electronegativity difference.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Explain why it is possible for the bonds within a molecule to be polar, but for 
+the molecule itself to be non-polar.  Give an example of such a molecule.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+21
+*P42971A02124*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+22
+*P42971A02224*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+23
+*P42971A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+*P42971A02424*
+PMT

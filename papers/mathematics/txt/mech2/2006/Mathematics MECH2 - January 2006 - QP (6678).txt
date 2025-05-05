@@ -1,0 +1,358 @@
+Paper Reference(s) 
+6678/01 
+Edexcel GCE 
+Mechanics M2 
+Advanced /Advanced Subsidiary 
+Thursday 12 January 2006 − Afternoon 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Mathematical Formulae (Green or Lilac)                   Nil 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M2), the paper reference (6678), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+The marks for individual questions and the parts of questions are shown in round brackets: e.g. (2). 
+There are 7 questions on this paper. The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N20907A 
+ 
+This publication may only be reproduced in accordance with Edexcel Limited copyright policy. 
+©2006 Edexcel Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+A brick of mass 3 kg slides in a straight line on a horizontal floor. The brick is modelled as a 
+particle and the floor as a rough plane. The initial speed of the brick is 8 m s–1. The brick is 
+brought to rest after moving 12 m by the constant frictional force between the brick and the 
+floor. 
+ 
+ 
+(a) Calculate the kinetic energy lost by the brick in coming to rest, stating the units of your 
+answer. 
+(2) 
+ 
+(b) Calculate the coefficient of friction between the brick and the floor. 
+(4) 
+      
+ 
+2. 
+A particle P of mass 0.4 kg is moving so that its position vector r metres at time t seconds is 
+given by 
+ 
+r = (t2 + 4t)i + (3t – t3)j. 
+ 
+ 
+(a) Calculate the speed of P when t = 3. 
+(5) 
+ 
+ 
+When t = 3, the particle P is given an impulse (8i – 12j) N s. 
+ 
+ 
+(b) Find the velocity of P immediately after the impulse.  
+ (3) 
+ 
+ 
+3. 
+A car of mass 1000 kg is moving along a straight horizontal road. The resistance to motion is 
+modelled as a constant force of magnitude R newtons. The engine of the car is working at a 
+rate of 12 kW. When the car is moving with speed 15 m s–1, the acceleration of the car 
+is 0.2 m s–2.  
+ 
+ 
+(a) Show that R = 600.  
+(4) 
+ 
+ 
+The car now moves with constant speed U m s–1 downhill on a straight road inclined at θ to 
+the horizontal, where sin θ = 40
+1 . The engine of the car is now working at a rate of 7 kW. The 
+resistance to motion from non-gravitational forces remains of magnitude R newtons.  
+ 
+ 
+(c) Calculate the value of U. 
+(5) 
+ 
+ 
+N20907A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4. 
+A particle A of mass 2m is moving with speed 3u in a straight line on a smooth horizontal 
+table. The particle collides directly with a particle B of mass m moving with speed 2u in the 
+opposite direction to A. Immediately after the collision the speed of B is 3
+8 u and the direction 
+of motion of B is reversed. 
+ 
+ 
+(a) Calculate the coefficient of restitution between A and B. 
+(6) 
+ 
+(b) Show that the kinetic energy lost in the collision is 7mu2. 
+ 
+(3) 
+ 
+After the collision B strikes a fixed vertical wall that is perpendicular to the direction of 
+motion of B. The magnitude of the impulse of the wall on B is 3
+14 mu. 
+ 
+(c) Calculate the coefficient of restitution between B and the wall. 
+(4) 
+ 
+ 
+N20907A 
+3 
+Turn over 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+     Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 shows a triangular lamina ABC. The coordinates of A, B and C are (0, 4), (9, 0) and 
+(0, –4) respectively. Particles of mass 4m, 6m and 2m are attached at A, B and C respectively.  
+ 
+ 
+(a) Calculate the coordinates of the centre of mass of the three particles, without the lamina. 
+(4) 
+ 
+ 
+The lamina ABC is uniform and of mass km. The centre of mass of the combined system 
+consisting of the three particles and the lamina has coordinates (4, λ). 
+ 
+ 
+(b) Show that k = 6. 
+(3) 
+ 
+(c) Calculate the value of λ. 
+(2) 
+ 
+ 
+The combined system is freely suspended from O and hangs at rest. 
+ 
+ 
+(c) Calculate, in degrees to one decimal place, the angle between AC and the vertical. 
+ (3) 
+ 
+4m 
+4 
+4 
+2m 
+6m 
+O 
+9 
+C 
+A 
+B 
+y 
+x 
+N20907A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+6. 
+ 
+ 
+ 
+ 
+ 
+ 
+     Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A ladder AB, of weight W and length 4a, has one end A on rough horizontal ground. The 
+coefficient of friction between the ladder and the ground is µ. The other end B rests against a 
+smooth vertical wall. The ladder makes an angle θ with the horizontal, where tan θ = 2. A load 
+of weight 4W is placed at the point C on the ladder, where AC = 3a, as shown in Figure 2. The 
+ladder is modelled as a uniform rod which is in a vertical plane perpendicular to the wall. The 
+load is modelled as a particle. Given that the system is in limiting equilibrium, 
+ 
+ 
+(a) show that µ = 0.35. 
+(6) 
+ 
+ 
+A second load of weight kW is now placed on the ladder at A. The load of weight 4W is 
+removed from C and placed on the ladder at B. The ladder is modelled as a uniform rod which 
+is in a vertical plane perpendicular to the wall. The loads are modelled as particles. Given that 
+the ladder and the loads are in equilibrium, 
+ 
+ 
+(b) find the range of possible values of k. 
+(7) 
+ 
+ 
+ 
+A 
+θ 
+B 
+a 
+3a 
+C 
+N20907A 
+5 
+Turn over 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+     Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The object of a game is to throw a ball B from a point A to hit a target T which is placed at the 
+top of a vertical pole, as shown in Figure 3. The point A is 1 m above horizontal ground and 
+the height of the pole is 2 m. The pole is at a horizontal distance of 10 m from A. The ball B is 
+projected from A with a speed of 11 m s–1 at an angle of elevation of 30°. The ball hits the 
+pole at the point C. The ball B and the target T are modelled as particles. 
+ 
+ 
+(a) Calculate, to 2 decimal places, the time taken for B to move from A to C.  
+(3) 
+ 
+(b) Show that C is approximately 0.63 m below T.  
+(4) 
+ 
+ 
+The ball is thrown again from A. The speed of projection of B is increased to V m s–1, the 
+angle of elevation remaining 30°. This time B hits T.  
+ 
+ 
+(c) Calculate the value of V. 
+(6) 
+ 
+(d) Explain why, in practice, a range of values of V would result in B hitting the target. 
+(1) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+1 m 
+11 m s–1 
+30°
+A 
+2 m 
+C 
+T 
+10 m 
+N20907A 
+6 
+PMT
+PMT

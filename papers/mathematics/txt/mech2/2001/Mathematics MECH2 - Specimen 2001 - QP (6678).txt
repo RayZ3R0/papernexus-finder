@@ -1,0 +1,184 @@
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy.
+Edexcel Foundation is a registered charity. © 2003 London Qualifications Limited
+Paper Reference(s)
+6678
+Edexcel GCE
+Mechanics M2
+Advanced Level
+Specimen Paper
+Time: 1 hour 30 minutes
+Materials required for examination                       Items included with question papers
+Answer Book (AB16)                                                Nil
+Mathematical Formulae (Lilac)
+Graph Paper (ASG2)
+Candidates may use any calculator EXCEPT those with the facility for symbolic
+algebra, differentiation and/or integration. Thus candidates may NOT use
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G,
+Hewlett Packard HP 48G.
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your
+centre number, candidate number, the unit title (Mechanics M2), the paper reference (6678),
+your surname, other name and signature.
+Whenever a numerical value of g is required, take g = 9.8 m s2.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has eight questions.
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers
+without working may gain no credit.
+PMT
+
+
+--- Page Break ---
+
+U
+1.
+The vectors i and j are perpendicular unit vectors in a horizontal plane.  A ball of mass 0.5 kg is
+moving with velocity –20i m s1 when it is struck by a bat. The bat gives the ball an impulse of
+(15i + 10j) Ns.  
+Find, to 3 significant figures, the speed of the ball immediately after it has been struck.
+(5)
+2.
+A bullet of mass 6 grams passes horizontally through a fixed, vertical board.  After the bullet has
+travelled 2 cm through the board its speed is reduced from 400 m s1 to 250 m s1.  The board
+exerts a constant resistive force on the bullet.  
+Find, to 3 significant figures, the magnitude of this resistive force.
+(5)
+3.
+At time t seconds, a particle P has position vector r metres relative to a fixed origin O, where 
+r = (t3 – 3t)i + 4t2j,  t  0.
+Find
+(a) the velocity of P at time t seconds,
+(2)
+(b) the time when P is moving parallel to the vector i + j.
+(5)
+PMT
+
+
+--- Page Break ---
+
+V
+Turn Over
+4.
+         Figure 1
+
+A uniform ladder, of mass m and length 2a, has one end on rough horizontal ground.  The other
+end rests against a smooth vertical wall. A man of mass 3m stands at the top of the ladder and
+the ladder is in equilibrium. The coefficient of friction between the ladder and the ground is 4
+1 ,
+and the ladder makes an angle α with the vertical, as shown in Fig. 1. The ladder is in a vertical
+plane perpendicular to the wall.  
+Show that 
+.
+tan
+7
+2
+
+
+(9)
+5.  
+A straight road is inclined at an angle α to the horizontal, where 
+.
+sin
+20
+1
+
+
+ A lorry of mass
+4800 kg moves up the road at a constant speed of 12 m s1. The non-gravitational resistance to
+the motion of the lorry is constant and has magnitude 2000 N.
+(a)  Find, in kW to 3 significant figures, the rate of working of the lorry’s engine.
+(5)
+The road becomes horizontal. The lorry’s engine continues to work at the same rate and the
+resistance to motion remains the same.
+Find
+(b)  the acceleration of the lorry immediately after the road becomes horizontal,
+(3)
+(c)  the maximum speed, in m s1 to 3 significant figures, at which the lorry will go along the
+horizontal road.
+(3)
+PMT
+
+
+--- Page Break ---
+
+NM
+6.
+A cricket ball is hit from a height of 0.8 m above horizontal ground with a speed of 26 m s1 at
+an angle α above the horizontal, where 
+12
+5
+tan
+
+
+. The motion of the ball is modelled as that of
+a particle moving freely under gravity.
+(a)  Find, to 2 significant figures, the greatest height above the ground reached by the ball.
+(4)
+When the ball has travelled a horizontal distance of 36 m, it hits a window.
+(b)  Find, to 2 significant figures, the height above the ground at which the ball hits the window.
+(7)
+(c)  State one physical factor which could be taken into account in any refinement of the model
+which would make it more realistic.
+(1)
+Figure 2
+7.
+A uniform plane lamina ABCDE is formed by joining a uniform square ABDE with a uniform
+triangular lamina BCD, of the same material, along the side BD, as shown in Fig. 2.  The lengths
+AB, BC and CD are 18 cm, 15 cm and 15 cm respectively.  
+(a)  Find the distance of the centre of mass of the lamina from AE. 
+(9)
+The lamina is freely suspended from B and hangs in equilibrium.
+(b)  Find, in degrees to one decimal place, the angle which BD makes with the vertical.
+(4)
+18 cm
+A
+B
+E
+D
+C
+15 cm
+PMT
+
+
+--- Page Break ---
+
+qìêå=çîÉê
+NN
+8.
+A particle A of mass m is moving with speed 3u on a smooth horizontal table when it collides
+directly with a particle B of mass 2m which is moving in the opposite direction with speed u.
+The direction of motion of A is reversed by the collision. The coefficient of restitution between A
+and B is e.
+(a)  Show that the speed of B immediately after the collision is 
+u.
+e
+4
+1
+3
+1
+
+(6)
+(b)  Show that 
+.
+8
+1
+
+e
+(3)
+Subsequently B hits a wall fixed at right angles to the line of motion of A and B. The coefficient
+of restitution between B and the wall is 2
+1 . After B rebounds from the wall, there is a further
+collision between A and B.
+(c)  Show that 
+.
+4
+1
+
+e
+(4)
+END
+PMT

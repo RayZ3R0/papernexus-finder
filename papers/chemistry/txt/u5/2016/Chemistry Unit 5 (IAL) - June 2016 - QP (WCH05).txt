@@ -1,0 +1,1339 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P46665A
+©2016 Pearson Education Ltd.
+6/6/6/3/3/3/1/e2/
+*P46665A0132*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Wednesday 22 June 2016 – Morning
+Time: 1 hour 40 minutes
+WCH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P46665A0232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 What are the oxidation states of vanadium in the ions shown?
+VO2
++
+VO2+
+VO3
+−
+A
++3
++2
++5
+B
++1
++2
+−1
+C
++5
++4
++7
+D
++5
++4
++5
+(Total for Question 1 = 1 mark)
+2 The conditions of concentration and temperature required for the  
+standard electrode potential of the hydrogen electrode to be exactly 0.0 V are
+Concentration
+Temperature
+A
+1 mol dm−3 H+(aq)
+273 K
+B
+1 mol dm−3 H+(aq)
+298 K
+C
+0.5 mol dm−3 H2SO4 (aq)
+273 K
+D
+0.5 mol dm−3 H2SO4 (aq)
+298 K
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P46665A0332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 Excess potassium iodide solution is added to acidified potassium manganate(VII) solution.  
+The reaction taking place is
+2MnO4
+− + 16H+ + 10I− o 2Mn2+ + 5I2 + 8H2O
+ 
+The iodine produced is titrated, with sodium thiosulfate solution in the burette.
+2S2O3
+2− + I2  o  S4O6
+2− + 2I−
+ 
+(a) The mole ratio of MnO4
+− to S2O3
+2− is
+(1)
+ 
+ 
+A 1:2
+ 
+ 
+B 1:5
+ 
+ 
+C 2:5
+ 
+ 
+D 5:1
+ 
+(b) The titration is carried out without starch indicator.
+ 
+ 
+The colour change at the end point of the titration is
+(1)
+ 
+ 
+A brown to yellow.
+ 
+ 
+B purple to colourless.
+ 
+ 
+C purple to brown.
+ 
+ 
+D yellow to colourless.
+(Total for Question 3 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P46665A0432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 Methanol can be used as the fuel in a fuel cell.
+ 
+The half-equations for the reactions taking place in acidic conditions are
+CO2 + 6H+ + 6e− U CH3OH + H2O               half-equation 1
+ 
+½O2 + 2H+ + 2e− U H2O                               half-equation 2
+ 
+The standard electrode potential of half-equation 1 is +0.02 V.
+ 
+E
+9
+cell for the fuel cell is +1.21V.
+ 
+(a) The standard electrode potential of half-equation 2 is
+(1)
+ 
+ 
+A +1.19 V
+ 
+ 
+B −1.19 V
+ 
+ 
+C +1.23 V
+ 
+ 
+D −1.23 V
+ 
+(b) The half-equations for the reactions taking place in alkaline conditions are
+CO2 + 5H2O + 6e− U CH3OH + 6OH−
+½O2 + H2O + 2e− U 2OH−
+ 
+ 
+The value for E
+9
+cell in alkaline conditions is exactly the same as E
+9
+cell in acidic 
+conditions.  This is because the
+(1)
+ 
+ 
+A acid and alkali are catalysts.
+ 
+ 
+B E
+9 values for the half-equations are the same.
+ 
+ 
+C temperature and pressure are the same.
+ 
+ 
+D overall reaction is the same.
+(Total for Question 4 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P46665A0532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+5 What are the shapes of the complexes [CuCl2]− and [Pt(NH3)2Cl2]?
+[CuCl2]−
+[Pt(NH3)2Cl2]
+A
+V shaped
+square planar
+B
+V shaped
+tetrahedral
+C
+linear
+square planar
+D
+linear
+tetrahedral
+(Total for Question 5 = 1 mark)
+6 An aqueous solution of copper(II) sulfate, containing [Cu(H2O)6]2+ ions, is reacted with 
+solutions containing other ligands.
+ 
+The most stable complex ions will be produced when the water molecules are replaced by
+ 
+ 
+A ammonia molecules.
+ 
+ 
+B chloride ions.
+ 
+ 
+C EDTA ions.
+ 
+ 
+D 1,2-diaminoethane molecules.
+(Total for Question 6 = 1 mark)
+7 Zinc hydroxide reacts with acids to form [Zn(H2O)6]2+ ions and with alkalis to form 
+[Zn(OH)4]2− ions.
+ 
+From this information, it can be deduced that zinc hydroxide is
+ 
+ 
+A only acidic.
+ 
+ 
+B only basic.
+ 
+ 
+C amphoteric.
+ 
+ 
+D not acidic, basic or amphoteric.
+(Total for Question 7 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P46665A0632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+8 Acidified sodium potassium tartrate solution was mixed with hydrogen peroxide solution 
+in a boiling tube.
+ 
+When pink cobalt(II) chloride solution was added to the mixture, there was rapid 
+effervescence as carbon dioxide was produced and the solution turned green.
+C4H4O6
+2− + 5H2O2 + 2H+ ĺ 4CO2 + 8H2O
+ 
+After a few seconds, the effervescence stopped and the solution turned back to pink.
+ 
+From these observations it can be deduced that the cobalt(II) ions are acting as
+ 
+ 
+A a catalyst.
+ 
+ 
+B a dehydrating agent.
+ 
+ 
+C an oxidizing agent.
+ 
+ 
+D a reducing agent.
+(Total for Question 8 = 1 mark)
+9 The structure of aspartame, an artificial sweetener, is shown below.
+ 
+The functional groups in a molecule of aspartame are
+ 
+ 
+A alkene, amine, carboxylic acid, ester and ketone.
+ 
+ 
+B alkene, amide, amine, carboxylic acid and ester.
+ 
+ 
+C amine, arene, carboxylic acid, ester and ketone.
+ 
+ 
+D amide, amine, arene, carboxylic acid and ester.
+(Total for Question 9 = 1 mark)
+O
+O
+H
+NH2
+OH
+O
+O
+N
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P46665A0732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 How many compounds are there which have a benzene ring and the structural 
+formula C6H3(NO2)3?
+ 
+ 
+A 3
+ 
+ 
+B 4
+ 
+ 
+C 5
+ 
+ 
+D 6
+(Total for Question 10 = 1 mark)
+11 When amines dissolve in water they form
+ 
+ 
+A a neutral solution.
+ 
+ 
+B an acidic solution.
+ 
+ 
+C an alkaline solution.
+ 
+ 
+D a zwitterion.
+(Total for Question 11 = 1 mark)
+12 Methyl methacrylate has the structure CH2
+C(CH3)COOCH3.
+ 
+The repeat unit for poly(methyl methacrylate) is
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 12 = 1 mark)
+C
+ C
+CH3
+COOCH3
+H
+H
+C
+C
+CH3
+COOCH3
+H
+H
+C
+C
+CH3
+COOCH3
+H
+H
+C
+C
+ C
+O 
+C
+CH3
+H
+O
+H
+H
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P46665A0832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 A mixture of amino acids is best separated and identified using
+ 
+ 
+A chromatography.
+ 
+ 
+B infrared spectroscopy.
+ 
+ 
+C mass spectrometry.
+ 
+ 
+D solvent extraction.
+(Total for Question 13 = 1 mark)
+14 Lysine is an amino acid and its structure is shown below.
+ 
+In a solution at pH 1.0, lysine will exist as
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 14 = 1 mark)
+CH2NH2
+(CH2)3
+H2NCHCOOH
+CH2N
++ H3
+(CH2)3
+H3N
++ CHCOO–
+CH2N
++ H3
+(CH2)3
+H3N
++ CHCOOH
+CH2NH2
+(CH2)3
+H2NCHCOO−
+CH2NH2
+(CH2)3
+H3N
++ CHCOO−
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P46665A0932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+15 How many different peaks due to hydrogen atoms would you expect to see in a  
+low resolution proton nmr spectrum of 2,2-dimethylpropanal?
+ 
+ 
+A 2
+ 
+ 
+B 3
+ 
+ 
+C 4
+ 
+ 
+D 10
+(Total for Question 15 = 1 mark)
+16 One reason for using steam distillation, rather than fractional distillation, to separate 
+a liquid from a mixture is because the liquid
+ 
+ 
+A decomposes below its boiling temperature.
+ 
+ 
+B has a boiling temperature of 100 oC.
+ 
+ 
+C is flammable.
+ 
+ 
+D is soluble in water.
+(Total for Question 16 = 1 mark)
+17 Complete combustion of a hydrocarbon produced 1.76g of carbon dioxide and  
+0.720g of water.
+ 
+The molecular formula of a hydrocarbon which is consistent with these data is
+ 
+ 
+A C2H6.
+ 
+ 
+B C3H8.
+ 
+ 
+C C4H8.
+ 
+ 
+D C6H6.
+(Total for Question 17 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P46665A01032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+18 Phenylamine can be produced from benzene by the reaction sequence below.
+ 
+The mass of phenylamine, to 2 decimal places, produced from 3.90 g of benzene is
+ 
+ 
+A 1.95g.
+ 
+  
+B 2.79g.
+ 
+ 
+C 3.26g.
+ 
+ 
+D 4.65g.
+(Total for Question 18 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+benzene
+Mr = 78
+Step 1
+yield 70%
+NH2
+phenylamine
+Mr = 93
+Step 2
+yield 60%
+NO2
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P46665A01132*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+19 This question is about benzene and some of its compounds.
+ 
+*(a) In 1865, Kekulé suggested that the benzene molecule was a six-membered 
+carbon ring with alternate double and single bonds.
+ 
+ 
+However, this suggestion did not fully explain the structure and stability of benzene.
+ 
+ 
+State and explain three different types of evidence that led to this structure of benzene 
+being rejected, in favour of benzene with a ring of delocalised electrons.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P46665A01232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Benzene reacts with a mixture of concentrated nitric acid and 
+concentrated sulfuric acid to form nitrobenzene.
+ 
+ 
+(i) Give the mechanism for this reaction, including an equation for the formation 
+of the electrophile.
+(4)
+ 
+ 
+(ii) The preparation of nitrobenzene is usually carried out between 50°C and 60°C.
+ 
+ 
+ 
+Explain why the temperature used should not be higher or lower.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P46665A01332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Benzene reacts with pure bromine when heated under reflux in the presence of a 
+Friedel-Crafts catalyst.  Phenol reacts with bromine water at room temperature.
+ 
+ 
+(i) Write the equation for the reaction between phenol and excess bromine water.
+(2)
+ 
+ 
+*(ii) Explain why phenol reacts with bromine under much milder conditions than 
+those required for the reaction between benzene and bromine.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P46665A01432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) 1-chloro-1-phenylethane is found in some fruits, such as apples, and is used to 
+make fragrances.
+ 
+ 
+It can be synthesised from benzene in three steps.
+ 
+ 
+(i) Identify, by name or formula, the reagent and catalyst used in Step 1.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the structure for Compound X.
+(1)
+  
+ 
+(iii) Identify, by name or formula, the reagent used in Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Identify, by name or formula, the reagent used in Step 3.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 18 marks)
+O
+Step 1
+Step 2
+Compound X
+Step 3
+Cl
+1-chloro-1-phenylethane
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P46665A01532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P46665A01632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+20 Manganese exists in different oxidation states which can be interconverted, using 
+suitable oxidizing and reducing agents.
+ 
+(a) Use relevant standard electrode potential values, from page 17 of the Data Booklet, 
+to complete the table below in which two E
+9 values are missing.
+(1)
+Half-equation
+E
+9/ V
+ 
+MnO4
+−(aq) + e−  U  MnO4
+2−(aq)
+MnO4
+2−(aq) + 2H2O(l) + 2e−  U  MnO2(s) + 4OH−(aq)
+ 
+Mn3+(aq) + e−  U  Mn2+(aq)
++1.49
+MnO4
+−(aq) + 8H+(aq) + 5e−  U  Mn2+(aq) + 4H2O(l)
++1.51
+BiO3
+−(aq) + 6H+(aq) + 2e−  U  Bi3+(aq) + 3H2O(l)
++1.60
+Fe3+(aq) + e−  U  Fe2+(aq)
++0.77
+ 
+(b) The apparatus below is used to measure the standard electrode potential of 
+Mn3+(aq) + e− U Mn2+(aq)
+hydrogen
+gas
+platinum
+electrode
+solution
+containing H+(aq)
+B
+C
+A
+V
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P46665A01732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+Identify, by name or formula, the substances needed in the salt bridge and the  
+right-hand half-cell to measure the standard electrode potential.  
+ 
+The measurement is made at 298 K and 1 atm.  State the other essential condition for 
+solution C.
+(4)
+A  Salt bridge containing a solution of .............................................................................................................................................................................
+B  Electrode made of  .........................................................................................................................................................................................................................
+C  Solution containing  ......................................................................................................................................................................................................................
+ Essential condition  ........................................................................................................................................................................................................................
+ 
+(c) Manganate(VII) ions, MnO4
+−, can be made by oxidizing manganese(II) ions with 
+bismuthate(V) ions, BiO3
+−, in acid solution.
+ 
+ 
+(i) Use the information in (a) to write the overall ionic equation for this reaction.  
+State symbols are not required.
+(2)
+ 
+ 
+(ii) Hence calculate E
+9
+cell for this reaction.  Include a sign and units in your answer.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P46665A01832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+*(d) Iron(II) ions in solution are oxidized by the air to iron(III) ions.
+ 
+ 
+The amounts of iron(II) and iron(III) ions in solution can be found by using titrations 
+with acidified potassium manganate(VII) which only reacts with the iron(II) ions.
+MnO4
+− + 5Fe2+ + 8H+ ĺ Mn2+ + 5Fe3+ + 4H2O
+ 
+ 
+• 
+25.0cm3 portions of a solution A, containing a mixture of iron(II) and iron(III) 
+ions, were acidified and titrated with potassium manganate(VII) solution of 
+concentration 0.0195mol dm−3.   
+ 
+ 
+• 
+The mean titre was 16.80cm3.
+ 
+ 
+• 
+About 150 cm3 of solution A was reacted with excess zinc, which reduced the 
+iron(III) ions to iron(II) ions.  The excess zinc was filtered off.
+ 
+ 
+• 
+25.0cm3 portions of this reduced solution, which contained iron(II) ions but no 
+iron(III) ions were acidified and titrated with potassium manganate(VII) solution 
+of concentration 0.0195 mol dm−3.
+ 
+ 
+• 
+The mean titre was 18.20cm3.
+ 
+ 
+Calculate the mass of iron(II) ions and the mass of iron(III) ions in 500cm3 of the 
+original solution A.
+(5)
+(Total for Question 20 = 13 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P46665A01932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+21 Chromium is in the d-block of the Periodic Table and it is a transition metal.
+ 
+(a) Scandium is also in the d-block of the Periodic Table but it is not a transition metal.
+ 
+ 
+Explain, by giving any relevant electronic configurations, why scandium is not a 
+transition metal.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) When a few drops of aqueous ammonia are added to an aqueous solution of 
+chromium(III) ions, a green precipitate of chromium(III) hydroxide is formed.
+ 
+ 
+Complete the ionic equation for this reaction.  State symbols are not required.
+(2)
+[Cr(H2O)6]3+ + ................ NH3 ĺ
+ 
+(c) Explain, in terms of oxidation numbers of chromium, whether or not each of these 
+two reactions are redox.
+ Cr2O7
+2−  +  14H+  +  6Fe2+  ĺ  2Cr3+  +  7H2O  +  6Fe3+         Reaction 1
+ 
+2CrO4
+2−  +  2H+  ĺ Cr2O7
+2− + H2O                                             Reaction 2
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P46665A02032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Chromium(III) chloride can exist in aqueous solution as three possible complex ions 
+with different numbers of free chloride ions.
+Complex ion
+Free chloride ions
+X
+[Cr(H2O)6]3+ 
+3Cl−
+Y
+[CrCl(H2O)5]2+ 
+2Cl−
+Z
+[CrCl2(H2O)4]+ 
+Cl−
+ 
+ 
+(i) There are two possible structures for complex ion Z.
+ 
+ 
+ 
+Complete the diagrams below to show the two possible structures for 
+complex ion Z.
+(2)
+ 
+ 
+(ii) Name the type of bond between the ligands and the chromium(III) ion and 
+explain how it is formed.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Cr
++
+.......
+.......
+Cr
++
+.......
+.......
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P46665A02132*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) The formula of the complex ion present in the solution is found by adding 
+aqueous silver nitrate to the solution.  This only reacts with the free chloride ions 
+to form a precipitate of silver chloride.
+Ag+(aq)  +  Cl−(aq)  ĺ  AgCl(s)
+ 
+ 
+ 
+The precipitate is then filtered, washed, dried and weighed.   
+ 
+ 
+ 
+In an experiment, 0.012 mol of one of the forms of chromium(III) chloride was 
+used and 3.44g of silver chloride was formed.
+ 
+ 
+ 
+Deduce the formula of the complex ion.  You must show your working.
+(3)
+(Total for Question 21 = 14 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P46665A02232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+22 The drug 3,4-dihydroxyphenylalanine, L-DOPA, is used in the treatment of Parkinson’s disease.
+HO
+HO
+NH2
+OH
+O
+ 
+(a) Give the molecular formula for L-DOPA.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Suggest the organic product of the reaction between L-DOPA and excess 
+ethanoyl chloride.
+(1)
+ 
+(c) Give a chemical reaction and its result that can be used to show the presence of 
+the carboxylic acid group in L-DOPA.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P46665A02332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Molecules of L-DOPA can polymerize to form a polyamide by condensation.
+ 
+ 
+Draw two repeat units of the polyamide formed from L-DOPA.
+(2)
+(Total for Question 22 = 6 marks)
+TOTAL FOR SECTION B = 51 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P46665A02432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+23
+Coloured substances
+Coloured substances, both natural and synthetic, have long been of interest to 
+the human race.  For example, there are over 130 minerals that have been used as 
+gemstones.
+The corundum minerals, which include rubies and sapphires, are mainly 
+aluminium oxide.  Rubies have some of the aluminium ions replaced by  
+chromium(III) ions and they range in colour from pink to deep red.  Sapphires occur in 
+many different colours including blue, yellow, purple, orange and green.
+Diamond is an allotrope of carbon.  It is the hardest naturally occurring substance.  
+Diamonds are often colourless but the presence of nitrogen atoms in natural 
+diamonds gives them a brown or yellow colour, whilst the presence of boron gives 
+them a blue colour.
+Dyes and pigments have been developed as colouring materials.  Dyes are applied as a 
+solution, whilst pigments are solids that are ground into a fine powder and made into 
+a suspension with a suitable liquid.
+Methyl red is an azo dye and is used as an indicator.  Its structure is
+N
+COOH
+N
+N
+CH3
+CH3
+Prussian Blue, Fe4[Fe(CN)6]3, (discovered in 1704) is a deep blue colour and was one of 
+the first synthetic pigments.  It is used as a pigment in paints.
+Colour can arise in many different ways; for example, the colours seen in flame tests 
+and in transition metal compounds.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+25
+*P46665A02532*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+(a) (i) Explain why complex ions containing chromium(III) ions are coloured.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Sapphires have the same type of structure as rubies.   
+ 
+ 
+ 
+Suggest why sapphires and rubies have different colours.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(b) Carbon exists as diamond and graphite.  Explain, in terms of structure and 
+bonding, why diamond is much harder than graphite.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+26
+*P46665A02632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) (i) The standard enthalpy changes of combustion for diamond and graphite are 
+shown below.
+C(diamond)  +  O2(g)  ĺ  CO2(g)  ǻH
+9
+c = −395.4 kJ mol−1
+C(graphite)  +  O2(g)  ĺ  CO2(g)  ǻH
+9
+c = −393.5 kJ mol−1
+ 
+ 
+ 
+Calculate the enthalpy change for the conversion of diamond to graphite.
+Use your answer to draw an enthalpy level diagram for the combustion of 
+diamond and graphite.
+(2)
+ 
+ 
+(ii) Explain which factor, other than enthalpy change, must be considered to 
+show which allotrope is thermodynamically more stable.  
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+27
+*P46665A02732*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) The indicator methyl red, can be formed in two steps, starting from anthranilic acid.
+Step 1
+NH2
+COOH
+Step 2
+N
++ wN CI−
+COOH
+methyl red
+N
+COOH
+N
+N
+CH3
+CH3
+anthranilic acid
+ 
+ 
+(i) State the reagents and condition needed for Step 1.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Step 2 involves a reaction which is similar to the reaction of diazonium ions 
+with phenol.  Suggest the structure of the organic compound which reacts 
+with the diazonium ion in Step 2 to form methyl red.
+(1)
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+28
+*P46665A02832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Use information from page 19 of the Data Booklet to suggest the type of 
+acid-alkali titration for which methyl red indicator would be most suitable.  
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Prussian Blue contains the [Fe(CN)6]4− ion.
+ 
+ 
+(i) The [Fe(CN)6]4− ion is formed when aqueous potassium cyanide is added to an 
+aqueous solution containing Fe2+ ions.
+ 
+ 
+ 
+Write the equation and state the type of reaction taking place when 
+[Fe(CN)6]4− is formed in this way.
+(2)
+Type of reaction ........................................................................................................................................................................................................................................
+ 
+ 
+(ii) State the oxidation number of the iron ions shown in bold in Fe4[Fe(CN)6]3  
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 19 marks)
+TOTAL FOR SECTION C = 19 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+29
+*P46665A02932*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+30
+*P46665A03032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+31
+*P46665A03132*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+32
+*P46665A03232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com

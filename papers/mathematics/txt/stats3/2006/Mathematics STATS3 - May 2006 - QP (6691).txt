@@ -1,0 +1,283 @@
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6691/01 
+Edexcel GCE 
+Statistics S3 
+Advanced Level 
+Monday 19 June 2006 − Morning 
+Time: 1 hour 30 minutes 
+ 
+ 
+Materials required for examination            Items included with question papers 
+Mathematical Formulae (Green) 
+                Nil 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility 
+for symbolic algebra, differentiation and/or integration. Thus 
+candidates may NOT use calculators such as the Texas Instruments 
+TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 48G. 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Statistics S3), the paper reference (6685), your 
+surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the answer 
+should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has 8 questions.  
+The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N22341A 
+This publication may only be reproduced in accordance with Edexcel Limited copyright policy. 
+ 
+©2006 Edexcel Limited 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+Describe one advantage and one disadvantage of 
+ 
+ 
+(a) quota sampling, 
+(2) 
+(b) simple random sampling. 
+ (2) 
+ 
+  
+2. 
+A report on the health and nutrition of a population stated that the mean height of three-year old 
+children is 90 cm and the standard deviation is 5 cm. A sample of 100 three-year old children 
+was chosen from the population.  
+ 
+(a) Write down the approximate distribution of the sample mean height. Give a reason for your 
+answer. 
+(3) 
+(b) Hence find the probability that the sample mean height is at least 91 cm. 
+ (3) 
+ 
+3. 
+A biologist investigated whether or not the diet of chickens influenced the amount of cholesterol 
+in their eggs. The cholesterol content of 70 eggs selected at random from chickens fed diet A had 
+a mean value of 198 mg and a standard deviation of 47 mg. A random sample of 90 eggs from 
+chickens fed diet B had a mean cholesterol content of 201 mg and a standard deviation of 23 mg. 
+ 
+ 
+(a) Stating your hypotheses clearly and using a 5% level of significance, test whether or not 
+there is a difference between the mean cholesterol content of eggs laid by chickens fed on 
+these two diets.  
+(7) 
+ 
+(b) State, in the context of this question, an assumption you have made in carrying out the test in 
+part (a). 
+(2) 
+ 
+N22341A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+The table below shows the price of an ice cream and the distance of the shop where it was 
+purchased from a particular tourist attraction. 
+ 
+Shop 
+Distance from tourist 
+attraction (m) 
+Price (£) 
+A 
+50 
+1.75 
+B 
+175 
+1.20 
+C 
+270 
+2.00 
+D 
+375 
+1.05 
+E 
+425 
+0.95 
+F 
+580 
+1.25 
+G 
+710 
+0.80 
+H 
+790 
+0.75 
+I 
+890 
+1.00 
+J 
+980 
+0.85 
+  
+ 
+ 
+(a) Find, to 3 decimal places, the Spearman rank correlation coefficient between the distance of 
+the shop from the tourist attraction and the price of an ice cream. 
+(5) 
+(b) Stating your hypotheses clearly and using a 5% one-tailed test, interpret your rank 
+correlation coefficient.  
+(4) 
+ 
+5. 
+The workers in a large office block use a lift that can carry a maximum load of 1090 kg. The 
+weights of the male workers are normally distributed with mean 78.5 kg and standard deviation 
+12.6 kg. The weights of the female workers are normally distributed with mean 62.0 kg and 
+standard deviation 9.8 kg. 
+ 
+ 
+Random samples of 7 males and 8 females can enter the lift. 
+ 
+ 
+(a) Find the mean and variance of the total weight of the 15 people that enter the lift. 
+(4) 
+ 
+(b) Comment on any relationship you have assumed in part (a) between the two samples. 
+(1) 
+ 
+(c) Find the probability that the maximum load of the lift will be exceeded by the total weight of 
+the 15 people. 
+(4) 
+ 
+N22341A 
+3 
+Turn over 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+A research worker studying colour preference and the age of a random sample of 50 children 
+obtained the results shown below. 
+ 
+Age in years 
+Red 
+Blue 
+Totals 
+4 
+12 
+6 
+18 
+8 
+10 
+7 
+17 
+12 
+6 
+9 
+15 
+Totals 
+28 
+22 
+50 
+ 
+Using a 5% significance level, carry out a test to decide whether or not there is an association 
+between age and colour preference. State your hypotheses clearly. 
+ (11) 
+ 
+ 
+7. 
+A machine produces metal containers. The weights of the containers are normally distributed. 
+A random sample of 10 containers from the production line was weighed, to the nearest 0.1 kg, 
+and gave the following results 
+ 
+ 
+ 
+ 
+ 
+ 
+49.7, 50.3, 51.0, 49.5, 49.9 
+ 
+ 
+ 
+ 
+ 
+ 
+50.1, 50.2, 50.0, 49.6, 49.7. 
+ 
+(a) Find unbiased estimates of the mean and variance of the weights of the population of metal 
+containers. 
+(5) 
+ 
+The machine is set to produce metal containers whose weights have a population standard 
+deviation of 0.5 kg. 
+ 
+(b) Estimate the limits between which 95% of the weights of metal containers lie. 
+(4) 
+(c) Determine the 99% confidence interval for the mean weight of metal containers. 
+(5) 
+ 
+N22341A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+8. 
+Five coins were tossed 100 times and the number of heads recorded. The results are shown in the 
+table below. 
+ 
+Number 
+of heads 
+0 
+1 
+2 
+3 
+4 
+5 
+Frequency 
+6 
+18 
+29 
+34 
+10 
+3 
+ 
+ 
+(a) Suggest a suitable distribution to model the number of heads when five unbiased coins are 
+tossed. 
+(2) 
+ 
+(b) Test, at the 10% level of significance, whether or not the five coins are unbiased. State your 
+hypotheses clearly. 
+(11) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+                 END 
+N16628A 
+              5 
+ 
+ 
+ 
+PMT
+PMT

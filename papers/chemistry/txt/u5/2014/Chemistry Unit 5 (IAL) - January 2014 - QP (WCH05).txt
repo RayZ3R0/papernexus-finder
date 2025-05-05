@@ -1,0 +1,1143 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42993A
+©2014 Pearson Education Ltd.
+6/6/6/6/2/
+*P42993A0128*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition Metals 
+and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Tuesday 21 January 2014 – Afternoon
+Time: 1 hour 40 minutes
+WCH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t  Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t  The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+t  Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P42993A0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 In which of the following compounds does iron have the highest oxidation number?
+ 
+ 
+A Fe3O4
+ 
+ 
+B K2FeO4
+ 
+ 
+C Na4Fe(CN)6
+ 
+ 
+D Na3Fe(CN)6
+(Total for Question 1 = 1 mark)
+2 Which of the following is not a redox reaction?
+ 
+ 
+A 3CrCl2  +  Na2CrO4  +  8HCl  o  4CrCl3  +  4H2O  +  2NaCl
+ 
+ 
+B 2MnO4
+2−  +  C8H7O3
+−  +  2OH−  o  2MnO4
+3− +  C8H5O3
+−  +  2H2O
+ 
+ 
+C 3MnO4
+2− +  4H+  o  2MnO4
+−  +  MnO2  +  2H2O
+ 
+ 
+D MnO4
+−  +  3H2SO4  o  MnO3
++  +  H3O+  +  3HSO4
+−
+(Total for Question 2 = 1 mark)
+3 The standard reduction potentials of two systems are given below.
+Cu2+(aq)  +  2e−  U  Cu(s)      E
+9  =  +0.34 V
+Ag+(aq)  +  e−  U  Ag(s)        E
+9  =  +0.80 V
+ 
+What is E
+9
+cell for the reaction between copper and silver nitrate?
+Cu(s)  +  2Ag+(aq)  o  Cu2+(aq)  +  2Ag(s)
+ 
+ 
+A −1.26 V
+ 
+ 
+B −0.46 V
+ 
+ 
+C +0.46 V
+ 
+ 
+D +1.26 V
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P42993A0328*
+Turn over    
+4 A cell is set up with two metal-metal ion half cells and the digital voltmeter reads 
+zero.  Given that all the components of the cell have been included and are working 
+properly, what is the most likely explanation for the zero reading?
+ 
+ 
+A The cell has been set up the wrong way round.
+ 
+ 
+B The entropy change, ǻSsystem = 0.
+ 
+ 
+C The activation energy for the reaction is very high.
+ 
+ 
+D The reaction system is at equilibrium.
+(Total for Question 4 = 1 mark)
+5 What is the electronic configuration of the Fe3+ ion?
+ 
+3d 
+4s
+A
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+B
+[Ar]
+ѦѨ
+ѦѨ
+Ѧ
+C
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+D
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+ѦѨ
+(Total for Question 5 = 1 mark)
+6 Ammonia gas is formed in the combustion of biomass fuels and is a significant 
+pollutant when it is released directly into the atmosphere.  One method of removing 
+this ammonia involves its oxidation using a titanium(IV) oxide catalyst.
+ 
+The best explanation for the use of titanium(IV) oxide is that the titanium
+ 
+ 
+A contains many active sites on which the reaction can occur.
+ 
+ 
+B is readily oxidized to a higher oxidation state which can then be reduced back 
+to oxidation state +4.
+ 
+ 
+C is readily reduced to a lower oxidation state which can then be oxidized back 
+to oxidation state +4.
+ 
+ 
+D has partially filled d orbitals in its +4 oxidation state.
+(Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42993A0428*
+7 A transition metal ion, M, forms a complex with a bidentate ligand, B.  The formula of 
+the complex is MB3 so the shape of the complex is most likely to be
+ 
+ 
+A trigonal planar.
+ 
+ 
+B pyramidal.
+ 
+ 
+C trigonal bipyramidal.
+ 
+ 
+D octahedral.
+(Total for Question 7 = 1 mark)
+8 Which of the following lists all the types of bond that are present in a crystalline 
+sample of the compound tetraamminecopper(II) sulfate?
+ 
+ 
+A Ionic, covalent and dative covalent
+ 
+ 
+B Ionic and dative covalent
+ 
+ 
+C Ionic and covalent
+ 
+ 
+D Covalent and dative covalent
+(Total for Question 8 = 1 mark)
+9 A compound, X, is dissolved in water.  Sodium hydroxide solution and dilute aqueous 
+ammonia were added to different samples of this solution of X.  In both, a precipitate 
+formed which dissolved in excess reagent.  Compound X could be
+ 
+ 
+A copper(II) sulfate.
+ 
+ 
+B iron(II) sulfate.
+ 
+ 
+C manganese(II) sulfate.
+ 
+ 
+D zinc(II) sulfate.
+(Total for Question 9 = 1 mark)
+10 The carbon-carbon bonds in benzene are all the same length.  The best evidence for 
+this comes from
+ 
+ 
+A high resolution proton nmr spectroscopy.
+ 
+ 
+B X-ray diffraction.
+ 
+ 
+C mass spectrometry.
+ 
+ 
+D bomb calorimetry.
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P42993A0528*
+Turn over    
+11 Benzene reacts very slowly with chlorine but the reaction speeds up when finely 
+divided iron is added.  This is because
+ 
+ 
+A the chlorine molecule donates an electron pair to the iron producing an 
+electrophile.
+ 
+ 
+B the iron reacts with chlorine to form iron(III) chloride which then acts as an 
+electrophile in its reaction with benzene.
+ 
+ 
+C the iron reacts with chlorine to form iron(III) chloride which then acts as an 
+electron pair acceptor.
+ 
+ 
+D iron is a transition metal and acts as a heterogeneous catalyst in the reaction.
+(Total for Question 11 = 1 mark)
+12 It is calculated that, as a result of delocalization, benzene has a stabilization energy of 
+150 kJ mol−1.  This means that
+ 
+ 
+A the enthalpy change for the conversion of benzene to cyclohexa-1,3,5-triene 
+would be +150 kJ mol−1.
+ 
+ 
+B the enthalpy change for the conversion of cyclohexa-1,3,5-triene to benzene 
+would be +150 kJ mol−1.
+ 
+ 
+C the enthalpy change for the conversion of cyclohexane to benzene is  
++150 kJ mol−1.
+ 
+ 
+D the enthalpy change for the conversion of benzene to cyclohexane is  
++150 kJ mol−1.
+(Total for Question 12 = 1 mark)
+13 When a gas jar containing methylamine is opened near an open bottle of 
+concentrated hydrochloric acid, white smoke is seen.  The chemical formula of the 
+white smoke is
+ 
+ 
+A CH3NH4Cl
+ 
+ 
+B CH3NH3Cl
+ 
+ 
+C CH3NH2Cl
+ 
+ 
+D NH4Cl
+(Total for Question 13 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P42993A0628*
+14 When benzoyl chloride, C6H5COCl, is added to methylamine at room temperature, the 
+main organic product of the reaction is
+ 
+ 
+A 
+C
+NH2
+O
+ 
+ 
+B 
+C
+H 
+N
+CH3
+O
+ 
+ 
+C 
+N
+C
+CH3 
+    H
+O
+ 
+ 
+D H3C
+N
+ 
+          H
+C
+Cl
+O
+(Total for Question 14 = 1 mark)
+15 In an aqueous solution with a pH of 3, the amino acid glycine exists mainly as
+ 
+ 
+A 
+C
+OH
+O
+H2N
+CH2
+ 
+ 
+B 
+C
+O–
+O
+H2N
+CH2
+ 
+ 
+C 
+C
+OH
+O
+H3N
++
+CH2
+ 
+ 
+D 
+C
+O–
+O
+H3N
++
+CH2
+ (Total for Question 15 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42993A0728*
+Turn over    
+16 What is the total number of peaks due to singly charged ions in the complete mass 
+spectrum of chlorine, Cl2?
+ 
+ 
+A Two
+ 
+ 
+B Three
+ 
+ 
+C Four
+ 
+ 
+D Five
+(Total for Question 16 = 1 mark)
+17 The low resolution proton nmr spectrum of a compound contains two peaks.  Which 
+of the following compounds could not give this spectrum?
+ 
+ 
+A Propane
+ 
+ 
+B Butane
+ 
+ 
+C 2-methylpropane
+ 
+ 
+D 2,2-dimethylpropane
+(Total for Question 17 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+*P42993A0828*
+18 A compound, P, has the following properties:
+ 
+P forms a red precipitate when heated with Fehling’s or Benedict’s solution.
+  
+P forms a pale yellow precipitate when warmed with iodine dissolved in aqueous 
+sodium hydroxide.
+ 
+P could be
+ 
+ 
+A 
+O
+HO
+ 
+ 
+B 
+O
+OH
+ 
+ 
+C 
+O
+O
+ 
+ 
+D 
+O
+O
+HO
+(Total for Question 18 = 1 mark)
+19 10 cm3 of a gaseous hydrocarbon was mixed with excess oxygen and ignited.  The 
+gas volumes were measured at room temperature and pressure before and after 
+combustion and it was found that the total gas volume had contracted by 20 cm3.  
+Given that combustion was complete, the formula of the hydrocarbon was
+ 
+ 
+A C4H4
+ 
+ 
+B C4H6
+ 
+ 
+C C4H8
+ 
+ 
+D C4H10
+(Total for Question 19 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P42993A0928*
+Turn over    
+20 Steam distillation may be used in the purification of some compounds.  The use of 
+this technique depends on the compound
+ 
+ 
+A forming a single layer with water.
+ 
+ 
+B forming two layers with water.
+ 
+ 
+C having a lower boiling temperature than water.
+ 
+ 
+D being flammable.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P42993A01028*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Potassium manganate(VII) can be used in redox titrations to determine the 
+concentration of iron(II) ions and ethanedioate ions in aqueous solution.  Aqueous 
+solutions of potassium manganate(VII) are unstable, so it is often standardized 
+using solutions of iron(II) ammonium sulfate, freshly prepared from Mohr’s salt, 
+Fe(NH4)2(SO4)2.6H2O.
+ 
+(a) Use the relevant ionic half-equations, and standard reduction potentials on 
+page 17 of the Data Booklet, to answer the following questions.  State symbols 
+are not required in the equations.
+ 
+ 
+(i) Write the ionic half-equation for the reduction of manganate(VII) ions in acid 
+solution.
+(1)
+ 
+ 
+(ii) Write the ionic half-equation for the oxidation of water to form oxygen and 
+hydrogen ions.
+(1)
+ 
+ 
+(iii) Combine your answers to (a)(i) and (a)(ii) to derive an equation to show the 
+production of oxygen in acidified manganate(VII) solution.
+(1)
+ 
+ 
+(iv) Calculate E
+9
+cell for the reaction in (a)(iii) and hence explain why aqueous 
+solutions of potassium manganate(VII) are unstable.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*P42993A01128*
+Turn over    
+ 
+(b) 250 cm3 of a solution containing 10.00 g of Mohr’s salt was prepared.   
+Separate 25.0 cm3 samples of this solution were pipetted into conical flasks,  
+excess sulfuric acid added and then each mixture was titrated against  
+potassium manganate(VII) solution.
+ 
+ 
+The mean titre was 25.85 cm3.
+ 
+ 
+*(i) Describe in outline how you would prepare the 250 cm3 of Mohr’s salt 
+solution, given 10.00 g of the solid.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State what you would see at the end-point of the titration.
+(1)
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+ 
+ 
+(iii) Write the ionic equation showing that 1 mol of manganate(VII) ions reacts 
+with 5 mol of iron(II) ions in acid conditions.  State symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+12
+*P42993A01228*
+ 
+ 
+(iv) The concentration of the potassium manganate(VII) solution was stated to be 
+0.0200 mol dm−3.  Calculate the percentage of the potassium manganate(VII) 
+that had reacted between its preparation and the titration.
+ 
+ 
+ 
+The molar mass of Mohr’s salt is 392 g mol−1.
+(4)
+(Total for Question 21 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+13
+*P42993A01328*
+Turn over    
+22 The scheme below summarises some reactions of copper and its compounds.
+Cu
+Cl2(g)
+A
+brown solid
+conc. HCl(aq)
+B
+yellow solution
+H2O(l)
+reagent X
+CuI(s)
++
+brown 
+solution F
+reagent Y
+Cu2+(aq)
+C
+pale blue 
+precipitate
+tartrate
+ions
+in alkali
+reagent X
+E
+red-brown 
+solid
+ethanal
+warm
+copper(II)
+complex
+D
+dark blue
+solution
+ 
+(a) (i) Identify the copper containing species A to E either by name, including the 
+oxidation number, or by formula.  Also, identify the brown solution, F.
+(6)
+A  ..............................................................................................................................................................................................................................................................................
+B  ..............................................................................................................................................................................................................................................................................
+C  ..............................................................................................................................................................................................................................................................................
+D  ..............................................................................................................................................................................................................................................................................
+E  ...............................................................................................................................................................................................................................................................................
+F  ...............................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Identify the reagents X and Y.
+(2)
+X  ..............................................................................................................................................................................................................................................................................
+Y  ..............................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P42993A01428*
+ 
+ 
+(iii) Identify the organic product of the reaction between the copper(II) complex 
+and ethanal.  Hence explain the role of ethanal in the reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) The reaction between Cu2+(aq) and reagent Y forms CuI(s) and a brown 
+solution, F.  This reaction is the first stage in a method for the determination 
+of the concentration of Cu2+(aq).
+ 
+ 
+ 
+Outline briefly how this method is used.  Practical details are not required.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(b) (i) Explain why B is coloured.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why B and D have different colours.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P42993A01528*
+Turn over    
+ 
+(c) Aqueous copper(I) ions undergo a disproportionation reaction.
+ 
+ 
+(i) Write the ionic equation for this reaction.  Include state symbols in your 
+answer.
+(1)
+ 
+ 
+(ii) Explain, stating the relevant oxidation numbers, why the reaction in (c)(i) is 
+classified as a disproportionation.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Use the standard reduction potentials on page 17 of the Data Booklet to 
+calculate E
+9
+cell for this disproportionation.  Hence show that this reaction is 
+thermodynamically feasible.
+(2)
+(Total for Question 22 = 21 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P42993A01628*
+23 Compound P is a white crystalline solid with the following percentage composition 
+by mass.
+Element
+% composition by mass 
+carbon
+40.44
+hydrogen
+ 7.87
+oxygen
+35.96
+nitrogen
+15.73
+ 
+(a) Calculate the empirical formula of P.  You must show your working.
+(3)
+PMT
+
+
+--- Page Break ---
+
+17
+*P42993A01728*
+Turn over    
+ 
+(b) The mass spectrum of P is shown below.
+ 
+ 
+(i) Label the molecular ion on the mass spectrum using the symbol M+.
+(1)
+ 
+ 
+(ii) Deduce the molecular formula of P.
+(1)
+Relativity 
+intensity
+100
+80
+60
+40
+20
+0.0
+0.0
+20
+40
+60
+80
+100
+m/e
+PMT
+
+
+--- Page Break ---
+
+18
+*P42993A01828*
+ 
+(c) P was dissolved in sodium carbonate solution and, on heating, a colourless gas, 
+which turned lime water cloudy, was very slowly evolved.  When an aqueous 
+solution of P was mixed with an aqueous solution of copper(II) sulfate, the blue 
+colour of the copper(II) sulfate solution darkened.
+ 
+ 
+(i) Use the results of these two experiments to deduce the functional groups that 
+are present in P.  Explain your answers.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) There are several compounds which have the formula you have deduced in  
+(b)(ii) and contain the two functional groups you have identified in (c)(i).
+ 
+ 
+ 
+Draw the structural or displayed formulae of two of these compounds.
+(2)
+PMT
+
+
+--- Page Break ---
+
+19
+*P42993A01928*
+Turn over    
+ 
+ 
+(iii) The nuclear magnetic resonance spectrum of compound P is shown below.
+ 
+ 
+This part of the spectrum only shows the peaks due to the hydrogen atoms which 
+are attached directly to carbon atoms.
+ 
+ 
+Use this spectrum to deduce the structure of P.  Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Explain why P is a solid at room temperature and pressure.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 14 marks)
+TOTAL FOR SECTION B = 50 MARKS
+6
+5
+4
+3
+2
+1
+0
+į/ppm
+PMT
+
+
+--- Page Break ---
+
+20
+*P42993A02028*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24
+Phthalates
+ 
+The benzene dicarboxylic acids and their esters are important industrial compounds.  
+The structures of two of these acids are shown below.
+ 
+benzene-1,2-dicarboxylic acid 
+benzene-1,4-dicarboxylic acid
+ 
+Benzene-1,2-dicarboxylic acid is manufactured by the catalytic oxidation of naphthalene 
+to phthalic anhydride which is then hydrolysed.  This reaction sequence is summarised 
+below.
+ 
+naphthalene 
+phthalic anhydride 
+benzene-1,2-
+ 
+ 
+ 
+dicarboxylic acid
+ 
+The use of naphthalene as a source of these compounds gave rise to the common 
+names, phthalic acid for benzene-1,2-dicarboxylic acid and terephthalic acid for 
+benzene-1,4-dicarboxylic acid.
+ 
+The alkyl esters derived from benzene-1,2-dicarboxylic acid are known as phthalates.
+ 
+Phthalates are used as plasticisers to increase the flexibility of many common plastics.  
+However, some phthalates are known to be endocrine disruptors and recent studies 
+have raised concerns about their role in the fall in human fertility rates.  Because 
+phthalates are used in making plastic drinks bottles and leach readily out of the 
+structure, they are easily ingested.
+ 
+The polyester Terylene is derived from benzene-1,4-dicarboxylic acid and  
+ethane-1,2-diol.
+HO
+C
+C
+OH
+O O
+C
+C
+HO
+OH
+O
+O
+C
+C
+O
+O
+O
+O
+C
+OH
+OH
+C
+O
+PMT
+
+
+--- Page Break ---
+
+21
+*P42993A02128*
+Turn over    
+ 
+(a) One method of preparing benzene dicarboxylic acids in the laboratory is from 
+methylbenzene in the sequence shown below.
+ 
+ 
+(i) Identify reagent M, by name or formula.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation for the reaction between M and AlCl3 to form an 
+electrophile.
+(1)
+O
+C
+OH
+OH
+C
+O
+CH3
+reagent M
+AlCl3
+CH3
+CH3
+1. KMnO4 / NaOH
+2. reagent Q
+PMT
+
+
+--- Page Break ---
+
+22
+*P42993A02228*
+ 
+ 
+(iii) Give the mechanism for the reaction of methylbenzene with your electrophile 
+in (a)(ii).
+(3)
+ 
+ 
+(iv) Suggest why methylbenzene reacts faster than benzene in this type of 
+reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) In the second step of the synthesis, the potassium manganate(VII) is an 
+oxidizing agent.
+ 
+ 
+ 
+Suggest the identity of reagent Q, which is added when oxidation is complete.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*P42993A02328*
+Turn over    
+ 
+(b) In the oxidation of naphthalene to phthalic anhydride, the catalyst is vanadium(V) 
+oxide.  With fresh catalyst, the reaction occurs at 360 °C but, over time, the 
+temperature must be slowly increased as the catalyst activity decreases.
+ 
+ 
+(i) State the property which gives transition metal compounds, such as 
+vanadium(V) oxide, catalytic properties.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest why the catalyst activity decreases over time.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The simplest phthalate of benzene-1,2-dicarboxylic acid is its dimethyl ester 
+(1,2-dimethyl benzene-1,2-dicarboxylate).
+ 
+ 
+(i) Draw the structure of this phthalate.
+(1)
+PMT
+
+
+--- Page Break ---
+
+24
+*P42993A02428*
+ 
+ 
+(ii) Suggest and explain what can be deduced about the interactions between 
+the phthalate and the plastic from the fact that phthalates are readily leached 
+from plastic bottles.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iii) Suggest how a plasticiser works.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) One way of making Terylene is by converting benzene-1,4-dicarboxylic acid into 
+the di-acyl chloride and then reacting it with ethane-1,2-diol.
+ 
+ 
+(i) Suggest a reagent that could be used to convert benzene-1,4-dicarboxylic 
+acid into the di-acyl chloride.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest an advantage of using the di-acyl chloride rather than the 
+dicarboxylic acid to make the polyester.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+25
+*P42993A02528*
+ 
+ 
+(iii) Draw the structure of the polyester, Terylene, showing two repeat units.
+(2)
+ 
+ 
+(iv) In practice, the manufacture of Terylene involves a process called ester 
+exchange in which ethane-1,2-diol reacts with the dimethyl ester of 
+benzene-1,4-dicarboxylic acid.
+ 
+ 
+ 
+What would be the by-product of this reaction?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 24 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+26
+*P42993A02628*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+27
+*P42993A02728*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*P42993A02828*
+PMT

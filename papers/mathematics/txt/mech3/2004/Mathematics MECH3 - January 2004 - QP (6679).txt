@@ -1,0 +1,211 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+Advanced/Advanced Subsidiary 
+Monday 12 January 2004 − Afternoon 
+Time:  1 hour 30 minutes 
+Materials required for examination 
+    Items included with question papers 
+Answer Book (AB16)         
+ Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+Candidates may use any calculator EXCEPT those with the facility for symbolic algebra, 
+differentiation and/or integration. Thus candidates may NOT use calculators such as the Texas 
+Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 48G. 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Mechanics M3), the paper reference (6679), your surname, 
+other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N13892A
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy. ©2004 London Qualifications Limited. 
+PMT
+PMT
+
+
+--- Page Break ---
+
+Figure 1 
+      A 
+60° 
+          L 
+ ω  
+      P 
+A particle P of mass m is attached to one end of a light string. The other end of the string is 
+attached to a fixed point A. The particle moves in a horizontal circle with constant angular speed ω 
+and with the string inclined at an angle of 60° to the vertical, as shown in Fig. 1. The length of the 
+string is L. 
+(a) Show that the tension in the string is 2mg. 
+(1) 
+(b) Find ω in terms of g and L. 
+(4) 
+The string is elastic and has natural length 5
+3  L. 
+(c) Find the modulus of elasticity of the string. 
+(2) 
+2.
+A particle P moves along the x-axis. At time t seconds its acceleration is (−4e−2t) m s−2 in the
+direction of x increasing. When t = 0, P is at the origin O and is moving with speed 1 m s−1 in the
+direction of x increasing.
+(a) Find an expression for the velocity of P at time t.
+(3) 
+(b) Find the distance of P from O when P comes to instantaneous rest. 
+(6) 
+N13892A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+3.
+Above the earth’s surface, the magnitude of the force on a particle due to the earth’s gravity is
+inversely proportional to the square of the distance of the particle from the centre of the earth.
+Assuming that the earth is a sphere of radius R, and taking g as the acceleration due to gravity at the
+surface of the earth,
+(a) prove that the magnitude of the gravitational force on a particle of mass m when it is a distance
+x (x ≥ R) from the centre of the earth is 
+2
+2
+x
+mgR
+.
+(3) 
+A particle is fired vertically upwards from the surface of the earth with initial speed u, where 
+u2 = 2
+3 gR. Ignoring air resistance,
+(b) find, in terms of g and R, the speed of the particle when it is at a height 2R above the surface of 
+the earth. 
+(7) 
+4.
+A particle P of mass m is attached to one end of a light elastic string of length a and modulus of
+elasticity 2
+1 mg. The other end of the string is fixed at the point A which is at a height 2a above a
+smooth horizontal table. The particle is held on the table with the string making an angle β with the
+horizontal, where tan β = 4
+3 .
+(a) Find the elastic energy stored in the string in this position.
+(3) 
+The particle is now released. Assuming that P remains on the table, 
+(b) find the speed of P when the string is vertical. 
+(3) 
+By finding the vertical component of the tension in the string when P is on the table and AP makes 
+an angle θ with the horizontal, 
+(c) show that the assumption that P remains in contact with the table is justified. 
+(5) 
+N13892A 
+3 
+Turn over 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+5.
+A piston in a machine is modelled as a particle of mass 0.2 kg attached to one end A of a light
+elastic spring, of natural length 0.6 m and modulus of elasticity 48 N. The other end B of the spring
+is fixed and the piston is free to move in a horizontal tube which is assumed to be smooth. The
+piston is released from rest when AB = 0.9 m.
+(a) Prove that the motion of the piston is simple harmonic with period 10
+π  s. 
+(5) 
+(b) Find the maximum speed of the piston. 
+(2) 
+(c) Find, in terms of π, the length of time during each oscillation for which the length of the spring 
+is less than 0.75 m. 
+(5) 
+N13892A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+Figure 2 
+         O         a 
+a
+2
+3
+ 
+ 
+  2a 
+A uniform solid cylinder has radius 2a and height 2
+3 a. A hemisphere of radius a is removed from 
+the cylinder. The plane face of the hemisphere coincides with the upper plane face of the cylinder, 
+and the centre O of the hemisphere is also the centre of this plane face, as shown in Fig. 2. The 
+remaining solid is S. 
+(a)  Find the distance of the centre of mass of S from O. 
+(6) 
+The lower plane face of S rests in equilibrium on a desk lid which is inclined at an angle θ to the 
+horizontal. Assuming that the lid is sufficiently rough to prevent S from slipping, and that S is on 
+the point of toppling when θ = α, 
+(b) find the value of α. 
+(3) 
+Given instead that the coefficient of friction between S and the lid is 0.8, and that S is on the point 
+of sliding down the lid when θ = β, 
+(c) find the value of β. 
+(3) 
+N13892A 
+5 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+Figure 3 
+  O 
+             θ 
+      T 
+   P 
+v 
+A particle P of mass m is attached to one end of a light inextensible string of length a. The other 
+end of the string is fixed at a point O. The particle is held with the string taut and OP horizontal. 
+It is then projected vertically downwards with speed u, where u2 = 2
+3 ga. When OP has turned
+through an angle θ and the string is still taut, the speed of P is v and the tension in the string is T, as 
+shown in Fig. 3. 
+(a) Find an expression for v2 in terms of a, g and θ. 
+(2) 
+(b) Find an expression for T in terms of m, g and θ. 
+(3) 
+(c) Prove that the string becomes slack when θ = 210°. 
+(2) 
+(d) State, with a reason, whether P would complete a vertical circle if the string were replaced by a 
+light rod. 
+(2) 
+After the string becomes slack, P moves freely under gravity and is at the same level as O when it 
+is at the point A. 
+(e) 
+Explain briefly why the speed of P at A is √(
+)
+ga
+2
+3
+.
+(1) 
+The direction of motion of P at A makes an angle ϕ with the horizontal. 
+(f) Find ϕ. 
+(4) 
+END 
+N13892A 
+6 
+PMT
+PMT

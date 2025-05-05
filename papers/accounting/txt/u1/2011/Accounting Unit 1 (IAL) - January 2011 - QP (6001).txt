@@ -1,0 +1,951 @@
+Turn over
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 – The Accounting System and Costing
+Monday 17 January 2011 – Afternoon
+Source booklet for use with Questions 
+1 to 7.
+Do not return this booklet with the 
+question paper.
+Printer’s Log. No.
+H37994A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2011 Edexcel Limited.
+W850/6001/57570   1/1/1/
+*H37994A*
+
+
+--- Page Break ---
+
+H37994A
+2
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1.
+The Worle Social Club offers a range of activities to members, and a cafeteria as a meeting place 
+for refreshments. 
+Each member pays a subscription of £40 per annum and membership of the club was 500 members 
+in 2010.
+Receipts and Payments Account for the year ended 31 December 2010
+ 
+ 
+£
+£
+Balance b/d
+1720
+Refreshment purchases
+15200
+Membership subscriptions for the 
+ 
+Wages and salaries
+    30000
+year ended 31 December:
+Electricity
+      1500
+ 
+ 
+2009
+   640
+Rates
+      2850
+ 
+ 
+2010
+            17200
+Sundry expenses
+      6250
+ 
+ 
+2011
+1680  
+Loan interest paid
+         800
+Refreshment sales
+            55940
+Building works
+    20000
+8% Bank loan receipt
+            25000
+Equipment purchase
+      8700
+Sale of equipment
+3500
+Balance c/d
+    20380
+ 
+ 
+          105680 
+ 
+  105680
+Additional information:
+(i)
+Subscriptions:
+ 
+ 
+•
+On 31 December 2009, 20 members had not paid their membership subscriptions for 
+2009
+ 
+ 
+•
+On 31 December 2009, 56 members had paid in advance for 2010
+ 
+ 
+•
+All subscriptions for 2009 which were unpaid on 31 December 2010 are to be considered 
+irrecoverable and written off as bad debts
+ 
+ 
+•
+On 31 December 2010, 14 members had not paid their membership subscriptions for 
+2010.
+(ii) Expenses are to be apportioned to the cafeteria trading account at the rate of:
+ 
+ 
+•
+40% wages and salaries
+ 
+ 
+•
+20% electricity
+ 
+ 
+•
+20% rates.
+(iii)  The additional 8% Bank loan was taken out on 1 April 2010. 
+(iv) Building works were undertaken during the year. An extension to the clubhouse was built at a 
+cost of £15000 and the existing clubhouse was redecorated at a cost of £5000.
+(v) The equipment sold in 2010 was purchased on 1 June 2007 at a cost of £6400.
+(vi) A full year’s depreciation is charged on all assets owned on 31 December at the following 
+rates:
+ 
+ 
+•
+Clubhouse 2% per annum using the straight line method
+ 
+ 
+•
+Equipment 25% per annum using the reducing balance method.
+
+
+--- Page Break ---
+
+H37994A
+3
+Turn over
+(vii) Other balances:
+ 
+ 
+ 
+31 December 2009
+31 December 2010
+ 
+ 
+ 
+£
+£
+ 
+ 
+Clubhouse (cost £50 000)
+35000
+?
+ 
+ 
+Equipment (cost £30 000)
+15000
+?
+ 
+ 
+Subscriptions in arrears
+?
+?
+ 
+ 
+Subscriptions in advance
+?
+?
+ 
+ 
+Stocks of refreshments
+8600
+7450
+ 
+ 
+Creditors for refreshment purchases
+1400
+870
+ 
+ 
+Rates accrued
+200
+–
+ 
+ 
+Rates prepaid
+–
+450
+ 
+ 
+8% Bank loan
+10000
+35000
+ 
+ 
+Accumulated fund
+47280
+?
+Required:
+(a) Explain two differences between a receipts and payments account and an income and 
+expenditure account.
+(4)
+(b) Prepare for the year ended 31 December 2010, the:
+ 
+ 
+(i)
+Subscriptions account
+(7)
+ 
+ 
+(ii) Cafeteria trading account
+(7)
+ 
+ 
+(iii) Income and expenditure account. 
+(16)
+(c) Prepare the balance sheet at 31 December 2010.
+  (10)
+Worle Social Club is considering offering a 10 year membership to existing members for £250, 
+starting in 2011.
+(d) Evaluate, from the perspective of Worle Social Club, whether it should offer a 10 year 
+membership for £250.
+(8)
+ 
+ 
+ 
+ (Total 52 marks)
+Answer space for question 1 is on pages 2 to 6 of the question paper.
+
+
+--- Page Break ---
+
+H37994A
+4
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.
+The fixed assets recorded on the balance sheet of Maruf Garage at 31 December 2009 were as 
+follows:
+ 
+ 
+Cost
+Provision for
+Net book
+ 
+ 
+Depreciation
+value
+ 
+ 
+£
+£
+£
+Land and buildings
+120000
+12000
+108000
+Motor vehicles
+24000
+11000
+13000
+Equipment
+43000
+20500
+22500
+Loose tools
+8500
+5000
+3500
+ 
+ 
+195500
+48500
+147000
+The depreciation policy of Maruf Garages is:
+•
+Land is not depreciated. Buildings are depreciated at the rate of 2% per annum on cost.
+•
+Motor vehicles at the rate of 25% per annum using the reducing balance method.
+•
+Equipment at the rate of 10% per annum using the straight line method.
+•
+Motor vehicles and equipment are charged with a full year’s depreciation in the year of 
+purchase. No depreciation is charged in the year of sale.
+•
+Loose tools are revalued at the end of each year.
+During the year ended 31 December 2010, the following changes occurred to the fixed assets:
+(i)
+On 1 January 2010 the cost of the land owned by Maruf Garage was £60000.
+ 
+ 
+On 1 June 2010, half of the land was sold for £80000.
+(ii) A new breakdown truck was purchased on 1 March 2010 for £30000. The purchase was paid 
+for by part-exchange of the old breakdown truck, with the balance paid by cheque. The old 
+breakdown truck cost £16000 on 1 September 2007. The agreed part-exchange value of the old 
+breakdown truck was £6000.
+(iii) Equipment costing £3500 was purchased on credit, on 1 August 2010.
+(iv) Additional loose tools were purchased, for cash, throughout the year, with a combined value of 
+£1200. On 31 December 2010 the loose tools were re-valued at £4300.
+
+
+--- Page Break ---
+
+H37994A
+5
+Turn over
+Required:
+(a) Explain two reasons why a business should record depreciation in the annual accounts. 
+ (4)
+(b) Prepare, for the year ended 31 December 2010, the: 
+ 
+ 
+(i)
+motor vehicle account
+ 
+ 
+(ii) motor vehicle provision for depreciation account
+ 
+ 
+(iii) motor vehicle disposal account.
+(14)
+(c) Prepare the extracts in the: 
+ 
+ 
+(i)
+profit and loss account for the year ended 31 December 2010, showing the depreciation 
+and the profit/loss on sale of fixed assets
+ 
+ 
+(ii) balance sheet at 31 December 2010, showing the fixed assets section.
+(14)
+The owner of Maruf Garage has suggested revaluing the remaining half of the land to
+£80000 in the balance sheet. 
+(d) State two accounting concepts that do not support the owner’s suggestion. 
+ (4)
+(e) (i)
+Distinguish between capital expenditure and revenue expenditure.
+ 
+ 
+(ii) Advise, stating clearly your reasons, whether each of the following is capital expenditure 
+or revenue expenditure:
+ 
+ 
+ 
+•
+installation of new equipment
+ 
+ 
+ 
+•
+repairs to equipment.
+(8)
+(f) The owner of Maruf Garage has stated that “by charging annual depreciation, the business will 
+have sufficient cash to replace the fixed assets at the end of their useful life.”
+ 
+ 
+Evaluate this statement.
+(8)
+ 
+ 
+ 
+ (Total 52 marks)
+Answer space for question 2 is on pages 8 to 13 of the question paper.
+
+
+--- Page Break ---
+
+H37994A
+6
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.
+Athula is in business as a sole trader. On 31 December 2010, the following balances were extracted 
+from her books: 
+ 
+ 
+£
+Sales
+265000
+Purchases
+110000
+Stock
+37500
+Staff salaries
+47500
+Wages
+36300
+Rent and rates
+7500
+Heat and light
+9650
+Marketing expenses
+10000
+General expenses
+5250
+Goodwill
+60000
+Land and premises (Cost £80000)
+74500
+Motor vehicles (Cost £30000)
+20000
+Fixtures and fittings (Cost £20000)
+14000
+Creditors
+31200
+Debtors
+40000
+Bank overdraft
+4000 CR
+Drawings
+28500
+Current account
+500 CR
+Capital account
+200000
+Additional information at 31 December 2010:
+(i)
+Athula maintains separate capital and current accounts.
+(ii)
+Stock £50500.
+(iii) Staff salaries included £6000 drawings paid to Athula.
+(iv) Wages £450 were accrued.
+(v)
+Rent and rates for 3 months of the year remained accrued.
+(vi) Marketing expenses £1750 were prepaid.
+(vii) Depreciation is charged as follows:
+ 
+ 
+•
+Premises at the rate of 2% per annum straight line method. No depreciation is charged on 
+the land which is valued at £25000
+ 
+ 
+•
+Motor vehicles at the rate of 25% per annum, reducing balance method
+ 
+ 
+•
+Fixtures and fittings at the rate of 10% per annum, on cost, using the straight line 
+method.
+(viii) A provision for doubtful debts is to be created at the level of 5% of debts less than 6 months 
+old, and 15% of debts over 6 months old. One quarter of the debts are over 6 months old.
+
+
+--- Page Break ---
+
+H37994A
+7
+Turn over
+Required:
+(a) Prepare for the year ended 31 December 2010, the:
+ 
+ 
+(i)
+trading and profit and loss account
+ 
+ 
+(ii) current account of Athula.
+        (18)
+On 1 January 2011, Athula admitted Chandra as a partner into her business. Chandra brought the 
+following assets and liabilities into the new partnership business at the agreed valuations of:
+£
+Goodwill
+15000
+Motor vehicle
+8000
+Stock
+12000
+Creditors
+  6000
+Bank loan (repayable 31.12.2015)
+5000
+Bank
+15000
+It was also agreed that:
+ 
+ 
+•
+profits and losses would be shared in the ratio 2:1 respectively to Athula and Chandra
+ 
+ 
+•
+goodwill would not be retained in the books of the new partnership.
+(b) (i)
+Explain the accounting term goodwill.
+(2)
+ 
+ 
+(ii) State two accounting concepts which advise that goodwill should not be retained in the 
+books.
+(4)
+(c) Prepare journal entries, with suitable narratives, at 1 January 2011 to record the:
+ 
+ 
+(i)
+entry of Chandra into the partnership
+ 
+ 
+(ii) removal of goodwill from the books of the partnership.
+(8)
+(d) Prepare the opening balance sheet of the new partnership at 1 January 2011.
+(12)
+(e)  Evaluate the decision of Athula to admit Chandra as a partner.
+(8)
+ 
+ 
+ 
+ (Total 52 marks)
+Answer space for question 3 is on pages 14 to 19 of the question paper.
+
+
+--- Page Break ---
+
+H37994A
+8
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4.
+Classic Design is a business providing marketing design services. On 1 December 2010 the 
+following balances were extracted from the books:
+ 
+ 
+£
+Capital
+150000
+Premises
+120000
+Fixtures and fittings
+24000
+Provisions for depreciation on:
+ 
+ 
+premises
+5000
+ 
+ 
+fixtures and fittings
+6000
+Debtors
+17500
+Creditors
+8500
+Bank
+8000 DR
+For the month of December the following summarised transactions occurred:
+(i)
+Credit sales of £28000 were invoiced to customers.
+(ii)
+Debtors paid cheques for £24300 after being allowed £250 discount for prompt 
+settlement.
+(iii) Additional fixtures and fittings were purchased for £4000 on credit.
+(iv) Operating expenses of £4750 were paid by cheque.
+(v)
+Design materials of £1350 were purchased on credit.
+(vi) After receiving £150 discount for prompt settlement, creditors were paid £6200 by 
+cheque.  
+(vii) Bank charges of £600 were charged to the bank account.
+(viii) Wages of £12000 were paid by cheque.
+Required:
+(a) Prepare the trial balance at 31 December 2010.
+(20)
+Additional information at 31 December 2010:
+ 
+ 
+•
+Operating expenses of £1600 were accrued.
+ 
+ 
+•
+Depreciation is charged using the straight line method at the rate of:
+ 
+ 
+ 
+(i)
+Premises 2% per annum
+ 
+ 
+ 
+(ii) Fixtures and fittings 15% per annum.
+(b) Prepare the profit and loss account for the month of December 2010.
+(8)
+(c) Evaluate the statement that “if the trial balance for Classic Design balances, this ensures that 
+the books of accounts are accurate”.
+(4)
+ 
+ 
+ 
+ (Total 32 marks)
+Answer space for question 4 is on pages 20 to 23 of the question paper.
+
+
+--- Page Break ---
+
+H37994A
+10
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5.
+Athina is in business manufacturing clothing. She uses job costing when preparing quotations for 
+manufactured goods.
+A customer has requested a quotation for the manufacture of 100 dresses, which has been given the 
+job number 792.
+The following information is available for job 792:
+(i)
+Raw material for one dress will be 2 metres of cloth. The following is the stock card for 
+cloth:  
+1 July
+Opening stock
+350 metres @ £7 per metre
+4 September
+Issued
+200 metres
+7 October
+Receipts
+100 metres @ £8 per metre
+18 November
+Issued
+100 metres
+8 December
+Receipt
+100 metres @ £9 per metre
+ 
+ 
+Athina uses the perpetual inventory, First In First Out (F.I.F.O) method when valuing stock.
+ 
+ 
+In addition to the cloth for the dresses, Athena will purchase buttons and decorations at a trade 
+cost of £2.40 for one dress. Athena will add a handling charge of 25% to the cost of the buttons 
+and decorations.
+(ii) Direct labour cost will be:
+ 
+ 
+Department
+Production time
+Rate
+ 
+ 
+Cutting and machining
+2 hours per dress
+£6 per hour
+ 
+ 
+Finishing and packaging
+ ½ hour per dress
+£4 per hour
+(iii) Overheads are charged to each job at the rate of £6 per direct labour hour.
+(iv) A profit margin of 25% is charged on all jobs undertaken. 
+
+
+--- Page Break ---
+
+H37994A
+11
+Turn over
+Required:
+(a) (i)
+Distinguish between perpetual inventory and periodic inventory in stock valuation.
+(4)
+ 
+ 
+(ii) Explain two characteristics of job costing.
+(4)
+(b) Prepare the quotation for Job 792, showing the price to be charged to the customer for 100 
+dresses. The quotation should show clearly the:
+ 
+ 
+(i)
+raw material cost
+ 
+ 
+(ii) labour cost
+ 
+ 
+(iii) total quotation price.
+(20)
+Athina is considering changing the method of remuneration for the Cutting and Machining 
+Department from payment by day rate to payment by piecework.
+(c) Evaluate the use of piecework as a method of remuneration for the Cutting and Machining 
+Department.
+(4)
+ 
+ 
+ 
+ (Total 32 marks)
+Answer space for question 5 is on pages 24 to 27 of the question paper.
+
+
+--- Page Break ---
+
+H37994A
+12
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6.
+The following information is available from the accounts of Rupa for the year ended 30 November 
+2010.
+On 1 December 2009 the following account balances were in the books:
+ 
+ 
+£
+Electricity
+250 CR
+Marketing expenses
+720 CR
+Provision for doubtful debts
+2000 CR
+(i)
+The electricity account records show the following:
+Cheque payments 
+  £
+7 December 2009
+250
+14 March 2010
+425
+7 June 2010
+385
+26 September 2010
+190
+Refund by cheque
+8  July 2010
+65
+ 
+ 
+On 30 November 2010 it was estimated that £170 was owing for electricity.
+(ii)  Marketing expenses records show the following:
+ 
+ 
+Cheque payments 
+ 
+£
+ 
+ 
+20 December 2009
+General marketing expenses
+1800
+ 
+ 
+18 April 2010
+Marketing brochures
+600
+ 
+ 
+10 July 2010
+General marketing expenses
+1350
+ 
+ 
+1 October 2010
+Advertising campaign (for 3 months)
+1200
+ 
+ 
+On 30 November 2010 it was estimated that the following were prepaid:
+ 
+ 
+•
+Half of the marketing brochures purchased on 18 April 2010 remained.
+ 
+ 
+•
+The proportion of the advertising campaign unused.
+(iii) A provision for doubtful debts was to be maintained from the following schedule of debtors: 
+ 
+ 
+Age of Debt (months)
+Debtors 30 November 2010 (£)
+Provision (%)
+ 
+ 
+0–3 months
+15000
+5
+ 
+ 
+3–6 months
+6000
+10
+ 
+ 
+Over 6 months
+2000
+20
+
+
+--- Page Break ---
+
+H37994A
+13
+Turn over
+Required:
+(a) Suggest three advantages of applying accounting concepts when preparing the final accounts 
+of a business.
+(6)
+(b) Prepare the following ledger accounts for the year ended 30 November 2010. Each account 
+should include the transfer to the profit and loss account for the year, and the balance to be 
+carried down.
+ 
+ 
+(i)
+Electricity account
+ 
+ 
+(ii) Marketing expenses account
+ 
+ 
+(iii) Provision for doubtful debts account.
+(22)
+(c) Evaluate the role of social accounting in decision making for a business.
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 28 to 30 of the question paper.
+
+
+--- Page Break ---
+
+H37994A
+14
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.
+Andeas and Dimitris each have a business buying and selling goods on credit. The summarised 
+trading and profit & loss accounts and balance sheets for both businesses are as follows: 
+Trading and profit & loss accounts for the year ended 30 September 2010.
+ 
+ 
+Andeas
+Dimitris
+ 
+ 
+£000
+£000
+Sales
+1000
+1000
+Opening stock
+80
+70
+Purchases
+680
+600
+ 
+ 
+760
+670
+Closing stock
+120
+50
+ 
+ 
+640
+620
+Expenses
+170
+280
+Depreciation
+110
+40
+Loan interest
+20
+–
+Net profit
+60
+60
+ 
+ 
+1000
+1000
+Balance sheets at 30 September 2010.
+ 
+ 
+Andeas
+Dimitris
+ 
+ 
+£000
+£000
+Fixed assets
+300
+100
+Stock
+120
+50
+Debtors
+80
+60
+Bank
+–
+30
+ 
+ 
+500
+240
+Creditors
+100
+70
+Bank overdraft
+60
+ –
+Long term loan
+200
+–
+Capital
+140
+170
+ 
+ 
+500
+240
+
+
+--- Page Break ---
+
+H37994A
+15
+Required:
+(a) Explain why it is essential that a new business has good short term liquidity.
+(4)
+(b) Calculate for each business the:
+ 
+ 
+(i)
+gross profit to sales percentage
+ 
+ 
+(ii) rate of stock turnover
+ 
+ 
+(iii) return on capital employed
+ 
+ 
+(iv) liquid (acid test) ratio
+ 
+ 
+(v) debtors’ collection period (in days).
+(20)
+(c) State, giving one reason for each answer, which of the businesses of Andeas or Dimitris has 
+the better:
+ 
+ 
+(i)
+profitability
+ 
+ 
+(ii) liquidity.
+(4)
+(d) Evaluate the usefulness of accounting ratios in assessing the success of a business.
+(4)
+(Total 32 marks)
+Answer space for question 7 is on pages 32 to 35 of the question paper.
+
+
+--- Page Break ---
+
+H37994A
+16
+BLANK PAGE

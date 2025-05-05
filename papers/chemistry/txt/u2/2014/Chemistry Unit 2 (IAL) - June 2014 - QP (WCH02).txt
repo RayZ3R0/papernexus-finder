@@ -1,0 +1,995 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42977A
+©2014 Pearson Education Ltd.
+6/6/6/6/3/
+*P42977A0124*
+Chemistry
+Advanced Subsidiary
+Unit 2:  Application of Core Principles of Chemistry
+Tuesday 3 June 2014 – Afternoon
+Time: 1 hour 30 minutes
+WCH02/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P42977A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Hydrogen and iodine gases were mixed at 300°C and allowed to reach equilibrium.
+H2(g)   +   I2(g)   U   2HI(g)   ǻH = –10 kJ mol–1
+ 
+Colourless       Purple      Colourless
+ 
+(a) What would you see if the equilibrium mixture was cooled to 250°C and 
+equilibrium allowed to re-establish?
+(1)
+ 
+ A The mixture goes a darker purple.
+ 
+ B The colour gets lighter.
+ 
+ C The mixture goes colourless.
+ 
+ D No visible change.
+ 
+(b) The equilibrium mixture at 300°C was compressed in a gas syringe to occupy a 
+smaller volume.  What would be seen immediately after this compression?
+(1)
+ 
+ A The mixture goes a darker purple.
+ 
+ B The colour gets lighter.
+ 
+ C The mixture goes colourless.
+    
+ D No visible change.
+(Total for Question 1 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+3
+*P42977A0324*
+Turn over    
+2 A concentrated solution of ‘bromine water’ is an orange colour.  The following 
+equilibrium exists in this solution.
+Br2(aq)  +  H2O(l)  U  BrO−(aq)  +  Br−(aq)  +  2H+(aq)
+ 
+Orange 
+Colourless
+ 
+What would be the effect, if any, on the colour of the solution, if five drops of dilute 
+sodium hydroxide solution were added to 5 cm3 of the bromine water?
+ 
+A The solution becomes a deeper orange.
+ 
+B The colour of the solution becomes lighter.
+ 
+C The solution goes colourless.
+ 
+D No visible change.
+(Total for Question 2 = 1 mark)
+3 What is the colour of iodine in the non-polar solvent, cyclohexane? 
+ 
+A Black
+ 
+B Brown
+ 
+C Purple
+ 
+D Yellow 
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42977A0424*
+4 The skeletal formulae of some five-carbon halogenoalkanes are shown below.
+ 
+A 
+B 
+ C 
+D
+ 
+(a) Which of the above halogenoalkanes is not a structural isomer of the others?
+(1)
+ 
+ A 
+ 
+ B 
+ 
+ C 
+ 
+ D 
+ 
+(b) Which of the above is not a secondary halogenoalkane?
+(1)
+ 
+ A 
+ 
+ B 
+ 
+ C 
+ 
+ D 
+(Total for Question 4 = 2 marks)
+5 The reaction for the preparation of propene from 1-bromopropane is shown below. 
+C3H7Br  +  NaOH  ĺ  C3H6  +  H2O  +  NaBr
+ 
+This reaction is classified as
+ 
+ A elimination. 
+ 
+ B oxidation.
+ 
+ C reduction.
+ 
+ D substitution.
+(Total for Question 5 = 1 mark)
+Cl
+Cl
+Cl
+Cl
+PMT
+
+
+--- Page Break ---
+
+5
+*P42977A0524*
+Turn over    
+6 The molecule shown below is 3-chloro-3-methylhexane.  
+ 
+It reacts with hot, alcoholic potassium hydroxide to produce a number of different 
+alkenes.  Which of the following could be produced from 3-chloro-3-methylhexane?
+ 
+A hex-2-ene 
+ 
+B 3-methylhex-1-ene
+ 
+C 3-methylhex-2-ene
+ 
+D 3-methylhex-4-ene
+(Total for Question 6 = 1 mark)
+7 Which of the following has not been a use of chlorofluorocarbons (CFCs)?
+ 
+A Fuels
+ 
+B Dry-cleaning solvents
+ 
+C Fire-retardants
+ 
+D Refrigerants
+(Total for Question 7 = 1 mark)
+8 Butane is an aerosol propellant now used as an alternative to CFCs.  Although it is less 
+destructive to the ozone layer, it has the disadvantage of being
+ 
+A very corrosive.
+ 
+B highly flammable.
+ 
+C hard to evaporate.
+ 
+D highly toxic.
+(Total for Question 8 = 1 mark)
+Cl
+PMT
+
+
+--- Page Break ---
+
+6
+*P42977A0624*
+9 Which is the best explanation of why carbon dioxide, CO2, is a greenhouse gas?  
+ 
+ A It is in high concentration and has a long residence time in the upper 
+atmosphere so it absorbs infrared radiation significantly.
+ 
+ B It is a polar molecule and so absorbs infrared radiation.
+ 
+ C It absorbs ultra-violet radiation and re-emits infrared radiation.
+ 
+ D It has polar bonds that absorb and re-emit infrared radiation.
+(Total for Question 9 = 1 mark)
+10 The term ‘carbon footprint’ is concerned with the amount of carbon dioxide produced 
+in generating a certain amount of energy.
+ 
+The table below gives some data about several fuels. 
+Fuel
+Energy density
+/ MJ l–1
+CO2 produced on combustion
+/ g l–1
+Petrol
+32
+2328
+Diesel
+36
+2614
+LPG
+24
+1533
+Bioethanol
+21
+1503
+ 
+By calculating the mass of CO2 produced per MJ of energy for each fuel, identify 
+which fuel would give the smallest carbon footprint.
+ 
+ A Petrol
+ 
+ B Diesel
+ 
+ C LPG
+ 
+ D Bioethanol
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42977A0724*
+Turn over    
+11 The diagram below is a Maxwell-Boltzmann distribution of molecular energies.
+ 
+(a) If the temperature was raised, what would be the effect on the shape of the curve?
+(1)
+ 
+A The peak would shift to the left and be higher.
+ 
+B The peak would shift to the left and be lower.
+ 
+C The peak would shift to the right and be higher.
+ 
+D The peak would shift to the right and be lower.
+ 
+(b) Which of the following would shift the activation energy line to the left?
+(1)
+ 
+A An increase in reactant concentration.
+ 
+B The removal of the product.
+ 
+C The addition of a catalyst.
+ 
+D An increase in temperature.
+(Total for Question 11 = 2 marks)
+Number of 
+molecules with 
+energy, E
+Ea
+Energy, E
+PMT
+
+
+--- Page Break ---
+
+8
+*P42977A0824*
+12 The table below gives the boiling temperatures of some alcohols.
+Alcohol
+Boiling temperature
+/ °C
+Ethanol
+78
+Propan-1-ol
+97
+Butan-1-ol
+117
+ 
+From the data in the table, the boiling temperature of hexan-1-ol is most likely to be
+ 
+ A 138°C
+ 
+ B 148°C
+ 
+ C 158°C
+ 
+ D 168°C
+(Total for Question 12 = 1 mark)
+13 An experiment to determine the effect of an electrostatic force on a jet of liquid is 
+carried out using the apparatus as shown.
+ 
+Which of the following liquids would not be significantly deflected by the 
+electrostatic force applied?
+ 
+ A CH3OH
+ 
+ B CCl4
+ 
+ C CHCl3
+ 
+ D H2O
+(Total for Question 13 = 1 mark)
+charged rod
+PMT
+
+
+--- Page Break ---
+
+9
+*P42977A0924*
+Turn over    
+14 Although they have similar relative molecular masses, the boiling temperatures of 
+pentane (36°C) and butan-1-ol (117°C) are significantly different.  The reason for this 
+is that, in comparison with pentane,
+ 
+A 
+the intermolecular forces between the alcohol molecules are much stronger.
+ 
+B 
+the covalent bonds in the alcohol are stronger.
+ 
+C 
+there are more covalent bonds in the alcohol and so it requires more energy 
+to break all of them.
+ 
+D 
+the molecular shape of the alcohol allows it to form stronger interactions 
+between molecules.
+(Total for Question 14 = 1 mark)
+15 Compounds such as sodium chloride dissolve in water because the ions interact with 
+the water molecules.  The interactions are
+ 
+A 
+dipole-dipole.
+ 
+B 
+ion-dipole.
+ 
+C 
+hydrogen bonds.
+ 
+D 
+London forces.
+(Total for Question 15 = 1 mark)
+16 Consider the reaction mechanism shown below.
+ 
+The bromide ion acts as
+ 
+A 
+an electrophile.
+ 
+B 
+a catalyst.
+ 
+C 
+a free radical.
+ 
+D 
+a nucleophile.
+(Total for Question 16 = 1 mark)
+H
+C
+C
+H
+H
+Br
+H
+Br
+H
+C
+C
+H
+H
+Br
+H
+C=C
+H
+H
+H
+H
+:Br–
+Brį–
+Brį+
++
+PMT
+
+
+--- Page Break ---
+
+10
+*P42977A01024*
+17 Nitrogen oxide, NO, can act as a catalyst in the depletion of the ozone layer.  Which of 
+the following reactions is most likely to be a step in the process? 
+ 
+ A 2NO 
++ 
+2O3 
+ĺ  N2O4 
++ 
+4O
+ 
+ B 2NO 
++ 
+2O3 
+ĺ  N2 
++ 
+4O2
+ 
+ C 2NO 
++ 
+2O3 
+ĺ 2NO2 
++ 
+2O2
+ 
+ D 2NO 
++ 
+2O3 
+ĺ  N2O 
++      3½O2
+(Total for Question 17 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+11
+*P42977A01124*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+18 When concentrated sulfuric acid is added to solid sodium chloride, the gas  
+hydrogen chloride is produced. 
+ 
+(a) Write an equation for this reaction.  State symbols are not required.
+(1)
+ 
+(b) Fumes of hydrogen chloride gas can be identified by bringing the fumes into 
+contact with another gas, X.  Identify gas X and state the observation you would 
+make.
+(2)
+Gas X ....................................................................................................................................................................................................................................................................
+Observation ..................................................................................................................................................................................................................................................
+ 
+(c) Chloride ions in solution can be distinguished from other halide ions by the 
+addition of silver nitrate solution followed by dilute, aqueous ammonia.
+ 
+ 
+State what you would see when silver nitrate solution is added to chloride ions, 
+followed by dilute aqueous ammonia.
+ 
+ 
+Suggest why concentrated ammonia should not be used to confirm that 
+silver chloride has been formed.
+(3)
+Observation on addition of AgNO3  .....................................................................................................................................................................................
+Observation on addition of dilute NH3  ...........................................................................................................................................................................
+Reason why concentrated NH3 should not be used  .........................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P42977A01224*
+19 Potassium bromate(V), KBrO3, is a primary standard, meaning that it can be obtained 
+as a pure substance and used to accurately determine the concentrations of solutions 
+of other chemicals, such as sodium thiosulfate, Na2S2O3.
+ 
+(a) (i)  Complete the dot and cross diagram for the bromate(V) ion.  Show only the 
+outer shell electrons. 
+ 
+ 
+ 
+In this ion, the bromine expands its outer shell to accommodate 12 electrons. 
+ 
+ 
+ 
+Use x for bromine electrons and x for oxygen electrons.  The symbol * on the 
+diagram represents the extra electron which gives the ion its charge.
+(2)
+ 
+O
+ 
+Br 
+O*
+ 
+O
+ 
+ 
+(ii) Suggest how elements in Period 3 and higher can accommodate more than 
+eight electrons in their outer shell.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+–
+PMT
+
+
+--- Page Break ---
+
+13
+*P42977A01324*
+Turn over    
+ 
+(b) Four chemistry students were given a solution of sodium thiosulfate with a 
+concentration of approximately 0.1 mol dm–3 and asked to determine its exact 
+concentration. 
+ 
+ 
+They were each given separate tasks to carry out, as described below.
+ 
+ 
+(i)  The first student was given the task of making up a potassium bromate(V) 
+solution.  A mass of 8.35 g of KBrO3 was weighed out, dissolved in deionized 
+water, the volume made up to 250 cm3 in a volumetric flask and the mixture 
+shaken. 
+ 
+ 
+ 
+Calculate the concentration of this potassium bromate(V) solution, in 
+mol dm–3.
+(2)
+ 
+ 
+(ii)  The second student was asked to determine a suitable mass of 
+potassium iodide to add to 0.0025 mol of potassium bromate(V) to ensure 
+complete reaction. The equation for the reaction is
+BrO3
+−(aq)  +  6H+(aq)  +  6I−(aq)  ĺ  Br−(aq)  +  3I2(aq)  +  3H2O(l)
+ 
+ 
+ 
+Calculate the minimum mass of potassium iodide, KI, required and hence 
+suggest a suitable mass to use if the potassium iodide is to be in excess.
+ 
+ 
+ 
+You must show your working and your mass should be reasonable.
+(3)
+Minimum mass required ................................... g
+Suitable mass to use ................................... g
+PMT
+
+
+--- Page Break ---
+
+14
+*P42977A01424*
+ 
+ 
+(iii) The third student was given the following equation.
+I2(aq)  +  2S2O3
+2−(aq)  ĺ  2I−(aq)  +  S4O6
+2−(aq)
+ 
+ 
+ 
+This student was asked to estimate the titration reading.
+ 
+ 
+ 
+Calculate the volume of 0.1 mol dm–3 of sodium thiosulfate solution, in cm3, 
+that would be needed to react with 0.00100 mol of iodine present in the 
+conical flask. 
+(2)
+ 
+ 
+(iv) The fourth student carried out an alternative method for determining the 
+concentration of the sodium thiosulfate solution. A known mass of solid 
+potassium bromate(V) was dissolved in water in a conical flask. An excess 
+of potassium iodide and acid were added and the mixture titrated with the 
+sodium thiosulfate solution. The following measurements were obtained.
+Mass of KBrO3
+0.07 g
+Volume of water
+25 cm3
+Volume of Na2S2O3(aq)
+26.85 cm3
+ 
+ 
+ 
+The student calculated the concentration of the sodium thiosulfate, Na2S2O3, 
+to be  0.0937 mol dm–3.
+ 
+ 
+ 
+There is uncertainty in the value of the calculated concentration of the sodium 
+thiosulfate. Which measurement, given in the table, has the greatest effect on 
+the uncertainty of this value?  Justify your answer.
+ 
+ 
+ 
+No calculation is required for this answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+15
+*P42977A01524*
+Turn over    
+20 This question is about Group 2 elements and their compounds.
+ 
+*(a) Give two reasons why the first ionization energy of calcium is less than that of 
+magnesium, even though the atomic number of calcium is greater than that of 
+magnesium.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) A flame test was carried out on a solid calcium compound.  Explain the origin of 
+the flame colour in terms of electron movement.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) Calcium oxide reacts with dilute nitric acid to form calcium nitrate.  Write the 
+equation for this reaction.  State symbols are not required.
+(1)
+ 
+ 
+(ii) Identify two ways, one of which should be an observation, in which the 
+thermal decomposition of anhydrous calcium nitrate is different from that of 
+anhydrous potassium nitrate.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P42977A01624*
+ 
+(d) (i) Calcium reacts with water to produce calcium hydroxide and a gas.  Give the 
+name or formula of this gas.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) An aqueous solution of calcium hydroxide is used for a common laboratory 
+test.  Give the observation for a positive result for this test and complete the 
+equation for the reaction that occurs.  State symbols are not required.
+(2)
+Observation ..................................................................................................................................................................................................................................................
+Ca(OH)2   +   .....................................   ĺ   .....................................   +   H2O
+ 
+ 
+(iii) Give the name or formula of a Group 2 hydroxide which is more soluble than 
+calcium hydroxide.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(e) (i) Describe what you would see if a solution of barium chloride was added to 
+dilute sulfuric acid.  State why this observation would differ if magnesium 
+chloride solution was used instead of barium chloride.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Barium compounds are toxic.  However, it is safe to give patients a ‘barium 
+meal’ of barium sulfate when trying to diagnose intestinal disorders.  
+Suggest why this is so.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P42977A01724*
+Turn over    
+ 
+*(f) Calcium carbonate, CaCO3, readily reacts with hydrochloric acid.  State two 
+factors, other than a change in temperature, which would affect the rate of this 
+reaction.
+ 
+ 
+Neither pressure nor the use of a catalyst should be considered.
+ 
+ 
+Explain how each of the two factors you have chosen alters the reaction rate.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(g) Suggest why pressure has little or no effect on the rate of the reaction of calcium 
+oxide and hydrochloric acid, the equation for which is given below.
+CaO(s)   +   2HCl(aq)   ĺ   CaCl2(aq)   +   H2O(l)
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 20 marks)
+TOTAL FOR SECTION B = 38 MARKS
+PMT
+
+
+--- Page Break ---
+
+18
+*P42977A01824*
+SECTION C
+Answer ALL the questions. Write your answers in the spaces provided.
+21 In the human body, one chemical can have a number of different effects.
+ 
+An example is retinol, one of the substances in vitamin A. 
+The structure of retinol is shown below.
+ 
+Retinol can be converted into retinal and a form of this is combined with an opsin 
+molecule in the retina of the eye to make the light-sensitive pigment rhodopsin. 
+When light enters the eye, the shape of the retinal molecule is changed, which results 
+in it separating from the opsin molecule.  The outcome of this separation is that we 
+‘see’ light.
+ 
+Retinol can also be converted to retinoic acid, which is important in the body for the 
+correct maintenance of mucous membranes.  Failure to produce retinoic acid can 
+lead to a condition known as ‘dry eye’, or xerophthalmia, which can result in blindness.
+ 
+The functions of this vitamin, and other nutrient molecules, illustrate the need for a 
+healthy, balanced diet.
+ 
+(a) Retinol has an alcohol functional group.  Classify the type of alcohol group in 
+retinol and explain the meaning of the term ‘functional group’.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Give the molecular formula of retinol.
+(2)
+....................................................................................................................................................................................................................................................................................
+OH
+PMT
+
+
+--- Page Break ---
+
+19
+*P42977A01924*
+Turn over    
+ 
+(c) Retinol can be oxidized to the aldehyde, retinal.
+ 
+ 
+*(i) To illustrate the conversion of an alcohol to an aldehyde in the laboratory, 
+a student suggested using the following apparatus and an excess of an 
+oxidizing agent.  Explain why this proposed method would have been 
+unsuitable for the production of an aldehyde and explain what modifications 
+are necessary for successful conversion.  A new diagram is not required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The oxidizing agent suggested was sodium dichromate, Na2Cr2O7, in acidic 
+solution.  Complete the ionic half-equation below.  Give the oxidation 
+numbers of the chromium in the chromium species and state their colours.
+(5)
+             Cr2O7
+2–(aq)  +  .................H+(aq)  +  .................e–  ĺ  .................Cr3+(aq)  +  .................H2O(l)
+Oxidation
+Number 
+.................... 
+....................
+Colour 
+..................................... 
+.....................................
+water out
+pear-shaped 
+flask
+Liebig 
+condenser
+anti-bumping 
+granules
+water in
+HEAT
+open top
+PMT
+
+
+--- Page Break ---
+
+20
+*P42977A02024*
+ 
+ 
+*(iii) Describe two features on the infrared spectrum which could be used to 
+determine whether the retinol has been completely converted to retinal.
+ 
+ 
+ 
+Select some of the following infrared data to support your answer.
+(2)
+ 
+O–H stretching in alcohols (variable, broad) at 
+3750 – 3200 cm–1
+ 
+O–H stretching in carboxylic acids (weak) at 
+3300 – 2500 cm–1
+ 
+C=O stretching in aldehydes (strong) at 
+1740 – 1720 cm–1
+ 
+C=O stretching in ketones (strong) at 
+1700 – 1680 cm–1
+ 
+C=O stretching in carboxylic acids, alkyl (strong) at 
+1725 – 1700 cm–1
+ 
+C–H stretching in aldehydes (weak) at 
+2900 – 2820 cm–1
+ 
+C–H stretching in aldehydes (weak) at 
+2775 – 2700 cm–1
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P42977A02124*
+ 
+ 
+(iv) The structure of the retinal molecule that combines with opsin in the human 
+body differs from the structure expected from the oxidation of retinol. 
+ 
+ 
+ 
+The structures of retinal and retinol are shown below.
+(1)
+Retinal
+Retinol
+ 
+ 
+ 
+As well as an oxidation, a structural change has occurred within the molecule.  
+Circle only the part of the retinal molecule where this change has occurred.
+ 
+ 
+(v) The bond angle around each carbon atom in a carbon-carbon double bond is 
+about 120°.  Explain the reason for this bond angle and state the name of the 
+shape around each carbon atom.
+(3)
+Reason  ..............................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Shape  .................................................................................................................................................................................................................................................................
+OH
+O
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+22
+*P42977A02224*
+ 
+(d) Complete the diagram below to show the skeletal formula of retinoic acid.
+(1)
+ 
+*(e) Retinoic acid and retinol both have OH groups.  Suggest one chemical reagent 
+that you could use to test for the presence of an OH group which would work for 
+both compounds.  You may assume that both organic compounds are dissolved 
+in suitable solvents. 
+ 
+ 
+Give the positive observation for the test and state one necessary experimental 
+precaution that you would make to reduce the risk from carrying out this test.
+(3)
+Reagent  ...........................................................................................................................................................................................................................................................
+Observation  .................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Precaution  .....................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 22 marks)
+TOTAL FOR SECTION C = 22 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+23
+*P42977A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+*P42977A02424*
+PMT

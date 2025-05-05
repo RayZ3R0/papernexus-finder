@@ -1,0 +1,355 @@
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Tuesday 5 November 2002 −  Morning 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has eight questions. Pages 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+1. 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+O 
+ 
+ 
+      30° 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P 
+ 
+F N 
+ 
+ 
+A particle P of weight 6 N is attached to one end of a light inextensible string. The other 
+end of the string is attached to a fixed point O. A horizontal force of magnitude F newtons 
+is applied to P. The particle P is in equilibrium under gravity with the string making an 
+angle of 30° with the vertical, as shown in Fig. 1. Find, to 3 significant figures,   
+ 
+(a) the tension in the string, 
+(3) 
+(b) the value of F.  
+(3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+2. 
+A particle P of mass 1.5 kg is moving under the action of a constant force (3i –7.5j) N. 
+Initially P has velocity (2i + 3j) m s−1. Find  
+ 
+(a) the magnitude of the acceleration of P,  
+(4) 
+(b) the velocity of P, in terms of i and j, when P has been moving for 4 seconds.  
+(3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+3.  
+A car accelerates uniformly from rest to a speed of 20 m s−1 in T seconds. The car then 
+travels at a constant speed of 20 m s−1 for 4T seconds and finally decelerates uniformly to 
+rest in a further 50 s.  
+ 
+(a) Sketch a speed-time graph to show the motion of the car. 
+(2) 
+The total distance travelled by the car is 1220 m. Find 
+ 
+(b) the value of T, 
+(3) 
+(c) the initial acceleration of the car.  
+(2) 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+ 
+x m 
+ 
+A 
+ 
+ 
+ 
+C 
+ 
+B 
+ 
+ 
+2m 
+ 
+ 
+ 
+A uniform plank AB has weight 80 N and length x metres. The plank rests in equilibrium 
+horizontally on two smooth supports at A and C, where AC = 2m, as shown in Fig. 2. A 
+rock of weight 20 N is placed at B and the plank remains in equilibrium. The reaction on 
+the plank at C has magnitude 90 N. The plank is modelled as a rod and the rock as a 
+particle. 
+ 
+ 
+(a) Find the value of x. 
+(4) 
+ 
+(b) State how you have used the model of the rock as a particle. 
+(1) 
+ 
+ 
+The support at A is now moved to a point D on the plank and the plank remains in 
+equilibrium with the rock at B. The reaction on the plank at C is now three times the 
+reaction at D. 
+ 
+ 
+(c) Find the distance AD. 
+(4) 
+ 
+Turn over 
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+5. 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+ 
+A 
+ 
+B 
+5 m 
+ 
+ 
+ 
+ 
+20°  
+ 
+C 
+ 
+ 
+ 
+A suitcase of mass 10 kg slides down a ramp which is inclined at an angle of 20° to the 
+horizontal. The suitcase is modelled as a particle and the ramp as a rough plane. The top of 
+the plane is A. The bottom of the plane is C and AC is a line of greatest slope, as shown in 
+Fig. 3. The point B is on AC with AB = 5 m. The suitcase leaves A with a speed of 10 m s−1 
+and passes B with a speed of 8 m s−1. Find   
+ 
+(a) the decleration of the suitcase, 
+(2) 
+(b) the coefficient of friction between the suitcase and the ramp. 
+(6) 
+The suitcase reaches the bottom of the ramp. 
+ 
+(c) Find the greatest possible length of AC.  
+(2) 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+6. 
+A railway truck P of mass 1500 kg is moving on a straight horizontal track. The truck P 
+collides with a truck Q of 2500 kg at a point A. Immediately before the collision, P and Q 
+are moving in the same direction with speeds 10 m s−1 and 5 m s−1 respectively. 
+Immediately after the collision, the direction of motion of P is unchanged and its speed is 
+4 m s−1. By modelling the trucks as particles,  
+ 
+(a) show that the speed of Q immediately after the collision is 8.6 m s−1.  
+(3) 
+ 
+After the collision at A, the truck P is acted upon by a constant braking force of magnitude 
+500 N. The truck P comes to rest at the point B. 
+ 
+(b) Find the distance AB. 
+(3) 
+ 
+After the collision Q continues to move with constant speed 8.6 m s−1.  
+ 
+(c) Find the distance between P and Q at the instant when P comes to rest. 
+(5) 
+ 
+ 
+7. 
+Two helicopters P and Q are moving in the same horizontal plane. They are modelled as 
+particles moving in straight lines with constant speeds. At noon P is at the point with 
+position vector (20i + 35j) km with respect to a fixed origin O. At time t hours after noon 
+the position vector of P is p km. When t = 2
+1  the position vector of P is (50i – 25j) km. 
+Find  
+ 
+(a) the velocity of P in the form (ai + bj) km h−1,  
+(2) 
+(b) an expression for p in terms of t.  
+(2) 
+ 
+At noon Q is at O and at time t hours after noon the position vector of Q is q km. The 
+velocity of Q has magnitude 120 km h−1 in the direction of 4i – 3j. Find  
+ 
+(d) an expression for q in terms of t,  
+ 
+(3) 
+(e) the distance, to the nearest km, between P and Q when t = 2. 
+ 
+(4) 
+ 
+ 
+ 
+ 
+ 
+Turn over 
+PMT
+
+
+--- Page Break ---
+
+ 
+6 
+8. 
+ 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+ 
+P 
+ 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+B 
+    
+ 
+ 
+ 
+ 
+ 
+  0.25 m 
+30° 
+ 
+ 
+ 
+Two particles A and B, of mass m kg and 3 kg respectively, are connected by a light 
+inextensible string. The particle A is held resting on a smooth fixed plane inclined at 30° to 
+the horizontal. The string passes over a smooth pulley P fixed at the top of the plane. The 
+portion AP of the string lies along a line of greatest slope of the plane and B hangs freely 
+from the pulley, as shown in Fig. 4. The system is released from rest with B at a height of 
+0.25 m above horizontal ground. Immediately after release, B descends with an acceleration 
+of 5
+2 g. Given that A does not reach P, calculate   
+ 
+(a) the tension in the string while B is descending,  
+(3) 
+(b) the value of m. 
+(4) 
+ 
+The particle B strikes the ground and does not rebound. Find 
+ 
+(c) the magnitude of the impulse exerted by B on the ground,  
+(3) 
+(d) the time between the instant when B strikes the ground and the instant when A reaches 
+its highest point. 
+(4) 
+ 
+END 
+ 
+ 
+ 
+ 
+PMT

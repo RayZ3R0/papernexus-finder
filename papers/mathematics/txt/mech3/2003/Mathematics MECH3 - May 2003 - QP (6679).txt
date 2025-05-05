@@ -1,0 +1,203 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+Advanced/Advanced Subsidiary 
+Monday 19 May 2003 − Morning 
+Time:  1 hour 30 minutes 
+Materials required for examination 
+    Items included with question papers 
+Answer Book (AB16)         
+ Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+Advice to Candidates 
+You must ensure that your answers t parts of questions are clearly labelled. 
+o 
+without working may gain no credit. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+N13898A
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+Edexcel Foundation is a registered charity. ©2003 Edexcel 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1.
+A particle P of mass m is held at a point A on a rough horizontal plane. The coefficient of friction
+between P and the plane is 3
+2 . The particle is attached to one end of a light elastic string, of
+natural length a and modulus of elasticity 4mg. The other end of the string is attached to a fixed
+point O on the plane, where OA = 2
+3 a. The particle P is released from rest and comes to rest at a
+point B, where OB < a.
+Using the work-energy principle, or otherwise, calculate the distance AB.
+(6) 
+2.
+A car moves round a bend which is banked at a constant angle of 10° to the horizontal. When the
+car is travelling at a constant speed of 18 m s−1, there is no sideways frictional force on the car.
+The car is modelled as a particle moving in a horizontal circle of radius r metres.
+Calculate the value of r.
+ (6) 
+3.
+A toy car of mass 0.2 kg is travelling in a straight line on a horizontal floor. The car is modelled
+as a particle. At time t = 0 the car passes through a fixed point O. After t seconds the speed of the
+car is v m s−1 and the car is at a point P with OP = x metres. The resultant force on the car is
+modelled as 10
+1 x(4 – 3x) N in the direction OP. The car comes to instantaneous rest when x = 6.
+Find
+(a) an expression for v2 in terms of x,
+(7) 
+ 
+(b) the initial speed of the car. 
+(2) 
+N13898A 
+2
+PMT
+PMT
+
+
+--- Page Break ---
+
+N13898A 
+3
+4. 
+Figure 1 
+     A 
+l
+2
+3
+P 
+     B 
+ 
+A particle P of mass m is attached to the ends of two light inextensible strings AP and BP each of 
+length l. The ends A and B are attached to fixed points, with A vertically above B and AB  = 2
+3 l, 
+as shown in Fig. 1. The particle P moves in a horizontal circle with constant angular speed ω. 
+The centre of the circle is the mid-point of AB and both strings remain taut. 
+ 
+(a) Show that the tension AP is 6
+1 m(3lω 2 + 4g). 
+(7) 
+ 
+(b) Find, in terms of m, l, ω  and g, an expression for the tension in BP. 
+(2) 
+ 
+(c) Deduce that ω 2 ≥ 
+l
+g
+3
+4
+.
+(2) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+5.
+A particle P of mass 0.8 kg is attached to one end A of a light elastic spring OA, of natural length
+60 cm and modulus of elasticity 12 N. The spring is placed on a smooth horizontal table and the
+end O is fixed. The particle P is pulled away from O to a point B, where OB = 85 cm, and is
+released from rest.
+(a) Prove that the motion of P is simple harmonic with period 5
+2π  s. 
+(5) 
+(b) Find the greatest magnitude of the acceleration of P during the motion.  
+(2) 
+Two seconds after being released from rest, P passes through the point C. 
+(c) Find, to 2 significant figures, the speed of P as it passes through C. 
+(5) 
+(d) State the direction in which P is moving 2 s after being released. 
+(1) 
+6. 
+Figure 2 
+      A 
+        C 
+         θ 
+   O 
+    a 
+       B 
+A particle is at the highest point A on the outer surface of a fixed smooth sphere of radius a and 
+centre O. The lowest point B of the sphere is fixed to a horizontal plane. The particle is projected 
+horizontally from A with speed u, where u < √(ag). The particle leaves the sphere at the point C, 
+where OC makes an angle θ  with the upward vertical, as shown in Fig. 2. 
+ 
+(a) Find an expression for cos θ  in terms of u, g and a. 
+(7) 
+The particle strikes the plane with speed 
+
+
+
+
+
+
+2
+9ag
+.
+ 
+(b) Find, to the nearest degree, the value of θ. 
+(7) 
+N13898A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+N13898A 
+5
+7. 
+ 
+Figure 3 
+y 
+R
+ O 
+        x 
+The shaded region R is bounded by part of the curve with equation y = 2
+1 (x – 2)2, the x-axis and 
+the y-axis, as shown in Fig. 3. The unit of length on both axes is 1 cm. A uniform solid S is made 
+by rotating R through 360° about the x-axis. Using integration, 
+ 
+(a) calculate the volume of the solid S, leaving your answer in terms of π, 
+(4) 
+ 
+(b) show that the centre of mass of S is 3
+1  cm from its plane face. 
+(7) 
+Figure 4 
+   8 cm 
+        4 cm      
+     C         
+         S 
+    A 
+      B 
+A tool is modelled as having two components, a solid uniform cylinder C and the solid S. The 
+diameter of C is 4 cm and the length of C is 8 cm. One end of C coincides with the plane face 
+of S. The components are made of different materials. The weight of C is l0W newtons and the 
+weight of S is 2W newtons. The tool lies in equilibrium with its axis of symmetry horizontal on 
+two smooth supports A and B, which are at the ends of the cylinder, as shown in Fig. 4. 
+ 
+(c) Find the magnitude of the force of the support A on the tool. 
+(5) 
+END 
+PMT
+PMT

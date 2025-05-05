@@ -1,0 +1,229 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6684 
+Edexcel GCE 
+Statistics S2 
+Advanced/Advanced Subsidiary 
+Tuesday 17 June 2003 − Afternoon 
+Time: 1 hour 30 minutes 
+ 
+ 
+Materials required for examination            Items included with question papers 
+Answer Book (AB16)                        
+Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for 
+symbolic algebra, differentiation and/or integration. Thus candidates may NOT 
+use calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Statistics S2), the paper reference (6684), your 
+surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the answer 
+should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N13899A 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2003 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+Explain briefly what you understand by  
+ 
+(a) a statistic, 
+(2) 
+(b) a sampling distribution. 
+(2) 
+ 
+ 
+2. 
+(a) Write down the condition needed to approximate a Poisson distribution by a Normal 
+distribution. 
+(1) 
+ 
+The random variable Y ~ Po(30). 
+ 
+(b) Estimate P(Y > 28). 
+(6) 
+ 
+ 
+3. 
+In a town, 30% of residents listen to the local radio station. Four residents are chosen at random. 
+ 
+(a) State the distribution of the random variable X, the number of these four residents that listen 
+to local radio. 
+(2) 
+(b) On graph paper, draw the probability distribution of X. 
+(3) 
+(c) Write down the most likely number of these four residents that listen to the local radio 
+station. 
+(1) 
+(d) Find E(X) and Var (X). 
+(3) 
+ 
+ 
+4. 
+(a) Write down the conditions under which the binomial distribution may be a suitable model to 
+use in statistical work. 
+(4) 
+ 
+ 
+A six-sided die is biased. When the die is thrown the number 5 is twice as likely to appear as any 
+other number. All the other faces are equally likely to appear. The die is thrown repeatedly. 
+ 
+ 
+Find the probability that 
+ 
+ 
+(b) (i)  the first 5 will occur on the sixth throw, 
+ 
+ 
+ 
+(ii) in the first eight throws there will be exactly three 5s. 
+(8) 
+ 
+N13899A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+5.  
+A drinks machine dispenses lemonade into cups. It is electronically controlled to cut off the flow 
+of lemonade randomly between 180 ml and 200 ml. The random variable X is the volume of 
+lemonade dispensed into a cup. 
+ 
+(a) Specify the probability density function of X and sketch its graph. 
+(4) 
+(b) Find the probability that the machine dispenses 
+ 
+ 
+(i) less than 183 ml, 
+ 
+ 
+(ii) exactly 183 ml. 
+(3) 
+(c) Calculate the inter-quartile range of X. 
+(1) 
+(d) Determine the value of x such that P(X ≥ x) = 2P(X ≤ x). 
+(3) 
+(e) Interpret in words your value of x. 
+(2) 
+ 
+6. 
+A doctor expects to see, on average, 1 patient per week with a particular disease. 
+ 
+(a) Suggest a suitable model for the distribution of the number of times per week that the doctor 
+sees a patient with the disease. Give a reason for your answer. 
+(3) 
+(b) Using your model, find the probability that the doctor sees more than 3 patients with the 
+disease in a 4 week period. 
+(4) 
+ 
+The doctor decides to send information to his patients to try to reduce the number of patients he 
+sees with the disease. In the first 6 weeks after the information is sent out, the doctor sees 
+2 patients with the disease. 
+ 
+(c) Test, at the 5% level of significance, whether or not there is reason to believe that sending 
+the information has reduced the number of times the doctor sees patients with the disease. 
+State your hypotheses clearly. 
+ 
+(6) 
+ 
+Medical research into the nature of the disease discovers that it can be passed from one patient to 
+another. 
+ 
+(d) Explain whether or not this research supports your choice of model. Give a reason for your 
+answer. 
+ 
+(2) 
+ 
+N13899A 
+3 
+Turn over 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+A continuous random variable X has probability density function f(x) where 
+ 
+f(x) = 
+
+
+
+≤
+≤
+−
++
++
+otherwise
+,0
+,0
+1
+)1
+2
+(
+2
+x
+x
+x
+k
+ 
+ 
+where k is a positive integer. 
+ 
+(a) Show that k = 3. 
+(4) 
+ 
+Find 
+ 
+(b) E(X), 
+(4) 
+(c) the cumulative distribution function F(x), 
+(4) 
+(d) P(−0.3 < X < 0.3). 
+(3) 
+ 
+                 END 
+N13899A 
+4 
+PMT
+PMT

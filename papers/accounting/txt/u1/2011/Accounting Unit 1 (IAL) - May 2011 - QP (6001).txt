@@ -1,0 +1,874 @@
+Turn over
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 –  The Accounting System and 
+Costing
+Tuesday 17 May 2011 – Morning
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P38646A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2011 Edexcel Limited.
+W850/6001/57570   1/1/1/1/1/e2/
+*P38646A*
+
+
+--- Page Break ---
+
+P38646A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Pavlena is in business buying and selling goods on credit. The following balances were extracted 
+from her books on 30 April 2011:
+ 
+ 
+ 
+£
+ 
+Revenue (Sales) 
+85 524
+ 
+Non-current (Fixed) assets:
+ 
+ 
+Intangible assets (Goodwill) 
+25 000
+ 
+ 
+Property (Leasehold premises) 
+40 000
+ 
+ 
+Motor vehicle 
+15 000
+ 
+ 
+Fixtures and fittings 
+14 000
+ 
+Provisions for depreciation:
+ 
+ 
+Property (Leasehold premises) 
+6 400
+ 
+ 
+Motor vehicle 
+8 000
+ 
+ 
+Fixtures and fittings 
+3 600
+ 
+Ordinary goods purchased (Purchases) 
+32 890
+ 
+Inventory (Stock) 1 May 2010 
+3 810
+ 
+Motor vehicle running expenses 
+4 250
+ 
+General expenses and repairs 
+6 910
+ 
+Telephone and broadband expenses 
+1 450
+ 
+Wages 
+23 860
+ 
+Drawings 
+8 704
+ 
+Loan interest paid 
+1 750
+ 
+Trade receivables (Debtors) 
+7 850
+ 
+Trade payables (Creditors) 
+6 900
+ 
+Capital 
+50 600
+ 
+8% Bank loan repayable 30 April 2015 
+30 000
+ 
+Cash (cash and bank) 
+5 750
+ 
+Provision for doubtful debts 
+200
+ 
+Additional information at 30 April 2011:
+ 
+(i) Inventory (Stock) was valued at £4 630
+ 
+(ii) Wages of £1 600 were prepaid
+ 
+(iii) An invoice for ordinary goods purchased (purchases) £400, bought on credit, had been mislaid 
+and no entries had been made in the books
+ 
+(iv) During the year repairs to fixtures and fittings costing £2 000 had been posted, in error, to the 
+fixtures and fittings account
+ 
+(v) Depreciation is charged on non-current (fixed) assets on the following basis:
+ 
+ 
+• 
+The property (leasehold premises) has an expected life of 50 years
+ 
+ 
+• 
+Motor vehicles at the rate of 20% per annum diminishing balance
+ 
+ 
+• 
+Fixtures and fittings at the rate of 15% per annum straight line
+ 
+(vi) The 8% Bank loan was taken out on 1 May 2010
+ 
+(vii) A debt of £600 is considered irrecoverable. A provision of 4% is to be maintained on all 
+remaining debts.
+
+
+--- Page Break ---
+
+P38646A 
+3
+ 
+Turn over
+ 
+Required:
+ 
+(a) Prepare for Pavlena the:
+ 
+ 
+(i) statement of comprehensive income (trading and profit & loss account) for the year ended 
+30 April 2011
+(15)
+ 
+ 
+(ii) statement of financial position (balance sheet) as at 30 April 2011.
+(15)
+ 
+During the year repairs to fixtures and fittings were posted, in error, to the fixtures and fittings 
+account.
+ 
+(b) (i) Name this type of error.
+(1)
+ 
+ 
+(ii) Explain why the posting to the fixtures and fittings account was an error. 
+(4)
+ 
+ 
+(iii) Prepare the journal entries, including narrative, to correct the error.
+(3)
+ 
+(c) Distinguish between straight line and diminishing balance as methods of depreciation.
+(6)
+ 
+(d) Evaluate the decision of Pavlena to use the diminishing balance method to depreciate her motor 
+vehicles.
+(8)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 8 of the question paper.
+
+
+--- Page Break ---
+
+P38646A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. Haider is in business as a travel consultant. She sells holidays and collects the payment from 
+customers. She receives from the travel company a commission of 10% of the revenue (sales) value 
+of the holidays.
+ 
+Haider operates a single Sales Ledger Control Account for her business. The following information 
+is available:
+ 
+£
+ 
+Trade receivables (Debtors) 1 April 2010 
+19 900
+ 
+Receipts from customers 
+425 000
+ 
+Refunds to customers 
+8 350
+ 
+Dishonoured cheques 
+1 600
+ 
+Trade receivables (Debtors) 31 March 2011 
+24 850
+ 
+Required:
+ 
+(a) Prepare the Sales Ledger Control Account for the year ended 31 March 2011, showing the total 
+value of the revenue (sales) for the year. 
+(7)
+ 
+On 1 April 2010, the following balances were in the books of Haider:
+ 
+£
+ 
+Commission receivable, owing to Haider: 
+4 800
+ 
+Rent, 3 months prepaid: 
+1 250
+ 
+Wages, prepaid: 
+400
+ 
+Marketing expenses, owing: 
+750
+ 
+The following is a summary of some of the transactions of the business for the year ended 31 March 
+2011:
+ 
+£
+ 
+Receipts of commission from the travel company 
+43 500
+ 
+Payment of 9 months rent 
+3 750
+ 
+Wages paid  
+17 800
+ 
+Marketing expenses paid 
+11 250
+ 
+At 31 March 2011:
+ 
+ 
+Wages £350 were owing
+ 
+ 
+Marketing expenses – there was a closing inventory (stock) of brochures £2 150 
+
+
+--- Page Break ---
+
+P38646A 
+5
+ 
+Turn over
+ 
+Required:
+ 
+(b) Prepare the following ledger accounts for the year ended 31 March 2011, showing the transfers 
+to the statement of comprehensive income (profit & loss account). Balance the accounts as 
+necessary.
+ 
+ 
+(i) Commission receivable account
+ 
+ 
+(ii) Rent account
+ 
+ 
+(iii) Wages account
+ 
+ 
+(iv) Marketing expenses account
+(23)
+ 
+In addition to the incomes and expenses above, Haider also incurred the following for the year 
+ended 31 March 2011:
+ 
+ 
+Sundry expenses 
+£3 600
+ 
+ 
+Depreciation on non-current (fixed) assets  
+£4 600
+ 
+(c) Prepare the statement of comprehensive income (profit & loss account) for the year ended 
+31 March 2011.
+(8)
+ 
+At a meeting with her accountant, Haider was informed that her accounts would need to comply 
+with the accounting concepts of accruals and going concern.
+ 
+(d) Explain the meaning of:
+ 
+ 
+(i) accounting concepts 
+ 
+ 
+(ii) the accounting concept of accruals
+ 
+ 
+(iii) the accounting concept of going concern.
+(6)
+ 
+(e) Evaluate the use of accounting concepts when preparing financial statements (final accounts).
+(8)
+(Total 52 marks)
+Answer space for question 2 is on pages 9 to 15 of the question paper.
+
+
+--- Page Break ---
+
+P38646A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. Bell Computers is considering purchasing a computer retail business. Bell Computers has identified 
+two businesses which could be purchased, Hilltec and Microtech. Bell Computers only has 
+sufficient funds to purchase one of the businesses.
+ 
+The following is the summarised statement of comprehensive income (trading and profit & loss 
+account) for the two businesses for the year ended 30 April 2011:
+ 
+Hilltec 
+Microtech
+ 
+£000 
+£000
+ 
+Revenue (Sales) (all on credit) 
+800 
+800
+ 
+Cost of sales 
+480 
+400
+ 
+Wages and salaries 
+180 
+280
+ 
+Other expenses 
+70 
+85
+ 
+Depreciation 
+20 
+15
+ 
+The following additional balances are also available at 30 April 2011:
+ 
+Hilltec 
+Microtech
+ 
+£000 
+£000
+ 
+Non-current (Fixed) assets 
+190 
+130
+ 
+Inventory (Stock) 
+150 
+100
+ 
+Trade receivables (Debtors) 
+200 
+40
+ 
+Trade payables (Creditors) 
+350 
+70
+ 
+Cash (Cash and bank) 
+60 
+-
+ 
+Bank loan - repayable 2015 
+- 
+50
+ 
+Capital 
+250 
+150
+
+
+--- Page Break ---
+
+P38646A 
+7
+ 
+Turn over
+ 
+Required:
+ 
+(a) Distinguish between the terms profit and profitability. 
+(4)
+ 
+(b) Calculate the following ratios for Hilltec and Microtech:
+ 
+ 
+(i) Gross profit to revenue (sales) percentage
+(6)
+ 
+ 
+(ii) Profit for the year (net profit) to revenue (sales) percentage
+(6)
+ 
+ 
+(iii) Return on capital employed 
+(6)
+ 
+ 
+(iv) Current ratio
+(6)
+ 
+ 
+(v) Collection period for trade receivables (debtors)
+(6)
+ 
+(c) State four non financial factors that Bell Computers may need to consider when purchasing 
+one of the businesses.
+(4)
+ 
+(d) Advise Bell Computers whether it should purchase Hilltec, Microtech or neither of the 
+businesses. Give three reasons for your decision.
+(6)
+ 
+(e) Evaluate the use of ratios in determining the suitability of a business for purchase.
+(8)
+(Total 52 marks)
+Answer space for question 3 is on pages 16 to 21 of the question paper.
+
+
+--- Page Break ---
+
+P38646A 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. Marios and Tamsin agreed to dissolve their partnership on 31 March 2011. On that date, their 
+statement of financial position (balance sheet) was as follows:
+Statement of financial position (balance sheet) at 31 March 2011
+ 
+£ 
+£
+ 
+Non-current (Fixed) assets
+ 
+Property (Premises) 
+ 
+75 000
+ 
+Motor vehicles at net book value 
+ 
+18 000
+ 
+ 
+ 
+93 000
+ 
+Current assets
+ 
+Inventory (Stock) 
+8 500
+ 
+Trade receivables (Debtors) 
+11 500
+ 
+Cash (Bank) 
+1 000
+ 
+ 
+ 
+21 000
+ 
+ 
+ 
+114 000
+ 
+Creditors: amounts falling due within one year
+ 
+Trade payables (Creditors) 
+ 
+(23 000)
+ 
+ 
+ 
+91 000
+ 
+Non-current liabilities (Long-term liabilities)
+ 
+Loan from Marios 
+ 
+(30 000)
+ 
+ 
+ 
+61 000
+ 
+Capital:
+ 
+Marios 
+32 000
+ 
+Tamsin 
+25 000
+ 
+ 
+ 
+57 000
+ 
+Current accounts:
+ 
+Marios 
+3 000
+ 
+Tamsin 
+1 000
+ 
+ 
+ 
+4 000
+ 
+ 
+ 
+61 000
+ 
+Additional information at 31 March 2011
+ 
+(i) One of the motor vehicles was taken over by Marios for £7 500
+ 
+(ii) Trade receivables (debtors) paid £11 000 in full settlement
+ 
+(iii) Trade payables (creditors) were paid in full less £1 200 discount received
+ 
+(iv) The cost of dissolution was £1 250
+ 
+(v) All remaining assets were sold to Woodman & Co for £140 000
+ 
+(vi) Current account balances were transferred to the capital accounts
+ 
+(vii) Profits and losses are shared by Marios and Tamsin in the ratio 3:2 respectively.
+
+
+--- Page Break ---
+
+P38646A 
+9
+ 
+Turn over
+ 
+Required:
+ 
+(a) Prepare the following to record the dissolution:
+ 
+ 
+(i) Dissolution account
+(9)
+ 
+ 
+(ii) Partners’ capital accounts
+(5)
+ 
+ 
+(iii) Cash (Bank) account.
+(6)
+ 
+(b) State two reasons why a partnership may be dissolved.
+(2)
+ 
+Marios stated that, by selling many of the assets to Woodman & Co, the partnership would be able 
+to realise the goodwill in the business.
+ 
+(c) (i) Explain the term goodwill.
+(2)
+ 
+ 
+(ii) Suggest two possible reasons why Woodman & Co may wish to pay for  goodwill when 
+purchasing the business of Marios and Tamsin.
+(4)
+ 
+(d) Evaluate trading as a partnership as an alternative to trading as a sole trader.
+(4)
+(Total 32 marks)
+Answer space for question 4 is on pages 22 to 25 of the question paper.
+
+
+--- Page Break ---
+
+P38646A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Shavani started business on 1 April 2011 buying mobile phones and renting them to customers. The 
+following information is available for the month of April 2011:
+ 
+(i) Mobile phones are purchased by Shavani and rented to customers on a monthly contract. 
+Customers choose one of two tariffs: Low Usage or High Usage.
+ 
+(ii) During April, inventory (stock) movements were as follows: 
+ 
+ 
+• 
+1 April, purchased inventory (stock) of 1 000 mobile phones, at £20 each
+ 
+ 
+• 
+20 April, purchased inventory (stock) of 1 500 mobile phones, at £22 each
+ 
+ 
+• 
+During April, issued 2 000 mobile phones to customers.
+ 
+(iii) Shavani operates the First In First Out (F.I.F.O) periodic valuation method of inventory (stock) 
+valuation.
+ 
+(iv) On 30 April, Shavani found that 200 of the mobile phones in the closing inventory (closing 
+stock) were damaged and would cost £6 per phone to repair.
+ 
+(v) Of the mobile phones issued: 800 customers chose the Low Usage tariff and the remaining 
+customers chose the High Usage tariff. Tariff charges to each customer were:
+ 
+ 
+Low Usage 
+High Usage
+ 
+Monthly fixed charge 
+£8 
+£20
+ 
+Cost per minute 
+£0.40 
+£0.10
+ 
+(vi) In April, each Low Usage customer used on average 20 minutes and each High Usage customer 
+used on average 130 minutes.
+ 
+(vii) Shavani also had the following additional expenses in April:
+ 
+ 
+£
+ 
+Wages and salaries 
+4 320
+ 
+Mobile phone network access charges 
+5 000
+ 
+Depreciation on equipment 
+1 400
+ 
+ 
+On 30 April wages and salaries of £730 were accrued.
+
+
+--- Page Break ---
+
+P38646A 
+11
+ 
+Turn over
+ 
+Required:
+ 
+(a) Distinguish between stock valuation and stock rotation.
+(4)
+ 
+(b) Calculate the value of the closing inventory (closing stock) at 30 April 2011.
+(8)
+ 
+(c) (i) Calculate the Revenue (Sales) for the month of April 2011.
+(4)
+ 
+ 
+(ii) Prepare the statement of comprehensive income (trading and profit & loss account) for the 
+month of April 2011.
+(6)
+ 
+Hinal is considering renting a mobile phone from Shavani. Hinal estimates that he will use his 
+mobile phone for 75 minutes per month.
+ 
+(d) (i) Calculate the cost to Hinal for one month of the 
+ 
+ 
+ 
+• 
+Low Usage tariff 
+ 
+ 
+ 
+• 
+High Usage tariff.
+(4)
+ 
+ 
+(ii) Advise Hinal whether he should enter into a Low Usage tariff or High Usage tariff 
+agreement. 
+(2)
+ 
+(e) Evaluate the use of First In First Out (F.I.F.O) as a method of valuing inventory (stock).
+(4)
+(Total 32 marks)
+Answer space for question 5 is on pages 26 to 30 of the question paper.
+
+
+--- Page Break ---
+
+P38646A 
+12 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. Easy Gardening is a business selling and repairing lawn mowers. It has two departments; a shop 
+selling new lawn mowers and accessories and a workshop repairing used lawn mowers. The following 
+information relates to the year ended 31 March 2011:
+ 
+ 
+ 
+£
+ 
+Revenue (Sales):
+ 
+ 
+shop sales of new lawn mowers and accessories 
+120 000
+ 
+ 
+workshop repairs to used lawn mowers 
+60 000
+ 
+Ordinary goods purchased (purchases):
+ 
+ 
+purchases of new lawn mowers and accessories 
+84 000
+ 
+ 
+parts for repairs to used lawn mowers 
+7100
+ 
+Inventory (Stock) at 1 April 2010:
+ 
+ 
+new shop lawn mowers and accessories for sale 
+38 000
+ 
+ 
+workshop parts for repairs to used lawn mowers 
+2 100
+ 
+Motor vehicle running costs 
+16 000
+ 
+Wages 
+42 000
+ 
+Rent and rates 
+9 000
+ 
+General expenses (including depreciation) 
+12 500
+ 
+Business advertising  
+10 800
+ 
+Trade receivables (Debtors):
+ 
+ 
+shop sales of new lawn mowers  
+11 000
+ 
+ 
+workshop repairs to used lawn mowers 
+7 500
+ 
+Additional information at 31 March 2011:
+ 
+(i) Inventory (stock) of new lawn mowers £47 500. There was no inventory (stock) of parts for 
+repairs to used lawn mowers
+ 
+(ii) During the year lawn mower accessories, valued at £5 600, were taken from the shop for use 
+in the workshop
+ 
+(iii) It is estimated that 60% of motor vehicle running costs relate to the workshop repairs to used 
+lawn mowers
+ 
+(iv) Five staff are employed, two in the shop and three in the workshop
+ 
+(v) The floor area occupied is: shop 200 sqm: workshop 400 sqm
+ 
+(vi) It is estimated that general expenses (including depreciation) £7 000 relates to the shop
+ 
+(vii) A provision for doubtful debts is to be created for trade receivables (debtors) of 4% of shop 
+sales and 10% of workshop repairs.
+
+
+--- Page Break ---
+
+P38646A 
+13
+ 
+Turn over
+ 
+Required:
+ 
+(a) (i) Explain the term appropriation of overheads.
+(4)
+ 
+ 
+(ii) Advise Easy Gardening how to appropriate the business advertising expense between the 
+shop and the workshop. 
+(2)
+ 
+(b) Prepare the departmental statement of comprehensive income (departmental trading and profit 
+& loss account) for the year ended 31 March 2011.
+(22)
+ 
+The owners of Easy Gardening are considering closing the repair workshop and using this as 
+additional space for the shop. The owners believe that this will increase profits.
+ 
+(c) Evaluate this belief of the owners. 
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 31 to 34 of the question paper.
+
+
+--- Page Break ---
+
+P38646A 
+14 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Zahin is in business buying and selling electrical goods on credit. A draft statement of comprehensive 
+income (trading and profit & loss account) was prepared on 31 March 2011, which showed a gross 
+profit of £37 780. 
+ 
+Following the preparation of the draft statement, the following errors were found in the books:
+ 
+(i) Goods on sale or return £2 760 had been included in the revenue (sales). On 31 March 2011 
+the customer had not notified Zahin of the intention to purchase the goods. The goods had cost 
+Zahin £1 900
+ 
+(ii) Goods with a cost price of £500 had been included in the stock-take at 31 March 2011 at the 
+sales list price of £750
+ 
+(iii) The Purchases Day Book total of £5 000 for February had not been posted to the Purchases 
+Account.
+ 
+Required:
+ 
+(a) Explain the term suspense account, stating which of the items (i) to (iii) above would require 
+an entry into the suspense account.
+(5)
+ 
+(b) Calculate the corrected gross profit for the year ended 31 March 2011.
+(7)
+
+
+--- Page Break ---
+
+P38646A 
+16 
+BLANK PAGE

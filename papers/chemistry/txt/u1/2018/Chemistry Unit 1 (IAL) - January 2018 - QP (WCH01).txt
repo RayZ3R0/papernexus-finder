@@ -1,0 +1,1175 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Wednesday 10 January 2018 – Morning
+Time: 1 hour 30 minutes
+WCH01/01
+Candidates must have: Scientific calculator
+Pearson Edexcel 
+International
+Advanced Level
+*P50704A0124*
+P50704A
+©2018 Pearson Education Ltd.
+6/5/5/1/1/1/
+Turn over    
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 80. 
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed  
+– you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+•	Show all your working in calculations and include units where appropriate.
+
+
+--- Page Break ---
+
+2
+*P50704A0224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1	 The diagram shows a mass spectrometer. 
+sample vaporised
+recorder
+amplifier
+ions are detected 
+and recorded
+A
+B
+C
+D
++
+	
+The region of the mass spectrometer in which ions are accelerated is
+(1)
+	
+	
+A	 A
+	
+	
+B	 B
+	
+	
+C	 C
+	
+	
+D	 D
+(Total for Question 1 = 1 mark)
+2	 The electronic configuration of the nitride ion, N3−, is
+	
+	
+A	 1s22s2
+	
+	
+B	 1s22s22p1
+	
+	
+C	 1s22s22p3
+	
+	
+D	 1s22s22p6
+(Total for Question 2 = 1 mark)
+
+
+--- Page Break ---
+
+3
+*P50704A0324*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+3	 W, X, Y and Z represent four elements in the Periodic Table.  These are not the symbols 
+for the elements.
+W
+Z
+Y
+X
+	
+(a)	 Which is a p block element with only two electrons in its outer p subshell?
+(1)
+	
+	
+A	 W
+	
+	
+B	 X
+	
+	
+C	 Y
+	
+	
+D	 Z
+	
+(b)	 Elements W and Z form a compound WZ.  The types of bonding in W, Z and WZ are
+(1)
+W
+Z
+WZ
+A
+ionic
+covalent
+ionic
+B
+metallic
+covalent
+ionic
+C
+metallic
+covalent
+covalent
+D
+metallic
+ionic
+covalent
+(Total for Question 3 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+4
+*P50704A0424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+4	 Alstonite is a rare salt with the formula, BaCa(CO3)2.  It reacts with hydrochloric acid.
+	
+Data:	 molar mass of alstonite = 297.4 g mol−1
+	
+	
+	
+L = 6.02 × 1023  mol−1
+	
+(a)	 The percentage by mass of oxygen in alstonite is
+(1)
+	
+	
+A	 16.1%
+	
+	
+B	 26.9%
+	
+	
+C	 32.3%
+	
+	
+D	 34.3%
+	
+(b)	 What is the total number of ions in one mole of alstonite?
+(1)
+	
+	
+A	 6.02 × 1023
+	
+	
+B	 1.20 × 1024
+	
+	
+C	 1.81 × 1024
+	
+	
+D	 2.41 × 1024
+	
+(c)	 What is the number of moles of hydrochloric acid required for complete reaction 
+with one mole of alstonite?
+(1)
+	
+	
+A	 one
+	
+	
+B	 two
+	
+	
+C	 three
+	
+	
+D	 four
+(Total for Question 4 = 3 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+5
+*P50704A0524*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+5	 Phosphorus reacts with iodine to produce phosphorus(III) iodide:
+P4 + 6I2 → 4PI3
+	
+What is the minimum mass of iodine required to produce 1 kg of phosphorus(III) iodide 
+when the phosphorus is in excess?
+	
+Data: molar mass of phosphorus(III) iodide = 411.7 g mol−1
+	
+	
+A	 0.616 kg
+	
+	
+B	 0.925 kg
+	
+	
+C	 2.466 kg
+	
+	
+D	 3.700 kg
+(Total for Question 5 = 1 mark)
+6	 Sulfur reacts with chlorine to produce disulfur dichloride:
+S8 + 4Cl2 → 4S2Cl2
+	
+What is the maximum mass of disulfur dichloride that could be produced from the 
+reaction of 0.100 mol of sulfur, S8, with 0.394 mol of chlorine?
+	
+Data: molar mass of disulfur dichloride = 135.2 g mol−1
+	
+	
+A	 13.32 g
+	
+	
+B	 13.52 g
+	
+	
+C	 53.27 g
+	
+	
+D	 54.08 g
+(Total for Question 6 = 1 mark)
+7	 Which of these Period 2 elements has the highest melting temperature?
+	
+	
+A	 Lithium
+	
+	
+B	 Boron
+	
+	
+C	 Nitrogen
+	
+	
+D	 Neon
+(Total for Question 7 = 1 mark)
+
+
+--- Page Break ---
+
+6
+*P50704A0624*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+8	 Chlorine can be prepared by the reaction between concentrated hydrochloric acid 
+and concentrated sodium chlorate(I).
+	
+Chlorine is a hazardous substance and the risk due to the chlorine is best lowered by
+	
+	
+A	 using a fume cupboard.
+	
+	
+B	 wearing gloves.
+	
+	
+C	 wearing goggles.
+	
+	
+D	 working in groups.
+(Total for Question 8 = 1 mark)
+9	 Metallic bonding is best described as the electrostatic attraction between
+	
+	
+A	 cations and anions.
+	
+	
+B	 cations and delocalised electrons.
+	
+	
+C	 nuclei and shared pairs of electrons.
+	
+	
+D	 nuclei and two electrons from one atom.
+(Total for Question 9 = 1 mark)
+10	 The ionic equation for the reaction between hydrochloric acid and  
+aqueous sodium hydroxide is
+	
+	
+A	 H+(aq) + OH−(aq) → H2O(l)
+	
+	
+B	 Cl−(aq) + Na+(aq) → NaCl(aq)
+	
+	
+C	 H+(aq) + Cl−(aq) + Na+(aq) + OH−(aq) → Cl−(aq) + Na+(aq) + H2O(l)
+	
+	
+D	 H+(aq) + Cl−(aq) + Na+(aq) + OH−(aq) → NaCl(aq) + H2O(l)
+(Total for Question 10 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+7
+*P50704A0724*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+11	 Methane reacts with chlorine in the presence of UV radiation to produce chloromethane:
+CH4
++
+Cl2
+→
+CH3Cl
++
+HCl
+methane
+chlorine
+chloromethane
+hydrogen chloride
+Molar mass 
+/ g mol−1
+16
+71
+50.5
+36.5
+	
+(a)	 What is the atom economy by mass for the production of chloromethane in 	
+this reaction?
+(1)
+	
+	
+A	 29%
+	
+	
+B	 42%
+	
+	
+C	 58%
+	
+	
+D	 71%
+	
+(b)	 When 3.20 g of methane reacted with excess chlorine, 5.05 g of chloromethane 
+was made.  What was the percentage yield?
+(1)
+	
+	
+A	 10%
+	
+	
+B	 20%
+	
+	
+C	 50%
+	
+	
+D	 63%
+	
+(c)	 A methyl free radical forms in this reaction.  The dot-and-cross diagram for the 
+methyl free radical is
+(1)
+	
+	
+A
+	
+H
+H
+H
+C
+	
+	
+	
+	
+	
+	
+	
+	
+B
+	
+H
+H
+H
+C
+	
+	
+C
+	
+H
+H
+H
+H
+C
+	
+	
+	
+	
+	
+	
+	
+D
+	
+H
+H
+H
+C
+(Total for Question 11 = 3 marks)
+
+
+--- Page Break ---
+
+8
+*P50704A0824*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+12	 Hess’s law can be used to determine enthalpy changes, such as the formation of 
+carbon monoxide from carbon and oxygen, which cannot be obtained directly.
+C(s) + ½O2(g)
+CO(g)
+½O2(g)
+ΔH1
+CO2(g)
+½O2(g)
+ΔH2
+ΔH3
+	
+From Hess’s law 
+	
+	
+A	 ΔH1 = ΔH2 − ΔH3
+	
+	
+B	 ΔH1 = ΔH2 + ΔH3
+	
+	
+C	 ΔH1 = ½ΔH2 − ½ΔH3
+	
+	
+D	 ΔH1 = ½ΔH2 + ½ΔH3
+(Total for Question 12 = 1 mark)
+13	 Consider the bond enthalpy values given in the table.
+Bond
+Bond enthalpy / kJ mol−1
+N≡N
++945
+H−H
++436
+N−H
++391
+	
+For the reaction
+N2(g) + 3H2(g) → 2NH3(g) 
+	
+the enthalpy change, in kJ mol−1, is
+	
+	
+A	 +1080
+	
+	
+B	 +852
+	
+	
+C	 −93
+	
+	
+D	 −529
+(Total for Question 13 = 1 mark)
+
+
+--- Page Break ---
+
+9
+*P50704A0924*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+14 	The enthalpy change of combustion of ethanol was determined by using a spirit burner 
+containing ethanol to heat 250 cm3 of water in a copper calorimeter. 
+The experimental value obtained was less exothermic than the Data Booklet value.
+	
+Which is the least likely reason for this difference in the enthalpy values?
+	
+	
+A	 Heat loss from the copper calorimeter
+	
+	
+B	 Incomplete combustion of the ethanol
+	
+	
+C	 Use of non-standard conditions 
+	
+	
+D	 Loss of ethanol by evaporation 
+(Total for Question 14 = 1 mark)
+15	 A drop of copper(II) sulfate solution was placed at the centre of a damp piece of filter 
+paper covering a microscope slide.  A direct current was passed through the paper 
+and after a short time the following observations were noted:
+Moving towards the anode
+Moving towards the cathode
+A
+blue colour
+nothing visible
+B
+blue colour
+yellow colour
+C
+yellow colour
+blue colour
+D
+nothing visible
+blue colour
+(Total for Question 15 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+10
+*P50704A01024*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+16 	This question is about alkanes and their use as fuels.   
+Crude oil is a mixture of alkanes which can be processed in various ways.
+	
+(a)	 Fractional distillation is the method used to separate crude oil into fractions 
+containing similar sized alkanes.
+heated crude oil
+B: petrol / gasoline
+A
+	
+	
+(i)	 On what physical property does the separation of alkanes using 
+fractional distillation depend? 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Suggest the name of an alkane that would be present in the fraction  
+labelled A.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	State why fractions in addition to B are also processed to produce petrol.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+11
+*P50704A01124*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 Substances obtained from crude oil can be processed by cracking to obtain 
+alkanes and alkenes. 
+	
+	
+(i)	 Industrial catalysts are used for the cracking process.  What other condition  
+is required? 
+(1)
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The kerosene fraction contains the hydrocarbon, C12H26, which can be cracked 
+to produce octane and ethene only.
+	
+	
+	
+Write the equation for this cracking reaction.  State symbols are not required.
+(2)
+	
+(c)	 Substances obtained from crude oil can be processed by reforming to produce  
+branched-chain alkanes from straight-chain alkanes.
+	
+	
+(i)	 State the advantage of using petrol containing branched-chain alkanes.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Using skeletal formulae, write an equation for the reforming of hexane into 
+an alkane with a single branch as the only product.  Name your product. 
+	
+	
+	
+State symbols are not required.
+(3)
+Name .....................................................................................................................................................................................................................................
+	
+	
+(iii)	Reforming can also produce cyclic alkanes from straight-chain alkanes.
+	
+	
+	
+Complete the equation for the reforming of nonane into propylcyclohexane.
+(1)
+  → 
+  + 
+........................
+
+
+--- Page Break ---
+
+12
+*P50704A01224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 Pentane, C5H12, is used as a fuel.
+	
+	
+(i)	 Calculate the volume of carbon dioxide produced at room temperature and 
+pressure (r.t.p.) from the complete combustion of 10.0 cm3 of liquid pentane. 
+	
+	
+	
+Give your answer to three significant figures.
+	
+	
+	
+Data: 	 one mole of any gas occupies 24 000 cm3 at r.t.p.
+	
+	
+	
+	
+	
+density of liquid pentane = 0.626 g cm−3
+	
+	
+	
+	
+	
+C5H12 + 8O2 → 5CO2 + 6H2O
+(4)
+	
+	
+(ii)	 Write an equation for the incomplete combustion of pentane to form  
+carbon monoxide and water only.  State symbols are not required.
+(1)
+	
+ *(e)	 Crude oil is a non-renewable resource and some chemists are of the opinion that, 
+because its use causes climate change, other energy sources should be used.
+	
+	
+Explain the meaning of the term ‘non-renewable’ and how the use of crude oil 
+causes climate change.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 16 = 18 marks)
+
+
+--- Page Break ---
+
+13
+*P50704A01324*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+17	 This is a question about the structure and chemical properties of alkenes.
+	
+(a)	 The carbon-carbon double bond consists of both a sigma (σ) bond and a pi (π) bond.
+	
+	
+(i)	 Describe two differences in the orbital overlap of a sigma bond and in the 
+orbital overlap of a pi bond between carbon atoms.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 What feature of a pi bond can result in E-Z isomers?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+14
+*P50704A01424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Not all alkenes exhibit E-Z isomerism.
+	
+	
+	
+For the molecular formula C4H8
+	
+	
+	 •	 draw the displayed formula of the E isomer and of the Z isomer
+	
+	
+	 •	 draw the displayed formula and give the name of one alkene which does 
+not exhibit E-Z isomerism.  Name this alkene.
+(4)
+E isomer
+Z isomer
+Alkene with no E-Z isomerism
+Name .............................................................................................
+	
+(b)	 (i)	 Complete the reaction scheme for propene using structural formulae for the 
+organic products.
+(3)
+CH3CH
+CH2
+Br2
+KMnO4 / H+
+............................................... and ...............................................
+...............................................
+CH3CH2CH3
+...............................................
+
+
+--- Page Break ---
+
+15
+*P50704A01524*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Draw the repeat unit of the polymer formed from propene.
+(1)
+	
+(c)	 Draw the mechanism for the reaction between hydrogen bromide and propene 
+to form the major product.
+	
+	 •	 Use curly arrows and show any relevant dipoles and lone pairs of electrons
+	
+	 •	 State the name of the reaction mechanism
+	
+	 •	 Give the name of the major product.
+(6)
+	
+	
+Reaction mechanism ......................................................................................................................................................................................................
+	
+	
+Name of major product ..............................................................................................................................................................................................
+(Total for Question 17 = 17 marks)
+
+
+--- Page Break ---
+
+16
+*P50704A01624*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+18	 Ionisation energies provide evidence for the electronic structures of atoms.
+	
+(a)	 Complete the definition of the term first ionisation energy.
+(2)
+The energy required to remove one electron from each atom ...................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 Explain why ionisation is an endothermic process.                              
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 The sketch below shows the first ionisation energies of nine successive elements.
+First 
+ionisation 
+energy
+Atomic number
+	
+	
+(i)	 Circle all the crosses on the sketch which represent electrons being removed 
+from an s orbital. 
+(2)
+
+
+--- Page Break ---
+
+17
+*P50704A01724*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Draw the shape of a single p orbital.
+(1)
+	
+ *(d)	 Describe the trend in the values of the first four ionisation energies for the 
+element aluminium.  Hence show that aluminium is in Group 3 of the Periodic Table.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(e)	 Why are orbitals of the same sub shell occupied singly by electrons, before pairing 
+of electrons occurs?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 9 marks)
+
+
+--- Page Break ---
+
+18
+*P50704A01824*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+19	 The following data can be used in a Born-Haber cycle for calcium oxide, CaO.
+Letter
+Enthalpy change
+Value / kJ mol−1
+A
+Enthalpy change of atomisation of calcium
++178
+B
+First ionisation energy of calcium
++590
+C
+Second ionisation energy of calcium
++1145
+D
+Enthalpy change of formation of calcium oxide
+−635
+E
+Enthalpy change of atomisation of oxygen (½O2(g) → O(g)) 
++249
+F
+First electron affinity of oxygen
+−141
+G
+Second electron affinity of oxygen
++798
+	
+(a)	 Complete the Born-Haber cycle for calcium oxide by adding
+	
+	 •	 letters in the boxes for the ionisation energies of calcium and the  
+electron affinities of oxygen
+	
+	 •	 any relevant chemical species and electrons on the blank lines 
+	
+	 •	 arrow heads to indicate enthalpy change direction
+(3)
+D
+CaO(s)
+A
+Ca(s)  +  ½O2(g)
+E
+Ca(g)  +  ½O2(g)
+Ca(g)  +  O(g)
+Ca2+(g) + O2−(g)
++        +
++        +
++        +
+Lattice energy
+
+
+--- Page Break ---
+
+19
+*P50704A01924*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 Use the data to calculate a value for the lattice energy of calcium oxide.
+	
+	
+Give a sign and units in your answer.
+(2)
+	
+ *(c)	 The numerical value for the calcium oxide lattice energy based on the  
+Born-Haber cycle and the theoretical value based on calculation are very similar.  
+However, there is an 8% difference between the values for calcium iodide, with 
+the Born-Haber cycle value being more negative.
+	
+	
+Compare the bonding in calcium oxide with that of calcium iodide and explain 
+fully why there is a significant difference between the experimental and 
+theoretical lattice energy values for calcium iodide.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+20
+*P50704A02024*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 The reaction between calcium oxide and water to produce calcium hydroxide is 
+exothermic, and is used to warm canned drinks.  A typical arrangement is shown 
+in the diagram.
+ring pull
+insulation
+separator
+button
+water
+CaO
+divider
+drink
+	
+	
+The enthalpy change of reaction is −65.1 kJ mol−1
+	
+	
+Assume that the energy transferred to the drink is given by the following equation:
+	
+	
+energy (J) = volume of drink (cm3) × 4.18 (J cm−3 °C−1) × temperature change (°C)
+	
+	
+(i)	 Calculate the mass of calcium oxide that would be required to raise the 
+temperature of 200 cm3 of drink by 40 °C.
+(3)
+	
+	
+(ii)	 Give two reasons why this drink can is insulated.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+21
+*P50704A02124*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Complete the enthalpy level diagram for the reaction between calcium oxide 
+and water.  Include state symbols, the value for the enthalpy change and a 
+label for the y axis.
+(2)
+CaO(s)
+Reaction path
+(Total for Question 19 = 16 marks)
+TOTAL FOR SECTION B = 60 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+
+
+--- Page Break ---
+
+22
+*P50704A02224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+23
+*P50704A02324*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+24
+*P50704A02424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA

@@ -1,0 +1,475 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+Chemistry
+Advanced Subsidiary
+Unit 3B:  Chemistry Laboratory Skills I Alternative
+Monday 10 January 2011 – Afternoon
+Time: 1 hour 15 minutes
+6CH07/01
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• You will be assessed on your ability to organise and present information, ideas,
+ 
+descriptions and arguments clearly and logically, including your use of
+ 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Edexcel GCE
+N37690A
+©2011 Edexcel Limited.
+3/3/e2
+*N37690A0112*
+Candidates may use a calculator.
+PMT
+
+
+--- Page Break ---
+
+*N37690A0212*
+2
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 (a) Compound X is a white crystalline solid that dissolves easily in water to form a 
+clear, colourless solution.  X contains one cation and one anion.  Complete the table 
+below.
+(5)
+Test
+Observation
+Inference
+(i)
+Warm solid X with dilute
+...............................................................
+...............................................................
+A gas was evolved which 
+turned damp red litmus 
+paper blue.
+Ammonia is formed so 
+the ammonium ion is 
+present.
+(ii)
+Add aqueous barium 
+chloride to a solution of X.
+...............................................................
+...............................................................
+X contains either
+sulfite (sulfate(IV))
+or
+............................................................
+or
+............................................................
+(iii)
+Add dilute hydrochloric 
+acid to the result of 
+test (ii).
+A gas was evolved which
+...............................................................
+...............................................................
+...............................................................
+Sulfite (sulfate(IV)) 
+confirmed.
+ 
+ 
+(iv) Describe a further chemical test, not involving indicators, that you could use to 
+confirm that ammonia is formed in part (i).
+(2)
+ Test  ....................................................................................................................................................................................................................................
+ Result  ..............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................  
+PMT
+
+
+--- Page Break ---
+
+*N37690A0312*
+3
+Turn over
+ 
+(b) Compound Y is a white solid that contains one cation and one anion.  Complete the 
+table below.
+(4)
+Test
+Observation
+Inference
+(i)
+Flame test
+Brick red (yellow-red) 
+flame.
+The cation in Y is
+............................................................
+(ii)
+Gently heat a sample of 
+Y in a test tube, testing 
+any vapours evolved with 
+cobalt chloride paper.
+Vapour turned cobalt 
+chloride paper from blue 
+to
+...............................................................
+Water is produced.  
+Y contains water of 
+crystallization.
+(iii)
+Heat the sample of Y in 
+the test tube.
+Brown gas evolved.
+Gas is
+............................................................
+............................................................
+(iv)
+Continue to heat the 
+sample of Y.
+Gas reignited a glowing 
+splint.
+Gas is
+............................................................
+ 
+ 
+(v) Identify, by name or formula, the anion in Y.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Give the formula of Y (one mole of Y contains one mole of water of 
+crystallization).
+(2)
+................................................................................................................................................................................................................................................
+(Total for Question 1 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+*N37690A0412*
+4
+2 (a) The organic compounds propan-1-ol and propan-2-ol are isomers.  Propan-1-ol has 
+the structure CH3CH2CH2OH and propan-2-ol has the structure (CH3)2CHOH.
+ 
+ 
+Describe a test and its expected result to confirm the presence of the –OH group in 
+propan-1-ol or propan-2-ol.
+(2)
+ Test  ....................................................................................................................................................................................................................................
+ Result  ..............................................................................................................................................................................................................................
+ 
+(b) When propan-1-ol or propan-2-ol is heated to 170 °C with concentrated sulfuric acid, 
+propene is formed.
+ 
+ 
+Name the type of reaction that has occurred in the reaction with sulfuric acid.  
+Describe a test and its positive result to show the presence of the C=C bond in 
+propene.
+(3)
+ Type of reaction  .......................................................................................................................................................................................................
+ Test  ....................................................................................................................................................................................................................................
+ Result  ..............................................................................................................................................................................................................................
+(Total for Question 2 = 5 marks)
+PMT
+
+
+--- Page Break ---
+
+*N37690A0512*
+5
+Turn over
+3 Aqueous hydrogen peroxide decomposes according to the following equation.
+2H2O2(aq) ĺ 2H2O(l) + O2(g)
+ 
+The decomposition is very slow under normal conditions but it is catalysed by a number 
+of substances.  The rate of the reaction using manganese(IV) oxide as the catalyst 
+was investigated by measuring the volume of oxygen produced at various times as the 
+reaction proceeded.  Part of the apparatus used for the experiment is shown below.  The 
+manganese(IV) oxide was placed in the small glass container which was tipped over to 
+start the reaction and a stop clock was started at the same time.
+ 
+(a) Complete the diagram to show how the gas was collected and its volume measured.
+(2)
+aqueous hydrogen 
+peroxide
+manganese(IV)
+oxide
+PMT
+
+
+--- Page Break ---
+
+*N37690A0612*
+6
+ 
+(b) In an experiment using 0.25 g of manganese(IV) oxide granules (small pieces) and  
+50 cm3 of aqueous hydrogen peroxide of concentration 0.080 mol dmí3, the following 
+results were obtained.
+Time / s
+0.0
+20.0
+30.0
+40.0
+60.0
+80.0
+100
+120
+150
+Volume of O2 / cm3
+0
+29
+36
+40
+45
+46
+47
+48
+48
+ 
+ 
+(i) Plot these results on the grid below and draw a best fit line through the points.
+(3)
+ 
+ 
+(ii) The rate of reaction may be assumed to be approximately constant up to the first 
+volume measurement (20.0 seconds in this experiment) and is called the initial 
+rate.  Use this approximation to calculate the initial rate of this reaction, giving 
+your answer to two significant figures and stating the units.
+(2)
+60
+50
+40
+30
+20
+10
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+Time / s
+Volume of
+oxygen / cm3
+PMT
+
+
+--- Page Break ---
+
+*N37690A0712*
+7
+Turn over
+ 
+ 
+(iii) In a second experiment, the manganese(IV) oxide granules were replaced by the 
+same mass of the compound as a fine powder.  The volume and concentration of 
+the aqueous hydrogen peroxide were kept the same.
+ 
+ 
+ 
+On the grid in (b)(i), draw the line that you would expect to obtain in this 
+experiment.
+(2)
+ 
+ 
+(iv) Explain any similarities in the lines you have drawn on the grid.
+ 
+ 
+ 
+Use the collision theory of reaction rates to explain any differences between the 
+shapes of the lines.
+(3)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+ 
+(c) Catalysts are not used up during a reaction.  Outline an experiment to demonstrate 
+that the manganese(IV) oxide is not used up in the decomposition of hydrogen 
+peroxide (practical details of the experiment are not required).
+(4)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+(Total for Question 3 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+*N37690A0812*
+8
+4 Bromoethane may be prepared by reacting ethanol with bromine and red phosphorus.
+10C2H5OH(l) + 2P(s) + 5Br2(l) ĺ 10C2H5Br(l) + 2H3PO4(aq) + 2H2O(l)
+ 
+The steps of the experimental procedure are as follows.
+ 
+1. Measure 10.0 cm3 of ethanol into a round-bottom flask.
+ 
+2. Add 1.5 g of red phosphorus to the ethanol.
+ 
+3. Pre-cool 5 cm3 of liquid bromine in an ice bath, then slowly add it to the mixture of 
+ethanol and red phosphorus, while cooling the flask under running water.
+ 
+4. Gently reflux the mixture for about 10 minutes.
+ 
+5. Rearrange the apparatus for distillation, immersing the receiver in ice-cold water and 
+distil until no more bromoethane is formed.
+ 
+6. Decant as much water as possible and then wash the product with dilute sodium 
+carbonate solution and distilled water, decanting off the aqueous layer each time.
+ 
+7. Transfer the washed product to a separating funnel and, from this, run off the organic 
+layer into a small distillation flask.
+ 
+8. Add anhydrous calcium chloride, stopper the flask and allow it to stand until the 
+liquid turns clear.
+ 
+9. Distil the bromoethane over a suitable temperature range, immersing the receiver in 
+ice-cold water.
+Data
+Property
+Ethanol
+Bromoethane
+Density / g cmí3
+ 0.789
+  1.47
+Molar mass / g molí1
+46.0
+109
+Boiling temperature / °C
+78.4
+ 38.4
+ 
+(a) Suggest the apparatus most suitable for measuring the volume of ethanol to an 
+accuracy of  + 0.1 cm3 (step 1).
+(1)
+................................................................................................................................................................................................................................................  
+ 
+(b) Explain why it is necessary to pre-cool the bromine (step 3).
+(1)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+PMT
+
+
+--- Page Break ---
+
+*N37690A0912*
+9
+Turn over
+ 
+(c) Suggest why it is also necessary to cool the mixture while adding the bromine 
+(step 3).
+(1)
+................................................................................................................................................................................................................................................  
+ 
+(d) Draw a labelled diagram of the apparatus that you would use to heat the mixture 
+under reflux (step 4).
+(3)
+ 
+(e) Suggest why, in both the distillations, the receiver is immersed in ice-cold water 
+(steps 5 and 9).
+(1)
+................................................................................................................................................................................................................................................  
+PMT
+
+
+--- Page Break ---
+
+*N37690A01012*
+10
+(f) State the purpose of the following in this procedure:
+ 
+ 
+(i) Washing the product with dilute sodium carbonate solution (step 6).
+(1)
+................................................................................................................................................................................................................................................  
+ 
+ 
+(ii) Adding anhydrous calcium chloride to the organic layer (step 8).
+(1)
+................................................................................................................................................................................................................................................  
+ 
+(g) Suggest a suitable temperature range for the collection of the product in the final 
+distillation (step 9), giving the temperatures in whole numbers.
+(1)
+ From  .................................................................................................................................................................................................................................
+ To  .......................................................................................................................................................................................................................................
+ 
+(h) (i) Calculate the number of moles of ethanol used in the preparation.
+(1)
+ 
+ 
+(ii) Given that one mole of ethanol forms one mole of bromoethane, calculate the 
+maximum mass, in grams, of bromoethane that may be prepared using 10 cm3
+of ethanol.
+(1)
+PMT
+
+
+--- Page Break ---
+
+*N37690A01112*
+11
+ 
+ 
+(iii) Using the procedure described, a student prepared 13.3 g of bromoethane.
+ 
+ 
+ 
+Calculate the percentage yield of bromoethane in this preparation.
+(1)
+ 
+ 
+(iv) Suggest why the yield is calculated in relation to the ethanol rather than the 
+bromine.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(v) Suggest one reason, other than volatility of the reactants or products, why the 
+preparation does not produce a 100 % yield.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 4 = 15 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+*N37690A01212*
+12
+PMT

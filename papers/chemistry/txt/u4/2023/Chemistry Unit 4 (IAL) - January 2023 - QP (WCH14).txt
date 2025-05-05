@@ -1,0 +1,1261 @@
+Centre Number
+Candidate Number
+*P71887A0132*
+Turn over    
+Total Marks
+Candidate surname
+Other names
+Please check the examination details below before entering your candidate information
+Paper
+reference
+
+
+Instructions
+•	Use black ink or ball‑point pen.
+•	If pencil is used for diagrams/sketches/graphs it must be dark (HB or B).
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 90.
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	In the question marked with an asterisk (*), marks will be awarded for your ability 
+to structure your answer logically, showing how the points that you make are 
+related or follow on from each other where appropriate.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Show all your working in calculations and include units where appropriate.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+You must have:
+Scientific calculator, Data Booklet, ruler
+Chemistry
+International Advanced Level
+UNIT 4: Rates, Equilibria and Further Organic 
+Chemistry
+WCH14/01
+Pearson Edexcel International Advanced Level
+Time 1 hour 45 minutes
+P71887A
+©2023 Pearson Education Ltd.
+J:1/1/1/1/
+PMT
+
+
+--- Page Break ---
+
+*P71887A0232*
+2
+	
+ 
+ 
+SECTION A
+Answer ALL the questions in this section.
+You should aim to spend no more than 20 minutes on this section.
+For each question, select one answer from A to D and put a cross in the box . If you change 
+your mind, put a line through the box 
+ and then mark your new answer with a cross .
+1	 Two ways of writing an equation for the reaction between nitrogen monoxide and 
+oxygen are shown.
+	
+2NO   +     O2   →   2NO2	
+Equation 1
+	
+  NO   +   ½O2   →     NO2	
+Equation 2
+	
+(a)	 Which pair of rate equations could be correct for this reaction?
+(1)
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+	
+(b)	 Which two methods can be used for continuous monitoring of the progress of 
+this reaction?
+(1)
+	
+A	 colorimetry and titration
+	
+B	 colorimetry and volume change
+	
+C	 mass change and volume change
+	
+D	 mass change and titration
+(Total for Question 1 = 2 marks)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+Equation 1
+Equation 2
+rate = k[NO]2[O2]
+rate = k[NO]2[O2]
+rate = k[NO]2[O2]
+rate = k[NO][O2]½
+rate = k[NO2]2
+rate = k[NO2]2
+rate = k[NO2]2
+rate = k[NO2]
+PMT
+
+
+--- Page Break ---
+
+*P71887A0332*
+Turn over     
+3
+	
+ 
+ 
+2	 The half‑life of a first order chemical reaction is
+	
+A	 half the time taken for the reaction to be complete
+	
+B	 the time taken for the value of the rate constant to halve
+	
+C	 the time taken for the concentration of a reactant to halve
+	
+D	 the time taken for the concentration of a product to double
+(Total for Question 2 = 1 mark)
+3	 Two chemicals, E and F, react to form products G and H.
+E   +   2F   →   G   +   H
+	
+The mechanism for the reaction occurs in two steps via the formation of an 
+intermediate J.
+	
+E   +   F   →   J	
+slow
+	
+J   +   F   →   G   +   H	
+fast
+	
+What is the rate equation for the reaction?
+	
+A	 rate = k[E][F]
+	
+B	 rate = k[E][F]2
+	
+C	 rate = k[F][J]
+	
+D	 rate = k[E][F]2[J]
+(Total for Question 3 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P71887A0432*
+4
+	
+ 
+ 
+4	 Which graph shows the entropy of a substance as it changes state 
+from solid to liquid to gas?
+Entropy
+Temperature
+Graph 1
+Entropy
+Temperature
+Graph 3
+Entropy
+Temperature
+Graph 2
+Entropy
+Temperature
+Graph 4
+	
+A	 Graph 1
+	
+B	 Graph 2
+	
+C	 Graph 3
+	
+D	 Graph 4
+(Total for Question 4 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P71887A0532*
+Turn over     
+5
+	
+ 
+ 
+5	 Two flasks, P and Q, are connected by a tube fitted with a tap.
+P
+Q
+	
+Flask P contains argon gas and flask Q is in vacuum. 
+Assume argon behaves as an ideal gas and therefore has no intermolecular forces 
+between its atoms.
+	
+How do the entropy and energy of the system change when the tap is opened and 
+the argon fills both flasks?
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 5 = 1 mark)
+6	 When hydrogen and oxygen are mixed in a flask, there is no reaction. 
+When a platinum gauze is added to the flask, the mixture explodes.
+	
+It can be deduced that, in the absence of a platinum gauze,  
+the mixture of hydrogen and oxygen is
+	
+A	 kinetically stable and thermodynamically stable
+	
+B	 kinetically stable and thermodynamically unstable
+	
+C	 kinetically unstable and thermodynamically stable
+	
+D	 kinetically unstable and thermodynamically unstable
+(Total for Question 6 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+Entropy of the system
+Energy of the system
+increases
+decreases
+decreases
+decreases
+increases
+unchanged
+decreases
+unchanged
+PMT
+
+
+--- Page Break ---
+
+*P71887A0632*
+6
+	
+ 
+ 
+7	 The diagram shows the Born–Haber cycle for sodium oxide.
+2Na+(g)   +   2e–   +   O(g)
+2Na+(g)   +   O2–(g)
+2Na(g)   +   ½O2(g)
+2Na(s)   +   ½O2(g)
+x
+y
+z
+w
+v
+u
+Na2O(s)
+2Na(g)   +   O(g)
+	
+(a)	 Which energy change in the cycle does y represent?
+(1)
+	
+A	 the first electron affinity of oxygen
+	
+B	 the second electron affinity of oxygen
+	
+C	 the sum of the first and second electron affinities of oxygen
+	
+D	 the sum of the enthalpy change of atomisation of oxygen and the first 
+and second electron affinities of oxygen
+	
+(b)	 Which expression gives the enthalpy change of formation of sodium oxide, ΔfH?
+(1)
+	
+A	 ΔfH = v + w + x – y – z
+	
+B	 ΔfH = v + w + x + y – z
+	
+C	 ΔfH = v + w + x – y + z
+	
+D	 ΔfH = v + w + x + y + z
+(Total for Question 7 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+*P71887A0732*
+Turn over     
+7
+	
+ 
+ 
+8	 An ionic compound is found to have some degree of covalent bonding.
+	
+What will be the cause of the covalency and how will the lattice energy obtained 
+from a Born–Haber cycle differ from the theoretical value obtained from 
+electrostatic theory?
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 8 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+Cause of covalency
+Born–Haber lattice energy compared 
+with theoretical value
+cation polarised by anion
+Born–Haber more exothermic
+anion polarised by cation
+Born–Haber less exothermic
+cation polarised by anion
+Born–Haber less exothermic
+anion polarised by cation
+Born–Haber more exothermic
+PMT
+
+
+--- Page Break ---
+
+*P71887A0832*
+8
+	
+ 
+ 
+9	 The equation for the reaction between iron and steam is shown.
+3Fe(s)   +   4H2O(g)      Fe3O4(s)   +   4H2(g)         ΔH = –151.2 kJ mol–1
+	
+(a)	 What is the equilibrium constant expression for this reaction?
+(1)
+	
+A	 Kc = [
+]
+[
+]
+[
+[
+]
+Fe O
+H
+Fe]
+H O
+3
+4
+2
+4
+3
+2
+4
+×
+×
+	
+B	 Kc = [
+]
+[
+]
+[
+]
+Fe O
+H
+H O
+3
+4
+2
+4
+2
+4
+×
+	
+C	 Kc = 
+[
+]
+[
+[
+]
+H
+Fe]
+H O
+2
+4
+3
+2
+4
+×
+	
+D	 Kc = [
+]
+[
+]
+H
+H O
+2
+4
+2
+4
+	
+(b)	 What is the effect on the equilibrium constant for this reaction if small pieces of 
+iron are replaced by iron powder and if the temperature is increased?
+(1)
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 9 = 2 marks)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+Iron powder used
+Temperature increased
+Kc increases
+Kc increases
+Kc unchanged
+Kc increases
+Kc increases
+Kc decreases
+Kc unchanged
+Kc decreases
+PMT
+
+
+--- Page Break ---
+
+*P71887A0932*
+Turn over     
+9
+	
+ 
+ 
+10	 Equal amounts of ethanoic acid and methanoic acid are mixed.
+	
+[pKa values: ethanoic acid = 4.8   methanoic acid = 3.8]
+	
+What are the conjugate acid‑base pairs in the mixture?
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 10 = 1 mark)
+11	 A 1 mol dm–3 solution of ethanoic acid is gradually diluted by the addition of 
+distilled water.
+	
+What happens to the degree of dissociation of the acid and the pH of the solution as 
+the distilled water is added?
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 11 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+acid 1
+base 1
+acid 2
+base 2
+HCOOH
+HCOO–
+CH3COOH2
++
+CH3COOH
+CH3COOH
+CH3COO–
+HCOOH2
++
+HCOOH
+HCOOH
+CH3COOH
+CH3COOH2
++
+HCOO–
+CH3COOH
+HCOOH
+HCOOH2
++
+CH3COO–
+Degree of dissociation
+pH
+increases
+increases
+increases
+decreases
+decreases
+increases
+decreases
+decreases
+PMT
+
+
+--- Page Break ---
+
+*P71887A01032*
+10
+	
+ 
+ 
+12	 The solubility of magnesium hydroxide is 1.1 × 10–4 mol dm–3 at 25 °C and 
+4.0 × 10–3 mol dm–3 at 100 °C.
+	
+[Kw = 1.0 × 10–14 mol2 dm–6 at 25 °C      Kw = 5.5 × 10–14 mol2 dm–6 at 100 °C]
+	
+(a)	 What is the pH of a saturated solution of magnesium hydroxide at 25 °C?
+(1)
+	
+A	 9.7
+	
+B	 10.0
+	
+C	 10.3
+	
+D	 12.0
+	
+(b)	 Saturated solutions of magnesium hydroxide at 25 °C and 100 °C are compared.
+	
+	
+How do the concentrations of hydroxide ions and the pH values of these 
+solutions differ?
+(1)
+	
+A	
+	
+B	
+	
+C	
+	
+D	  
+(Total for Question 12 = 2 marks)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+Concentration of hydroxide ions at 100 °C
+pH at 100 °C
+higher
+lower
+higher
+higher
+lower
+higher
+lower
+lower
+PMT
+
+
+--- Page Break ---
+
+*P71887A01132*
+Turn over     
+11
+	
+ 
+ 
+13	 Propanal has a much higher boiling temperature than butane even though both 
+compounds have the same molar mass.
+	
+The main reason for the difference in boiling temperature is that in the liquid state
+	
+A	 propanal forms much stronger London forces than butane
+	
+B	 propanal forms permanent dipole‑permanent dipole forces
+	
+C	 propanal forms hydrogen bonds
+	
+D	 propanal forms hydrogen bonds and  
+permanent dipole‑permanent dipole forces
+(Total for Question 13 = 1 mark)
+14	 The structure of an ester is shown.
+O
+O
+	
+Which two compounds react to form this ester?
+	
+A	 butanoyl chloride and 2‑methylbutan‑2‑ol
+	
+B	 butanoyl chloride and 3‑methylbutan‑2‑ol
+	
+C	 propanoyl chloride and 2‑methylbutan‑2‑ol
+	
+D	 propanoyl chloride and 3‑methylbutan‑2‑ol
+(Total for Question 14 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P71887A01232*
+12
+	
+ 
+ 
+15	 Samples of ethanal and propanone are added to separate test tubes containing 
+iodine dissolved in aqueous potassium hydroxide and the mixtures are heated gently.
+	
+A pale yellow precipitate will be formed with
+	
+A	 ethanal and propanone
+	
+B	 ethanal only
+	
+C	 propanone only
+	
+D	 neither ethanal nor propanone
+(Total for Question 15 = 1 mark)
+16	 The chromatogram of a substance X is shown.
+solvent front
+substance X
+baseline
+	
+What is the Rf value for substance X?
+	
+A	 0.28
+	
+B	 0.62
+	
+C	 0.70
+	
+D	 0.86
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P71887A01332*
+Turn over     
+13
+	
+ 
+ 
+SECTION B
+Answer ALL the questions. Write your answers in the spaces provided.
+17	 The reaction between hydrogen peroxide and iodide ions in acid conditions is known 
+as the Harcourt–Esson reaction after the scientists who first studied its kinetics.
+H2O2(aq)   +   2I–(aq)   +   2H+(aq)   →   2H2O(l)   +   I2(aq)
+	
+(a)	 A student carried out experiments to determine the rate equation for this 
+reaction at 293 K.
+	
+	
+(i)	 The rate of this reaction may be obtained by adding a fixed volume of 
+sodium thiosulfate solution and a few drops of starch solution to the 
+reaction mixture.
+	
+	
+	
+Explain how this method gives the rate of reaction.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P71887A01432*
+14
+	
+ 
+ 
+	
+	
+(ii)	 The student’s results are shown.
+Run
+[H2O2(aq)] / mol dm–3
+[I–(aq)] / mol dm–3
+[H+(aq)] / mol dm–3
+Rate / mol dm–3 s–1
+1
+0.0210
+0.0198
+0.00105
+0.00181
+2
+0.0105
+0.0400
+0.00105
+0.00181
+3
+0.0105
+0.0797
+0.00099
+0.00364
+4
+0.0210
+0.0801
+0.00201
+0.00730
+	
+	
+	
+Deduce the rate equation for this reaction.
+(3)
+	
+	
+(iii)	Calculate the rate constant for this reaction at 293 K, using the results from 
+Run 1. Include units with your answer.
+(3)
+PMT
+
+
+--- Page Break ---
+
+*P71887A01532*
+Turn over     
+15
+	
+ 
+ 
+	
+(b)	 The student carried out a second series of experiments with this reaction at 313 K. 
+The rate of reaction was found to be 4.45 times faster at 313 K than at 293 K.
+	
+	
+Calculate the activation energy, Ea, for this reaction, using the Arrhenius equation. 
+Give your answer to an appropriate number of significant figures and 
+include units.
+ln k = – E
+RT
+a   +   constant
+(4)
+(Total for Question 17 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+*P71887A01632*
+16
+	
+ 
+ 
+18	 Lactic acid is formed in muscles and in sour milk.
+CH3
+C
+C
+OH
+OH
+H
+O
+	
+Lactic acid may be obtained from ethanal in the laboratory by the two‑step 
+synthesis shown.
+CH3
+C
+C
+OH
+OH
+H
+O
+CH3
+C
+O
+H
+CH3
+C
+C
+N
+OH
+H
+Step 1
+HCN / CN–
+Step 2
+HCl(aq)
+	
+*(a)	 Explain why lactic acid formed in muscles is optically active while lactic acid 
+obtained using the laboratory synthesis is not. 
+You should define any terms you use.
+(6)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P71887A01732*
+Turn over     
+17
+	
+ 
+ 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P71887A01832*
+18
+	
+ 
+ 
+	
+(b)	 Poly(lactic acid) is a polyester derived from lactic acid as the only monomer. 
+Poly(lactic acid), which is often referred to as PLA, may be obtained from 
+renewable resources and is also biodegradable.
+	
+	
+(i)	 Draw the structure of a section of PLA showing two repeat units.
+(2)
+	
+	
+(ii)	 Lactic acid is converted into compound X which is then polymerised to 
+form PLA.
+	
+	
+	
+The empirical formula of X is C3H4O2 and its molar mass is 144 g mol–1.
+	
+	
+	
+Determine the molecular formula of X.
+(1)
+PMT
+
+
+--- Page Break ---
+
+*P71887A01932*
+Turn over     
+19
+	
+ 
+ 
+	
+	
+(iii)	A simplified high resolution proton NMR spectrum of X is shown. 
+The numbers above the peaks are the relative peak areas. 
+Note that the chemical shifts for X are different from the general values in the 
+Data Booklet.
+12
+10
+8
+6
+4
+2
+0
+3
+1
+δ / ppm
+	
+	
+	
+State what the number of peaks, their relative peak areas and splitting 
+patterns show about the structure of X.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P71887A02032*
+20
+	
+ 
+ 
+	
+	
+(iv)	A simplified carbon‑13 NMR spectrum of X is shown.
+0
+40
+80
+120
+160
+200
+δ / ppm
+	
+	
+	
+State what additional information about the structure of X is given by 
+this spectrum.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(v)	 Draw the structure of X using the information from (b)(ii) to (b)(iv).
+(1)
+(Total for Question 18 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+*P71887A02132*
+Turn over     
+21
+	
+ 
+ 
+19	 Carbonyl compounds are usually reduced in the laboratory using complex 
+metal hydrides such as lithium tetrahydridoaluminate(III), LiAlH4. 
+The metal hydrides react by supplying hydride ions, H–, which then react with the 
+carbonyl group to form an intermediate. 
+The addition of a strong acid in aqueous solution to the intermediate produces the 
+reduction product.
+	
+(a)	 State the essential condition for using LiAlH4.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 Complete the mechanism for the reduction of propanone with LiAlH4, showing 
+the structure of the intermediate and of the final product. 
+Include curly arrows, and relevant lone pairs and dipoles.
+(4)
+	
+	
+H–
+C
+O
+H3C
+H3C
+	
+(c)	 Explain why LiAlH4 reduces carbonyl compounds but not alkenes, even though 
+both types of compound have π bonds.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 8 marks)
+PMT
+
+
+--- Page Break ---
+
+*P71887A02232*
+22
+	
+ 
+ 
+20	 Cracking reactions are used to obtain more useful compounds from the alkanes 
+found in crude oil. An equation for the cracking of butane is shown.
+C4H10(g)   →   C2H6(g)   +   C2H4(g)
+	
+Thermodynamic data for the compounds in this reaction are given in the table.
+C4H10(g)
+C2H6(g)
+C2H4(g)
+Standard molar entropy S d / J K–1 mol–1
+310.1
+229.5
+219.5
+Standard molar enthalpy change of formation ΔfH d / kJ mol–1
+–126.5
+–84.7
++52.2
+	
+(a)	 (i)	 Calculate the entropy change in the system, ΔS d
+system , for the 
+cracking of butane.  
+Include a sign and units with your answer.
+(2)
+	
+	
+(ii)	 Calculate the enthalpy change of reaction, ΔrH d, for the cracking of butane.  
+Include a sign and units with your answer.
+(2)
+PMT
+
+
+--- Page Break ---
+
+*P71887A02332*
+Turn over     
+23
+	
+ 
+ 
+	
+	
+(iii)	Calculate the entropy change in the surroundings, ΔS d
+surroundings, at 298 K for the 
+cracking of butane, using your answer to (a)(ii). 
+Include a sign and units with your answer.
+(2)
+	
+	
+(iv)	Calculate the total entropy change, ΔS d
+total, at 298 K for the cracking of butane, 
+using your answers to (a)(i) and (a)(iii). 
+Include a sign and units with your answer.
+(1)
+	
+	
+(v)	 Calculate the temperature at which the cracking reaction becomes feasible.
+(2)
+PMT
+
+
+--- Page Break ---
+
+*P71887A02432*
+24
+	
+ 
+ 
+	
+(b)	 5 mol of butane is cracked at 750 K. At equilibrium, 4.45 mol of ethene is formed 
+and the total pressure is 1.20 atm.
+C4H10(g)      C2H6(g)   +   C2H4(g)
+	
+	
+(i)	 Give the expression for the equilibrium constant, Kp, for this reaction.
+(1)
+	
+	
+(ii)	 Calculate the value of Kp, including units if required.
+(5)
+(Total for Question 20 = 15 marks)
+TOTAL FOR SECTION B = 51 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P71887A02532*
+Turn over     
+25
+	
+ 
+ 
+SECTION C
+Answer ALL the questions. Write your answers in the spaces provided.
+21	 Gluconic acid is a weak acid which occurs in fruit and honey and is widely used as a 
+food additive.
+O
+OH
+OH
+OH
+OH
+gluconic acid
+OH
+OH
+	
+(a)	 A solution of gluconic acid was prepared by dissolving 4.75 g of the solid in water 
+and making the solution up to 250.0 cm3 in a volumetric flask.
+	
+	
+(i)	 Write the equation for the acid dissociation constant, Ka, of gluconic acid. 
+Use RCOOH for gluconic acid.
+(1)
+	
+	
+(ii)	 Calculate the pH of the solution of gluconic acid.
+	
+	
+	
+[Mr (gluconic acid) = 196         Ka (gluconic acid) = 1.38 × 10–4 mol dm–3]
+(4)
+PMT
+
+
+--- Page Break ---
+
+*P71887A02632*
+26
+	
+ 
+ 
+	
+(b)	 A solution of 0.105 mol dm–3 sodium hydroxide was titrated against 25.0 cm3 of the 
+gluconic acid solution prepared in (a). 
+The titration curve is shown. The curve is not to scale.
+40
+30
+20
+10
+0
+pH
+14
+7
+0
+Volume of NaOH / cm3
+	
+	
+(i)	 Explain why phenol red is an appropriate indicator for this titration. 
+Refer to the titration curve and the Data Booklet.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P71887A02732*
+Turn over     
+27
+	
+ 
+ 
+	
+	
+(ii)	 Calculate the pH of the titration mixture after the addition of 35.0 cm3 of 
+sodium hydroxide solution. 
+The value required cannot be obtained from the titration curve in (b).
+(5)
+PMT
+
+
+--- Page Break ---
+
+*P71887A02832*
+28
+	
+ 
+ 
+	
+(c)	 Mixtures of gluconic acid and sodium gluconate are buffers.
+	
+	
+(i)	 Explain how a solution that contains both gluconic acid and sodium gluconate 
+acts as a buffer.  
+Use RCOOH for the formula of gluconic acid.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P71887A02932*
+29
+	
+ 
+ 
+	
+	
+(ii)	 The concentration of a solution of gluconic acid is 1.55 mol dm–3.
+	
+	
+	
+Calculate the number of moles of sodium gluconate that must be added to 
+1.00 dm3 of this solution to give a buffer with pH = 3.71. 
+Assume that the volume of the solution is unchanged.
+(3)
+(Total for Question 21 = 19 marks)
+TOTAL FOR SECTION C = 19 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P71887A03032*
+30
+	
+ 
+ 
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P71887A03132*
+31
+	
+ 
+ 
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P71887A03232*
+32
+	
+ 
+ 
+PMT

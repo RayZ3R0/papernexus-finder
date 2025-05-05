@@ -1,0 +1,273 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6684 
+Edexcel GCE 
+Statistics S2 
+Advanced/Advanced Subsidiary 
+Friday 24 January 2003 − Morning 
+Time: 1 hour 30 minutes 
+ 
+ 
+Materials required for examination            Items included with question papers 
+Answer Book (AB16)                        
+Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for 
+symbolic algebra, differentiation and/or integration. Thus candidates may NOT 
+use calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Statistics S2), the paper reference (6684), your 
+surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the answer 
+should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has six questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N10634A 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2003 Edexcel 
+ 
+PMT
+
+
+--- Page Break ---
+
+1. 
+An engineer measures, to the nearest cm, the lengths of metal rods. 
+ 
+ 
+(a) Suggest a suitable model to represent the difference between the true lengths and the 
+measured lengths. 
+(2) 
+ 
+(b) Find the probability that for a randomly chosen rod the measured length will be within 
+0.2 cm of the true length. 
+(2) 
+ 
+ 
+Two rods are chosen at random. 
+ 
+ (c) Find the probability that for both rods the measured lengths will be within 0.2 cm of their 
+true lengths. 
+(2) 
+ 
+ 
+2. 
+A single observation x is to be taken from a Poisson distribution with parameter λ. This 
+observation is to be used to test H0 : λ = 7 against H1 : λ ≠ 7. 
+ 
+ (a) Using a 5% significance level, find the critical region for this test assuming that the 
+probability of rejection in either tail is as close as possible to 2.5%. 
+(5) 
+ 
+(b) Write down the significance level of this test. 
+(1) 
+ 
+ 
+The actual value of x obtained was 5. 
+ 
+ 
+(c) State a conclusion that can be drawn based on this value. 
+(2) 
+ 
+ 
+3. 
+A botanist suggests that the number of a particular variety of weed growing in a meadow can be 
+modelled by a Poisson distribution. 
+ 
+ 
+(a) Write down two conditions that must apply for this model to be applicable. 
+(2) 
+ 
+ 
+Assuming this model and a mean of 0.7 weeds per m2, find 
+ 
+ 
+(b) the probability that in a randomly chosen plot of size 4 m2 there will be fewer than 3 of these 
+weeds. 
+(4) 
+(c) Using a suitable approximation, find the probability that in a plot of 100 m2 there will be 
+more than 66 of these weeds. 
+(6) 
+ 
+N10634A 
+2 
+PMT
+
+
+--- Page Break ---
+
+4. 
+The continuous random variable X has cumulative distribution function 
+ 
+
+
+
+−
+=
+1
+,)
+4
+(
+,0
+)
+(
+F
+2
+2
+3
+1
+x
+x
+x
+  
+.1
+,1
+0
+,0
+>
+≤
+≤
+<
+x
+x
+x
+ 
+ 
+ 
+(a) Find P(X > 0.7). 
+ 
+(2) 
+ 
+(b) Find the probability density function f(x) of X.  
+ 
+ 
+ 
+(2) 
+ 
+(c) Calculate E(X) and show that, to 3 decimal places, Var (X) = 0.057. 
+(6) 
+ 
+One measure of skewness is  
+ 
+ 
+ 
+deviation
+Standard
+Mode
+Mean −
+. 
+(d) Evaluate the skewness of the distribution of X. 
+(4) 
+ 
+5.  
+A farmer noticed that some of the eggs laid by his hens had double yolks. He estimated the 
+probability of this happening to be 0.05. Eggs are packed in boxes of 12. 
+ 
+ 
+Find the probability that in a box, the number of eggs with double yolks will be  
+ 
+ 
+(a) exactly one, 
+ 
+(3) 
+ 
+(b) more than three. 
+ 
+(2) 
+ 
+A customer bought three boxes. 
+ 
+ 
+(c) Find the probability that only 2 of the boxes contained exactly 1 egg with a double yolk. 
+ 
+(3) 
+The farmer delivered 10 boxes to a local shop. 
+ 
+(d) Using a suitable approximation, find the probability that the delivery contained at least 
+9 eggs with double yolks. 
+(4) 
+ 
+The weight of an individual egg can be modelled by a normal distribution with mean 65 g and 
+standard deviation 2.4 g. 
+ 
+(e) Find the probability that a randomly chosen egg weighs more than 68 g. 
+(3) 
+N10634A 
+3 
+Turn over 
+ 
+ 
+ 
+PMT
+
+
+--- Page Break ---
+
+6. 
+A magazine has a large number of subscribers who each pay a membership fee that is due on 
+January 1st each year. Not all subscribers pay their fee by the due date. Based on correspondence 
+from the subscribers, the editor of the magazine believes that 40% of subscribers wish to change 
+the name of the magazine. Before making this change the editor decides to carry out a sample 
+survey to obtain the opinions of the subscribers. He uses only those members who have paid 
+their fee on time. 
+ 
+ 
+(a) Define the population associated with the magazine. 
+(1) 
+ 
+(b) Suggest a suitable sampling frame for the survey. 
+(1) 
+ 
+(c) Identify the sampling units. 
+(1) 
+(d) Give one advantage and one disadvantage that would have resulted from the editor using a 
+census rather than a sample survey. 
+(2) 
+ 
+As a pilot study the editor took a random sample of 25 subscribers. 
+ 
+(e) Assuming that the editor’s belief is correct, find the probability that exactly 10 of these 
+subscribers agreed with changing the name. 
+(3)  
+In fact only 6 subscribers agreed to the name being changed. 
+ 
+(f) Stating your hypotheses clearly test, at the 5% level of significance, whether or not the 
+percentage agreeing to the change is less that the editor believes. 
+(5) 
+ 
+The full survey is to be carried out using 200 randomly chosen subscribers. 
+ 
+(g) Again assuming the editor’s belief to be correct and using a suitable approximation, find the 
+probability that in this sample there will be least 71 but fewer than 83 subscribers who agree 
+to the name being changed. 
+(7) 
+ 
+                 END 
+N10634A 
+4 
+PMT

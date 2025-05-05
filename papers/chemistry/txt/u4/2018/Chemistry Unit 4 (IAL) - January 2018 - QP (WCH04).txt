@@ -1,0 +1,1261 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P51939A
+©2018 Pearson Education Ltd.
+6/5/5/5/4/1/
+*P51939A0124*
+Chemistry
+Advanced
+Unit 4: General Principles of Chemistry I – Rates, Equilibria and 
+Further Organic Chemistry  
+(including synoptic assessment)
+Thursday 11 January 2018 – Afternoon
+Time: 1 hour 40 minutes
+WCH04/01
+Candidates must have: Scientific calculator
+	
+Data Booklet
+Instructions
+•	 Use black ink or black ball-point pen.
+•	 Fill in the boxes at the top of this page with your name,  
+	
+centre number and candidate number.
+•	 Answer all questions.
+•	 Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	 The total mark for this paper is 90.
+•	 The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	 Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+	
+– you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+•	 A Periodic Table is printed on the back cover of this paper.
+Advice
+•	 Read each question carefully before you start to answer it.
+•	 Try to answer every question.
+•	 Check your answers if you have time at the end.
+•	 Show all your working in calculations and give units where appropriate.
+Pearson Edexcel 
+International
+Advanced Level
+
+
+--- Page Break ---
+
+2
+*P51939A0224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1	 The half-life of a reaction is
+	
+	
+A	 half the time for the reaction to go to completion.
+	
+	
+B	 the time taken for the rate of reaction to halve.
+	
+	
+C	 only the time taken for the concentration of a reactant at t = 0 to halve.
+	
+	
+D	 the time taken for any concentration of a reactant to halve.
+(Total for Question 1 = 1 mark)
+2	 When dilute aqueous solutions of potassium manganate(VII), ethanedioic acid and 
+sulfuric acid are mixed, the following reaction occurs:
+2MnO4
+−  +  5C2O4
+2−  +  16H
++  →  2Mn
+2+  +  10CO2  +  8H2O
+	
+The rate of reaction is slow at first, accelerates rapidly and then gradually slows down.  
+The best explanation for these observations is that the
+	
+	
+A	 reaction is exothermic, so after a small amount of reaction the temperature 
+rises sharply.
+	
+	
+B	 reaction is acid catalysed and the formation of carbon dioxide results in an 
+increased concentration of hydrogen ions.
+	
+	
+C	 reaction is catalysed by the manganese(II) ions which are formed in the 
+reaction.
+	
+	
+D	 high concentration of hydrogen ions from the sulfuric acid inhibits the 
+dissociation of the ethanedioic acid.
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+3
+*P51939A0324*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+3	 In each of the graphs, quantity Y is plotted against quantity X.
+Y
+P
+Q
+R
+S
+X
+	
+(a)	 In which graph is Y the concentration of a product and X the time for  
+a zero order reaction?
+(1)
+	
+	
+A	 Graph P
+	
+	
+B	 Graph Q
+	
+	
+C	 Graph R
+	
+	
+D	 Graph S
+	
+(b)	 In which graph is Y the rate of reaction and X the concentration of a reactant for a 
+first order reaction?
+(1)
+	
+	
+A	 Graph P
+	
+	
+B	 Graph Q
+	
+	
+C	 Graph R
+	
+	
+D	 Graph S
+(Total for Question 3 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+4
+*P51939A0424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+4	 Potassium nitrate is very soluble in water:
+KNO3(s)  +  aq    K
++(aq)  +  NO3
+−(aq)     ∆H
+d = +34.9 kJ mol
+−1
+	
+The solubility of potassium nitrate increases rapidly with temperature.   
+The best explanation for this is
+	
+	
+A	 ∆Ssurroundings becomes less negative as the temperature increases.
+	
+	
+B	 the molar entropy of a substance increases with temperature.
+	
+	
+C	 ∆Ssystem increases as the temperature increases.
+	
+	
+D	 there are more particles on the right-hand side of the equation.
+(Total for Question 4 = 1 mark)
+5	 Consider the following reactions in the gas phase:
+                  N2(g)  +  3H2(g)  →  2NH3(g)
+F
+               CH4(g)  +  2O2(g)  →  CO2(g)  +  2H2O(g)
+G
+          C2H6(g)  +  3½O2(g)  →  2CO2(g)  +  3H2O(g)
+H
+	
+What is the order of increasing standard entropy change, ∆S
+d
+system, for these reactions, 
+with the most negative first?
+	
+	
+A	 F, G, H
+	
+	
+B	 F, H, G
+	
+	
+C	 G, H, F
+	
+	
+D	 H, G, F
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+5
+*P51939A0524*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+6	 The standard molar entropy, S
+d, of a substance is zero for all
+	
+	
+A	 elements under standard conditions.
+	
+	
+B	 monatomic gases under standard conditions.
+	
+	
+C	 perfect crystals at absolute zero (0 K).
+	
+	
+D	 substances in a system at equilibrium.
+(Total for Question 6 = 1 mark)
+7	 An important reaction in the extraction of iron is
+Fe2O3(s)  +  3C(s)    2Fe(s)  +  3CO(g)
+	
+The equilibrium constant, Kc, for this reaction is given by the expression
+	
+	
+A	
+Kc = [CO(g)]
+3
+	
+	
+B	
+Kc =
+1
+3
+[
+]
+CO(g)
+	
+	
+C	
+Kc
+s
+=
+×
+×
+[
+]
+[
+]
+[
+]
+[ ( )]
+Fe(s)
+CO(g)
+Fe O (s)
+C
+2
+3
+2
+3
+3
+	
+	
+D	 Kc
+g
+=
+×
+×
+[
+]
+[
+]
+[
+]
+[
+( )]
+Fe O (s)
+C(s)
+Fe(s)
+CO
+2
+3
+3
+2
+3
+(Total for Question 7 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+6
+*P51939A0624*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+8	 The graph shows the variation with temperature of the percentage yield of product in 
+a gaseous equilibrium at different pressures.
+% product at 
+equilibrium
+150 atm
+200 atm
+Temperature / °C
+	
+For the forward reaction
+∆Hreaction
+Total number of moles
+A
+positive
+increases
+B
+positive
+decreases
+C
+negative
+increases
+D
+negative
+decreases
+(Total for Question 8 = 1 mark)
+9	 The reaction between hydrogen and iodine may be represented by two equations:
+	
+H2(g)   +   I2(g)      2HI(g)	
+(1)
+	
+½H2(g)   +  ½I2(g)      HI(g)	
+(2)
+	
+For equation 1, the equilibrium constant is Kp(1) and for equation 2, 
+the equilibrium constant is Kp(2).  What is the relationship between Kp(1) and Kp(2)?
+	
+	
+A	 Kp(1) = Kp(2)
+	
+	
+B	 Kp(1) = √Kp(2) 
+	
+	
+C	 Kp(1) = (Kp(2))
+2
+	
+	
+D	 Kp(1) = 2 × Kp(2)
+(Total for Question 9 = 1 mark)
+
+
+--- Page Break ---
+
+7
+*P51939A0724*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+10	 Consider the reaction
+PCl3(g)  +  Cl2(g)    PCl5(g)
+	
+How are Kp and the mole fraction of PCl5(g) affected when the pressure is increased at 
+constant temperature?
+Kp
+Mole fraction of PCl5(g)
+A
+increases
+increases
+B
+increases
+decreases
+C
+unchanged
+increases
+D
+unchanged
+decreases
+(Total for Question 10 = 1 mark)
+11	 When concentrated sulfuric acid is added to ethanoic acid, the reaction is
+H2SO4  +  CH3COOH    HSO4
+−  +  CH3COOH2
++
+	
+What are the Brønsted-Lowry conjugate acid-base pairs in this equilibrium?
+	
+Acid 1 
+Conjugate base 
+of acid 1
+Acid 2
+Conjugate base of 
+acid 2
+A
+H2SO4 
+CH3COOH
+CH3COOH2
++
+HSO4
+−
+B
+H2SO4  
+CH3COOH2
++
+CH3COOH
+HSO4
+−
+C
+H2SO4 
+HSO4
+−
+CH3COOH
+CH3COOH2
++
+D
+H2SO4 
+HSO4
+−
+CH3COOH2
++
+CH3COOH
+(Total for Question 11 = 1 mark)
+12	 When 0.10 mol dm
+−3 sodium hydroxide is titrated with 25 cm
+3 of ethanoic acid, of a 
+similar concentration, the best indicator would be
+	
+	
+A	 litmus.
+	
+	
+B	 methyl orange.
+	
+	
+C	 phenolphthalein.
+	
+	
+D	 universal indicator.
+ (Total for Question 12 = 1 mark)
+
+
+--- Page Break ---
+
+8
+*P51939A0824*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+13	 For ethanoic acid pKa = 4.76.  The pH of a solution of ethanoic acid with a 
+concentration of 1 × 10
+−10 mol dm
+−3 is approximately
+	
+	
+A	 5.2
+	
+	
+B	 7.0
+	
+	
+C	 7.4
+	
+	
+D	 15
+(Total for Question 13 = 1 mark)
+14	 What type(s) of stereoisomerism will be shown by the compound with the structure 
+given below?
+	
+	
+A	 No stereoisomerism.
+	
+	
+B	 Geometric isomerism only.
+	
+	
+C	 Optical isomerism only.
+	
+	
+D	 Both geometric isomerism and optical isomerism.
+(Total for Question 14 = 1 mark)
+15	 Some of the physical properties of aldehydes and ketones can be explained by the 
+fact that they
+	
+	
+A	 never form hydrogen bonds.
+	
+	
+B	 form hydrogen bonds in the liquid state but not in aqueous solution.
+	
+	
+C	 form hydrogen bonds in aqueous solution but not in the liquid state.
+	
+	
+D	 form hydrogen bonds in both the liquid state and aqueous solution.
+(Total for Question 15 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+9
+*P51939A0924*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+16	 Which correctly shows the reactions of ethanal and propanone?
+Tollens’ reagent
+2,4-dinitrophenylhydrazine
+A
+both ethanal and propanone react
+both ethanal and propanone react
+B
+only ethanal reacts
+only propanone reacts
+C
+only propanone reacts
+only ethanal reacts
+D
+only ethanal reacts
+both ethanal and propanone react
+(Total for Question 16 = 1 mark)
+17	 Under suitable conditions, butanoic acid 
+	
+	
+A	 reacts with acidified potassium dichromate(VI) to form butan-1-ol.
+	
+	
+B	 reacts with phosphorus(V) chloride to form 1-chlorobutane.
+	
+	
+C	 forms when butyl methanoate reacts with sulfuric acid.
+	
+	
+D	 forms when butanenitrile reacts with hydrochloric acid.
+(Total for Question 17 = 1 mark)
+18	 This question is about the following compounds:
+	
+	
+ethyl ethanoate
+	
+	
+methyl propanoate
+	
+	
+propyl methanoate
+	
+	
+butanoic acid
+	
+Which of these compounds are isomers?
+	
+	
+A	 Only ethyl ethanoate and methyl propanoate.
+	
+	
+B	 Only methyl propanoate and propyl methanoate.
+	
+	
+C	 Only ethyl ethanoate, methyl propanoate and propyl methanoate.
+	
+	
+D	 All four compounds.
+(Total for Question 18 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+10
+*P51939A01024*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+19	 When ethane-1,2-diol, HOCH2CH2OH, forms a polymer with benzene 1,4-dicarboxylic acid, 
+HOOCC6H4COOH, the repeat unit of the resulting polymer is
+	
+	
+A	 −OCH2CH2OOCC6H4CO−
+	
+	
+B	 −OCH2CH2OCC6H4CO−
+	
+	
+C	 −OC6H4OOCCH2CH2CO−
+	
+	
+D	 −CH2CH2OOCOC6H4OCO−
+(Total for Question 19 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+11
+*P51939A01124*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20	 Benzenecarboxylic acid (benzoic acid) is a weak acid used as a food preservative.
+	
+	
+Data for benzenecarboxylic acid
+	
+	
+Formula	
+C6H5COOH
+	
+	
+Molar mass	
+122.1 g mol
+−1
+	
+	
+Solubility in water	
+3.44 g dm
+−3 at 25 °C   56.3 g dm
+−3 at 100 °C
+	
+	
+pKa		
+	
+4.20
+	
+(a)	 (i)	 Write the equation for the dissociation of benzenecarboxylic acid in water.  
+Include state symbols.
+(1)
+	
+	
+(ii)	 Write the expression for Ka for benzenecarboxylic acid.
+(1)
+	
+	
+(iii)	Calculate the pH of a saturated solution of benzenecarboxylic acid at 25 °C.
+(4)
+
+
+--- Page Break ---
+
+12
+*P51939A01224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iv)	State two approximations used in the calculation of pH in (a)(iii).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 An aqueous solution of sodium hydroxide of concentration 0.0025 mol dm
+−3 
+was added to a flask containing 25.0 cm
+3 of a 0.0020 mol dm
+−3 solution of 
+benzenecarboxylic acid.  The pH of the solution in the flask was continuously 
+monitored as the sodium hydroxide was added and the results plotted on a 
+graph.  The graph is shown below.
+pH
+Volume of NaOH(aq) /cm
+3
+Z
+X
+B
+	
+	
+(i)	 Suggest a value for the pH at X.  Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+13
+*P51939A01324*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Calculate the volume of NaOH(aq) added when X is reached.
+(2)
+	
+	
+(iii)	Calculate the maximum possible pH at Z, when a very large excess of  
+sodium hydroxide solution has been added.  
+	
+	
+	
+Kw = 1.00 × 10
+−14 mol
+2 dm
+−6
+(2)
+	
+(c)	 The region labelled B in the graph is referred to as the ‘buffer region’.
+	
+	
+(i)	 Define the term ‘buffer’.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Explain, by referring only to the shape of the graph, why B is a buffer region.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+14
+*P51939A01424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+ *(iii)	Identify the species present in the solution at B which are responsible for the 
+buffering action.  By referring to these species, explain how the solution acts 
+as a buffer.  Equations are not required.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(d)	 Buffers occur in many biochemical systems, for example blood.  Suggest why this is so.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 23 marks)
+
+
+--- Page Break ---
+
+15
+*P51939A01524*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+21	 This question is about the organic reactions shown in the diagram.
+O
+O
+O
+O
+Cl
+OH
+O
++
+I
+I
+I
+O
+propanal
+OH
+propan-1-ol
+Reaction 5
+NH3
+propanoic acid
+butanone
+Compound X
+Reaction 6
+reagents P & Q 
+and then reagent R
+Reaction 1
+Reaction 4
+Reaction 2
+Reaction 3
+	
+(a)	 (i)	 Name reagents P and Q used in Reaction 1.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Identify reagent R used in Reaction 1 and explain why it is needed.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+16
+*P51939A01624*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Name the second product formed in Reaction 1.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iv)	Identify the reagent and the solvent required for Reaction 2, stating the 
+essential condition for the reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(v)	 The reagents used in Reaction 3 are potassium dichromate(VI) and sulfuric acid.  
+State how this reaction must be carried out to ensure that 
+the main product is propanal.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(vi)	Identify the reagent required for Reaction 4.
+(1)
+....................................................................................................................................................................................................................................................................................
+		
+(vii)	Name compound X formed in Reaction 6.
+(1)
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+17
+*P51939A01724*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 Mass spectrometry and infrared spectroscopy were used to analyse samples of 
+butanone and propanal.
+	
+	
+(i)	 The base peak (tallest peak) in the mass spectrum of butanone is at m / e = 43 while 
+the base peak in propanal is at m / e = 29.   
+Identify the species responsible for these two peaks.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Explain, by quoting values from your Data Booklet, how infrared spectroscopy 
+could be used to distinguish between butanone and propanal.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 The full equation for the reaction in Reaction 5 is shown.  The molar masses (in g mol
+−1) 
+of the compounds involved are given below the equation.
+CH3CH2COOH(l)   +   CH3CH2OH(l)      CH3CH2COOCH2CH3(l)   +   H2O(l)
+	
+74	
+46	
+102	
+18
+	
+	
+(i)	 Give the expression for the equilibrium constant, Kc , for this reaction.
+(1)
+
+
+--- Page Break ---
+
+18
+*P51939A01824*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 When this reaction is carried out in the laboratory, a small amount of 
+sulfuric acid is added to the reaction mixture.  State the role of the 
+sulfuric acid.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+ *(iii)	In an experiment to determine the equilibrium constant, Kc, 18.5 g of  
+propanoic acid, 23.0 g of ethanol and 36.0 g of water were mixed together 
+and a small amount of concentrated sulfuric acid added.  After several days,  
+it was found that the equilibrium mixture contained 0.140 mol of propanoic acid.  
+Calculate the equilibrium constant, showing all of your working.
+(5)
+
+
+--- Page Break ---
+
+19
+*P51939A01924*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Turn over    
+	
+(d)	 Propanoic acid also reacts with chlorine in the presence of ultraviolet radiation to 
+form 2-chloropropanoic acid.
+UV radiation
+	
+CH3CH2COOH  +  Cl2   
+   CH3CHClCOOH  +  HCl
+	
+	
+(i)	 What information suggests that the mechanism of this reaction involves free radicals?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Draw the structure of the free radical formed from the propanoic acid.
+(1)
+	
+	
+(iii)	Explain why the product of this reaction has no effect on the plane of 
+plane-polarised light.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 26 marks)
+TOTAL FOR SECTION B = 49 MARKS
+
+
+--- Page Break ---
+
+20
+*P51939A02024*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+22	 Halogenoalkanes react with alkalis to form the corresponding alcohol.
+RX  +  OH
+−  →  ROH  +  X
+−
+	
+A study of the kinetics of the reaction between a halogenoalkane, C4H9Br, and 
+aqueous sodium hydroxide was carried out using various volumes of the solutions, 
+both of which were 0.150 mol dm
+−3, mixed with ethanol as the solvent.
+	
+The results were collected in a table.
+Mixture
+Volume 
+of C4H9Br 
+solution
+/ cm
+3
+Volume of 
+NaOH(aq) 
+solution
+/ cm
+3
+Volume of 
+ethanol
+/ cm
+3
+Total volume
+/ cm
+3
+Rate
+/ mol dm
+−3 s
+−1
+1
+100
+250
+150
+500
+2.50 × 10
+−4
+2
+50
+250
+200
+500
+1.25 × 10
+−4
+3
+200
+250
+550
+1000
+1.25 × 10
+−4
+	
+(a)	 One method of monitoring the progress of this reaction in one of these mixtures 
+involves a series of titrations.  State the steps involved in this procedure, including 
+how the rate is obtained from the data.
+(6)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+21
+*P51939A02124*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 Explain why ethanol, rather than water, is used as the solvent.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 (i)	 Use the results in the table to deduce the rate equation for the reaction of C4H9Br 
+with NaOH.  Explain, by referring to the data, how you arrived at your answer.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Use the data from Mixture 1 and your answer to (c)(i) to calculate the rate 
+constant for the reaction, stating the units.
+(3)
+
+
+--- Page Break ---
+
+22
+*P51939A02224*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	How, if at all, would the rate constant of the reaction change if the bromine 
+atom in C4H9Br was replaced by an iodine atom?  Fully justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iv)	State what can be deduced about the mechanism of the reaction of C4H9Br 
+with NaOH by considering only the rate equation for the reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(v)	 Draw the most likely displayed formula of C4H9Br.  Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+23
+*P51939A02324*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 Bromoethane, C2H5Br, reacts with alkali in an SN2 mechanism.  Draw the first step 
+of this mechanism.   
+Show the relevant curly arrows and lone pair, and the species formed.
+(3)
+(Total for Question 22 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+
+
+--- Page Break ---
+
+24
+*P51939A02424*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA

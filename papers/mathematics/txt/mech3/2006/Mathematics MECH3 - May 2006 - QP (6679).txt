@@ -1,0 +1,218 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+Advanced Level 
+Monday 12 June 2006  Afternoon 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has 7 questions. 
+The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+ 
+without working may gain no credit.
+N24324A 
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy. 
+©2006 London Qualifications Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+A uniform solid is formed by rotating the region enclosed between the curve with equation 
+y = x, the x-axis and the line x = 4, through one complete revolution about the x-axis. Find 
+the distance of the centre of mass of the solid from the origin O. 
+(5) 
+      
+ 
+2. 
+A bowl consists of a uniform solid metal hemisphere, of radius a and centre O, from which is 
+removed the solid hemisphere of radius 2
+1 a with the same centre O. 
+ 
+(a) Show that the distance of the centre of mass of the bowl from O is 112
+45 a. 
+(5) 
+ 
+The bowl is fixed with its plane face uppermost and horizontal. It is now filled with liquid. 
+The mass of the bowl is M and the mass of the liquid is kM, where k is a constant. Given that 
+the distance of the centre of mass of the bowl and liquid together from O is 48
+17 a, 
+(b) find the value of k. 
+(5) 
+ 
+ 
+3. 
+A particle P of mass 0.2 kg oscillates with simple harmonic motion between the points A 
+and B, coming to rest at both points. The distance AB is 0.2 m, and P completes 5 oscillations 
+every second. 
+ 
+(a) Find, to 3 significant figures, the maximum resultant force exerted on P. 
+(6) 
+ 
+When the particle is at A, it is struck a blow in the direction BA. The particle now oscillates 
+with simple harmonic motion with the same frequency as previously but twice the amplitude. 
+ 
+ 
+(b) Find, to 3 significant figures, the speed of the particle immediately after it has been 
+struck.  
+(5)  
+ 
+ 
+N24342A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N24342A 
+3 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A hollow cone, of base radius 3a and height 4a, is fixed with its axis vertical and vertex V 
+downwards, as shown in Figure 1. A particle moves in a horizontal circle with centre C, on 
+the smooth inner surface of the cone with constant angular speed 
+a
+g
+9
+8
+. 
+ 
+Find the height of C above V. 
+(11) 
+ 
+5. 
+Two light elastic strings each have natural length 0.75 m and modulus of elasticity 49 N. 
+A particle P of mass 2 kg is attached to one end of each string. The other ends of the strings 
+are attached to fixed points A and B, where AB is horizontal and AB = 1.5 m. 
+ 
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+The particle is held at the mid-point of AB. The particle is released from rest, as shown in 
+Figure 2. 
+ 
+(a) Find the speed of P when it has fallen a distance of 1 m.  
+(6) 
+ 
+Given instead that P hangs in equilibrium vertically below the mid-point of AB, with 
+APB = 2, 
+ 
+(b) show that tan  + 5 sin  = 5. 
+(6) 
+ 
+C 
+3a
+4a 
+V
+A 
+B
+P
+1.5 m
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+A particle moving in a straight line starts from rest at the point O at time t = 0. At time 
+t seconds, the velocity v m s–1 of the particle is given by 
+ 
+v = 3t(t – 4),       0  t  5, 
+v = 75t –1, 
+ 5  t  10. 
+ 
+(a) Sketch a velocity-time graph for the particle for 0  t  10. 
+(3) 
+(b) Find the set of values of t for which the acceleration of the particle is positive. 
+(2) 
+(c) Show that the total distance travelled by the particle in the interval 0  t  5 is 39 m. 
+(3) 
+(d) Find, to 3 significant figures, the value of t at which the particle returns to O.  
+(5)  
+ 
+7. 
+One end of a light inextensible string of length l is attached to a particle P of mass m. The 
+other end is attached to a fixed point A. The particle is hanging freely at rest with the string 
+vertical when it is projected horizontally with speed 
+2
+5gl . 
+  
+(a) Find the speed of P when the string is horizontal. 
+ (4) 
+When the string is horizontal it comes into contact with a small smooth fixed peg which is at 
+the point B, where AB is horizontal, and AB < l. Given that the particle then describes a 
+complete semicircle with centre B, 
+ 
+(b) find the least possible value of the length AB. 
+(9) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+N24342A 
+4 
+PMT
+PMT

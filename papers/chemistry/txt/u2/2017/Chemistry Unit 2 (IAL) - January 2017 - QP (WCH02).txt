@@ -1,0 +1,1203 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+P48368A
+©2017 Pearson Education Ltd.
+6/5/6/5/5/
+*P48368A0124*
+Chemistry
+Advanced Subsidiary
+Unit 2:  Application of Core Principles of Chemistry
+Wednesday 18 January 2017 – Morning
+Time: 1 hour 30 minutes
+WCH02/01
+Candidates may use a calculator.
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 80.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P48368A0224*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Which is a disproportionation reaction?
+ 
+ 
+A Cl2 + 2KBr 
+o 2KCl + Br2
+ 
+ 
+B Cl2 + 2Na 
+o 2NaCl
+ 
+ 
+C 8Cl2 + P4 
+o 2PCl3 + 2PCl5
+ 
+ 
+D Cl2 + 2NaOH o NaCl + NaClO + H2O
+(Total for Question 1 = 1 mark)
+2 In which of the following would you expect the paired species to have different 
+bond angles?
+ 
+ 
+A H2O 
+NH2
+–
+ 
+ 
+B NH4
++ 
+CH4
+ 
+ 
+C BF3 
+NH3
+ 
+ 
+D BeCl2 
+CO2
+(Total for Question 2 = 1 mark)
+3 Global warming is an environmental concern and results from greenhouse gases 
+trapping radiation from the Earth.
+ 
+Identify the type of radiation involved and its effect on greenhouse gases.
+Type of radiation
+Effect
+A
+Infrared
+Bond breaking
+B
+Infrared
+Bond vibration
+C
+Ultraviolet
+Bond breaking
+D
+Ultraviolet
+Bond vibration
+(Total for Question 3 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P48368A0324*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 The ozone layer is depleted by a series of reactions involving trichlorofluoromethane, CFCl3.   
+Some of the possible reactions are
+ 
+Reaction 1 
+O3 + O 
+o 2O2
+ 
+Reaction 2 
+CFCl3 
+o CFCl2• + Cl•
+ 
+Reaction 3 
+O3 + Cl• o ClO• + O2
+ 
+Reaction 4 
+ClO• + O o Cl• 
++ O2
+ 
+(a) Which is an initiation reaction?
+(1)
+ 
+ 
+A Reaction 1
+ 
+ 
+B Reaction 2
+ 
+ 
+C Reaction 3
+ 
+ 
+D Reaction 4
+ 
+(b) In the reactions shown above, what best describes the role of the chlorine free radical 
+in the depletion of ozone?
+(1)
+ 
+ 
+A Catalyst
+ 
+ 
+B Inhibitor
+ 
+ 
+C Initiator
+ 
+ 
+D Terminator
+ 
+(c) Which of the following is a possible termination reaction?
+(1)
+ 
+ 
+A Cl• 
++ O2 
+o ClO• 
++ O
+ 
+ 
+B O 
++ Cl• o ClO•
+ 
+ 
+C ClO• + ClO• o Cl2O2
+ 
+ 
+D CFCl2• + O3 o CFCl2O• + O2
+(Total for Question 4 = 3 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P48368A0424*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+5 At room temperature, iodine is a solid and bromine is a liquid.
+ 
+The best explanation for this is that
+(1)
+ 
+ 
+A bromine has weaker permanent dipoles between the molecules.
+ 
+ 
+B bromine is more volatile.
+ 
+ 
+C iodine has stronger covalent bonds.
+ 
+ 
+D iodine has stronger London forces.
+(Total for Question 5 = 1 mark)
+6 Which molecule will have the highest boiling temperature?
+(1)
+ 
+ 
+ 
+ 
+(Total for Question 6 = 1 mark)
+7 Covalent bond length is defined as the
+(1)
+ 
+ 
+A distance from the nucleus of one atom to the outermost electron of the 
+ 
+ 
+ 
+other atom.
+ 
+ 
+B distance from the nucleus of one atom to the nucleus of the other atom.
+ 
+ 
+C shortest distance from the outermost electron of one atom to the outermost 
+electron of the other atom.
+ 
+ 
+D longest distance from the outermost electron of one atom to the outermost 
+electron of the other atom.
+(Total for Question 7 = 1 mark)
+A
+B
+C
+D
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P48368A0524*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+8 Hydrogen peroxide decomposes forming water and oxygen.
+H2O2(aq) o H2O(l) + ½O2(g)
+ 
+Which change does not increase the reaction rate?
+ 
+ 
+A Adding the powdered catalyst, MnO2
+ 
+ 
+B Increasing the concentration of the hydrogen peroxide from 2 mol dm–3 to 4 mol dm–3
+ 
+ 
+C Increasing the pressure from 2 atm to 4 atm
+ 
+ 
+D Increasing the temperature from 20qC to 40qC
+(Total for Question 8 = 1 mark)
+9 Consider the following reaction:
+X2(g) + 3Y2(g) U 2XY3(g)
+ 
+Increasing the pressure increases the reaction rate because it
+ 
+ 
+A increases molecular energies.
+ 
+ 
+B shifts the position of equilibrium to the right.
+ 
+ 
+C increases the collision frequency.
+ 
+ 
+D decreases the activation energy.
+(Total for Question 9 = 1 mark)
+10 Which type of radiation is often used in the pharmaceutical industry to heat 
+reaction mixtures?
+ 
+ 
+A Gamma
+ 
+ 
+B Microwave
+ 
+ 
+C Ultraviolet
+ 
+ 
+D X-ray
+(Total for Question 10 = 1 mark)
+11 The potassium halides, KCl, KBr and KI, can all react with concentrated sulfuric acid to produce
+ 
+ 
+A hydrogen halides.
+ 
+ 
+B hydrogen sulphide.
+ 
+ 
+C sulfur dioxide.
+ 
+ 
+D sulfur.
+(Total for Question 11 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P48368A0624*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+12 The reaction between a potassium halide and silver nitrate in solution is
+KX(aq) + AgNO3(aq) o KNO3(aq) + AgX(s)
+ 
+The ionic equation for this reaction is
+ 
+ 
+A K+(aq) + NO3
+–(aq) o KNO3(aq)
+ 
+ 
+B KX(aq) + Ag+(aq) o K+(aq) + AgX(s)
+ 
+ 
+C X–(aq) + Ag+(aq) o AgX(s)
+ 
+ 
+D K+(aq) + X–(aq) + Ag+(aq) + NO3
+–(aq) o K+(aq) + NO3
+–(aq) + AgX(s)
+(Total for Question 12 = 1 mark)
+13 An energy level diagram for a reaction with an intermediate can be drawn as shown.
+Energy  
+/ kJ mol–1
+Intermediate
+Reactants
+A
+B
+C
+D
+Reaction pathway
+Products
+ 
+Which arrow indicates the enthalpy change for this reaction?
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 13 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P48368A0724*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+14 Which graph correctly shows the Maxwell-Boltzmann energy distribution?
+Fraction of 
+particles 
+with a 
+specific 
+energy
+Energy
+A
+Fraction of 
+particles 
+with a 
+specific 
+energy
+Energy
+B
+Fraction of 
+particles 
+with a 
+specific 
+energy
+Energy
+C
+Fraction of 
+particles 
+with a 
+specific 
+energy
+Energy
+D
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 14 = 1 mark)
+Use this space for rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P48368A0824*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+15 Use the Pauling electronegativity values given in the table to answer the following questions.
+H
+2.1
+Li
+1.0
+Be
+1.5
+B
+2.0
+C
+2.5
+N
+3.0
+O
+3.5
+F
+4.0
+Na
+0.9
+Mg
+1.2
+Al
+1.5
+Si
+1.8
+P
+2.1
+S
+2.5
+Cl
+3.0
+ 
+(a) Which compound has covalent bonds with the greatest polarity?
+(1)
+ 
+ 
+A H2O
+ 
+ 
+B CF4
+ 
+ 
+C MgF2
+ 
+ 
+D Al2O3
+ 
+(b) Which compound is most ionic?
+(1)
+ 
+ 
+A Li2O
+ 
+ 
+B MgO
+ 
+ 
+C AlF3
+ 
+ 
+D NaF
+(Total for Question 15 = 2 marks)
+Use this space for rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P48368A0924*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+16 The table gives some data on fuels.
+Fuel
+Energy density / MJ l–1
+CO2 produced on combustion / kg l–1
+Biodiesel
+33
+2.5
+LPG
+24
+1.5
+Petrol
+32
+2.3
+Wood
+10
+0.9
+ 
+Which fuel produces the smallest mass of carbon dioxide on combustion to generate 
+100 MJ of energy?
+ 
+ 
+A Biodiesel
+ 
+ 
+B LPG
+ 
+ 
+C Petrol
+ 
+ 
+D Wood
+(Total for Question 16 = 1 mark)
+17 Which combustion of ethanol produces no change in the volume of gas present at 
+room temperature?
+ 
+ 
+A C2H5OH(l) + 3O2(g) o 2CO2(g) + 3H2O(l)
+ 
+ 
+B C2H5OH(l) + O2(g) 
+o 2C(s) + 3H2O(l)
+ 
+ 
+C C2H5OH(l) + 2O2(g) o 2CO(g) + 3H2O(l)
+ 
+ 
+D C2H5OH(l) + 1½O2(g) o CO(g) + C(s) + 3H2O(l)
+(Total for Question 17 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P48368A01024*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.   Write your answers in the spaces provided.
+18 Sulfur dioxide, SO2, is added to commercial wine to act as an antioxidant and 
+inhibitor of microbial growth.   The SO2 that is dissolved in the wine is called ‘free’ SO2. 
+However, there is also SO2 combined with compounds in the wine; this ‘bound’ SO2 
+can be released by the addition of sodium hydroxide.  The ‘free’ SO2 and 
+‘bound’ SO2 give the ‘total’ SO2 present in the wine.
+ 
+The amount of sulfur dioxide can be determined by titration with an iodine solution.  
+The equation is
+SO2 + I2 + 2H2O o 2I− + 4H+ + SO4
+2−
+ 
+Free SO2 determination
+ 
+A 50.00 cm3 sample of white wine was pipetted into a conical flask.  The sample was 
+acidified with 5 cm3 of dilute sulfuric acid and 2 cm3 of starch solution was added.  
+This mixture was titrated with 0.00100 mol dm−3 iodine solution.  The end-point was 
+taken when a dark blue colour persisted for about two minutes.  The procedure 
+was repeated and the following burette readings obtained.
+1
+2
+Final volume / cm3
+25.60
+41.20
+Initial volume / cm3
+10.00
+25.60
+Volume added / cm3
+15.60
+15.60
+ 
+(a) (i) Calculate the number of moles of iodine added in each 15.60 cm3 titre.
+(1)
+ 
+ 
+(ii) Hence deduce the number of moles of free SO2 in 50 cm3 of the wine.
+(1)
+ 
+ 
+(iii) Calculate the concentration in mg dm–3 of free SO2 in the wine.  This is 
+equivalent to the concentration in ppm.
+ 
+ 
+ 
+Give your answer to three significant figures.
+(2)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P48368A01124*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+Total SO2 determination
+ 
+Another 50.00 cm3 sample of the white wine was pipetted into a conical flask.  To 
+release the bound SO2, excess sodium hydroxide was added.  After swirling, the 
+mixture was left to stand for 15 minutes.
+ 
+This mixture was acidified with 10 cm3 of dilute sulfuric acid and 2 cm3 of starch 
+solution was added.  This mixture was then titrated with 0.00100 mol dm–3 iodine 
+solution.  The following burette readings were obtained.
+Final volume / cm3
+23.40
+Initial volume / cm3
+ 0.00
+Volume added / cm3
+23.40
+ 
+ 
+(iv) Calculate the concentration in mg dm–3 (ppm) of total SO2 in the wine.
+(1)
+ 
+ 
+(v) Calculate the percentage uncertainty in the volume measured using the 
+burette in the determination of both the free SO2 and the total SO2.  Each time 
+a burette is read the uncertainty is ±0.05 cm3.
+ 
+ 
+ 
+Also calculate the percentage uncertainty in measuring 50 cm3 using a 
+50 cm3 pipette.  Each time the pipette is used the uncertainty is ±0.10 cm3.
+(2)
+Burette uncertainty for free SO2 ................................................................................................................................................................................................
+Burette uncertainty for total SO2 ..............................................................................................................................................................................................
+Pipette uncertainty ...............................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P48368A01224*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(vi) State in which of these SO2 determinations you have the greater confidence.
+ 
+ 
+ 
+Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The recommended total concentration of SO2 in wine is 20–40 ppm but the 
+European Union has set a legal limit of 200 ppm for white wines.
+ 
+ 
+Suggest one possible problem with the total concentration of SO2 in white wine 
+being outside each of these limits.
+(2)
+ 
+ 
+Less than 20 ppm
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+More than 200 ppm
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Suggest why it is more difficult to get an accurate titre with red wine, using the 
+method described above.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P48368A01324*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) The dot and cross diagram for sulfur dioxide can be drawn as shown.  The sulfur 
+atom has expanded its octet by having ten electrons in the outer energy level.
+O
+S
+O
+xx
+••
+••
+••
+••
+x•x•
+x•x•
+ 
+ 
+(i) Draw the dot and cross diagram for sulfur dioxide which shows the sulfur atom 
+with only eight electrons in its outer energy level.
+ 
+ 
+ 
+Use dots to represent the oxygen electrons and crosses to represent the sulfur 
+electrons.
+(1) 
+O
+S
+O
+ 
+ 
+(ii) A sulfur atom can expand its octet but an oxygen atom cannot.
+ 
+ 
+ 
+Suggest why this is so.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Deduce the shape of the sulfur dioxide molecule and suggest the 
+O–S–O bond angle.
+(2)
+Shape ...................................................................................................................................................................................................................................................................
+Bond angle ....................................................................................................................................................................................................................................................
+(Total for Question 18 = 15 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P48368A01424*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+19 This is a question about some elements of Group 2 and their compounds.
+ 
+(a) Magnesium reacts slowly with cold water but rapidly when heated in steam.
+ 
+ 
+For each reaction, name the magnesium compound formed.
+ 
+ 
+Identify the other product formed in both reactions.
+(2)
+Magnesium compound formed with cold water ...................................................................................................................................................
+Magnesium compound formed with steam ...............................................................................................................................................................
+Other product ............................................................................................................................................................................................................................................
+ 
+(b) Calcium chloride can be formed in two ways by reacting calcium with different reagents.
+ 
+ 
+Write the equation, with state symbols, for each of these reactions.
+(3)
+Reaction 1
+Reaction 2
+ 
+(c) The thermal decomposition of Group 2 carbonates can be investigated using the 
+apparatus shown.
+solid
+heat
+limewater
+delivery tube
+ 
+ 
+(i) State why it is necessary to remove the delivery tube from the limewater as 
+soon as heating is stopped.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P48368A01524*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Give the formula of the chemical compound in limewater that reacts with 
+carbon dioxide.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Identify the chemical compound that is responsible for the cloudiness 
+of the limewater.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iv) Magnesium carbonate took two minutes of heating to produce enough 
+carbon dioxide to make a sample of limewater go cloudy.
+ 
+ 
+ 
+State and explain the trend in the time taken for decomposition as 
+Group 2 is descended.
+(4)
+Trend ....................................................................................................................................................................................................................................................................
+Explanation ...................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Explain why a saturated solution of barium hydroxide is more alkaline than a 
+saturated solution of magnesium hydroxide.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P48368A01624*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+*(e) The colour seen in a flame test is characteristic of the metal ion involved.  For example, 
+barium ions give a green colour whilst calcium ions give a yellow-red colour.
+ 
+ 
+Explain, with reference to the electronic transitions involved, how these flame 
+colours are formed and why the flame colours are different.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 17 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P48368A01724*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P48368A01824*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+20 The effect of changing conditions on a system at equilibrium can be illustrated by the 
+reaction involving ICl and ICl3 which may be studied using the apparatus shown.
+conc HCl
+KMnO4
+3 way tap
+to filter pump
+screw 
+clip
+I2
+to fume cupboard 
+(or open window)
+place where ICl and ICl3 
+are formed
+screw 
+clip
+NaOH(aq)
+ 
+The equilibrium is 
+ICl(l)    +    Cl2(g)    UICl3(s)              ǻH = –105.9 kJ mol–1
+ 
+brown pale green 
+yellow
+ 
+(a) Explain the effect of increasing the amount of chlorine on the system at 
+equilibrium.  State what you would see.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Explain the effect of placing the U-tube in a beaker of warm water on the system 
+at equilibrium.  State what you would see.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P48368A01924*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) The chlorine gas is generated in the apparatus by the reaction between 
+concentrated hydrochloric acid and potassium manganate(VII).
+16H+  +  10Cl–  +  2MnO4
+–
+  o  5Cl2  +  2Mn2+  +  8H2O
+ 
+ 
+Show by the use of all relevant oxidation numbers that this is a redox reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Suggest the purpose of the sodium hydroxide solution in the flask on the 
+right hand side of the apparatus.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 7 marks)
+TOTAL FOR SECTION B = 39 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P48368A02024*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Grass is similar to many other plants in naturally releasing mixtures of volatile organic 
+compounds.  Freshly-cut grass has a characteristic aroma because of the increased 
+release of these compounds, which are known as green leaf volatiles (GLVs).  The 
+most important contributors to this aroma are alcohols and aldehydes containing 
+six carbon atoms.
+ 
+The main compound giving freshly-cut grass its smell is Z-hex-3-enal.
+O
+ 
+The human nose can detect Z-hex-3-enal at levels as low as 1.0 ng dm−3 or  
+1.0 × 10−9 g dm−3.  However, this compound is relatively unstable and rearranges to 
+form the E isomer.
+ 
+Some other GLVs are methanol, ethanol, Z-hex-3-en-1-ol and E-hex-2-enal.
+ 
+It has been suggested that the release of these GLVs is part of a defence response by 
+the plant.  In one study of plants attacked by caterpillars, the chemical composition of 
+the GLVs changed to attract the natural insect predators of these caterpillars.
+ 
+(a) Give the molecular formula of Z-hex-3-enal.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Draw the skeletal formula of the E-isomer of hex-3-enal.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P48368A02124*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) An average nasal cavity has a volume of 30 cm3.  Calculate the minimum number 
+of molecules of Z-hex-3-enal that could be detected in this volume.
+ 
+ 
+Data:   Avogadro constant = 6.02 × 1023 mol–1 
+Molar mass of Z-hex-3-enal = 98 g mol–1
+(2)
+ 
+(d) Complete the table with saturated, straight-chain alcohols having six carbon 
+atoms that could be GLVs by giving one example in each case.
+(4)
+Classification 
+of alcohol
+Structural formula
+Name
+Primary 
+Secondary 
+ 
+(e) The compound 2-chloro-2-methylpentane has six carbon atoms.
+ 
+ 
+(i) It can be converted into a tertiary alcohol with aqueous sodium hydroxide.  
+Complete the equation for this reaction.
+(1)
+CH3
+C
+CH2
+CH2
+CH3         +         ................         o                                                         +         ................
+CH3
+Cl
+ 
+ 
+(ii) What class of reagent is the hydroxide ion in this reaction?
+(1)
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P48368A02224*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) In different conditions, 2-chloro-2-methylpentane undergoes an elimination 
+reaction that produces an alkene.
+ 
+ 
+ 
+Complete the reaction mechanism with the appropriate curly arrow. 
+State the essential condition for this reaction.
+(4)
+:OH–
+H3C
+C
+CH
+CH2
+CH3 
+H3C
+Cl
+H
+Essential condition for reaction ...............................................................................................................................................................................................
+ 
+(f) Methanol and ethanol are both GLVs.  There are a number of fragment peaks 
+which appear in the mass spectra of both compounds but, somewhat surprisingly, 
+the OH+ peak at m / e = 17 is not one of them.
+ 
+ 
+(i) Suggest the formulae and m / e values of two fragment ions that you would 
+expect to occur in both spectra.
+(2)
+ 
+ 
+ 
+First fragment ion 
+...................................................................................................................
+ 
+ 
+ 
+Second fragment ion 
+...................................................................................................................
+ 
+ 
+(ii) Give the formula of one fragment ion that you would expect to be present in 
+the mass spectrum of ethanol but absent from that of methanol.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P48368A02324*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+*(g) Z-hex-3-en-1-ol is only sparingly soluble in water but completely miscible with ethanol.  
+By reference to intermolecular forces, fully explain this difference in solubility.
+ 
+ 
+Detailed explanations of the forces involved are not required.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P48368A02424*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

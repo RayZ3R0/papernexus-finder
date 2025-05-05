@@ -1,0 +1,895 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Edexcel GCE
+P39295A
+©2012 Pearson Education Ltd.
+7/7/5/3/
+*P39295A0124*
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Friday 13 January 2012 – Afternoon
+Time: 1 hour 30 minutes
+6CH01/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+2
+*P39295A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 A molecule is
+ 
+A 
+a group of atoms bonded by ionic bonds.
+ 
+B 
+a group of atoms bonded by covalent bonds.
+ 
+C 
+a group of ions bonded by covalent bonds.
+ 
+D 
+a group of atoms bonded by metallic bonds.
+(Total for Question 1 = 1 mark)
+2 The relative atomic mass is defined as
+ 
+A 
+the mass of an atom of an element relative to 1/12 the mass of a carbon-12 
+atom.
+ 
+B 
+the mass of an atom of an element relative to the mass of a hydrogen atom.
+ 
+C 
+the average mass of an element relative to 1/12 the mass of a carbon atom.
+ 
+D 
+the average mass of an atom of an element relative to 1/12 the mass of a 
+carbon-12 atom.
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P39295A0324*
+Turn over  
+3 The definition of the mole is
+ 
+A the amount of any substance which occupies a volume of 24 dm3 at room 
+temperature and pressure.
+ 
+B the amount of any substance containing the same number of identical entities as 
+there are in exactly 12 g of the carbon-12 isotope.
+ 
+C the number of atoms in exactly 12 g of the carbon-12 isotope.
+ 
+D the number of molecules in exactly 2 g of hydrogen at room temperature and 
+pressure.
+(Total for Question 3 = 1 mark)
+4 The concentration of blood glucose is usually given in millimoles per dm3 or  
+mmol dm–3.  A reading of 5.0 mmol dm–3 is within the normal range.  Glucose has a 
+molar mass of 180 g mol–1.  What mass of glucose dissolved in 1 dm3 of blood would 
+give this normal reading?
+ 
+A 0.090 g
+ 
+B 0.18 g
+ 
+C 0.90 g
+ 
+D 9.0 g
+(Total for Question 4 = 1 mark)
+5 In an experiment performed to measure the enthalpy change for the reaction
+Cu2+DT=QVĺ&XV=Q2+(aq)
+ 
+3.0 g of zinc powder (an excess) was added to 30.0 cm3 of copper(II) sulfate solution 
+of concentration 1.00 mol dm–3.  The temperature rise of the mixture was 47.6 K.  
+Assuming that the heat capacity of the solution is 4.2 J K–1 g–1, the enthalpy change for 
+the reaction is given by
+ 
+A ǻH íîî·
+ 
+B ǻH íîî·
+ 
+C ǻH íîîî
+ 
+D ǻH íîîî
+(Total for Question 5 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P39295A0424*
+6 7KHHQWKDOS\FKDQJHRIDWRPL]DWLRQRILRGLQHLVWKHYDOXHRIǻH for the process
+ 
+A 
+I2(s)oI2(g)
+ 
+B 
+I2(s)o2I(g)
+ 
+C 
+I2(g)o2I(g)
+ 
+D 
+½I2(s)oI(g)
+(Total for Question 6 = 1 mark)
+7 The enthalpy change for the reaction
+C(s, graphite) + ½O2(g)oCO(g)
+ 
+cannot be measured directly since some carbon dioxide is always formed in the reaction.  
+It can be calculated using Hess’s Law and the enthalpy changes of combustion of 
+graphite and of carbon monoxide.
+C(s, graphite) + O2(g)oCO2JǻH íN-PRO–1
+CO(g) + ½O2(g)oCO2JǻH íN-PRO–1
+ 
+The enthalpy change for the reaction of graphite with oxygen to give carbon monoxide 
+is
+ 
+A 
+íN-PRO–1
+ 
+B 
+N-PRO–1
+ 
+C 
+íN-PRO–1
+ 
+D 
+N-PRO–1
+(Total for Question 7 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P39295A0524*
+Turn over  
+8 7KHPRODUHQWKDOS\FKDQJHRIFRPEXVWLRQRIVRPHDONDQHVLVJLYHQEHORZLQN-PRO–1.
+C3H8  í
+C4H10 í
+C5H12 í
+C6H14 í
+
+$QRWKHUDONDQHZDVIRXQGWRKDYHDQHQWKDOS\FKDQJHRIFRPEXVWLRQRIíN-PRO–1.  
+7KHDONDQHLV
+ 
+A C7H16
+ 
+B C8H18
+ 
+C C9H20
+ 
+D C10H22
+(Total for Question 8 = 1 mark)
+9 If the mean C
+H bond enthalpy is +x, which of the following represents a process with 
+an enthalpy change of +4x?
+ 
+A C(g) + 4H(g)oCH4(g)
+ 
+B CH4(g)oC(g) + 4H(g)
+ 
+C CH4(g)oC(s, graphite) + 2H2(g)
+ 
+D C(s, graphite) + 2H2(g)oCH4(g)
+(Total for Question 9 = 1 mark)
+10 7KHILUVWHLJKWLRQL]DWLRQHQHUJLHVRIDQHOHPHQWDUHLQN-PRO–1):
+789, 1577, 3232, 4356, 16091, 19785, 23787, 29253.
+ 
+The element is in
+ 
+A Group 1
+ 
+B Group 2
+ 
+C Group 3
+ 
+D Group 4
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P39295A0624*
+11 Which of the graphs shows (from left to right) the trend in the ionic radius of the 
+isoelectronic ions N3–, O2–, F–, Na+, Mg2+, Al3+?
+ 
+A 
+B
+ 
+C 
+D
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+N3–
+Mg2+
+O2–
+F– (Ne) Na+
+Al3+
+N3–
+Mg2+
+O2–
+F– (Ne) Na+
+Al3+
+N3–
+Mg2+
+O2–
+F– (Ne) Na+
+Al3+
+Ionic 
+radius
+N3–
+Mg2+
+O2–
+F– (Ne) Na+
+Al3+
+Ionic 
+radius
+Ionic 
+radius
+Ionic 
+radius
+PMT
+
+
+--- Page Break ---
+
+7
+*P39295A0724*
+Turn over  
+12 Oxygen can be prepared using several different reactions.  Which of those given below 
+has the highest atom economy by mass?
+ 
+A NaNO3oNaNO2 + ½O2
+ 
+B H2O2oH2O + ½O2
+ 
+C Cl2 + H2Oo2HCl + ½O2
+ 
+D PbO2oPbO + ½O2
+(Total for Question 12 = 1 mark)
+13 The ionic radii in nm of some ions are given below.
+Li+
+0.074
+F– 
+0.133
+Ca2+
+0.100
+Cl– 
+0.180
+O2– 
+0.140
+S2– 
+0.185
+ 
+(a) Which of the following compounds has the most exothermic lattice energy?  They all 
+have the same crystal structure.
+(1)
+ 
+A LiF
+ 
+B LiCl
+ 
+C CaO
+ 
+D CaS
+ 
+(b) Which of the following compounds will show the greatest difference between the 
+experimental (Born-Haber) lattice energy and that calculated from a purely ionic 
+model?
+(1)
+ 
+A LiF
+ 
+B Li2O
+ 
+C CaO
+ 
+D CaS
+(Total for Question 13 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+8
+*P39295A0824*
+14 Which of the following is the correct order for the processes used to obtain petrol from 
+petroleum (crude oil)?
+ 
+A 
+Petroleumofractional distillationoreformingoFUDFNLQJopetrol.
+ 
+B 
+Petroleumoreformingofractional distillationoFUDFNLQJopetrol.
+ 
+C 
+PetroleumoFUDFNLQJoreformingofractional distillationopetrol.
+ 
+D 
+Petroleumofractional distillationoFUDFNLQJoreformingopetrol.
+(Total for Question 14 = 1 mark)
+15 In the reaction between ethene and bromine, the bromine molecule acts as an 
+electrophile.
+CH2
+CH2 + Br2 oBrCH2CH2Br
+ 
+Which of the following statements is true?
+ 
+A 
+Ethene acts as a nucleophile because it is polar.
+ 
+B 
+Ethene acts as a nucleophile because it can donate a pair of electrons to 
+bromine.
+ 
+C 
+Ethene is not a nucleophile in this reaction.
+ 
+D 
+Ethene acts as a nucleophile because it donates a single electron to bromine.
+(Total for Question 15 = 1 mark)
+16 1DPHWKHDONHQHVKRZQEHORZ
+ 
+A 
+Z-4-ethylhex-4-ene
+ 
+B 
+E-3-ethylhex-2-ene
+ 
+C 
+Z-3-ethylhex-2-ene
+ 
+D 
+E-3-propylpent-2-ene
+(Total for Question 16 = 1 mark)
+C
+C
+H3C
+H
+CH2CH2CH3
+CH2CH3
+PMT
+
+
+--- Page Break ---
+
+9
+*P39295A0924*
+Turn over  
+17 If propene, CH3CH
+CH2, is reacted with aqueous acidified potassium manganate(VII) 
+the organic product is
+ 
+A CH3CH(OH)CH2OH
+ 
+B CH3CH(OH)CH3
+ 
+C HOCH2CH2CH2OH
+ 
+D CH3CH2CH2OH
+(Total for Question 17 = 1 mark)
+18 How many compounds have the formula C5H12?
+ 
+A 1
+ 
+B 2
+ 
+C 3
+ 
+D 4
+(Total for Question 18 = 1 mark)
+19 An organic compound reacts with chlorine in the presence of ultraviolet light.  The 
+relative molecular mass of the product has increased by 34.5 compared with the original 
+compound.  What is the reaction mechanism?
+ 
+A Free radical substitution
+ 
+B Electrophilic substitution
+ 
+C Nucleophilic substitution
+ 
+D Free radical addition
+(Total for Question 19 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P39295A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 (a) An impure sample of sodium hydrogencarbonate, NaHCO3, of mass 0.227 g, was 
+reacted with an excess of hydrochloric acid.  The volume of carbon dioxide evolved 
+was measured at room temperature and pressure and found to be 58.4 cm3.
+NaHCO3 + HCloNaCl + H2O + CO2
+ 
+ 
+The molar volume of any gas at the temperature and pressure of the experiment is  
+24 dm3 mol–1.  The molar mass of sodium hydrogencarbonate is 84 g mol–1.
+ 
+ 
+(i) Calculate the number of moles of carbon dioxide given off.
+(1)
+ 
+ 
+(ii) Calculate the mass of sodium hydrogencarbonate present in the impure sample.
+(2)
+ 
+ 
+(iii) Calculate the percentage purity of the sodium hydrogencarbonate.  Give your 
+answer to two significant figures.
+(2)
+PMT
+
+
+--- Page Break ---
+
+11
+*P39295A01124*
+Turn over  
+ 
+(b) (i) The total error in reading the gas syringe is ±0.4 cm3.  Calculate the percentage 
+error in measuring the gas volume of 58.4 cm3.
+(1)
+ 
+ 
+(ii) Suggest why the carbon dioxide should not be collected over water in this 
+experiment.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 20 = 7 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P39295A01224*
+21 (a) On strong heating, calcium carbonate decomposes to calcium oxide and carbon 
+dioxide:
+CaCO3(s)oCaO(s) + CO2(g)
+ 
+ 
+Owing to the conditions under which the reaction occurs, it is not possible to 
+measure the enthalpy change directly.
+ 
+ 
+An indirect method employs the enthalpy changes when calcium carbonate and 
+calcium oxide are neutralized with hydrochloric acid.
+ 
+ 
+(i) Write the equation for the reaction of calcium carbonate with hydrochloric acid.  
+State symbols are not required.
+ 
+ 
+ 
+[ǻH1 is the enthalpy change for this reaction]
+(1)
+........................................................................................................................................................................................................................................................................................... ǻH1
+ 
+ 
+(ii) The reaction of calcium oxide with hydrochloric acid is
+CaO(s) + 2HCl(aq)oCaCl2(aq) + H2O(l)            ǻH2
+ 
+ 
+ 
+Use the equations in parts (i) and (ii) to complete the Hess’s Law cycle below 
+to show how you could calculate the enthalpy change for the decomposition of 
+FDOFLXPFDUERQDWHǻHreaction.  Label the arrows in your cycle.
+(3)
+ 
+CaCO3(s)
+ ǻHreaction
+CaO(s) + CO2(g)
+PMT
+
+
+--- Page Break ---
+
+13
+*P39295A01324*
+Turn over  
+
+
+LLL&RPSOHWHWKHH[SUHVVLRQIRUǻHreaction in terms of ǻH1 and ǻH2.
+(1)
+ǻHreaction =
+ 
+(b) Suggest two reasons why the value obtained by carrying out these two experiments 
+DQGXVLQJWKHHTXDWLRQJLYHVDYDOXHGLIIHUHQWWRWKHGDWDERRNOHWYDOXHIRUWKH
+decomposition reaction of calcium carbonate.
+(2)
+1  ...........................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+2  ...........................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 21 = 7 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P39295A01424*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+15
+*P39295A01524*
+Turn over  
+22 (a) State how the following processes are achieved in a mass spectrometer.
+ 
+ 
+(i) Ionization of the sample.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Acceleration of the ions.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Deflection of the ions.
+(1)
+................................................................................................................................................................................................................................................
+ 
+(b) State how you could find the molecular mass of a substance from its mass spectrum.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+
+F/LYLQJWKLQJVWDNHXSWKHUDGLRDFWLYHLVRWRSHFDUERQIURPWKHDWPRVSKHUH
+In recent years a particular linen cloth was shown, using mass spectrometry, to 
+have been made from flax grown in the early 14th century.  Suggest how mass 
+spectrometry can be used to estimate the age of the cloth.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 22 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P39295A01624*
+*23 The melting temperatures of the elements of Period 3 are given in the table below.  Use 
+these values to answer the questions that follow.
+Element
+Na
+Mg
+Al
+Si
+P
+(white)
+S
+(monoclinic)
+Cl
+Ar
+Melting 
+temperature / K
+371
+922
+933
+1683
+317
+392
+172
+84
+ 
+(a) Explain why the melting temperature of sodium is very much less than that of 
+magnesium.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) Explain why the melting temperature of silicon is very much greater than that of 
+white phosphorus.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P39295A01724*
+Turn over  
+ 
+(c) Explain why the melting temperature of argon is the lowest of all the elements of 
+Period 3.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(d) Explain why magnesium is a good conductor of electricity whereas sulfur is a      
+non-conductor.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 23 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+*P39295A01824*
+24 (a) Briefly describe an experiment, with a diagram of the apparatus you would use, 
+which shows that there are oppositely charged ions in copper(II) chromate(VI), 
+CuCrO4.  Describe what you would expect to see.
+Formula of ion
+Colour
+Cu2+(aq)
+blue
+CrO42–(aq)
+yellow
+(4)
+Diagram
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) The ions in an ionic lattice are held together by an overall force of attraction.
+ 
+ 
+(i) Describe the forces of attraction in an ionic lattice.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest two forces of repulsion which exist in an ionic lattice.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P39295A01924*
+Turn over  
+ 
+(c) Part of the Born-Haber cycle for magnesium oxide, MgO, is shown below.
+ 
+ 
+(i) Complete the empty box with the appropriate formulae and state symbols.
+(2)
+ 
+ 
+(ii) Identify the enthalpy changes represented by the letters A and C.
+(2)
+A  ..........................................................................................................................................................................................................................................
+C  ..........................................................................................................................................................................................................................................
+ 
+ 
+(iii) Give the expression for the enthalpy change F in terms of the other enthalpy 
+changes A to E.
+(1)
+F =
+Mg2+(g) + O(g)
+Mg2+(g) + ½O2(g)
+Mg(g) + ½O2(g)
+Mg(s) + ½O2(g)
+MgO(s)
+D
+C
+B
+E
+A
+F
+PMT
+
+
+--- Page Break ---
+
+20
+*P39295A02024*
+ 
+(d) The lattice composed of the ions Mg2+ and O2– is stronger than a lattice composed of 
+the ions Mg+ and O– .
+ 
+ 
+(i) Explain, in terms of the charges on the ions and the size of the cations, why this 
+is so.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest how the lattice energy of Mg2+O2– would differ from that of Mg+O–.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 24 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+21
+*P39295A02124*
+Turn over  
+25 Chloroethane can be made from ethane and chlorine in the gas phase in the presence of 
+ultraviolet light.  The equation for the reaction is
+CH3CH3 + Cl2oCH3CH2Cl + HCl
+ 
+(a) Complete the mechanism for the reaction.  Two of the steps have been given for you.
+(4)
+ 
+ 
+Initiation: 
+Cl2o2Cl·
+ 
+ 
+Propagation (two steps)
+ 
+ 
+(i)
+ 
+ 
+(ii)
+ 
+ 
+Termination (three steps)
+         2Cl·oCl2
+ 
+ 
+(iii)
+ 
+ 
+(iv)
+ 
+(b) This reaction gives a poor yield of chloroethane.  Give the structural formula and 
+name of another organic product, not included in your mechanism for part (a), which 
+could be produced in the reaction.
+(2)
+Formula
+Name  ................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*P39295A02224*
+ 
+(c) Chlorine gas is extremely toxic and is therefore a significant hazard.  The preparation 
+PXVWEHSHUIRUPHGVRDVWRPLQLPLVHWKHULVNWRWKHH[SHULPHQWHU
+ 
+ 
+(i) Explain the difference between hazard and risk.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+
+
+LL *LYHRQHSUHFDXWLRQWKDW\RXZRXOGXVHLQWKLVH[SHULPHQWWRPLQLPLVHWKHULVN
+other than the use of a laboratory coat and safety goggles.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 25 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+23
+*P39295A02324*
+26 D7KHDONHQHVKDYHWKHJHQHUDOIRUPXOD&nH2n.  However, a compound with this 
+JHQHUDOIRUPXODLVQRWQHFHVVDULO\DQDONHQH6XJJHVWZK\WKLVLVVR
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+
+E*LYHWKHHTXDWLRQXVLQJVNHOHWDOIRUPXODHIRUWKHUHDFWLRQRISURSHQHZLWKHDFKRI
+the following.
+ 
+ 
+(i) Hydrogen:
+(1)
+ 
+ 
+(ii) Hydrogen bromide to form the major product:
+(2)
+ 
+(c) Give the mechanism for the reaction of propene with hydrogen bromide, HBr, to 
+form the major product.
+(3)
+(Total for Question 26 = 7 marks)
+TOTAL FOR SECTION B = 60 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*P39295A02424*
+PMT

@@ -1,0 +1,1020 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P44880A
+©2015 Pearson Education Ltd.
+6/6/6/5/1/
+*P44880A0128*
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Friday 22 May 2015 – Morning
+Time: 1 hour 30 minutes
+WCH01/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P44880A0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.   For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 In which order do the electrons fill the orbitals of an atom?
+ 
+ 
+A 1s  2s  2p  3s  3p  4s  4p  3d
+ 
+ 
+B 1s  2s  2p  3s  3d  3p  4s  4p
+ 
+ 
+C 1s  2s  2p  3s  3p  3d  4s  4p
+ 
+ 
+D 1s  2s  2p  3s  3p  4s  3d  4p 
+(Total for Question 1 = 1 mark)
+2 Ions are separated in the mass spectrometer by
+ 
+ 
+A a vacuum pump.
+ 
+ 
+B a magnetic field.
+ 
+ 
+C an ionization chamber.
+ 
+ 
+D electron bombardment.
+(Total for Question 2 = 1 mark)
+3 Which of the following contains one mole of neutrons?
+ 
+ 
+A 1 g of 1
+1H
+ 
+ 
+B 1 g of 12
+6C
+ 
+ 
+C 2 g of 24
+12Mg
+ 
+ 
+D 2 g of 22
+10Ne
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P44880A0328*
+Turn over    
+4 Solutions of barium chloride and silver nitrate are mixed together.  
+The reaction that takes place is an example of
+ 
+ 
+A displacement.
+ 
+ 
+B neutralization.
+ 
+ 
+C oxidation.
+ 
+ 
+D precipitation.
+(Total for Question 4 = 1 mark)
+5 The Avogadro constant is numerically equal to the number of
+ 
+ 
+A ions in 1 mol of sodium chloride, NaCl
+ 
+ 
+B atoms in 1 mol of hydrogen gas, H2
+ 
+ 
+C electrons in 1 mol of helium gas, He
+ 
+ 
+D molecules in 1 mol of oxygen gas, O2
+(Total for Question 5 = 1 mark)
+6 10 g of magnesium is added to 1 dm3 of 1 mol dm−3 copper(II) sulfate solution and 
+the mixture is stirred until no further reaction occurs.
+ 
+Which of the following is a result of this reaction? 
+ 
+ 
+A The resulting solution is colourless.
+ 
+ 
+B 10 g of copper is displaced.
+ 
+ 
+C 63.5 g of copper is displaced.
+ 
+ 
+D All the magnesium reacts.
+(Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P44880A0428*
+7 Which of the following gas samples has the same volume as 7.0 g of  
+carbon monoxide?
+ 
+All volumes are measured at the same temperature and pressure.
+ 
+ 
+A 1.0 g of hydrogen
+ 
+ 
+B 3.5 g of nitrogen
+ 
+ 
+C 10.0 g of argon
+ 
+ 
+D 35.5 g of chlorine
+(Total for Question 7 = 1 mark)
+8 Which of the following aqueous solutions contains the greatest number of negative ions?
+ 
+ 
+A 500 cm3 of 0.10 mol dm−3 Na2SO4(aq)
+ 
+ 
+B 250 cm3 of 0.12 mol dm−3 BaCl2(aq)
+ 
+ 
+C 250 cm3 of 0.15 mol dm−3 KI(aq)
+ 
+ 
+D 500 cm3 of 0.10 mol dm−3 Zn(NO3)2(aq)
+(Total for Question 8 = 1 mark)
+9 In an experiment carried out at 200 oC and 1 atm pressure, 20 cm3 of ammonia gas 
+reacted with an excess of heated copper(II) oxide.
+3CuO(s) + 2NH3(g)  o  3Cu(s) + 3H2O(g) + N2(g)
+ 
+If all measurements were made at 200 oC and 1 atm pressure, what would be the total 
+volume, in cm3, of gaseous products?
+ 
+ 
+A 10
+ 
+ 
+B 20
+ 
+ 
+C 30
+ 
+ 
+D 40
+ (Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P44880A0528*
+Turn over    
+10 Ammonia is manufactured from hydrogen and nitrogen in the Haber process.
+3H2(g) + N2(g)  U  2NH3(g)
+ 
+If 60 tonnes of hydrogen produces 80 tonnes of ammonia, what is the percentage 
+yield in the reaction?
+ 
+ 
+A         ×  100%
+ 
+ 
+B         ×  100%
+ 
+ 
+C         ×  100%
+ 
+ 
+D         ×  100%
+(Total for Question 10 = 1 mark)
+11 Which of the following compounds has the greatest ionic character?
+ 
+ 
+A Caesium fluoride
+ 
+ 
+B Caesium iodide
+ 
+ 
+C Potassium fluoride
+ 
+ 
+D Potassium iodide
+(Total for Question 11 = 1 mark)
+12 Which species has a dative covalent bond?
+ 
+ 
+A H3O+
+ 
+ 
+B H2O
+ 
+ 
+C OH−
+ 
+ 
+D O2
+(Total for Question 12 = 1 mark)
+80
+170
+80
+340
+30
+80
+60
+80
+PMT
+
+
+--- Page Break ---
+
+6
+*P44880A0628*
+13 The atomic radius of potassium is larger than that of sodium because potassium has
+ 
+ 
+A a larger nuclear charge.
+ 
+ 
+B a larger nucleus.
+ 
+ 
+C more occupied electron shells.
+ 
+ 
+D a smaller first ionization energy. 
+(Total for Question 13 = 1 mark)
+14 Consider the following data.
+  
+S(s) + H2(g) 
+o 
+H2S(g) 
+ǻH9 = a
+ 
+ 
+H2(g) + ½O2(g) 
+o 
+H2O(l) 
+ǻH9 = b
+  
+S(s) + O2(g) 
+o 
+SO2(g) 
+ǻH9 = c
+ 
+ 
+H2S(g) + 1½O2(g) 
+o 
+H2O(l) + SO2(g) 
+ǻH9 = d
+ 
+What is the relationship between a, b, c and d?
+ 
+ 
+A a = b + c − d
+ 
+ 
+B a = d − b − c
+ 
+ 
+C a = b − c − d
+ 
+ 
+D a = d + c − b
+ (Total for Question 14 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P44880A0728*
+Turn over    
+15 In which of the following does X represent the mean bond enthalpy for the O−H 
+bond in water?
+ 
+ 
+A H2O(g)  o  O(g)  +  H2(g)                 ǻH  =  2X
+ 
+ 
+B H2O(g)  o  O(g)  +  2H(g)                ǻH  =  2X
+ 
+ 
+C H2O(g)  o  O(g)  +  H2(g)                 ǻH  =  X
+ 
+ 
+D H2O(g)  o  O(g)  +  2H(g)                ǻH  =  X
+ (Total for Question 15 = 1 mark)
+16 Which of the following is a step in the propagation stage of the chlorination of methane?
+ 
+ 
+A Cl2 o  Cl. + Cl.  
+ 
+ 
+B CH3.  + Cl.   o CH3Cl
+ 
+ 
+C CH3.  + Cl2   o  CH3Cl + Cl.  
+ 
+ 
+D CH4   
+ + Cl.   o  CH3Cl + H.
+(Total for Question 16 = 1 mark)
+17 A molecule of Z has the following structure:
+Molecule of Z
+ 
+What are the total numbers of ı-bonds and ʌ-bonds in a molecule of Z?
+Number of ı-bonds
+Number of ʌ-bonds
+A
+3
+11
+B
+8
+3
+C
+11
+3
+D
+14
+6
+(Total for Question 17 = 1 mark)
+H
+H
+H
+H
+H
+N
+PMT
+
+
+--- Page Break ---
+
+8
+*P44880A0828*
+18 Which is the structure of Z-1,2-dibromoprop-1-ene?
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+(Total for Question 18 = 1 mark)
+C
+C
+CH3
+Br
+H
+Br
+C
+C
+CH2Br
+H
+Br
+H
+C
+C
+CH3
+H
+Br
+Br
+C
+C
+CH2Br
+Br
+H
+H
+PMT
+
+
+--- Page Break ---
+
+9
+*P44880A0928*
+Turn over    
+19 The skeletal formula of 3-methylcyclobut-1-ene is shown below.
+ 
+What is the skeletal formula of 1-ethyl-3-methylcyclopent-1-ene?
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+(Total for Question 19 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+10
+*P44880A01028*
+20 Which of the following fuels, when burned, would make no significant contribution 
+to climate change?
+ 
+ 
+A Hydrogen
+ 
+ 
+B Methane
+ 
+ 
+C Petrol
+ 
+ 
+D Coal
+(Total for Question 20 = 1 mark)
+ 
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+11
+*P44880A01128*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P44880A01228*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 A propellant for a rocket consists of a fuel, kerosene, and an oxidizer, liquid oxygen.
+ 
+(a) The formulae of some hydrocarbons present in kerosene are shown in the table 
+below.
+Hydrocarbon
+Formula
+A
+B
+CH3(CH2)10CH3
+C
+D
+E
+ 
+ 
+(i) Name the homologous series to which the compounds A, B, C and E belong.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P44880A01328*
+Turn over    
+ 
+ 
+(ii) Name the compound A.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain the term structural isomers, by reference to two molecules selected 
+from the table in part (a).
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Give the molecular formula of the compound D.
+(2)
+PMT
+
+
+--- Page Break ---
+
+14
+*P44880A01428*
+ 
+(b) In the petrochemical industry, other fuels are obtained by the cracking and 
+reforming of kerosene.
+ 
+ 
+Using appropriate letters, A to D, identify a molecule listed in the table that could 
+be formed from E by
+ 
+ 
+(i) cracking alone
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) cracking and then reforming
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Suggest how engine performance is improved by using a fuel containing the 
+molecule that you have identified in (b)(ii).
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) The energy density of a fuel is defined as the energy produced per kilogram of fuel.
+ 
+ 
+Calculate the energy density of dodecane, C12H26, in kJ kg−1. Give your answer to 
+two significant figures. 
+ 
+ 
+The enthalpy change of combustion of dodecane is −8086 kJ mol−1.
+ 
+ 
+[Molar mass: C12H26 = 170 g mol−1]
+(3)
+energy density = ............................................................................ kJ kg−1
+(Total for Question 21 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+15
+*P44880A01528*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+16
+*P44880A01628*
+22 Born-Haber cycles can be used to determine experimental values of lattice energies. 
+ 
+(a) The diagram below shows a Born-Haber cycle for the formation of strontium chloride 
+from strontium and chlorine.
+ 
+ 
+Using symbols from ǻH1 to ǻH7 as appropriate, identify the
+ 
+ 
+(i) enthalpy change of atomization of strontium
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) bond enthalpy of chlorine
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) first electron affinity of chlorine
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) enthalpy change of formation of strontium chloride
+(1)
+....................................................................................................................................................................................................................................................................................
+Sr2+(g) + 2e− + 2Cl(g)
+Sr2+(g) + 2e− + Cl2(g)
+Sr+(g) + e− + Cl2(g)
+Sr(g) + Cl2(g)
+Sr(s) + Cl2(g)
+SrCl2(s)
+Sr2+(g) + 2Cl–(g)
+ǻH5
+ǻH4
+ǻH3
+ǻH2
+ǻH6
+ǻH7
+ǻH1
+PMT
+
+
+--- Page Break ---
+
+17
+*P44880A01728*
+Turn over    
+ 
+(b) The table below shows the energy changes that are needed to determine the   
+ 
+lattice energy of strontium chloride, SrCl2.
+Energy change
+ǻH / kJ mol−1
+enthalpy change of atomization of strontium
++164
+first ionization energy of strontium
++550
+second ionization energy of strontium
++1064
+enthalpy change of atomization of chlorine, ½Cl2
++122
+first electron affinity of chlorine
+−349
+enthalpy change of formation of strontium chloride
+−829
+ 
+ 
+(i) Define the term lattice energy.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Calculate the lattice energy of strontium chloride, in kJ mol−1.
+(2)
+lattice energy = ............................................................................ kJ mol−1
+PMT
+
+
+--- Page Break ---
+
+18
+*P44880A01828*
+ 
+*(c) The lattice energies of sodium fluoride and magnesium fluoride are shown in the 
+table below.
+Compound
+Lattice energy / kJ mol−1
+Sodium fluoride, NaF
+−918
+Magnesium fluoride, MgF2
+−2957
+ 
+ 
+Explain, in terms of the sizes and charges of the ions involved, why the  
+lattice energy of MgF2 is more negative than that of NaF.
+ 
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+19
+*P44880A01928*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+20
+*P44880A02028*
+23 This question is about alkenes.
+ 
+(a) Give the general formula for the homologous series of alkenes.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Give the structural formula of the organic product formed when  
+ethene, CH2=CH2, reacts with
+ 
+ 
+(i) hydrogen
+(1)
+ 
+ 
+(ii) chlorine
+(1)
+ 
+ 
+(iii) acidified aqueous potassium manganate(VII)
+(1)
+ 
+ 
+(iv) bromine water
+(1)
+PMT
+
+
+--- Page Break ---
+
+21
+*P44880A02128*
+Turn over    
+ 
+(c) When propene, CH3CH=CH2, reacts with hydrogen chloride, there are two 
+possible products, a major product and a minor product.
+ 
+ 
+(i) Draw the displayed formulae of these products.
+(2)
+Major product
+Minor product
+ 
+ 
+(ii) Give the mechanism for the reaction of propene with hydrogen chloride 
+which forms the major product.
+(3)
+PMT
+
+
+--- Page Break ---
+
+22
+*P44880A02228*
+ 
+(d) Propene can be polymerized.
+ 
+ 
+(i) Write a balanced equation for the polymerization of propene to form 
+poly(propene), drawing the displayed formula of the repeat unit of 
+poly(propene).
+(3)
+ 
+ 
+(ii) State a problem associated with the disposal of waste poly(propene).
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*P44880A02328*
+ 
+(e) Standard enthalpy changes of combustion can be used to calculate the standard 
+enthalpy change of formation of propene.
+ 
+ 
+Values for some standard enthalpy changes of combustion, ǻH 9
+c , are shown in the 
+table below.
+Substance
+ǻH9
+c      / kJ mol−1
+C(s)
+−394
+H2(g)
+−286
+C3H6(g)
+  −2058
+ 
+ 
+(i) Complete the Hess cycle below to enable you to calculate ǻH f  
+9 from 
+combustion data.
+(1)
+ 
+ 
+(ii) Calculate ǻH  f  
+9, in kJ mol−1.
+(2)
+standard enthalpy change of formation of propene = ............................................................................ kJ mol−1
+(Total for Question 23 = 17 marks)
+Turn over    
+C3H6(g)
+3C(s)  +  3H2(g)
+ǻH f  
+9
+3C(s)  +  3H2(g) 
+C3H6(g)
+PMT
+
+
+--- Page Break ---
+
+24
+*P44880A02428*
+24 The diagram below shows the pattern in the first ionization energies of the first
+  
+18 elements.
+ 
+(a) Give the equation, including state symbols, for the first ionization energy of 
+fluorine.
+(2)
+ 
+*(b) Explain why there is a general increase in the first ionization energies from 
+sodium to argon.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+First 
+ionization 
+energy
+ / kJ mol–1
+Atomic number (Z)
+2500
+2000
+1500
+1000
+500
+0
+2
+3
+4
+8
+9 10 11
+1
+5
+6
+7
+12 13 14 15 16 17 18
+He
+H
+Li
+Ne
+Na
+Ar
+PMT
+
+
+--- Page Break ---
+
+25
+*P44880A02528*
+ 
+(c) *(i) Explain why the first ionization energy of aluminium (Z = 13) is less than that 
+of magnesium (Z = 12).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) Explain why the first ionization energy of sulfur (Z = 16) is less than that of 
+phosphorus (Z = 15).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) The table below, which is incomplete, refers to the elements sodium to sulfur. 
+Element
+Na
+Mg
+Al
+Si
+P
+S
+Melting 
+temperature
+low
+high
+Structure
+giant
+Electrical 
+conductivity
+high
+ 
+ 
+(i) Complete the melting temperature row by using only the words 
+‘high’ or ‘low’.
+(2)
+ 
+ 
+(ii) Complete the structure row by using only the words ‘giant’ or ‘molecular’.
+(2)
+ 
+ 
+(iii) Complete the electrical conductivity row by using only the words  
+‘high’ or ‘low’.
+(1)
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+26
+*P44880A02628*
+ 
+(e) In an experiment, 2.76 g of sodium completely reacted with water to form  
+500 cm3 of aqueous sodium hydroxide.
+2Na(s)  +  2H2O(l)  o  2NaOH(aq)  +  H2(g)
+ 
+ 
+(i) Calculate the number of moles of sodium that reacted.
+(1)
+ 
+ 
+(ii) Calculate the maximum volume, in dm3, of hydrogen that can be formed at 
+room temperature and pressure.
+ 
+ 
+ 
+[1 mol of any gas occupies 24 dm3 at room temperature and pressure.]
+(2)
+ 
+ 
+(iii) Calculate the concentration, in mol dm–3, of the sodium hydroxide solution, 
+NaOH(aq), formed in the experiment.
+(2)
+(Total for Question 24 = 19 marks)
+TOTAL FOR SECTION B = 60 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+27
+*P44880A02728*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*P44880A02828*
+PMT

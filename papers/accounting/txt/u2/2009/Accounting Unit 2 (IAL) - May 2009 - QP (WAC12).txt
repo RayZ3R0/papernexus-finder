@@ -1,0 +1,720 @@
+Turn over
+Printer’s Log. No.
+M33447A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2009 Edexcel Limited.
+W850/6002/57570   4/5/4/
+*M33447A*
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 2 – Corporate and Management Accounting
+Friday 5 June 2009 – Morning
+Source booklet for use with Questions  
+1 to 7.
+Do not return the insert with the 
+question paper.
+
+
+--- Page Break ---
+
+M33447A	
+	
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. 	 Oceanic Fruit Trading plc had the following balances in the books at 31 March 2009, subject to 
+final adjustments.
+	
+Debit
+Credit
+£
+£
+Buildings
+725 000
+Bank loan
+50 000
+Called-up share capital not paid
+1 200
+Cash at bank
+24 500
+Cash in hand
+8 600
+Creditors
+57 000
+Debtors
+6 000
+Debenture  16%   2014
+200 000
+Debenture Interest
+16 000
+Foreign exchange reserve
+87 000
+Goodwill purchased
+120 000
+Interest on bank loan
+800
+Licences and Patents purchased
+150 000
+Machinery
+115 000
+Ordinary share capital called up
+598 800
+Prepayments
+3 300
+Profit and loss account
+730 300
+Rent received
+1 100
+Share premium account
+240 000
+Ships and vehicles
+890 000
+Stocks of consumables
+8 400
+Taxation provision
+71 000
+
+
+--- Page Break ---
+
+M33447A	
+
+
+Turn over
+	
+Notes and final adjustments:
+	
+(i)	 The buildings are to be revalued by £50 000 to a market value of £775 000, on 31 March 
+2009.  
+	
+(ii)	 The bank requires the loan to be repaid in full on 31 July 2009.
+	
+(iii)	Oceanic Fruit Trading plc has made a provision for tax to be paid.  The tax authorities require 
+all taxation to be paid by 31 December 2009.
+	
+Required:
+	
+(a)	 Prepare the balance sheet for Oceanic Fruit Trading plc as at 31 March 2009 in accordance 
+with format one of the Companies Act 1985.                                    
+(40)
+	
+(b)	 “A company’s balance sheet is more important than its profit and loss account”. Evaluate this 
+statement.                                                                  
+(12)
+ (Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+M33447A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.	 RichGrain Mills Limited produces loaves of bread.  A budget is used each month to estimate sales 
+and the cost of production.    
+	
+The following figures relate to the month of April 2009.
+Budget
+Actual
+Variance
+£
+£
+£
+Sales
+168 000
+159 750
+Less
+Material Costs
+27 000
+30 160
+Labour Costs
+29 440
+29 016
+Variable Overheads
+12 310
+13 358
+= Cost of Goods Sold
+68 750
+72 534
+Gross Profit
+99 250
+87 216
+Fixed Overheads
+58 500
+58 500
+Net Profit
+40 750
+28 716
+ 	
+The following information is also available.
+	
+• 	 A production figure of 400 000 loaves of bread for April was budgeted and achieved.
+	
+•	
+Each loaf of bread was budgeted to use 0.5 kilos of material at 13.5 pence a kilo.
+	
+•	
+Due to an increase in the world price of wheat, the actual material price paid for April was  
+14.5 pence a kilo.
+	
+•	
+Budgeted labour costs were based on 32 workers, each working 160 hours in the month, at 
+£5.75 per hour.
+	
+•	
+Due to a pay rise awarded on 1 April 2009, the 32 workers were paid £5.85 per hour.
+	
+•	
+Variable overheads include electricity, gas and water bills.
+	
+•	
+Fixed overheads include rent of factory and managers’ salaries.
+	
+• 	 All 400 000 loaves of bread produced were sold.
+
+
+--- Page Break ---
+
+M33447A	
+5
+
+Turn over
+	
+Required:
+	
+(a)	 In the answer book, complete the column to show the Variances, clearly stating whether 
+Adverse or Favourable, for the month of April 2009.
+ (8)
+	
+(b)	 Calculate for the month of April each of the following:
+	
+	
+(i)	 the quantity of material used in the actual production of one loaf 
+                       (4)
+	
+	
+(ii)	 the material usage variance, stating the formula used
+(6)
+	
+	
+(iii)	the material price variance, stating the formula used.
+(6) 
+	
+(c)	 Calculate for the month of April each of the following:
+	
+	
+(i)	 the number of hours worked by each of the 32 workers
+ (4) 
+	
+	
+(ii)	 the labour efficiency variance, stating the formula used
+ (6) 
+	
+	
+(iii)	the labour rate variance, stating the formula used.
+ (6)
+	
+The directors of RichGrain Mills Limited have set a target of £40 000 net profit for May 2009.  
+	
+Required:
+	
+(d)	 Study the budget and actual figures, and the information given for April 2009. Evaluate the 
+most appropriate actions to achieve the £40 000 net profit target required by the directors.
+(12) 
+ (Total 52 marks)
+Answer space for question 2 is on pages 8 to 13 of the question paper.
+
+
+--- Page Break ---
+
+M33447A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.	 Highway Connections Limited, which builds roads, and Wessex Quarries Limited, which mines 
+stone used in the construction industry, have merged. The new company is called Roadworks 
+Limited and has an Authorised Share Capital of  2 500 000 ordinary shares of £1 each. The new 
+company was formed on 1 April 2009.
+	
+The balance sheets of the two companies on 31 March 2009 were as follows: 
+Highway Connections
+Limited
+Wessex Quarries
+Limited
+£000
+£000
+£000
+£000
+Fixed Assets
+Buildings
+200
+120
+Machinery
+950
+480
+Furniture
+70
+37
+Vehicles
+550
+186
+1 770
+823
+Current Assets
+Stock
+58
+43
+Debtors
+22
+39
+Bank
+36
+12
+Cash
+21
+2
+137
+96
+Current Liabilities
+Creditors
+(46)
+(72)
+Working capital
+91
+24
+Net Assets
+1 861
+847
+Ordinary shares of £1 each
+800
+800
+Share premium
+200
+50
+Profit & loss reserve
+861
+(3)
+Capital Employed
+1 861
+847
+	
+
+
+--- Page Break ---
+
+M33447A	
+
+
+Turn over
+	
+Roadworks Limited settled the purchase consideration by issuing to shareholders of Highway 
+Connections Limited and Wessex Quarries Limited, £1 ordinary shares in Roadworks Limited. 
+These shares were valued at £1.50 each, which included a premium of £0.50 per share.
+	
+Roadworks Limited took over the assets and liabilities of Highway Connections Limited and 
+Wessex Quarries Limited at book value, with the following exceptions:
+	
+•	
+Buildings were revalued:
+	
+	
+Highway Connections Limited to £280 000 
+	
+	
+Wessex Quarries Limited to £160 000
+	
+•	
+Machinery of Wessex Quarries Limited was valued at £380 000 
+	
+•	
+Furniture of Highway Connections Limited was valued at £60 000
+	
+•	
+Vehicles of Wessex Quarries Limited were valued at £145 000
+	
+•	
+Net realisable value of the stock was: 
+	
+	
+Highway Connections Limited  £55 000 
+	
+	
+Wessex Quarries Limited  £25 000
+	
+•	
+Debtors £17 000 of Wessex Quarries Limited were written off as bad debts.
+	
+In addition:
+	
+•	
+Goodwill was valued at £274 000 for Highway Connections Limited and at £30 000 for Wessex 
+Quarries Limited
+	
+• 	 The purchase price of Highway Connections Limited was £2 202 000.
+	
+Required:
+	
+(a)	 Calculate:
+	
+	
+(i)	 the purchase price of Wessex Quarries Limited
+                                      (8)
+	
+	
+(ii)	 how many shares the members of Wessex Quarries Limited received in Roadworks 
+Limited.                                                                                                
+(4)
+	
+(b)	 In the books of Highway Connections Limited, prepare the:
+	
+	
+(i)	 Realisation account                                                                                      
+(8) 
+	
+	
+(ii)	 Sundry shareholders account.                                                                      
+                                                                                                                                    (6)
+	
+(c)	 Prepare the balance sheet of Roadworks Limited as at 1 April 2009.             
+          (14)
+	
+Angelina was a shareholder in Highway Connections Limited. 
+	
+(d)	 Evaluate the merger from the point of view of Angelina.                           
+                      (12)
+                                                                                       
+(Total 52 marks)
+Answer space for question 3 is on pages 14 to 21 of the question paper.
+
+
+--- Page Break ---
+
+M33447A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4.	 Eezysnooze Limited is to go into business producing beds.  The following information is 
+available.
+	
+•	
+Materials for production will be delivered from Week 1 in Month 1.  Each week, £2 400 of 
+materials will be delivered.  These materials are the quantity required to produce 60 beds.
+	
+•	
+Production will start in Week 2 in Month 1.  In each week, 60 beds will be produced, which is 
+the maximum production capacity of the factory. 
+	
+•	
+Sales are budgeted to be 55 beds a week, starting from Week 3 in Month 1. Any beds produced 
+but not sold will be placed into stock in the warehouse.
+	
+•	
+Materials are budgeted to be paid for 3 weeks after delivery, e.g. materials delivered in  
+Week 1 will be paid for in Week 4.
+	
+•	
+Customers are budgeted to pay 4 weeks after a sale, e.g. a bed sold in Week 3 Month 1 will be 
+paid for in Week 3 Month 2.
+	
+•	
+The budgeted selling price of beds is £300 per bed.
+	
+• 	 Assume 4 weeks in each month.
+
+
+--- Page Break ---
+
+M33447A	
+
+
+Turn over
+	
+Required:
+	
+(a)	 Prepare, for the first three months of trading for Eezysnooze Limited:  
+	
+	
+(For each of the three months, the budgets should show total figures for each month, NOT 
+weekly figures)        
+	
+	
+(i)	 A purchases budget in pounds (£s) 
+(3)
+	
+	
+(ii)	 A purchases budget in units (beds) 
+	
+(3)
+	
+	
+(iii)	A production budget in units (beds)
+(3)
+	
+	
+(iv)	A sales budget in units (beds)
+(3)
+	
+	
+(v)	 A stock budget in units (beds).  The budget should show the number of units going into 
+stock each month, and the total number of units in stock at the end of each month. 
+(6)
+	
+	
+(vi)	A creditors budget in pounds (£s) showing the creditors figure at the end of each month.
+  	
+(3)
+	
+	
+(vii)	A debtors budget in pounds (£s) showing the debtors figure at the end of  each month.  	
+(3)
+	
+Production is determined by the maximum production capacity of the factory, NOT by the number 
+of beds ordered by customers.
+	
+(b)	 Evaluate the decision to produce a quantity determined by the maximum capacity of the factory 
+instead of producing a quantity determined by customers’ orders. 
+(8)
+                                                                                                             
+ (Total 32 marks)
+Answer space for question 4 is on pages 22 to 25 of the question paper.
+
+
+--- Page Break ---
+
+M33447A	
+10	
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5.	 Junaed Choudhury has invested in Oriental Tea plc and holds 8 000 shares.  He uses the published 
+accounts and newspapers to see how his investment is performing.
+	
+The following information concerning Oriental Tea plc was available at the end of the previous 
+financial year, 31 March 2008. 
+	
+•	
+Number of £1 ordinary shares issued:   	
+2 500 000
+	
+•	
+Net profit for year after interest and tax: 	
+£400 000
+	
+•	
+Total Ordinary dividend paid for the year:   	£350 000
+	
+•	
+Share price: £1.85
+	
+Required:
+	
+(a)	 Calculate, for the year ended 31 March 2008:
+	
+	
+(i)	 Earnings per ordinary share
+(3)
+	
+	
+(ii)	 Dividend paid per share  
+(3)
+	
+	
+(iii)	Price/Earnings ratio 
+(3)
+	
+	
+(iv)	Dividend cover.
+(3)
+	
+The following information concerning Oriental Tea plc is available at the end of the latest financial 
+year, 31 March 2009.
+	
+• 	 Number of £1 ordinary shares issued:  	
+3 000 000
+	
+•	
+Dividend paid per share:  	
+4.8 pence 
+	
+•	
+Earnings per share: 	
+4.32 pence
+	
+•	
+Price/Earnings ratio:  	
+20  
+	
+•	
+Dividend Cover:  	
+0.9 times
+
+
+--- Page Break ---
+
+M33447A	
+11
+
+Turn over
+	
+Required:
+	
+(b)	 Calculate, for the year ended 31 March 2009: 
+	
+	
+(i)	 Total ordinary dividend paid for the year
+	
+(3)
+	
+	
+(ii)	 Share price at 31 March  2009
+	
+(3)
+	
+	
+(iii)	Net profit for the year after interest and tax 
+	
+(3)
+	
+	
+(iv)	Dividend yield.  
+	
+(3)
+	
+Junaed wants to know how his investment has performed.
+	
+Required:
+	
+(c)	 Evaluate the performance of Oriental Tea plc in the year ended 31 March 2009, compared to 
+the year ended 31 March 2008.
+(8)
+                                                                                                             
+ (Total 32 marks)
+Answer space for question 5 is on pages 26 to 29 of the question paper.
+
+
+--- Page Break ---
+
+M33447A	
+12	
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6.	 The directors of Sunshine Theme Parks Limited are considering opening a new theme park in the 
+holiday resort of Utopious.  They have leased land for five years, and have been granted a licence 
+to operate the theme park for five years.
+	
+The following information is available:
+	
+•	
+Forecasts show that the initial cost of the investment will be £6 000 000.  
+	
+• 	 The investment of £6 000 000 includes 6 rides, costing £150 000 each.  The rides are to be 
+depreciated over 5 years using the straight line depreciation method at a rate of 20% per year.
+	
+• 	 Running expenses, including depreciation for the rides, for the first three years are forecast to 
+be £1 000 000 per year. In year four, running expenses, including depreciation, are forecast to 
+rise by £200 000. In year five, running expenses are forecast to stay at the same level as in year 
+four. 
+	
+• 	 For the first three years it is forecast that the theme park will operate for 210 days per year, 
+with an average of 500 visitors per day, each paying a £20 entrance fee. 
+	
+•	
+In year four, it is forecast that the theme park will operate for 210 days, with an average of 600 
+visitors a day, each paying a £25 entrance fee. These figures are expected to stay the same for 
+year five.
+	
+• 	 It is company policy to have a payback period of five years on investment projects.
+	
+• 	 It is company policy only to invest in projects achieving an average rate of return of 10% per 
+year.
+	
+Required:
+	
+(a)	 Calculate for the project the:
+	
+	
+(i)	 payback period, showing your answer in years and months            
+(14) 
+	
+	
+(ii) average rate of return. 
+	
+    (10)
+	
+(b)	 Evaluate the project for the company, considering both financial and non-financial factors. 
+ (8)
+(Total 32 marks)
+Answer space for question 6 is on pages 30 to 33 of the question paper.
+
+
+--- Page Break ---
+
+M33447A	
+13
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.	 The directors of TransZiberian Gas plc review their operations regularly.  The world price of gas 
+has risen to £24 per British Thermal Unit (BTU) and is expected to stay at this level. As a result, 
+the directors of TransZiberian Gas plc are considering whether to reopen the three fields in the 
+Northern Region that had been shut down because they were making a loss.  TransZiberian Gas plc 
+cannot sell at a price above £24 per BTU as customers would purchase from other suppliers.
+	
+Estimated figures for the three fields in the Northern Region for June 2009 are:
+Nevgrad
+Ostorov
+Yutanga
+Direct labour
+£1 620 000
+£1 080 000
+£1 265 000
+Direct materials
+£630 000
+£680 000
+£ 605 000
+Fixed costs
+£270 000
+£320 000
+£440 000
+Production (BTUs)
+90 000
+80 000
+110 000
+	
+Required:
+	
+(a)	 (i)	 Calculate the estimated profit or loss for each of the fields of the Northern Region for June 
+2009.
+	
+	
+(ii)	 If all three fields are to be reopened, calculate the total estimated profit for the Northern 
+Region.
+(12)
+	
+(b)	 Calculate the estimated profit or loss, and the contribution, made by each of the three gas 
+fields, per BTU, for the month of June 2009.
+(12)
+	
+(c)	 Evaluate the figures to make a decision as to the future of each of the three gas fields, using 
+marginal costing.
+(8) 
+   
+(Total 32 marks)
+Answer space for question 7 is on pages 34 to 38 of the question paper.
+
+
+
+--- Page Break ---
+
+M33447A	
+14	
+BLANK PAGE
+
+
+--- Page Break ---
+
+M33447A	
+15
+BLANK PAGE
+
+
+
+--- Page Break ---
+
+M33447A	
+16	
+BLANK PAGE

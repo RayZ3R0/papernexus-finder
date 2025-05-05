@@ -1,0 +1,758 @@
+Paper Reference
+Turn over    
+Do not return the insert with the question paper.
+*P45047A*
+P45047A
+©2015 Pearson Education Ltd.
+1/1/2/2
+WAC01/01
+Tuesday 6 January 2015 – Afternoon
+Source booklet for use with Questions 1 to 7.
+Accounting (Modular Syllabus)
+Unit 1 – The Accounting System and Costing
+Pearson Edexcel 
+International Advanced Level
+
+
+--- Page Break ---
+
+2
+P45047A
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1  Kokila is in business as a trader of mobile phones. She does not maintain a full set 
+of accounts but does maintain a bank account together with other memorandum 
+records. The following information is available for the year ended 31 December 2014:
+1. 
+Bank Account
+£
+£
+Balance b/d
+2 600
+Payments to suppliers
+85 700
+Cash sales banked
+45 300
+Bank loan repayments 
+and interest
+6 300
+Cheques from customers
+95 250
+Commission received
+3 400
+Rates and insurance
+5 300
+Sundry expenses
+10 500
+New office computer
+4 000
+Delivery expenses
+15 670
+Balance c/d
+19 080
+146 550
+146 550
+Balance b/d
+19 080
+ 
+2. Kokila made cash sales of £84 000 in the year. Before banking the cash, she paid 
+the following expenses and took her cash drawings:
+£
+Wages
+14 250
+Rent
+6 000
+Sundry expenses
+6 950
+Drawings
+11 500
+ 
+3. Other balances:
+At 1 January 2014
+At 31 December 2014
+£
+£
+Inventory at cost
+9 800
+8 200
+Trade receivables
+12 400
+13 500
+Trade payables
+8 750
+11 150
+Warehouse fixtures (at valuation)
+15 000
+13 800
+Office computers (at valuation)
+24 000
+25 000
+Commission receivable due
+–
+800
+Wages accrued
+750
+500
+Rates and insurance prepaid
+1 100
+1 700
+Bank loan
+20 000
+15 000
+
+
+--- Page Break ---
+
+3
+P45047A
+Turn over    
+ 
+4. The inventory at cost on 31 December 2014 contained a batch of phones costing 
+£1 500 which are damaged and will require repairs costing £150. After repair the 
+phones will have a resale value of £1 350.
+ 
+5. All bank loan interest for the year has been paid.
+ 
+6. Kokila is concerned about possible bad debts. She has decided to create a 
+provision for doubtful debts based upon the age of her trade receivables.
+Age of debt
+Amount
+Percentage 
+(Months)
+£
+allowance (%)
+Over 6 months
+500
+40
+3 to 6 months
+2 500
+10
+1 to 3 months
+4 000
+5
+Up to 1 month
+6 500
+2
+ 
+(a) Calculate Kokila’s capital at 1 January 2014.
+(4)
+ 
+(b) Prepare the:
+ 
+ 
+(i) Statement of Comprehensive Income for the year ended 31 December 2014
+(22)
+ 
+ 
+(ii) Statement of Financial Position at 31 December 2014.
+(14)
+Kokila is considering maintaining full double entry accounts in the next accounting year.
+ 
+(c) State four advantages to Kokila of maintaining full double entry accounts.
+(4)
+A friend of Kokila, who is an accounting student, has recommended that she depreciates 
+her warehouse fixtures and office computers using the straight line method of 
+depreciation.
+ 
+(d) Evaluate whether Kokila should change her method of depreciation from 
+revaluation to the straight line method.
+(8)
+(Total for Question 1 = 52 marks)
+Answer space for question 1 is on pages 2 to 8 of the question paper.
+
+
+--- Page Break ---
+
+4
+P45047A
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2 Chai is a trader of children’s clothing. His business has two departments:
+ 
+• 
+sales to retailers 
+ 
+• 
+on-line sales through his website direct to customers. 
+The following information is available for the year ended 31 December 2014:
+£
+Revenue: Sales to retailers
+240 000
+ 
+On-line sales
+150 000
+Inventory 1 January 2014
+76 000
+Purchases
+244 000
+Carriage in
+22 000
+Postage of on-line sales
+6 000
+Maintaining website for  
+on-line sales
+1 700
+Salaries: Sales to retailers
+12 000
+ 
+On-line sales
+9 500
+Premises rent
+10 000
+Premises running costs
+5 500
+Depreciation on computers 
+and fixtures
+8 400
+Selling expenses
+7 800
+Bad debts on sales to retailers
+5 100
+Additional information for the year
+ 
+1. Other balances at 31 December 2014:
+£
+Inventory
+60 000
+Trade receivables
+32 000
+Trade payables 
+56 000
+Cash and bank
+48 000
+ 
+2. Chai has calculated that £90 000 of the cost of sales relates to on-line sales.
+ 
+3. The floor areas occupied are: sales to retailers 3 000 sqm: on-line sales 2 000 sqm.
+ 
+4. Computers and fixtures used:  sales to retailers £40 000: on-line sales £30 000.
+ 
+5. All sales to retailers are on credit. All on-line sales are cash with order.
+
+
+--- Page Break ---
+
+5
+P45047A
+Turn over    
+Required:
+ 
+(a) Prepare the Departmental Statement of Comprehensive Income for the year 
+ended 31 December 2014, in columnar format, showing the profit or loss for the 
+year of sales to retailers, on-line sales, and the business as a whole.
+(24)
+ 
+(b) Calculate the departmental gross profit as a percentage of revenue for:
+ 
+ 
+(i) sales to retailers
+ 
+ 
+(ii) on-line sales.
+(6)
+ 
+(c) Suggest one possible reason for the difference between the gross profit as a 
+percentage of revenue for sales to retailers and on-line sales.
+(2)
+ 
+(d) Calculate the departmental profit for the year as a percentage of revenue for:
+ 
+ 
+(i) sales to retailers
+ 
+ 
+(ii) on-line sales.
+(6)
+The market for sales to retailers is not increasing, but the market for on-line sales has 
+been increasing rapidly. Chai is considering expanding his on-line sales business, but has 
+been advised by a friend about ‘overtrading’.
+Required:
+ 
+(e) Calculate, at 31 December 2014, the:
+ 
+ 
+(i) the trade receivables collection period for sales to retailers. 
+ 
+ 
+(ii) current ratio for the whole of Chai’s business.
+(6)
+ 
+(f) Evaluate Chai’s proposal to expand his on-line sales business.
+(8)
+(Total for Question 2 = 52 marks)
+Answer space for question 2 is on pages 9 to 14 of the question paper.
+
+
+--- Page Break ---
+
+6
+P45047A
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3 Miguel owns a construction business which hires equipment to customers. The 
+following balances were recorded in his books on 31 December 2014:
+£
+Income from hire of equipment to customers
+573 000
+Wages and salaries
+185 000
+Rent and rates
+30 000
+Administration expenses
+17 500
+Marketing expenses
+42 750
+Delivery expenses
+61 200
+Servicing and repair of equipment
+89 750
+Bad debts
+11 000
+Fixtures and fittings at cost
+110 000
+Fixtures and fittings provision for depreciation
+27 000
+Equipment at cost
+285 000
+Equipment provision for depreciation
+125 000
+Non-current asset disposal account
+4 500 
+Additional information 31 December 2014
+ 
+1. Wages and salaries were prepaid £1 300.
+ 
+2.  Servicing and repairs of equipment £3 200 were outstanding.
+ 
+3. Depreciation is charged as follows:
+ 
+ 
+• 
+fixtures and fittings 15% on cost
+ 
+ 
+• 
+equipment at 25% by the diminishing balance method.
+Required:
+ 
+(a) Prepare the Statement of Comprehensive Income for the year ended 
+31 December 2014.
+(11)
+ 
+(b) (i) Distinguish between capital expenditure and revenue expenditure.
+(4)
+ 
+ 
+(ii) State, giving your reasons, whether each of the following is capital 
+expenditure or revenue expenditure:
+ 
+ 
+• 
+servicing and repair of equipment
+ 
+ 
+• 
+purchase of new equipment
+ 
+ 
+• 
+purchase of second hand equipment. 
+(6)
+Cr
+
+
+--- Page Break ---
+
+7
+P45047A
+Turn over    
+Miguel owns a Mobile Crane which is a piece of equipment. The details of the Mobile 
+Crane are as follows:
+1 January 2012
+Purchased Mobile Crane
+£60 000
+1 January 2012
+Delivery of Mobile Crane
+£4 000
+30 June 2014
+Sold Mobile Crane
+£35 000
+Miguel has the depreciation policy, that non-current assets sold in a year will be 
+depreciated pro-rata to the months of ownership.
+ 
+(c) Prepare for the years ended 31 December 2012, 31 December 2013 and  
+31 December 2014 the:
+ 
+ 
+(i) Mobile Crane Account
+ 
+ 
+(ii) Mobile Crane Provision for Depreciation Account. 
+(11)
+Miguel has purchased a new piece of equipment, the Trench Digger. The following 
+information is available:
+£
+Depreciation for the year
+21 000 per annum
+Operator wages
+100 per day hired
+Delivery costs to site
+200 per contract
+Servicing and repair
+3 000 per annum
+Overheads
+15 000 per annum
+Profit mark-up
+20%
+The Trench Digger will be hired to customers at a rate per day. Miguel estimates that the 
+Trench Digger will be used on 80 different contracts per year and hired to customers for a 
+total of 200 days per year.
+ 
+(d) Calculate the:
+ 
+ 
+(i) total cost per year of operating the Trench Digger
+ 
+ 
+(ii) rate per day charged to customers, including the profit mark-up of 20%.
+(12)
+Miguel stated that “If we allow the correct depreciation on a piece of equipment, this will 
+always ensure that we have the cash for a replacement when it is worn out”.
+ 
+(e) Evaluate this statement.
+(8)
+(Total for Question 3 = 52 marks)
+Answer space for question 3 is on pages 15 to 23 of the question paper.
+
+
+--- Page Break ---
+
+8
+P45047A
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4 The following ledger account was recorded in the books of Downtown Traders at 
+30 November 2014.
+Petrus Account
+2014
+£
+2014
+£
+1 Nov
+Balance b/d
+6 000
+5 Nov
+Bank
+5 850
+5 Nov
+Discount allowed
+150
+19 Nov
+Sales returns
+530
+18 Nov
+Sales
+3 000
+30 Nov
+Balance c/d
+5 170
+23 Nov
+Sales
+2 400
+11 550
+11 550
+1 Dec
+Balance b/d
+5 170
+On inspecting of the books, the following errors were discovered in the account of Petrus:
+ 
+1. On 5 November Petrus had paid the balance of his account and had deducted 
+2½% cash discount which had been credited to the discount allowed account.
+ 
+2. A trade discount of 15% should have been deducted from the sales made on  
+18 November.
+ 
+3. The sales returns on 19 November were correctly recorded in the Sales Returns 
+Account as £350, but were recorded in Petrus’s Account as £530.
+ 
+4. The sales recorded on 23 November were sales made to Potter and Co, which  
+had been incorrectly posted to the account of Petrus.
+ 
+5. A refund of £50, for overpayment, was made to Petrus by cheque on  
+28 November, but no entries had been made in the books.
+Required:
+ 
+(a) Prepare the Journal entries to correct the errors in (1) to (5) above. Narratives are 
+not required.
+(10)
+ 
+(b) Update the Petrus Account in the books of Downtown Traders after the correction 
+of all errors.
+(10)
+ 
+(c) Name and explain four types of error that would not be revealed by a trial 
+balance.
+(8)
+ 
+(d) Evaluate the use of a suspense account when preparing a trial balance.
+(4)
+(Total for Question 4 = 32 marks)
+Answer space for question 4 is on pages 24 to 27 of the question paper.
+
+
+--- Page Break ---
+
+9
+P45047A
+Turn over    
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5 Ryman is a manufacturer of wooden products. The following information is available 
+for the month of November 2014:
+ 
+1. Raw materials inventory at 1 November 2014 200 cubic metres @ £100 per cubic metre
+ 
+2. Purchases of raw materials: 3 November 150 cubic metres @ £120 per cubic metre
+ 15 November 80 cubic metres @ £140 per cubic metre
+ 23 November 100 cubic metres @ £150 per cubic metre
+ 
+3. During the month of November 400 cubic metres were issued to production. 
+Ryman uses the First In First Out (F.I.F.O) method of inventory valuation.
+ 
+4. The factory production line employed 24 workers each of whom worked 180 
+hours in the month. 160 hours per worker were paid at normal time and 20 hours 
+per worker were paid a rate of time and a half. Production workers were paid £8 
+per hour for normal time.
+ 
+5. General expenses for production were £12 000 of which 30% were direct and 70% 
+were indirect.
+ 
+6. The factory manager was paid £3 500 and 2 supervisors were paid £2 500 each.
+ 
+7. The rent of the factory premises was £2 000.
+ 
+8. Depreciation on machinery was £4 500 and machinery repairs were £3 000.
+ 
+9. Work in progress was £1 000 greater on 30 November than on 1 November.
+ 
+10. Finished goods are transferred to the warehouse at a value of £150 000.
+Required:
+ 
+(a) Prepare the Manufacturing Account for the month of November 2014. 
+(20)
+ 
+(b) Explain how a provision for unrealised profit would be treated by a manufacturer.
+(4)
+ 
+(c) Explain the following methods of remuneration:
+ 
+ 
+(i) day-work 
+ 
+ 
+(ii) piecework.
+(4)
+Ryman is considering remunerating their factory production line workers by piecework. 
+ 
+(d) Evaluate Ryman remunerating their factory production line workers by piecework
+(4)
+(Total for Question 5 = 32 marks)
+Answer space for question 5 is on pages 28 to 32 of the question paper.
+
+
+--- Page Break ---
+
+10
+P45047A
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6 Chok and Tamar are in partnership sharing profits and losses equally. On  
+30 November 2014 their Statement of Financial Position was as follows:
+Chok and Tamar
+Statement of Financial Position at 30 November 2014
+£
+£
+Non-current Assets
+Premises
+60 000
+Fixtures and fittings
+26 000
+86 000
+Current Assets
+Inventory
+28 500
+Trade receivables
+32 400
+Bank
+5 600
+66 500
+152 500
+Capital
+Chock
+40 000
+Tamar
+40 000
+80 000
+Current Liabilities
+Trade payables
+42 500
+Non-current Liabilities
+Bank loan
+30 000
+152 500
+On 1 December 2014 Chok and Tamar admitted Lai as a partner and the following was agreed:
+ 
+1. The goodwill of Chok and Tamar was valued at £120 000.
+ 
+2. Tamar would reduce his capital by £20 000, receiving this sum by cheque.
+ 
+3. Lai would bring the following assets into the new partnership:
+£
+Delivery vehicle
+15 000
+Inventory 
+16 000
+Bank
+25 000
+ 
+4. Half of the bank loan would be repaid.
+ 
+5. Profits and losses would be shared by Chok, Tamar and Lai in the ratio 2:1:1.
+ 
+6. Goodwill would not be recorded in the books of the new partnership.
+
+
+--- Page Break ---
+
+11
+P45047A
+Turn over    
+Required:
+ 
+(a) Prepare the:
+ 
+ 
+(i)  Capital Accounts of Chok, Tamar and Lai
+(12)
+ 
+ 
+(ii) opening Statement of Financial Position for the new partnership at 
+1 December 2014. 
+(16)
+ 
+(b) Evaluate the introduction of a new partner into the business.
+(4)
+(Total for Question 6 = 32 marks)
+Answer space for question 6 is on pages 33 to 37 of the question paper.
+
+
+--- Page Break ---
+
+12
+P45047A
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7 The following summary financial statements were prepared by Biman for his business. 
+Biman has limited accounting knowledge.
+Biman
+Statement of Comprehensive Income for the year ended 30 November 2014
+£
+£
+Revenue
+115 000
+Less cost of sales
+(63 000)
+Gross profit
+52 000
+Less
+General expenses
+15 000
+Depreciation
+9 000
+(24 000)
+Profit for the year
+28 000
+Statement of Financial Position at 30 November 2014
+£
+Non-current Assets
+Premises
+90 000
+Equipment
+27 000
+Staff skill
+15 000
+132 000
+Current Assets
+Inventory
+20 000
+Trade receivables
+18 000
+Bank
+11 000
+181 000
+Equity and Capital
+Capital
+95 000
+Profit for the year
+28 000
+123 000
+Current Liabilities
+Trade payables
+58 000
+181 000
+
+
+--- Page Break ---
+
+13
+P45047A
+Biman failed to apply the correct accounting principles and concepts to the following:
+ 
+1. The revenue contains a sum of £6 000 for goods on credit, sale or return. On  
+30 November 2014 the customer had not returned the goods or stated his 
+intention to buy them. Biman uses a 50% mark up on goods.
+ 
+2. General expenses of £15 000 were paid by cheque. On 30 November 2014, there 
+was £3 200 owing and £450 was prepaid.
+ 
+3. When calculating the depreciation on equipment Biman changed the method of 
+depreciation from 20% diminishing balance to 10% straight line. On 1 December 
+2013 the equipment was purchased new and cost £30 000. 
+ 
+4. Biman had increased his capital by valuing the skill of his staff at £15 000.
+ 
+5. Premises costing £80 000 had been included in the financial statements at the 
+market value of £90 000. The correct depreciation on premises was charged.
+ 
+6. Biman had removed the provision for doubtful debts of £1 500 from the accounts.
+Required:
+ 
+(a) Name the accounting principle or concept that has not been correctly applied in 
+each of (1) to (6) on page 12.
+(12)
+ 
+(b) Redraft the corrected financial statements of Biman for the year ended 
+30 November 2014, in order to comply with the accounting concepts that you 
+have identified. You should show your workings.
+(16)
+ 
+(c) Evaluate the use of accounting principles and concepts.
+(4)
+(Total for Question 7 = 32 marks)
+Answer space for question 7 is on pages 38 to 42 of the question paper.
+
+
+--- Page Break ---
+
+14
+P45047A
+BLANK PAGE
+
+
+--- Page Break ---
+
+15
+P45047A
+BLANK PAGE
+
+
+--- Page Break ---
+
+16
+P45047A
+BLANK PAGE

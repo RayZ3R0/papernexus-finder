@@ -1,0 +1,741 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Chemistry
+Advanced
+Unit 6: Chemistry Laboratory Skills II
+Monday 14 May 2018 – Morning
+Time: 1 hour 15 minutes
+WCH06/01
+Candidates must have: Scientific calculator
+Pearson Edexcel 
+International
+Advanced Level
+*P51579A0120*
+P51579A
+©2018 Pearson Education Ltd.
+5/4/1/5/5/2/
+Turn over    
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 50. 
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	You will be assessed on your ability to organise and present information,  
+ideas, descriptions and arguments clearly and logically, including your use of 
+grammar, punctuation and spelling.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+•	Show all your working in calculations and include units where appropriate.
+PMT
+
+
+--- Page Break ---
+
+2
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P51579A0220*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1	 A compound of a d-block element is dissolved in water to form a solution X.
+	
+A series of tests is carried out on separate 1 cm3 portions of solution X.
+	
+(a)	 Complete the table.
+Test
+Observation
+Inference
+(i)	 Record the colour of 
+solution X
+Yellow-brown
+The formula of the cation in 
+solution X could be
+...............................................................................
+  (1)
+(ii)	 To 1 cm3 of solution X 
+in a test tube, add 
+sodium hydroxide 
+solution, drop by drop, 
+until no further change 
+occurs
+A brown precipitate forms 
+which remains when 
+sodium hydroxide is in 
+excess
+The formula of the 
+precipitate is
+...............................................................................
+  (1)
+(iii)	To 1 cm3 of solution X 
+in a test tube, add 
+potassium iodide 
+solution
+The colour of the mixture in 
+the test tube becomes darker 
+brown
+The darker brown colour is 
+due to the formation of
+...............................................................................
+  (1)
+(iv)	To 1 cm3 of solution X 
+in a test tube, add a 
+few drops of nitric acid 
+followed by
+...............................................................................
+...............................................................................
+A white precipitate forms 
+Solution X contains chloride 
+ions
+  (1)
+(v)	 To 1 cm3 of solution X 
+in a test tube, add 
+sodium carbonate 
+solution
+...............................................................................
+...............................................................................
+The solution of X is acidic
+  (1)
+PMT
+
+
+--- Page Break ---
+
+3
+*P51579A0320*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b) 	Sulfur dioxide is passed through a sample of solution X.  A redox reaction occurs 
+in which the sulfur dioxide forms sulfate ions. 
+	
+	
+The solution Y which forms is no longer yellow-brown. 
+ 	
+	
+A series of tests is carried out on solution Y.
+	
+	
+Complete the table.
+Test
+Observation
+Inference
+(i)	 To 1 cm3 of solution Y 
+in a test tube, add an 
+excess of dilute aqueous 
+ammonia
+A precipitate is seen 
+The colour of the precipitate 
+is
+...............................................................................
+The formula of the 
+precipitate is
+...............................................................................
+The formula of the cation in 
+solution Y is
+...............................................................................
+  (3)
+(ii)	 Leave the mixture to 
+stand for a few minutes
+The surface of the precipitate 
+turns brown 
+The formula of the brown 
+compound is 
+...............................................................................
+  (1)
+	
+(c)	 Complete the ionic equation for the reaction between the cation in solution X 
+and sulfur dioxide to form solution Y.  State symbols are not required.
+(1)
+.............................................................  + SO2  +  2H2O  →  ............................................................  +  SO4
+2– + ................................ H+
+(Total for Question 1 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P51579A0420*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+2	 The equation for the acid-catalysed reaction of iodine with propanone is
+CH3COCH3(aq)  +  I2(aq)  →  CH3COCH2I(aq)  +  H+(aq)  + I–(aq)
+	
+The change of iodine concentration with time was investigated.
+	
+Procedure
+	
+Step 1	 50.0 cm3 of a solution of 0.0200 mol dm–3 iodine was measured into a conical flask.  
+The flask was kept in a water bath maintained at room temperature throughout 
+the experiment.
+	
+Step 2	 25.0 cm3 of a solution of 1.00 mol dm–3 propanone and 25.0 cm3 of 
+1.00 mol dm–3 sulfuric acid were measured into a second conical flask.
+	
+Step 3	 The mixture of propanone and acid was added to the iodine, a clock started 
+and the conical flask shaken.
+	
+Step 4	 After about one minute, a 10.0 cm3 sample of the reaction mixture was 
+removed, using a pipette fitted with a pipette filler.  The sample was run into a 
+flask containing a solution which stopped the reaction.
+	
+Step 5	 At approximately three-minute intervals, the procedure in Step 4 was 
+repeated several times.
+	
+Step 6	 Each sample of the mixture produced at the end of Step 4 was titrated with 
+sodium thiosulfate solution of concentration 0.0100 mol dm–3.
+	
+(a)	 Suggest a solution which could be used to stop the reaction in Step 4.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 At what point in Step 4 should the time be recorded?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+5
+*P51579A0520*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 (i)	 Calculate the concentration, in mol dm−3, of the iodine solution immediately 
+after mixing with the acidified propanone at the start of the reaction.
+(1)
+	
+	
+(ii)	 The iodine present in a 10.0 cm3 sample of reaction mixture after reacting for 
+seventy seconds was titrated with 0.0100 mol dm–3 sodium thiosulfate solution.  
+The titre was 18.50 cm3.
+	
+	
+	
+The equation for the reaction of iodine with thiosulfate ions is
+I2(aq)  +  2S2O3
+2–(aq)  →  2I–(aq)  +  S4O6
+2–(aq)
+	
+	
+	
+Calculate the concentration of iodine after 70 s.
+	
+	
+	
+Hence calculate the mean rate of change of iodine concentration in the 
+first 70 s of the reaction.  Include units with your answer.
+(4)
+PMT
+
+
+--- Page Break ---
+
+6
+*P51579A0620*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Further experiments show that the rate equation for the reaction is 
+rate = k[CH3COCH3][H+]
+	
+	
+	
+The diagram shows typical results of the original experiment.  The volume 
+of sodium thiosulfate is proportional to the concentration of iodine in the 
+reaction mixture.
+              
+Volume of 
+sodium thiosulfate / cm3
+Time / s
+	
+	
+	
+Use the rate equation to explain the appearance of the diagram.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+PMT
+
+
+--- Page Break ---
+
+7
+*P51579A0720*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iv)	The experiment was repeated in which the only change was using 25 cm3 of 
+0.500 mol dm–3 propanone in Step 2 instead of 25 cm3 of 1.00 mol dm–3 propanone. 
+	
+	
+	
+Add a line to the diagram in (c)(iii) to show the results which would be 
+obtained in this repeat experiment.
+(1)
+ 	
+	
+(v)	 Explain, using the rate equation, any difference in the results of the repeat 
+experiment.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(d)	 The titration was carried out using an indicator.  Name the indicator and state 
+when it is added.  Give all the colour changes involved.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 2 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+8
+*P51579A0820*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+3	 A student set up a cell in an attempt to investigate whether potassium manganate(VII) 
+is a stronger oxidising agent than potassium dichromate(VI).
+solution of potassium 
+dichromate(VI)
+and
+chromium(III) sulfate
+solution of potassium 
+manganate(VII)
+and
+manganese(II) sulfate
+platinum wire
+platinum wire
+V
+	
+The concentration of each of the solutions was 0.100 mol dm–3.
+	
+(a)	 What compound must be added to both beakers to allow redox reactions to occur?
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 What must be added to the set-up to complete the cell?  Name the item and any 
+chemicals which are needed.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P51579A0920*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 (i)	 The voltmeter showed that the right-hand half-cell contained the positive electrode.
+	
+	
+	
+Use this information to deduce whether potassium manganate(VII) is a stronger 
+oxidising agent than potassium dichromate(VI).  Explain how you made your 
+deduction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Write the half-equation for the reaction which occurs in the right-hand half-cell when a 
+current flows.
+(1)
+	
+(d)	 What colour change would be observed in the left-hand half-cell when a current 
+has been flowing for some time?
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+(e)	 What change, other than keeping the temperature at 298 K, would be needed to 
+make the right-hand half-cell standard?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*P51579A01020*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(f)	 The standard electrode potential of the right-hand half-cell, measured at 298 K, is +1.51 V.
+	
+	
+The standard reduction potential of another system is given.
+Electrode reaction
+E
+d/ V
+S2O8
+2−(aq)  +  2e−  →  2SO4
+2−(aq)
++2.01
+	
+	
+Aqueous sodium peroxodisulfate, Na2S2O8, is a colourless solution containing 
+S2O8
+2−(aq) ions.
+	
+	
+State all the observed colours and any colour changes that would be expected if a 
+solution of sodium peroxodisulfate is added to
+	
+	
+(i)	 potassium manganate(VII) solution.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 manganese(II) sulfate solution.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 3 = 10 marks) 
+PMT
+
+
+--- Page Break ---
+
+11
+*P51579A01120*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Turn over    
+4	 Salicylic acid is the original name for a compound which can be obtained from the 
+bark of willow trees.  The systematic name for salicylic acid is 2-hydroxybenzoic acid. 
+COOH
+OH
+	
+(a)	 Give a simple chemical test which is positive for 2-hydroxybenzoic acid but not 
+for benzoic acid.  State the reagent you would use and the expected result with 
+2-hydroxybenzoic acid.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P51579A01220*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 The compound known as aspirin can be prepared from 2-hydroxybenzoic acid.
+COOH
+OH
+2-hydroxybenzoic 
+acid
+ethanoic 
+anhydride
+aspirin
+CH3
+O
+O
+C
+C
+O
+CH3
++
+→
+CH3
+O
+C
+OH
+COOH
+OCOCH3
++
+	
+Procedure
+	
+Step 1	 Transfer 2.00 g of 2-hydroxybenzoic acid into a dry, pear-shaped flask.   
+Add 4.0 cm3 of ethanoic anhydride, followed by 5 drops of 
+concentrated phosphoric acid.
+	
+Step 2	 Fit the flask with a reflux condenser and heat it on a hot water bath for about 
+five minutes.
+	
+Step 3	 After allowing the reaction mixture to cool, add 2 cm3 of water down the 
+condenser.  This hydrolyses excess ethanoic anhydride.
+	
+Step 4	 When the vigorous reaction has ended, pour the mixture into 40 cm3 of  
+cold water in a 100 cm3 beaker in an ice-water bath.  Solid aspirin forms.
+	
+Step 5	 Filter the mixture under reduced pressure.  Wash the solid aspirin with a little 
+cold distilled water.
+	
+Step 6	 Recrystallise the product using distilled water and dry it.
+	
+Data
+Density of ethanoic anhydride / g cm–3
+1.08
+Molar mass of ethanoic anhydride / g mol–1
+102
+Molar mass of 2-hydroxybenzoic acid / g mol–1
+138
+Molar mass of aspirin / g mol–1
+180
+PMT
+
+
+--- Page Break ---
+
+13
+*P51579A01320*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Turn over    
+	
+	
+(i)	 These are the hazard symbols for ethanoic anhydride.
+	
+	
+	
+Write the meaning of each symbol on the line provided.
+(1)
+	
+..............................................................	
+..............................................................
+	
+	
+(ii)	 Calculate the minimum mass, in grams, of ethanoic anhydride needed for the 
+2.00 g of 2-hydroxybenzoic acid to react completely.
+(2)
+	
+	
+(iii)	Show by calculation that the ethanoic anhydride used in Step 1 was in excess.
+(1)
+	
+	
+(iv)	A student obtained 1.70 g of aspirin from 2.00 g of 2-hydroxybenzoic acid. 
+Calculate the percentage yield.
+(2)
+PMT
+
+
+--- Page Break ---
+
+14
+*P51579A01420*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(v)	 A student drew a diagram of the apparatus for the reflux process. 
+The diagram is shown below.
+	
+	
+	
+Identify two errors in the diagram and state how they should be corrected to make 
+the apparatus workable.  Assume that the apparatus is suitably clamped.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P51579A01520*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(vi)	Draw a labelled diagram of the funnel and flask used for filtration in Step 5 of 
+the procedure, and state how reduced pressure is achieved. 
+(3)
+How to achieve reduced pressure: .......................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Turn over   
+PMT
+
+
+--- Page Break ---
+
+16
+*P51579A01620*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 (i)	 The structure of aspirin is given again below.
+                                                                                        aspirin
+COOH
+OCOCH3
+	
+	
+	
+The mass spectrum of aspirin includes a major peak at m/e = 92.  Suggest the 
+molecular formula of the fragment which produces this peak.
+(1)
+	
+	
+(ii)	 The high resolution proton nmr spectrum of aspirin includes two singlet peaks.
+	
+	
+	
+On the formula below, which shows the structure of aspirin, circle the atoms 
+which produced these singlet peaks.
+(1)
+C
+C
+O
+H
+O
+C
+C
+C
+C
+C
+H
+H
+H
+O
+O
+C
+C
+H
+H
+H
+H
+(Total for Question 4 = 15 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+17
+*P51579A01720*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+18
+*P51579A01820*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+19
+*P51579A01920*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+20
+*P51579A02020*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+PMT

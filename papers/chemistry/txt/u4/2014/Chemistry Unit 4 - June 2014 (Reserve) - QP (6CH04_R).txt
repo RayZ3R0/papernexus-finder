@@ -1,0 +1,1090 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42988A
+©2014 Pearson Education Ltd.
+6/6/6/6/3/
+*P42988A0124*
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+Monday 9 June 2014 – Afternoon
+Time: 1 hour 40 minutes
+6CH04/01R
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PMT
+
+
+--- Page Break ---
+
+2
+*P42988A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer  
+with a cross 
+.
+1 Four organic compounds are:
+ 
+A CH3OH
+ 
+B HCHO
+ 
+C HCOOH
+ 
+D HCOOCH3
+ 
+(a) Which of these compounds has a fruity smell?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(b) 0.01 mol of each compound is added separately to identical volumes of water. 
+Which solution would have the lowest pH?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(c) 0.01 mol of each compound is heated separately with excess acidified sodium 
+dichromate(VI) solution.  Which compound reduces the largest amount of sodium 
+dichromate(VI)?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+PMT
+
+
+--- Page Break ---
+
+3
+*P42988A0324*
+Turn over    
+ 
+(d) Which compound has the highest boiling temperature?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(e) Which of these compounds can be oxidized by ammoniacal silver nitrate?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 1 = 5 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P42988A0424*
+2 Four sketch graphs are shown below.
+ 
+(a) Which could be a graph of rate of reaction, on the vertical axis, against the 
+concentration of a reactant for a zero order reaction?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(b) Which could be a graph of rate of reaction, on the vertical axis, against the square 
+of the concentration of a reactant for a second order reaction?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+A
+B
+C
+D
+PMT
+
+
+--- Page Break ---
+
+5
+*P42988A0524*
+Turn over    
+ 
+(c) Which could be a graph of the concentration of a reactant, on the vertical axis, 
+against time for a first order reaction?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(d) Which could be a graph of ln(rate), on the vertical axis, against reciprocal of 
+temperature, 1/T, for a reaction?
+ 
+ 
+You may use the equation    ln(
+)
+rate
+T
+constant
+a
+= −
+×
++
+E
+R
+1
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 2 = 4 marks)
+3 Which of the following mixtures would form the best buffer solution with pH 5 for 
+use in a school laboratory?
+ 
+ 
+A Ethanoic acid and sodium ethanoate
+ 
+ 
+B Hydrochloric acid and sodium chloride
+ 
+ 
+C Sodium hydroxide and sodium methanoate
+ 
+ 
+D Ammonium chloride and ammonia
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P42988A0624*
+4 Suggest the most likely pH for each of the following solutions.
+ 
+(a) 5.0 mol dm–3 hydrochloric acid.
+(1)
+ 
+ 
+A +5
+ 
+ 
+B +0.7
+ 
+ 
+C –0.7
+ 
+ 
+D –5
+ 
+(b) 0.20 mol dm–3 strontium hydroxide, Sr(OH)2
+ 
+ 
+Kw = 1.0 u 10–14 mol2 dm–6
+(1)
+ 
+ 
+A 13.3 
+ 
+ 
+B 13.6
+ 
+ 
+C 14.0
+ 
+ 
+D 14.3
+ 
+(c) A mixture of 20 cm3 of 1.0 mol dm–3 nitric acid and 10 cm3 of 1.0 mol dm–3 
+sodium hydroxide.
+(1)
+ 
+ 
+A 0
+ 
+ 
+B 0.30
+ 
+ 
+C 0.48
+ 
+ 
+D 7
+(Total for Question 4 = 3 marks)
+5 In liquid ammonia the following equilibrium is present.
+ 
+NH2
+−  +  NH4
++  U  2NH3
+ 
+Identify the Brønsted-Lowry base(s).
+ 
+ 
+A NH2
+− only
+ 
+ 
+B NH4
++ only
+ 
+ 
+C NH2
+− and NH3
+ 
+ 
+D NH4
++ and NH3
+(Total for Question 5 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42988A0724*
+Turn over    
+6 The formula for oleyl alcohol, which is present in sperm whale oil and was used as a 
+lubricant, is shown below. 
+CH3(CH2)7
+H
+C
+(CH2)7CH2OH
+H
+C
+ 
+(a) The systematic name for oleyl alcohol is
+(1)
+ 
+ 
+A E-octadec-9-en-1-ol.
+ 
+ 
+B Z-octadec-9-en-1-ol.
+ 
+ 
+C E-octadec-8-en-1-ol.
+ 
+ 
+D Z-octadec-8-en-1-ol.
+ 
+(b) Which intermolecular forces are present between oleyl alcohol molecules?
+(1)
+ 
+ 
+A London forces only
+ 
+ 
+B Hydrogen bonds and London forces only
+ 
+ 
+C Hydrogen bonds and permanent dipole–dipole forces only
+ 
+ 
+D Hydrogen bonds, permanent dipole–dipole and London forces
+ 
+(c) Which of the following is the most likely structure of the species to cause a peak 
+at m/e 31 in the mass spectrum of oleyl alcohol?
+(1)
+ 
+ 
+A CH3O
+ 
+ 
+B CH2OH
+ 
+ 
+C CH3O+
+ 
+ 
+D CH2OH+
+ 
+(d) What would you expect to see if oleyl alcohol is tested separately with bromine 
+water and heated with acidified sodium dichromate(VI) solution?
+(1)
+Bromine water
+Acidified sodium dichromate(VI) solution
+   A
+Decolorises
+Turns green  
+   B
+No colour change
+No colour change
+   C
+Decolorises
+No colour change
+   D
+No colour change
+Turns green
+(Total for Question 6 = 4 marks)
+PMT
+
+
+--- Page Break ---
+
+8
+*P42988A0824*
+7 Methane hydrate is found on continental shelves deep in oceans.  It forms methane 
+in an endothermic equilibrium reaction, which may be represented as
+CH4.6H2O(s)  U  CH4(g)  +  6H2O(l)
+ 
+(a) Which of the following changes would decrease the equilibrium yield of 
+methane?
+(1)
+ 
+ 
+A Decreasing the temperature and decreasing the pressure.
+ 
+ 
+B Increasing the temperature and decreasing the pressure.
+ 
+ 
+C Decreasing the temperature and increasing the pressure.
+ 
+ 
+D Increasing the temperature and increasing the pressure.
+ 
+(b) Which of the following would increase the value of the equilibrium constant, Kp, 
+for the above equilibrium?
+(1)
+ 
+ 
+A Decreasing the pressure
+ 
+ 
+B Increasing the pressure
+ 
+ 
+C Decreasing the temperature
+ 
+ 
+D Increasing the temperature
+(Total for Question 7 = 2 marks)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*P42988A0924*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+8 This question is about calcium chloride, CaCl2.
+ 
+It can be formed by burning calcium in chlorine. 
+Ca(s)  +  Cl2(g)  o  CaCl2(s)    ǻS
+9
+surroundings = +2670 J mol–1 K–1
+ 
+You must include a sign and units in your answers to the calculations in this question.
+ 
+(a) (i) The standard molar entropy at 298 K for 1 mole of chlorine molecules, Cl2, is 
++165 J mol–1 K–1.  Use this, and appropriate values from your Data Booklet, to 
+calculate the standard entropy change, ǻS
+9
+system, for this reaction.
+(2)
+ 
+ 
+*(ii) Explain fully why the sign for the standard entropy change of the system, 
+ǻS
+9
+system, is as you would expect.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Calculate the total entropy change, ǻS
+9
+total, in J mol–1 K–1, for this reaction, giving 
+your answer to three significant figures.
+(2)
+PMT
+
+
+--- Page Break ---
+
+10
+*P42988A01024*
+ 
+(c) Use the standard entropy change of the surroundings, ǻS
+9
+surroundings, to calculate the 
+standard enthalpy change, ǻH
+9  , in kJ mol–1, for the reaction at 298 K.
+(2)
+ 
+(d) 0.0500 mol of calcium chloride, prepared by burning calcium in chlorine, is added 
+to 51.8 cm3 of water.
+ 
+ 
+50.0 cm3 of a 1.00 mol dm–3 solution is formed, and the temperature rise, ǻT, is 
+15.0°C.
+ 
+ 
+(i) Calculate the energy transferred, in joules, for this process using:
+ 
+ 
+ 
+Energy transferred in joules = volume of solution formed u 4.2 u ǻT
+(1)
+ 
+ 
+(ii) Calculate the enthalpy change of solution, ǻHsolution, of calcium chloride 
+in kJ mol–1.
+(2)
+PMT
+
+
+--- Page Break ---
+
+11
+*P42988A01124*
+Turn over    
+ 
+ 
+*(iii) The enthalpy change of hydration of Ca2+(g) is –1560 kJ mol–1.
+ 
+ 
+ 
+Use this, your value from (d)(ii) and the experimental lattice energy from your 
+Data Booklet, to calculate the standard enthalpy change of hydration of Cl–(g).
+(3)
+ 
+ 
+(iv) Draw diagrams to represent hydrated calcium ions and hydrated chloride ions.
+(2)
+ 
+ 
+(v) Suggest why the addition of anhydrous calcium chloride to water results in an 
+increase in temperature and a decrease in volume.
+(2)
+Temperature increases ......................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Volume decreases ..................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 8 = 18 marks)
+CaCl2(s)
+Ca2+(g)  +  2Cl–(g)
+Ca2+(aq) + 2Cl–(aq)
+Answer ..................................... kJ mol−1
+PMT
+
+
+--- Page Break ---
+
+12
+*P42988A01224*
+9 A flow chart for making 2-hydroxy-2-methylpropanoic acid from propan-2-ol is 
+shown below.
+CH3CH(OH)CH3
+         Step 1
+CH3COCH3
+         Step 2
+(CH3)2C(OH)CN
+          Step 3
+(CH3)2C(OH)COOH 
+ 
+(a) (i) Give the reagents and conditions for Step 1.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Propanone is formed in Step 1.
+ 
+ 
+ 
+Give a chemical test to identify the carbonyl group and a further test to show
+ 
+ 
+ 
+the presence of the H3C–C–
+O
+ group.
+ 
+ 
+ 
+For both tests, give the observations that you would make.
+(4)
+Carbonyl group .........................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+H3C–C–
+O
+ group .............................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P42988A01324*
+Turn over    
+ 
+(b) (i) In Step 2, propanone undergoes an addition reaction with HCN in the 
+presence of CN– ions. 
+Give the mechanism for this reaction.
+(3)
+ 
+ 
+(ii) Explain why this reaction would not take place at either a very low or very 
+high pH.
+(2)
+Low pH ...............................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+High pH .............................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) The reaction in Step 3 forms 2-hydroxy-2-methylpropanoic acid, (CH3)2C(OH)COOH.  
+Suggest the type of reaction occurring in Step 3.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P42988A01424*
+ 
+ 
+(ii) Explain why the presence of the alcoholic hydroxyl group cannot be 
+confirmed in the infrared spectrum of 2-hydroxy-2-methylpropanoic acid. 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) The hydrogen of the alcohol group in 2-hydroxy-2-methylpropanoic acid can 
+be identified by a single peak in the nmr spectrum.
+ 
+ 
+ 
+Give the chemical shift you would expect for this peak. 
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) How many peaks would you expect in a high resolution nmr spectrum for 
+2-hydroxy-2-methylpropanoic acid, (CH3)2C(OH)COOH? 
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Explain why, in high resolution nmr, the peak due to the hydrogens of the 
+2-methyl group in 2-hydroxy-2-methylpropanoic acid is a singlet.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Would you expect 2-hydroxy-2-methylpropanoic acid to have optical isomers? 
+Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P42988A01524*
+Turn over    
+ 
+(d) (i) Molecules of 2-hydroxy-2-methylpropanoic acid react together to form a 
+condensation polymer.
+ 
+ 
+ 
+Draw a displayed formula for this polymer, showing two repeating units.
+(2)
+ 
+ 
+(ii) Give the name of the functional group that links the two molecules in the 
+polymer.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 9 = 20 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P42988A01624*
+10 Persulfate ions, S2O8
+2–, oxidize iodide ions in aqueous solution to form iodine and 
+sulfate ions, SO4
+2–.
+ 
+(a) Write the ionic equation for this reaction.  State symbols are not required.
+(1)
+ 
+(b) The effect of iodide ion concentration on the rate of this reaction was measured.
+ 
+ 
+A few drops of starch solution and a small measured volume of sodium thiosulfate 
+solution were added to a known volume of potassium persulfate solution.
+ 
+ 
+Potassium iodide solution was then added and the time taken for the mixture to 
+change colour was measured.
+ 
+ 
+The reaction was repeated using different concentrations of potassium iodide, 
+but the same volumes and concentrations of sodium thiosulfate solution and 
+potassium persulfate solution.
+ 
+ 
+The rates of the reaction were compared using the reciprocal of the time (1/time) 
+for the mixture to change colour as a measure of the initial rate.
+ 
+ 
+(i) What is the final colour of the reaction mixture?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What would be observed if the reaction was carried out without the addition 
+of sodium thiosulfate?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain why the concentration of iodide ions remains constant until the 
+mixture changes colour.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P42988A01724*
+Turn over    
+ 
+(c) The results obtained were tabulated as follows. 
+[I–]
+/mol dm–3
+Time
+/s
+1/time
+/s–1
+0.0100
+40.0
+0.0250
+0.0075
+53.3
+0.0188
+0.0050
+80.0
+0.0125
+0.0040
+100.0
+0.0100
+ 
+ 
+(i) Plot a graph of 1/time on the vertical axis against concentration of iodide ions.
+(2)
+PMT
+
+
+--- Page Break ---
+
+18
+*P42988A01824*
+ 
+ 
+(ii) 1/time is a measure of the initial rate of the reaction.
+ 
+ 
+ 
+Deduce the order of reaction with respect to iodide ions.
+ 
+ 
+ 
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) The reaction is first order with respect to persulfate ions.  Write the overall rate 
+equation for the reaction and deduce the units for the rate constant.
+(2)
+ 
+ 
+ 
+Rate =
+ 
+ 
+ 
+Units for the rate constant......................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P42988A01924*
+Turn over    
+ 
+(d) The reaction in part (b) is repeated at two different temperatures, keeping the 
+initial volumes and concentrations of the solutions constant.
+T (Temperature)
+/K
+1/time
+/s–1
+1/T
+/K–1
+ln(1/time)
+293
+0.0215
+3.31 u 10–3
+–3.84
+303
+0.0430
+3.20 u 10–3
+–3.15
+ 
+ 
+(i) Calculate, without drawing a graph, the activation energy of the reaction. 
+Remember to give a sign and units with your answer.
+ 
+ 
+ 
+ln( /
+)
+1
+1
+time
+T
+constant
+[  = 8.31 J mol
+K
+]
+a
+1
+1
+= −
+×
++
+−
+−
+E
+R
+R
+(3)
+ 
+ 
+(ii) Suggest how the reliability of the activation energy determination could be 
+improved, without changing the apparatus, solutions or method.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 10 = 14 marks)
+TOTAL FOR SECTION B = 52 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P42988A02024*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+11 The decomposition of hydrogen iodide to form iodine and hydrogen is an 
+equilibrium reaction.
+2HI(g)  U  I2(g)  +  H2(g)
+  
+The equilibrium was investigated by taking sealed tubes containing the same mass of 
+hydrogen iodide and heating them at 700 K for some time.  At this temperature, the 
+equilibrium takes about two days to be established.
+ 
+The tubes were rapidly cooled to room temperature, which maintained the 
+equilibrium concentrations, because at this temperature the reaction is extremely 
+slow.
+ 
+Each tube was opened under an aqueous solution of potassium iodide, which 
+dissolved the hydrogen iodide and the iodine.  The amount of iodine was found 
+by titration and the composition of the equilibrium mixture calculated.  From the 
+number of moles of each substance at equilibrium, and the volume of the tubes, the 
+equilibrium concentrations were calculated.
+ 
+(a) (i) How would the appearance of the contents of a tube change as it was cooled 
+to room temperature?
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) How could you show that equilibrium had been established?
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P42988A02124*
+Turn over    
+ 
+(b) The equilibrium concentrations of one experiment are shown in the table below. 
+[HI]
+/mol dm–3
+[H2]
+/mol dm–3
+[I2]
+/mol dm–3
+0.00353
+0.00048
+0.00048
+ 
+ 
+*(i) The volume of the tube in this experiment was 30 cm3.  Calculate the initial 
+mass of hydrogen iodide.  Show your working.
+(5)
+ 
+ 
+(ii) Write an expression for the equilibrium constant, Kc, at 700 K.
+(1)
+ 
+ 
+(iii) Calculate the value for this equilibrium constant.
+(1)
+PMT
+
+
+--- Page Break ---
+
+22
+*P42988A02224*
+ 
+ 
+(iv) Does this equilibrium constant have units?  Explain your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The equation for the reaction at 700 K can also be written
+HI(g)  U  ½H2(g)  +  ½I2(g)
+ 
+ 
+(i) Write the equilibrium constant, Kc’, for this reaction.
+(1)
+ 
+ 
+(ii) Using the same equilibrium concentrations as below, calculate the equilibrium 
+constant, Kc’.
+ 
+ 
+ 
+Deduce the relationship between this value and the value calculated in 
+part (b)(iii).
+(2)
+[HI]
+/mol dm–3
+[H2]
+/mol dm–3
+[I2]
+/mol dm–3
+0.00353
+0.00048
+0.00048
+PMT
+
+
+--- Page Break ---
+
+23
+*P42988A02324*
+ 
+(d) Consider the following equilibrium reaction.
+2HI(g)  U  I2(s)  +  H2(g)
+ 
+ 
+For this reaction Kp
+P
+P
+H
+2
+HI
+2
+=
+ 
+ 
+Use the expression for Kp to explain the effect of an increase in total pressure on 
+the position of the equilibrium.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 11 = 18 marks)
+ 
+TOTAL FOR SECTION C = 18 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*P42988A02424*
+PMT

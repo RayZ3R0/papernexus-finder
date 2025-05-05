@@ -1,0 +1,225 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+Advanced Level 
+Tuesday 7 June 2005  Afternoon 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. 
+The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+ 
+without working may gain no credit.
+N24324A 
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy. 
+©2006 London Qualifications Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+ 
+ 
+Figure 1 
+ 
+ 
+O
+ 
+ 
+ 
+ 
+1.6 m
+ 
+ 
+
+ 
+ 
+ 
+ 
+A particle of mass 0.8 kg is attached to one end of a light elastic spring, of natural length 2 m 
+and modulus of elasticity 20 N. The other end of the spring is attached to a fixed point O on a 
+smooth plane which is inclined at an angle  to the horizontal, where tan  = 4
+3 . The particle 
+is held on the plane at a point which is 1.6 m down a line of greatest slope of the plane from 
+O, as shown in Figure 1. The particle is then released from rest.  
+ 
+ 
+Find the initial acceleration of the particle. 
+(Total 6 marks) 
+      
+ 
+2. 
+A closed container C consists of a thin uniform hollow hemispherical bowl of radius a, 
+together with a lid. The lid is a thin uniform circular disc, also of radius a. The centre O of the 
+disc coincides with the centre of the hemispherical bowl. The bowl and its lid are made of the 
+same material.  
+ 
+ 
+(a) Show that the centre of mass of C is at a distance a
+3
+1
+ from O. 
+ (4) 
+ 
+ 
+The container C has mass M. A particle of mass 2
+1 M is attached to the container at a point P 
+on the circumference of the lid. The container is then placed with a point of its curved surface 
+in contact with a horizontal plane. The container rests in equilibrium with P, O and the point 
+of contact in the same vertical plane.  
+ 
+ 
+(b) Find, to the nearest degree, the angle made by the line PO with the horizontal. 
+(5) 
+(Total 9 marks) 
+ 
+ 
+N24342A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N24342A 
+3 
+ 
+3. 
+A light elastic string has natural length 2l and modulus of elasticity 4mg. One end of the string 
+is attached to a fixed point A and the other end to a fixed point B, where A and B lie on a 
+smooth horizontal table, with AB = 4l. A particle P of mass m is attached to the mid-point of 
+the string.  
+ 
+ 
+The particle is released from rest at the point of the line AB which is 3
+5l   from B. The speed of 
+P at the mid-point of AB is V. 
+ 
+ 
+(a) Find V in terms of g and L.  
+(7) 
+ 
+ 
+(b) Explain why V is the maximum speed of P. 
+(2) 
+(Total 9 marks) 
+ 
+4. 
+A particle P of mass m moves on the smooth inner surface of a spherical bowl of internal 
+radius r. The particle moves with constant angular speed in a horizontal circle, which is at a 
+depth 2
+1 r below the centre of the bowl. 
+ 
+ 
+(a) Find the normal reaction of the bowl on P. 
+(4) 
+ 
+(b) Find the time for P to complete one revolution of its circular path.  
+(6) 
+(Total 10 marks) 
+ 
+5. 
+A smooth solid sphere, with centre O and radius a, is fixed to the upper surface of a horizontal 
+table. A particle P is placed on the surface of the sphere at a point A, where OA makes an 
+angle  with the upward vertical, and 0 <  < 2
+. The particle is released from rest. When OP 
+makes an angle  with the upward vertical, and P is still on the surface of the sphere, the 
+speed of P is v. 
+ 
+ 
+(a) Show that v2 = 2ga(cos  – cos  ). 
+(4) 
+ 
+ 
+Given that cos  = 4
+3 , find 
+ 
+ 
+(b) the value of  when P loses contact with the sphere, 
+(5) 
+ 
+(c) the speed of P as it hits the table. 
+(4) 
+(Total 13 marks) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+The rise and fall of the water level in a harbour is modelled as simple harmonic motion. On a 
+particular day the maximum and minimum depths of water in the harbour are 10 m and 4 m 
+and these occur at 1100 hours and 1700 hours respectively. 
+ 
+ 
+(a) Find the speed, in m h–1, at which the water level in the harbour is falling at 1600 hours 
+on this particular day. 
+(9) 
+ 
+(b) Find the total time, between 1100 hours and 2300 hours on this particular day, for which 
+the depth of water in the harbour is less than 5.5 m. 
+(5) 
+ (Total 14 marks) 
+ 
+ 
+7. 
+A particle P of mass 3
+1  kg moves along the positive x-axis under the action of a single force. 
+The force is directed towards the origin O and has magnitude 
+2)1
+( 
+x
+k
+ N, where OP = x metres 
+and k is a constant. Initially P is moving away from O. At x = 1 the speed of P is 4 m s–1, and 
+at x = 8 the speed of P is 2 m s–1.  
+ 
+ 
+(a) Find the value of k. 
+(10) 
+ 
+(b) Find the distance of P from O when P first comes to instantaneous rest. 
+(4) 
+ (Total 14 marks) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+N24342A 
+4 
+PMT
+PMT

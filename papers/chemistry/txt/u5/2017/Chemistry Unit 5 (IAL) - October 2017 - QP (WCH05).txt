@@ -1,0 +1,1325 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Chemistry
+Advanced
+Unit 5: General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Tuesday 7 November 2017 – Morning
+Time: 1 hour 40 minutes
+WCH05/01
+Candidates must have: Data Booklet
+	
+Scientific calculator
+Pearson Edexcel 
+International
+Advanced Level
+*P50789A0128*
+P50789A
+©2017 Pearson Education Ltd.
+6/5/5/5/5/1/
+Turn over    
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 90. 
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed  
+– you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+•	Show all your working in calculations and include units where appropriate.
+
+
+--- Page Break ---
+
+2
+*P50789A0228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1	 Which species contains an element with the same oxidation number that  
+sulfur has in NaHSO4?
+	
+	
+A	 K4Fe(CN)6
+	
+	
+B	 NH4VO3
+	
+	
+C	 K2MnO4
+	
+	
+D	 [CoCl4]2−
+(Total for Question 1 = 1 mark)
+2	 Which species contains a bond angle of 90°?
+	
+	
+A	 [Pt(NH3)2Cl2]
+	
+	
+B	 [CuCl2]−
+	
+	
+C	 [CrCl4]−
+	
+	
+D	 SiCl4
+(Total for Question 2 = 1 mark)
+3	 Which equation can only be described as a ligand exchange reaction?
+	
+	
+A	 [Zn(OH)2](s) + 2OH−(aq) → [Zn(OH)4]2−(aq)
+	
+	
+B	 [Fe(H2O)6]3+(aq) + H2O(l) → [Fe(H2O)5(OH)]2+(aq) + H3O+(aq)
+	
+	
+C	 [Cu(H2O)6]2+(aq) + 2NH3(aq) → Cu(H2O)4(OH)2(s) + 2NH4
++(aq)
+	
+	
+D	 [Cr(H2O)6]3+(aq) + 6NH3(aq) → [Cr(NH3)6]3+(aq) + 6H2O(l)
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+3
+*P50789A0328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+4	 A metal ion, M+, disproportionates spontaneously:
+2M+(aq) → M(s) + M2+(aq)
+	
+The table below gives the standard electrode potentials of four systems.
+System
+E  / V
+Cu2+(aq) + e− → Cu+(aq)
++0.15
+Cu+(aq) + e− → Cu(s)
++0.52
+Ag2+(aq) + e− → Ag+(aq)
++1.98
+Ag+(aq) + e− → Ag(s)
++0.80
+	
+Use the data to predict which statement is true under standard conditions.
+	
+	
+A	 Both Cu+ and Ag+ can disproportionate.
+	
+	
+B	 Only Cu+ can disproportionate.
+	
+	
+C	 Only Ag+ can disproportionate.
+	
+	
+D	 Neither Cu+ nor Ag+ can disproportionate.
+(Total for Question 4 = 1 mark)
+5	 In a reaction of dichromate(VI) ions, Cr2O7
+2−, with a metal ion M2+, the oxidation number 
+of each Cr atom changes from +6 to +3.
+	
+Each dichromate(VI) ion reacts with three M2+ ions.
+	
+What is the oxidation number of M after the reaction?
+(1)
+	
+	
+A	 +2
+	
+	
+B	 +3
+	
+	
+C	 +4
+	
+	
+D	 +5
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+4
+*P50789A0428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+6	 A ligand exchange reaction occurs when EDTA is added to a solution containing 
+the ion [Cu(H2O)2(NH3)4]2+.
+	
+What is the best explanation for this?
+	
+	
+A	 A complex forms with copper and EDTA which is more soluble than the original.
+	
+	
+B	 A complex forms with copper and EDTA which is less soluble than the original.
+	
+	
+C	 ΔHreaction is positive for the reaction of [Cu(H2O)2(NH3)4]2+ with EDTA.
+	
+	
+D	 ΔSsystem is positive for the reaction of [Cu(H2O)2(NH3)4]2+ with EDTA. 
+(Total for Question 6 = 1 mark)
+7	 The repeat units of four polymers are shown:
+Polymer
+Repeat unit
+P
+CH2CH(CONH2)
+Q
+HN(CH2)5NHOC(CH2)3CO
+R
+HNCH2CONHCH(CH3)CO
+S
+CH2CH(CN)
+	
+(a)	 Which formula shows the repeat unit of the polymer poly(propenamide)?
+(1)
+	
+	
+A	 P
+	
+	
+B	 Q
+	
+	
+C	 R
+	
+	
+D	 S
+	
+(b)	 Which formula shows the repeat unit of a polymer which could be made using a 
+diamine and a dioic acid as the monomers?
+(1)
+	
+	
+A	 P
+	
+	
+B	 Q
+	
+	
+C	 R
+	
+	
+D	 S
+(Total for Question 7 = 2 marks)
+
+
+--- Page Break ---
+
+5
+*P50789A0528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+8	 The enthalpy changes for the hydrogenation of cyclohexene and of benzene are shown:
+C6H10 + H2 → C6H12        ΔH = −120 kJ mol−1
+C6H6 + 3H2 → C6H12       ΔH = −208 kJ mol−1
+	
+The delocalised structure of benzene is more stable than a molecule with  
+three C=C double bonds by
+	
+	
+A	 504 kJ mol−1
+	
+	
+B	 328 kJ mol−1
+	
+	
+C	 152 kJ mol−1
+	
+	
+D	 88 kJ mol−1
+(Total for Question 8 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+6
+*P50789A0628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+9	 The formula of the amino acid serine is shown:
+H2N
+C
+COOH
+H
+CH2OH
+	
+The formula of the zwitterion of serine is
+	
+	
+A	 H3N
++
+C
+COOH
+H
+CH2OH
+	
+	
+B	 H2N
+C
+COO−
+H
+CH2OH
+	
+	
+C	 H3N
++
+C
+COOH
+H
+CH2O−
+	
+	
+D	 H3N
++
+C
+COO
+–
+H
+CH2OH
+(Total for Question 9 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+7
+*P50789A0728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+10	 This question is about the amino acids, glycine and alanine.
+glycine
+alanine
+H2N
+C
+COOH
+H
+H
+H2N
+C
+COOH
+H
+CH3
+	
+What is the total number of different dipeptides which can be made by reacting each 
+of the optical isomers (enantiomers) of alanine with glycine?
+	
+	
+A	 2
+	
+	
+B	 3
+	
+	
+C	 4
+	
+	
+D	 8
+(Total for Question 10 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+8
+*P50789A0828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+11	 The structure of the asthma medication salbutamol is
+HO
+HO
+OH
+H
+N
+	
+(a)	 Which functional group is not present in salbutamol?
+(1)
+	
+	
+A	 Alcohol
+	
+	
+B	 Amide
+	
+	
+C	 Amine
+	
+	
+D	 Phenol
+	
+(b)	 What is the molecular formula of salbutamol?
+(1)
+	
+	
+A	 C13H22NO3
+	
+	
+B	 C13H21NO3
+	
+	
+C	 C13H20NO3
+	
+	
+D	 C13H19NO3
+(Total for Question 11 = 2 marks)
+12	 The compound X with molecular formula C7H14O2 shown is responsible for some of the flavour  
+of bananas.
+H3C
+CH3
+O
+O
+CH3
+compound X
+	
+(a)	 The number of peaks in the low resolution proton nmr spectrum of X is
+(1)
+	
+	
+A	 4
+	
+	
+B	 5
+	
+	
+C	 6
+	
+	
+D	 14
+
+
+--- Page Break ---
+
+9
+*P50789A0928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 The number of singlets in the high resolution proton nmr spectrum of X is
+(1)
+	
+	
+A	 1
+	
+	
+B	 2
+	
+	
+C	 3
+	
+	
+D	 5
+	
+(c)	 A sample of X is hydrolysed with dilute acid.  Which of these peaks is present 
+in the infrared spectrum of X but is not present in the spectra of its hydrolysis 
+products?
+	
+	
+Refer to the correlation table on page 6 of the Data Booklet.
+(1)
+	
+	
+A	 2962–2853 cm−1
+	
+	
+B	 1750–1735 cm−1
+	
+	
+C	 1725–1700 cm−1
+	
+	
+D	 1485–1365 cm−1
+	
+(d)	 In the mass spectrum of X, which m / e peak would you expect not to be present?
+(1)
+	
+	
+A	 29
+	
+	
+B	 43
+	
+	
+C	 87
+	
+	
+D	 129
+(Total for Question 12 = 4 marks)
+13	 A sample of 0.25 mol of a cyclic hydrocarbon produced 66 g of carbon dioxide and 
+22.5 g of water on combustion.  The hydrocarbon is
+	
+	
+A	 cyclohexane.
+	
+	
+B	 cyclohexene.
+	
+	
+C	 benzene.
+	
+	
+D	 ethylbenzene.
+(Total for Question 13 = 1 mark)
+
+
+--- Page Break ---
+
+10
+*P50789A01028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+14	 A sample of aspirin is made by the reaction of 2-hydroxybenzoic acid with excess 
+ethanoic anhydride.
+COOH
+OH
+    +    CH3C
+O
+CCH3
+O
+O
+   
+   
+COOH
+OCCH3
+O
+    +    CH3COOH
+	
+2-hydroxybenzoic acid	
+Aspirin
+	
+Molar mass 138 g mol−1	
+Molar mass 180 g mol−1
+	
+(a)	 In the preparation, 2.00 g of 2-hydroxybenzoic acid produced 1.65 g of aspirin.
+	
+	
+The percentage yield was 
+(1)
+	
+	
+A	 92.9 
+	
+	
+B	 82.5
+	
+	
+C	 76.7 
+	
+	
+D	 63.3  
+	
+(b)	 The aspirin is purified by recrystallisation using water as the solvent.  Which of the 
+following statements is true?
+(1)
+	
+	
+A	 The aspirin should be dissolved in an excess of water.
+	
+	
+B	 The solution should be heated to above the melting temperature of aspirin.
+	
+	
+C	 Soluble impurities are removed by filtering the mixture after cooling.
+	
+	
+D	 Only water soluble impurities in the aspirin can be removed.	
+(Total for Question 14 = 2 marks)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+11
+*P50789A01128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+15	 This question is about successive elements in Period 4.
+Potassium
+Calcium
+Scandium
+Titanium
+Atomic radius / nm
+0.235
+0.197
+0.164
+0.147
+Sum of first and second 
+ionisation energies / kJ mol−1
+3470
+1735
+1866
+1968
+	
+ *(a)	 There is a decrease in atomic radius between potassium and calcium, and also 
+between scandium and titanium.  Explain why the atomic radius decreases in 
+both cases, and why the decrease between potassium and calcium is greater.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+ *(b)	 Explain why the sums of the first two ionisation energies of Ca, Sc and Ti are all 
+similar but less than the sum of the first two ionisation energies of potassium. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+12
+*P50789A01228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 Explain why scandium and titanium are placed in the same block of the Periodic Table, 
+but scandium is not a transition element.  
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(d)	 Aqueous solutions of Ti(II) compounds contain the ion [Ti(H2O)6]2+.
+	
+	
+Draw a diagram of this ion.
+	
+	
+Name its shape, state the bond angle between adjacent water molecules and the 
+type of bond between the ligand and the titanium.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 15 = 8 marks)
+
+
+--- Page Break ---
+
+13
+*P50789A01328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+16	 This question is about manganese and its ions.
+	
+(a)	 (i)	 Complete the electronic configuration of Mn and Mn2+.
+(1)
+Mn  [Ar] ....................................................................................................................................................................................................................................................... .
+Mn2+ [Ar] ....................................................................................................................................................................................................................................................... .
+	
+	
+(ii)	 Suggest why the oxidation number +2 is very stable for manganese.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 Consider the data below.
+Electrode system
+Standard electrode potential (E  ) / V
+Mn2+(aq) + 2e−  Mn(s)
+−1.19
+MnO4
+−(aq) + 8H+(aq) + 5e−  Mn2+(aq) + 4H2O(l)
++1.51
+	
+	
+(i)	 Draw a labelled diagram showing how to set up a cell with the two electrode 
+systems in the table above, in order to measure E cell.
+	
+	
+	
+State the standard conditions required for the cell. 
+(4)
+
+
+--- Page Break ---
+
+14
+*P50789A01428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Calculate the value of  E cell.
+(1)
+	
+	
+(iii)	Write the equation for the overall reaction that occurs in this cell. 
+	
+	
+	
+State symbols are not required.
+(2)
+	
+(c)	 A student investigated the redox chemistry of manganese by adding manganese powder 
+to a solution containing vanadium(III) ions, V3+(aq).  Deduce what products are formed  
+in this reaction.
+	
+	
+Justify your answer by using the data in (b), and by considering items 11, 26 and 42 in 
+the table of Standard Electrode Potentials on pages 14 and 15 in the Data Booklet.
+	
+	
+You should calculate E cell for any feasible reactions.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+15
+*P50789A01528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 A solution containing Mn2+(aq) reacts with aqueous sodium hydroxide to form  
+a precipitate.
+	
+	
+(i)	 Write the ionic equation for the formation of the precipitate.   
+Include state symbols.
+(1)
+	
+	
+(ii)	 State the colour of the precipitate.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	The precipitate darkens if it is left standing in air.  Identify, by name or formula, 
+the new manganese compound responsible for this darkening.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 16 = 16 marks)
+
+
+--- Page Break ---
+
+16
+*P50789A01628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+17	 The structure of a detergent is shown.  In simplified form, the symbol R can be used 
+to represent the alkyl group.
+                                           
+SO3Na
+        OR                           
+SO3Na
+R
+	
+The detergent can be synthesised from benzene by the following route:
+Step 1
+Step 2
+Step 3
+SO3H
+SO3Na
+	
+(a)	 (i)	 Give the number of carbon atoms and the number of hydrogen atoms in the 
+alkyl group R.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Draw the structural formula of the compound which could be used to react 
+with benzene in Step 1 and identify the catalyst required for this reaction.
+(2)
+	
+	
+Compound:
+	
+	
+Catalyst:
+
+
+--- Page Break ---
+
+17
+*P50789A01728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Write a mechanism for the alkylation of benzene in Step 1, using the symbol R 
+for the alkyl group.  You should include an equation showing the formation of 
+the electrophile.
+(3)
+	
+	
+(iv) Name the reagent which is used to sulfonate the benzene ring in Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(v) Complete the diagram to show the displayed formula of the 
+SO3H group in 
+the product formed in Step 2.
+(1)
+
+
+--- Page Break ---
+
+18
+*P50789A01828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(vi)	Identify a suitable reagent for use in Step 3.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+ *(b)	 (i)	 The product of Step 1, C6H5R, is not soluble in water.  Explain this fact by identifying 
+the intermolecular forces involved and comparing their relative strengths.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The detergent, RC6H4SO3Na, is soluble in water.  Explain how the bonding in 
+this compound allows it to dissolve in water.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 17 = 13 marks)
+
+
+--- Page Break ---
+
+19
+*P50789A01928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+18	 This question is about the chemistry of benzene, phenol and phenylamine.
+	
+(a)	 Both benzene and phenol can be brominated in substitution reactions under 
+suitable conditions.
+	
+	
+(i)	 Give the equation for the reaction of benzene with bromine. 
+	
+	
+	
+Include state symbols. 
+(2)
+	
+	
+(ii)	 Give the equation for the reaction of phenol with bromine water, showing the 
+structure of the organic product. 
+	
+	
+	
+State symbols are not required.
+(1)
+	
+	
+ *(iii)	Explain the effect the –OH group has on the bromination of the benzene ring.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+20
+*P50789A02028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 (i)	 Phenol reacts with dilute nitric acid.
+	
+	
+	
+Give the formula of one organic product of this reaction and state the type 
+and mechanism of the reaction which is occurring.
+(2)
+Formula:
+Type and mechanism: .......................................................................................................................................................................................................................
+	
+	
+(ii)	 Phenylamine also reacts with dilute nitric acid but the reaction does not 
+involve the benzene ring. 
+	
+	
+	
+Give the formula of the organic product in this reaction and state the type of 
+reaction which is occurring.
+(2)
+Formula:
+Type of reaction: ......................................................................................................................................................................................................................................
+	
+(c)	 Write the equation for the reaction of phenylamine with ethanoyl chloride,  
+giving the displayed formula of the organic product.
+(2)
+
+
+--- Page Break ---
+
+21
+*P50789A02128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 Phenylamine is the starting material for making certain dyes.
+	
+	
+Write equations to show how a dye could be made in two steps, using 
+phenylamine and phenol as the only organic compounds.  State the conditions 
+needed for the first step.
+(3)
+First step:
+Conditions .....................................................................................................................................................................................................................................................
+Second step:
+(Total for Question 18 = 14 marks)
+TOTAL FOR SECTION B = 51 MARKS
+
+
+--- Page Break ---
+
+22
+*P50789A02228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+19
+The element chromium occurs in the Earth’s crust at a concentration of about  
+1.02 × 102 ppm.  The name of the element comes from the Greek word for colour, and 
+compounds of the three main oxidation states (+2, +3 and +6) are brightly coloured.
+The element and its compounds have many uses, such as the manufacture of important 
+alloys, pigments for paint and inks, colouring glass and tanning leather.
+Chromium is an essential mineral for physiological functions but, above a certain level, 
+its compounds are toxic.  The target in many states of the USA is for a concentration in 
+drinking water below 0.10 parts per billion.  The maximum permissible level of Cr(VI) 
+allowed to be released into waterways is 50 parts per billion.  Chromium concentrations 
+in drinking water can be measured by a colorimetric method.
+	
+ *(a)	 Solutions containing Cr2+(aq) and Cr3+(aq) are coloured due to electron transitions 
+between d orbitals. 
+	
+	
+Explain why Cr2+(aq) and Cr3+(aq) differ in colour.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+23
+*P50789A02328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+ *(b)	 (i)	 The oxide CrO3 contains chromium in the oxidation state +6.
+	
+	
+	
+Suggest two reasons why CrO3 is unlikely to contain Cr6+ ions.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Predict, by writing an equation, how CrO3 would react with water.
+(1)
+	
+	
+(iii)	Write the equation for the reaction of dichromate(VI) ions with alkali in which 
+chromate(VI) ions are formed.  State symbols are not required.
+(1)
+
+
+--- Page Break ---
+
+24
+*P50789A02428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 The concentration of ethanol in white wine can be measured using  
+potassium dichromate(VI) titrations.  A suitable method is:
+	
+Step 1	 A standard solution of ammonium iron(II) sulfate was used to measure the 
+concentration of a potassium dichromate(VI) solution.  The reactions are
+Fe2+(aq) → Fe3+(aq) + e−
+Cr2O7
+2−(aq) + 14H+(aq) + 6e− → 2Cr3+(aq) + 7H2O(l)
+	
+	
+	
+The concentration of the potassium dichromate(VI) solution was found to be 
+0.0210 mol dm−3.
+	
+Step 2	 A mixture of 1.00 cm3 of wine, 100 cm3 of the potassium dichromate(VI) 
+solution (an excess) and about 25 cm3 of dilute sulfuric acid were reacted until 
+all the ethanol in the wine had been oxidised by the dichromate(VI) ions.
+2Cr2O7
+2−(aq) + 16H+(aq) + 3C2H5OH(l) → 4Cr3+(aq) + 11H2O(l) + 3CH3COOH(aq)
+	
+Step 3	 The reaction mixture from Step 2 was made up to a volume of 200.0 cm3 and 
+a portion was used to fill a burette.  It was titrated with 25.00 cm3 portions of 
+acidified ammonium iron(II) sulfate with concentration 0.015 mol dm−3. 
+The mean titre was 18.60 cm3.
+	
+	
+(i)	 An indicator of sodium diphenylamine and phosphoric acid was used to 
+detect the end-point of the titrations. 
+	
+	
+	
+If the titrations were carried out without an indicator, the colour change at 
+the end-point would be difficult to detect.  Explain, by reference to the ions 
+involved and their colours, why this is the case.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Name the experimental procedure which would be used in the oxidation of 
+ethanol to ethanoic acid in Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+25
+*P50789A02528*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Turn over    
+	
+	
+(iii)	How many moles of dichromate(VI) ions were present at the start of Step 2?
+(1)
+	
+	
+(iv)	Use the results from Step 3 to calculate the number of moles of  
+potassium dichromate(VI) solution present after it has oxidised the ethanol, 
+and hence the number of moles used in the reaction.
+(4)
+	
+	
+(v)	 Calculate the number of moles of ethanol which were present in the  
+1.00 cm3 of wine.
+(1)
+
+
+--- Page Break ---
+
+26
+*P50789A02628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(vi)	The concentration of ethanol in wine is usually quoted as the percentage of 
+“Alcohol by Volume” (ABV).
+	
+	
+	
+The volume of 1 mole of ethanol is 58.3 cm3.
+	
+	
+	
+Calculate the percentage of “Alcohol by Volume” in the wine.
+(2)
+
+
+--- Page Break ---
+
+27
+*P50789A02728*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 The concentration of dichromate(VI) ions in drinking water can be measured 
+by reacting them with a compound called diphenylcarbazide.  This produces 
+a complex with a reddish-purple colour.  The concentration of this product is 
+measured using a colorimeter.
+	
+	
+The structure of diphenylcarbazide is shown.
+N
+N
+N
+N
+H
+H
+H
+H
+O
+	
+	
+The complex, which is thought to be octahedral, contains one chromium(III) ion 
+formed by reduction.
+	
+	
+Draw a circle round the atoms which are most likely to bond with the chromium ion. 
+Hence predict the number of moles of diphenylcarbazide per mole of complex. 
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 19 marks)
+TOTAL FOR SECTION C = 19 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+
+
+--- Page Break ---
+
+28
+*P50789A02828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE

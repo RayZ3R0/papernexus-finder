@@ -1,0 +1,241 @@
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+Advanced/Advanced Subsidiary 
+Monday 19 May 2003 −  Morning 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question 
+papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference 
+(6677), your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of 
+accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has eight questions. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+4 m 
+ 
+3 m 
+ 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+C 
+ 
+B 
+ 
+ 
+ 
+A uniform plank AB has mass 40 kg and length 4 m. It is supported in a horizontal position by 
+two smooth pivots, one at the end A, the other at the point C of the plank where AC = 3 m, as 
+shown in Fig. 1. A man of mass 80 kg stands on the plank which remains in equilibrium. The 
+magnitudes of the reactions at the two pivots are each equal to R newtons. By modelling the 
+plank as a rod and the man as a particle, find 
+ 
+(a) the value of R, 
+(2) 
+(b) the distance of the man from A. 
+(4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+2. 
+Two particles A and B have mass 0.12 kg and 0.08 kg respectively. They are initially at rest 
+on a smooth horizontal table. Particle A is then given an impulse in the direction AB so that it 
+moves with speed 3 m s−1 directly towards B. 
+ 
+(a) Find the magnitude of this impulse, stating clearly the units in which your answer is 
+given. 
+(2) 
+Immediately after the particles collide, the speed of A is 1.2 m s−1, its direction of motion 
+being unchanged. 
+ 
+(b) Find the speed of B immediately after the collision. 
+(3) 
+(c) Find the magnitude of the impulse exerted on A in the collision. 
+(2) 
+ 
+ 
+ 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+3.  
+A competitor makes a dive from a high springboard into a diving pool. She leaves the 
+springboard vertically with a speed of 4 m s−1 upwards. When she leaves the springboard, she 
+is 5 m above the surface of the pool. The diver is modelled as a particle moving vertically 
+under gravity alone and it is assumed that she does not hit the springboard as she descends. 
+Find 
+ 
+(a) her speed when she reaches the surface of the pool, 
+(3) 
+(b) the time taken to reach the surface of the pool. 
+ 
+(3) 
+(c) State two physical factors which have been ignored in the model. 
+ 
+(2) 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+20 N 
+ 
+ 
+ 
+ 
+                   α 
+ 
+ 
+A parcel of mass 5 kg lies on a rough plane inclined at an angle α to the horizontal, where 
+tan α = 4
+3 .The parcel is held in equilibrium by the action of a horizontal force of magnitude 
+20 N, as shown in Fig. 2. The force acts in a vertical plane through a line of greatest slope of 
+the plane. The parcel is on the point of sliding down the plane. Find the coefficient of friction 
+between the parcel and the plane. 
+(8) 
+ 
+5. 
+A particle P moves with constant acceleration (2i – 3j) m s−2.  At time t seconds, its velocity 
+is v m s−1. When t = 0, v  = −2i + 7j. 
+ 
+(a) Find the value of t when P is moving parallel to the vector i. 
+(4) 
+(b) Find the speed of P when t = 3. 
+(3) 
+(c) Find the angle between the vector j and the direction of motion of P when t = 3.  
+(3) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+6. 
+A particle P of mass 3 kg is projected up a line of greatest slope of a rough plane inclined at 
+an angle of 30° to the horizontal. The coefficient of friction between P and the plane is 0.4. 
+The initial speed of P is 6 m s−1. Find 
+ 
+(a) the frictional force acting on P as it moves up the plane, 
+(4) 
+(b) the distance moved by P up the plane before P comes to instantaneous rest. 
+(7) 
+ 
+ 
+7. 
+Two trains A and B run on parallel straight tracks. Initially both are at rest in a station and 
+level with each other. At time t = 0, A starts to move. It moves with constant acceleration for 
+12 s up to a speed of 30 m s−1, and then moves at a constant speed of 30 m s−1. Train B starts 
+to move in the same direction as A when t = 40, where t is measured in seconds. It accelerates 
+with the same initial acceleration as A, up to a speed of 60 m s−1. It then moves at a constant 
+speed of 60 m s−1. Train B overtakes A after both trains have reached their maximum speed. 
+Train B overtakes A when t = T. 
+ 
+(a) Sketch, on the same diagram, the speed-time graphs of both trains for 0 ≤ t ≤ T. 
+(3) 
+(b) Find the value of T. 
+(9) 
+ 
+ 
+8. 
+A car which has run out of petrol is being towed by a breakdown truck along a straight 
+horizontal road. The truck has mass 1200 kg and the car has mass 800 kg. The truck is 
+connected to the car by a horizontal rope which is modelled as light and inextensible. The 
+truck’s engine provides a constant driving force of 2400 N. The resistances to motion of the 
+truck and the car are modelled as constant and of magnitude 600 N and 400 N respectively. 
+Find 
+ 
+(a) the acceleration of the truck and the ear, 
+(3) 
+(b) the tension in the rope. 
+(3) 
+ 
+When the truck and car are moving at 20 m s−1, the rope breaks. The engine of the truck 
+provides the same driving force as before. The magnitude of the resistance to the motion of 
+the truck remains 600 N. 
+ 
+(c) Show that the truck reaches a speed of 28 m s−1 approximately 6 s earlier than it would 
+have done if the rope had not broken. 
+(7) 
+END 
+PMT
+PMT

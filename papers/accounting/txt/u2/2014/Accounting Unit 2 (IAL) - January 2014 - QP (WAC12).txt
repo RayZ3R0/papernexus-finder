@@ -1,0 +1,804 @@
+Turn over
+Paper Reference(s)
+WAC02/01
+Pearson Edexcel
+International Advanced Level
+Accounting (Modular Syllabus)
+Unit 2 –  Corporate and 
+Management Accounting
+Tuesday 21 January 2014 – Afternoon
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P43183A
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2014 Pearson Education Ltd.
+W850/WAC02/57570   1/1/1/1/1/1/1/1/1
+*P43183A*
+
+
+--- Page Break ---
+
+P43183A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1 
+1. Tsevo Farms Limited has won a four-year contract to supply a major supermarket chain with salads 
+and sandwiches. The initial costs involved in obtaining the contract were £700 000.
+ 
+The following information relates to the contract:
+ 
+• 
+In the first year, 13 500 products a week will be supplied, at an average selling price of £0.73 
+each.
+ 
+• 
+In years two and three, 14 000 products a week will be supplied, at an average selling price of 
+£0.75 each.
+ 
+• 
+In year four, 14 500 products a week will be supplied, at an average selling price of £0.77 each.
+ 
+• 
+In years one and two, the running costs (including depreciation) are expected to be £8 500 a 
+week.
+ 
+• 
+In years three and four, the running costs (including depreciation) are expected to be £8 800 a 
+week.
+ 
+• 
+Depreciation is expected to be £164 000 per annum for the first four years.
+ 
+• 
+Assume 52 weeks in a year.
+ 
+• 
+The cost of capital for the company is 9%.
+ 
+Required:
+ 
+(a) Calculate the net present value of the contract at the end of year 4.
+(18)
+ 
+ 
+A table showing the discount factors is given.
+Year
+9%
+ 1
+0.917
+2
+0.842
+3
+0.772
+4
+0.708
+ 
+(b) Calculate the Payback period for the contract.
+(8)
+ 
+(c) Evaluate the project for the company, using the calculations made in (a) and (b) above and 
+considering any other relevant factors. 
+(12)
+
+
+--- Page Break ---
+
+P43183A 
+3
+ 
+Turn over
+ 
+The Chief Accountant for the company is also appraising the project using the Internal Rate of 
+Return method.  She has calculated the following figures:
+Discount Rate
+Net Present Value
+16%
+£21 430
+         20%
+(£34 239)
+ 
+Required:
+ 
+(d) (i) Complete the calculation, clearly stating any formula used, to find the exact Internal Rate 
+of Return, accurate to two decimal places.
+(10)
+ 
+ 
+(ii) Using your answer for the exact Internal Rate of Return calculated in (d)(i), decide whether 
+Tsevo Farms should invest in the project, giving a reason for your answer.
+(4)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 8 of the question paper.
+
+
+--- Page Break ---
+
+P43183A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2 
+2. The Statements of Financial Position of Zonqor Minerals plc as at 31 December 2012 and  
+31 December 2013 were as follows:
+ 
+31 December 2012
+31 December 2013
+ASSETS                                                                                         £
+                            £
+Non-current assets at cost
+2 216 000
+2 413 000
+Provision for depreciation
+(530 000)
+(450 000)
+Non-current assets carry over
+1 686 000
+1 963 000
+ 
+ 
+ 
+Current assets
+ 
+ 
+Inventories
+718 000
+756 000
+Trade and other receivables
+112 000
+119 000
+Cash and cash equivalents
+404 000
+494 000
+ 
+1 234 000
+1 369 000
+ 
+              
+              
+Total Assets                                                                            
+2 920 000
+3 332 000
+ 
+ 
+ 
+EQUITY AND LIABILITIES
+ 
+ 
+Equity
+                   £
+                     £
+Share capital - £1 Ordinary shares
+1 000 000
+1 200 000
+6% Preference shares
+400 000
+400 000
+Share premium
+300 000
+400 000
+Retained earnings
+601 000
+634 000
+Total capital and reserves
+2 301 000
+2 634 000
+ 
+ 
+ 
+Non-current liabilities
+ 
+ 
+7% Debenture 2018
+------------
+250 000
+Bank loan
+175 000
+------------
+ 
+175 000
+250 000
+ 
+ 
+ 
+Current liabilities
+ 
+ 
+Trade and other payables
+323 000
+347 000
+Current tax payable
+121 000
+101 000
+ 
+444 000
+448 000
+ 
+              
+              
+Total Equity and Liabilities
+2 920 000
+3 332 000
+
+
+--- Page Break ---
+
+P43183A 
+5
+ 
+Turn over
+ 
+Additional information:
+ 
+1. Machinery costing £258 000 was sold for £54 000 on 1 April 2013.  The book value of the 
+machinery was £41 000. 
+ 
+2. Property was purchased for £455 000 on 1 May 2013.
+ 
+3. An issue of 200 000 £1 Ordinary shares at a premium of 50 pence per share was made on  
+31 March 2013.  
+ 
+4. Ordinary shareholders received the following dividends in the year:
+ 
+ 
+• 
+final dividend for 2012 of 4 pence per share on 22 January 2013
+ 
+ 
+• 
+an interim dividend of  2 pence per share on 26 July 2013
+ 
+5. Preference shareholders received their dividends in full during the year.
+ 
+6. On 1 January 2013 the bank loan of £175 000 was paid off.
+ 
+7. On 1 May 2013 a £250 000 7% debenture was issued, with interest to be paid in two equal  
+half-yearly payments.
+ 
+8. Operating profit before tax for the year ended 31 December 2013 was £222 000.
+ 
+Required:
+ 
+(a) Prepare a cash flow statement for the year ended 31 December 2013 for Zonqor Minerals plc 
+in accordance with International Accounting Standard (IAS) 7 Cash Flow Statements (revised).
+(40)
+ 
+(b) Evaluate the raising of capital for a plc by issuing a debenture instead of taking out a bank loan.
+(12)
+(Total 52 marks)
+Answer space for question 2 is on pages 10 to 15 of the question paper.
+
+
+--- Page Break ---
+
+P43183A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3 
+3. Kelontan Power plc supplies electricity. The company has an Authorised Share Capital of  
+40 000 000 £1 Ordinary Shares and 15 000 000 4% Redeemable Preference Shares of £1 each.  
+On 1 January 2013, at the start of the financial year, the following balances were in the books:
+ 
+ 
+£
+ 
+Ordinary Share Capital 
+30 000 000
+ 
+Share Premium Reserve 
+7 500 000
+ 
+4% Redeemable Preference Share Capital 
+10 000 000
+ 
+Revaluation Reserve 
+1 000 000
+ 
+Retained Earnings Reserve 
+12 850 000
+ 
+General Reserve 
+3 000 000
+ 
+7% Debenture 2018 
+5 000 000
+ 
+The profit after interest, for the year ended 31 December 2013, before adjustments, was 
+£4 572 000.
+ 
+In December 2013, the directors of Kelontan Power plc agreed to:
+ 
+1. provide a final dividend to Ordinary shareholders of 3 pence per share.  The dividend was paid 
+on 2 December 2013.
+ 
+2. transfer 80% of the General Reserve to the Retained Earnings Reserve.
+ 
+3. make a provision to cover an amount to be repaid to customers, overcharged in error.  The 
+company has 40 000 customers, who have been overcharged an average of £50 each.
+ 
+4. redeem 5 000 000 4% Redeemable Preference shares at par.
+ 
+5. revalue the company head office property from a present value of £4 000 000, to a market value 
+of  £5 000 000.
+ 
+6. pay the final half-yearly interest instalment due to the debenture holders for the year on  
+29 December 2013.
+ 
+Required:
+ 
+(a) Journal entries to show the items 1–6 above as recorded in the books of Kelontan Power   
+plc. Dates and narratives are not required.
+(18)
+ 
+(b) The Equity section from the Statement of Financial Position after the above items have been 
+entered into the books.
+(14)
+
+
+--- Page Break ---
+
+P43183A 
+7
+ 
+Turn over
+ 
+At a Board of Directors meeting at the start of the year, a director stated:
+ 
+“I know that Redeemable Preference shares should be treated as Debt, but Preference shares should 
+be treated as Equity. Is it a good idea that the Preference shares we have issued are redeemable?” 
+ 
+Required:
+ 
+(c) Briefly explain
+ 
+ 
+(i)  two advantages to Kolatun Power plc of redeeming some of the 4% Redeemable Preference 
+shares.
+(4)
+ 
+ 
+(ii)  two disadvantages to Kolatun Power plc of redeeming some of the 4% Redeemable 
+Preference shares.
+(4)
+ 
+(d) Evaluate the creation and utilisation of a Capital Redemption Reserve.
+(12)
+(Total 52 marks)
+Answer space for question 3 is on pages 16 to 22 of the question paper.
+
+
+--- Page Break ---
+
+P43183A 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. Auto Albion Motors plc are developing a new car, the Zeus.
+ 
+The following information is available:
+ 
+The costs involved in the launch of the new car are expected to be:
+ 
+ 
+£ million
+ 
+Research and development 
+80
+ 
+Purchase of land for factory 
+31
+ 
+Building new factory 
+42
+ 
+Machinery and equipment for new factory 
+28
+ 
+Marketing 
+39
+ 
+Capital for the new car project is to be funded in the following ways:
+ 
+• 
+A share issue to ordinary shareholders for 40% of the capital required.
+ 
+• 
+£84 million in prior charge capital is to be raised, consisting of a 6% debenture and a bank loan. 
+This is to be raised in the following ratio: two thirds 6% debenture : one third bank loan
+ 
+• 
+The remainder is to be sourced from retained profit.
+ 
+Required:
+ 
+(a) Prepare a Capital Budget to finance the launch of the new Zeus car.
+(6)
+ 
+Additional information:
+ 
+All cars are built to meet sales orders.
+ 
+If a sales order cannot be met in the same week, the factory will produce the car in the next week, 
+or as soon as possible.
+ 
+The capacity of the factory is 6 800 cars a week.
+ 
+In the first four weeks sales of Zeus cars are expected to be:
+ 
+Week 1   8 000         Week 2   6 000         Week 3   5 500         Week 4   3 200   
+ 
+Required:
+ 
+(b)  Prepare a Production Budget, in units of cars produced, for each week of the first four weeks 
+of production of Zeus cars.
+(6)
+
+
+--- Page Break ---
+
+P43183A 
+9
+ 
+Turn over
+ 
+Additional information:
+ 
+The Zeus car will be sold to customers at a selling price of £11 750.  
+ 
+Customers are to be given three payment options to choose from:
+ 
+• 
+Option 1 – 60% of customers are expected to pay for their new car in cash in full on the day 
+of the sales order.
+ 
+• 
+Option 2 – Buy the new car on the terms “nothing to pay for 12 months”, with payment being 
+made in full 12 months after the date of the sales order.
+ 
+ 
+25% of customers are expected to select this option.
+ 
+• 
+Option 3 – Buy the new car on the terms “10% deposit, then 24 monthly payments of £450, 
+starting one month after the sales order.
+ 
+ 
+The remaining customers are expected to select this option.
+ 
+Required:
+ 
+(c) Prepare a Cash Budget to show the amount received from customers for each of the first four 
+weeks of sales of Zeus cars.
+(12)
+ 
+(d) Evaluate the three payment options from the point of view of Auto Albion Motors plc.
+(8)
+(Total 32 marks)
+Answer space for question 4 is on pages 23 to 26 of the question paper.
+
+
+--- Page Break ---
+
+P43183A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Saidpur Household Appliances Limited produces kettles at its factory.  For the 6 months ended  
+31 December 2013, the following information is available.
+ 
+• 
+Rent of the factory was £3 800 per quarter (three months).   
+ 
+• 
+Payments to the workforce were at a rate of £3.60 per kettle.  
+ 
+• 
+Material costs were £4.25 per kettle.  
+ 
+• 
+Managers’ salaries were £5 700 per month. 
+ 
+• 
+Delivery costs were 20 pence (£0.20) per kettle.  
+ 
+• 
+Other fixed costs were £2 440 per month.
+ 
+• 
+Production of kettles for the 6-month period was 8 500 kettles.
+ 
+• 
+All output is sold.
+ 
+• 
+Selling price was £14.95 per kettle.
+ 
+Required:
+ 
+(a) Calculate for Saidpur Household Appliances Limited for the 6-month period ended  
+31 December 2013 the: 
+ 
+ 
+(i) break-even point in units of output
+(10)
+ 
+ 
+(ii) margin of safety in sales revenue
+(4)
+ 
+ 
+(iii) profit or loss.
+(4)
+ 
+The 6 months ended 30 June 2014 are expected to see difficult trading conditions. The directors’ 
+policy is to break even, hoping to survive for the future.  Output will be maintained at the present 
+level, but selling price will be reduced as much as possible to arrive at break-even point.
+ 
+Required:
+ 
+(b) Calculate the selling price Saidpur Household Appliances Limited should charge in order to 
+arrive at break-even point for a production of 8 500 units.
+(6)
+ 
+A management consultant has been asked his opinion on the intended policy of maintaining output 
+levels and reducing selling prices in the next six months.  The management consultant says Saidpur 
+Household Appliances Limited should maintain selling prices and reduce output instead.
+ 
+Saidpur Household Appliances Limited must choose between two possible policies for the future. 
+ 
+• 
+Maintain present output level and reduce selling price 
+ 
+• 
+Reduce present output level and maintain selling price 
+ 
+(c) Evaluate the two possible future policies for Saidpur Household Appliances Limited to follow 
+for the next 6 months.
+(8)
+(Total 32 marks)
+Answer space for question 5 is on pages 27 to 31 of the question paper.
+
+
+--- Page Break ---
+
+P43183A 
+11
+ 
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. You are the accountant for Southern Gas plc, which supplies gas to households. You will have to 
+report on the financial statements of the company at the Board of Directors’ meeting. Information 
+concerning the performance of the company for the financial year ended 31 December 2013 is as 
+follows:
+Authorised share capital
+40 million (40 000 000) £0.50 Ordinary shares  
+Issued share capital
+30 million (30 000 000) £0.50 Ordinary shares  
+Net profit before interest and tax
+£1 575 000
+Net profit after interest and tax
+£818 000
+Total Equity
+£22 850 000
+Non-current liabilities
+£12 625 000
+Total ordinary dividend paid for year
+£616 000
+Share price
+£0.53
+ 
+Required:
+ 
+(a) Calculate the gearing ratio, stating clearly the formula used.
+(6)
+ 
+(b) Calculate the following ratios:
+ 
+ 
+(i) Return on Capital employed
+(3)
+ 
+ 
+(ii) Earnings per ordinary share
+(3)
+ 
+ 
+(iii) Price/earnings ratio
+(3)
+ 
+ 
+(iv) Dividend paid per share
+(3)
+ 
+ 
+(v) Dividend cover
+(3)
+ 
+ 
+(vi) Dividend yield.
+(3)
+
+
+--- Page Break ---
+
+P43183A 
+12 
+ 
+Gas is supplied to households by two large companies, Southern Gas plc and Northern Gas plc. At 
+the Board meeting, you must report whether Southern Gas plc has performed better or worse than 
+the rival Northern Gas plc. 
+ 
+Information for Northern Gas plc for the financial year ended 31 December 2013 is given below.
+Gearing ratio
+54%
+Return on capital employed
+3.94%
+Earnings per ordinary share
+3.7 pence
+ 
+Required:
+ 
+(c) Evaluate the performance and position of Southern Gas plc as a business compared to Northern 
+Gas plc for the financial year ended 31 December 2013.
+(8)
+(Total 32 marks)
+Answer space for question 6 is on pages 32 to 36 of the question paper.
+
+
+--- Page Break ---
+
+P43183A 
+13
+ 
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Sheung Wan Construction plc purchased Ngau Builders plc on 1 January 2014. The directors of 
+Sheung Wan Construction plc agreed to take over all of the assets and to settle all the liabilities of 
+Ngau Builders plc. The purchase price was agreed at 1.5 times the net book value of Ngau Builders 
+plc, after any revaluations. 
+ 
+The purchase was settled on the following terms. For every one share held in Ngau Builders plc, a 
+shareholder received:
+ 
+• 
+four ordinary shares in Sheung Wan Construction plc of £0.50 each at a premium of £0.22 per 
+share
+ 
+• 
+the balance settled in cash.
+ 
+The Statements of Financial Position of the two companies on 31 December 2013, before any 
+revaluations, were as follows:
+Sheung Wan Construction plc
+Ngau Builders plc
+ASSETS
+£
+£
+£
+£
+Non-current Assets
+Property, plant and equipment
+780 000 000
+  49 500 000
+Intangible assets
+  16 000 000
+    5 740 510
+796 000 000
+  55 240 510
+Current Assets
+Inventories
+  18 500 000
+    4 350 000
+Trade and other receivables
+  12 540 000
+       768 000
+Cash and cash equivalents
+    7 286 000
+         12 890
+  38 326 000
+    5 130 890
+Total Assets
+834 326 000
+  60 371 400
+EQUITY AND LIABILITIES
+£
+£
+£
+£
+Equity
+Ordinary Shares of £0.50 each
+500 000 000
+- - - - - - - - -
+Ordinary Shares of £1 each
+- - - - - - - - -
+  24 000 000
+Share premium
+200 000 000
+  18 000 000
+Retained earnings
+  44 955 000
+    5 254 400
+Total capital and reserves
+744 955 000
+  47 254 400
+Non-current liabilities
+6.5% Debenture 2017
+25 000 000
+  - - - - - - - - 
+Bank loan
+50 000 000
+    6 000 000
+  75 000 000
+    6 000 000
+Current liabilities
+Trade and other payables
+11 650 000
+    2 410 000
+Current tax payable
+  2 721 000
+    1 707 000
+Short-term provisions
+ - - - - - - - -
+    3 000 000
+  14 371 000
+    7 117 000
+Total Equity and Liabilities
+834 326 000
+  60 371 400
+
+
+--- Page Break ---
+
+P43183A 
+14 
+ 
+Additional information:
+ 
+The assets of Ngau Builders plc were revalued as follows:
+ 
+• 
+Property with a book value of £7 860 000 to a current market value of  £9 120 000 
+ 
+• 
+Plant with a book value of £3 010 000 reduced by £943 000
+ 
+• 
+Trade Receivables reduced by 5%  
+ 
+• 
+Current tax payable reduced to a figure of £1 240 000.
+ 
+Required:
+ 
+(a) Calculate the purchase price of Ngau Builders plc.
+(6)
+ 
+(b) Calculate the goodwill paid by Sheung Wan Construction plc in the purchase of Ngau Builders plc.
+(2)
+ 
+(c) Calculate the amount of cash a shareholder in Ngau Builders plc would receive for each share held.
+(4)
+ 
+(d) Prepare the Statement of Financial Position of Sheung Wan Construction plc as at  
+1 January 2014 after the purchase of Ngau Builders plc.
+(12)
+ 
+Shares in Sheung Wan Construction plc were trading on the market at £0.72 per share.  Shares in 
+Ngau Builders plc were trading at £2.30 a share on the market.
+ 
+(e) From the point of view of a shareholder in Ngau Builders plc, evaluate the purchase of the 
+company by Sheung Wan Construction plc.
+(8)
+(Total 32 marks)
+Answer space for question 7 is on pages 38 to 42 of the question paper.
+
+
+--- Page Break ---
+
+P43183A 
+15
+BLANK PAGE
+
+
+--- Page Break ---
+
+P43183A 
+16 
+BLANK PAGE

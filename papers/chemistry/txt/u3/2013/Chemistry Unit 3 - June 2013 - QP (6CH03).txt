@@ -1,0 +1,447 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P41652A
+©2013 Pearson Education Ltd.
+10/5/6/7/
+*P41652A0112*
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 3B:  Chemistry Laboratory Skills I Alternative
+Wednesday 8 May 2013 – Morning
+Time: 1 hour 15 minutes
+6CH07/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 50.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t You will be assessed on your ability to organise and present information, ideas, 
+ 
+descriptions and arguments clearly and logically, including your use of 
+ 
+grammar, punctuation and spelling.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*P41652A0212*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 Tests were carried out on compounds X, Y and Z.  Complete the tables below.
+ 
+(a) Compound X is a white, water-soluble solid.
+Test
+Observation
+Inference 
+(Name or formula)
+(i)
+Flame test
+Lilac flame
+........................................................................
+(1)
+(ii)
+To a solution of X, 
+add barium chloride 
+solution and acidify with 
+hydrochloric acid
+........................................................................
+........................................................................
+Sulfate ions absent
+(1)
+(iii)
+To a solution of X, add 
+dilute nitric acid
+followed by
+........................................................................
+........................................................................
+Iodide ions present
+(2)
+(iv)
+Add concentrated 
+aqueous ammonia 
+solution to the mixture 
+remaining from test (iii)
+........................................................................
+Confirms presence of 
+iodide ions
+(1)
+ 
+ 
+(v) The formula of X is:  .............................................................................................
+(1)
+ 
+(b) Compound Y is a white solid that is insoluble in water.
+Test
+Observation
+Inference
+(Name or formula)
+(i)
+Flame test
+Yellow-red (brick red) 
+flame
+........................................................................
+(1)
+(ii)
+Add dilute  
+hydrochloric acid to Y
+Bubble the gas through
+........................................................................
+The mixture fizzed and 
+the solid
+........................................................................
+It turned milky
+CO2 evolved
+(2)
+ 
+ 
+(iii) The formula of Y is:   ............................................................................................
+(1)
+PMT
+
+
+--- Page Break ---
+
+3
+*P41652A0312*
+Turn over    
+ 
+(c) Z is a colourless organic liquid with only one functional group.  Z is completely 
+miscible with water to form a neutral solution.
+Test
+Observation
+Inference
+(i)
+Add bromine water to Z
+No colour change
+........................................................................
+(1)
+(ii)
+Add solid  
+phosphorus(V) chloride, 
+PCl5, to Z
+Misty fumes (of  
+hydrogen chloride)
+........................................................................
+(1)
+(iii)
+Warm Z with  
+potassium dichromate(VI) 
+solution and  
+dilute sulfuric acid
+Colour changes from 
+orange to green
+Z could be 
+........................................................................
+or
+.......................................................................
+(2)
+ 
+(d) The composition by mass of Z is C 60.0%, H 13.3%, O 26.7%.
+ 
+ 
+(i) Calculate the empirical formula of Z.
+(2)
+ 
+ 
+(ii) The molecular formula of Z is the same as its empirical formula.  Give the 
+displayed formulae of the two possible isomers of Z.
+(2)
+(Total for Question 1 = 18 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P41652A0412*
+2 An experiment to determine the enthalpy change of reaction between aqueous  
+copper(II) sulfate and zinc was carried out as follows.
+ 
+1. 50.0 cm3 of copper(II) sulfate solution, of concentration 1.00 mol dm–3,  was placed 
+in a polystyrene cup.
+ 
+2. The temperature of the solution was measured with a 0 – 110 °C thermometer 
+and was found to be 23.0 °C.
+ 
+3. Zinc powder with a mass of 5 g (an excess) was added to the solution with 
+vigorous stirring and the highest temperature recorded was 69.5 °C.
+ 
+(a) (i) Write the ionic equation for the reaction between zinc and aqueous  
+copper(II) ions, including state symbols.
+(2)
+ 
+ 
+(ii) Calculate the quantity of heat energy produced in the experiment above, 
+giving your answer in J.  (Assume that the heat capacity of the mixture is 
+4.18 J g–1 °C –1 and its density is 1.00 g cm–3.)  Use the expression
+ 
+ 
+ 
+energy transferred in joules = mass × specific heat capacity × temperature change 
+(2)
+ 
+ 
+(iii) Calculate the number of moles of copper(II) sulfate used in the experiment.
+(1)
+PMT
+
+
+--- Page Break ---
+
+5
+*P41652A0512*
+Turn over    
+ 
+ 
+(iv) Use your answers from (a)(ii) and (a)(iii) to calculate the enthalpy change for 
+the reaction in kJ mol–1.  Give your answer to three significant figures and 
+include the appropriate sign.
+(2)
+ 
+(b) The thermometer used in this experiment gave an uncertainty in each 
+temperature reading of ±0.5 °C.
+ 
+ 
+(i) State the maximum temperature difference in this experiment that could have 
+been obtained using this thermometer.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What is the percentage error in the temperature change using this 
+thermometer?
+(1)
+ 
+(c) Using the same equipment, together with a stop clock, suggest a procedure 
+that would improve the accuracy of this experiment by obtaining a more accurate 
+temperature change.  You must use the same mass of zinc powder and the same 
+volume of 1.00 mol dm–3 copper(II) sulfate solution.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 2 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*P41652A0612*
+3  Chloroalkanes and bromoalkanes can be made from alcohols by reaction of the 
+alcohol with sodium chloride or bromide, in the presence of 50% aqueous  
+sulfuric acid.
+ 
+Iodoalkanes cannot be made from sodium iodide and sulfuric acid; red phosphorus 
+and iodine can be used instead as the halogenating agent.
+ 
+(a) (i) What would you see if concentrated sulfuric acid was added to solid  
+sodium iodide?  Give two observations.
+(2)
+1. ...............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+2. ...............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why sodium iodide and sulfuric acid cannot be used to make 
+iodoalkanes from alcohols.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Give the equation for the reaction between phosphorus and iodine to form 
+phosphorus(III) iodide.  State symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+7
+*P41652A0712*
+Turn over    
+ 
+(c) A preparation of 1-iodobutane is given in outline below.
+ 
+ 
+Procedure 
+ 
+ 
+1. Suitable quantities of red phosphorus and butan-1-ol are placed in a  
+round-bottomed flask fitted with a reflux condenser.
+ 
+ 
+2. The mixture is heated until it boils gently and then the heat source is 
+removed.
+ 
+ 
+3. A suitable quantity of powdered iodine is added in small portions down the 
+condenser at a rate which just maintains gentle boiling.  The reaction should 
+be allowed to subside after each addition.
+ 
+ 
+4. After the addition of iodine is complete, the mixture is heated under reflux for       
+30 – 60 minutes, until little or no iodine is visible.
+ 
+ 
+5. The apparatus is allowed to cool and the condenser rearranged for distillation.
+ 
+ 
+6. The crude 1-iodobutane is distilled off until the residue in the distilling flask 
+is about one-fifth of its original volume.  Double its volume of water is added 
+and the distillation continued until no more oily drops condense into the 
+receiver.
+ 
+ 
+7. The crude 1-iodobutane is separated and washed with dilute  
+sodium thiosulfate solution and then with dilute sodium carbonate solution.
+ 
+ 
+8. The organic layer is separated and allowed to stand over anhydrous  
+calcium chloride.
+ 
+ 
+(i) What does the manner in which the iodine is added in step 3 suggest about 
+the nature of the reaction?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Completion of step 4 requires that ‘little or no iodine is visible’.  State what you 
+would look for in this step to ensure that this is true.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+8
+*P41652A0812*
+ 
+ 
+(iii) Draw the apparatus that is used in step 6 for distillation.
+(3)
+ 
+ 
+(iv) Suggest why the first washing of the product in step 7 is with dilute  
+sodium thiosulfate solution rather than with water alone.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) State why calcium chloride used in step 8 must be anhydrous.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) To complete the preparation, after decanting the mixture from the  
+calcium chloride, there should be a step 9.  What is this step?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P41652A0912*
+ 
+(d) Chloroalkanes can be made from an alcohol and phosphorus(V) chloride, PCl5.  
+The equation for the reaction of butan-1-ol with PCl5 is
+CH3CH2CH2CH2OH + PCl5  CH3CH2CH2CH2Cl + HCl + POCl3
+ 
+ 
+This reaction is not suitable for the manufacture of 1-chlorobutane on a large 
+scale.
+ 
+ 
+(i) In a laboratory preparation of 1-chlorobutane, 95.0 g of butan-1-ol was used.  
+Calculate the maximum mass of 1-chlorobutane that could be obtained.  
+ 
+ 
+ 
+(Assume the molar masses are, in g mol – 1, butan-1-ol = 74.0, 1-chlorobutane = 92.5)
+(2)
+ 
+ 
+(ii) In practice, 95.3 g of 1-chlorobutane was obtained.  Calculate the percentage 
+yield.
+(1)
+ 
+ 
+(iii) Give one reason why the actual yield is lower than the maximum possible 
+yield.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Give two reasons why this reaction would not be used industrially to make 
+1-chlorobutane.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 3 = 19 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P41652A01012*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+11
+*P41652A01112*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P41652A01212*
+PMT

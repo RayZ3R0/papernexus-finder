@@ -1,0 +1,301 @@
+ 
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+Advanced/Advanced Subsidiary 
+Tuesday 4 November 2003 −  Morning 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+1. 
+A small ball is projected vertically upwards from a point A. The greatest height reached by the 
+ball is 40 m above A. Calculate 
+ 
+(a) the speed of projection, 
+(3) 
+(b) the time between the instant that the ball is projected and the instant it returns to A. 
+(3) 
+      
+ 
+2. 
+A railway truck S of mass 2000 kg is travelling due east along a straight horizontal track with 
+constant speed 12 m s–1. The truck S collides with a truck T which is travelling due west along 
+the same track as S with constant speed 6 m s–1. The magnitude of the impulse of T on S is 
+28 800 Ns. 
+ 
+ 
+(a) Calculate the speed of S immediately after the collision. 
+(3) 
+(b) State the direction of motion of S immediately after the collision. 
+(1) 
+ 
+Given that, immediately after the collision, the speed of T is 3.6 m s–1, and that T and S are 
+moving in opposite directions, 
+ 
+(c) calculate the mass of T. 
+(4) 
+ 
+ 
+3.  
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        P N 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        S 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   30° 
+ 
+ 
+ 
+ 
+ 
+A heavy suitcase S of mass 50 kg is moving along a horizontal floor under the action of a 
+force of magnitude P newtons. The force acts at 30° to the floor, as shown in Fig. 1, and 
+S moves in a straight line at constant speed. The suitcase is modelled as a particle and the 
+floor as a rough horizontal plane. The coefficient of friction between S and the floor is 5
+3 . 
+ 
+ 
+Calculate the value of P. 
+ 
+(9) 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+4. 
+A car starts from rest at a point S on a straight racetrack. The car moves with constant 
+acceleration for 20 s, reaching a speed of 25 m s–1. The car then travels at a constant speed of 
+25 m s–1 for 120 s. Finally it moves with constant deceleration, coming to rest at a point F. 
+ 
+(a) In the space below, sketch a speed-time graph to illustrate the motion of the car. 
+(2) 
+ 
+The distance between S and F is 4 km. 
+ 
+(b) Calculate the total time the car takes to travel from S to F. 
+(3) 
+ 
+A motorcycle starts at S, 10 s after the car has left S. The motorcycle moves with constant 
+acceleration from rest and passes the car at a point P which is 1.5 km from S. When the 
+motorcycle passes the car, the motorcycle is still accelerating and the car is moving at a 
+constant speed. Calculate 
+ 
+(c) the time the motorcycle takes to travel from S to P, 
+(5) 
+(d) the speed of the motorcycle at P. 
+(2) 
+ 
+5. 
+A particle P of mass 3 kg is moving under the action of a constant force F newtons. At t = 0, 
+P has velocity (3i – 5j) m s–1. At t = 4 s, the velocity of P is (–5i + 11j) m s–1. Find 
+ 
+ 
+(a) the acceleration of P, in terms of i and j. 
+ (2) 
+(b) the magnitude of F. 
+(4) 
+ 
+At t = 6 s, P is at the point A with position vector (6i – 29j) m relative to a fixed origin O. At 
+this instant the force F newtons is removed and P then moves with constant velocity. Three 
+seconds after the force has been removed, P is at the point B. 
+ 
+(c) Calculate the distance of B from O. 
+(6)  
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+6. 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+                                            1.5 m                                                                    1 m 
+                           A  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         B 
+ 
+      C  
+ 
+ 
+       D 
+5 m 
+ 
+ 
+A non-uniform rod AB has length 5 m and weight 200 N. The rod rests horizontally in 
+equilibrium on two smooth supports C and D, where AC = 1.5 m and DB = 1 m, as shown in 
+Fig. 2. The centre of mass of AB is x metres from A. A particle of weight W newtons is placed 
+on the rod at A. The rod remains in equilibrium and the magnitude of the reaction of C on the 
+rod is 160 N. 
+ 
+(a) Show that 50x – W = 100. 
+ (5) 
+ 
+The particle is now removed from A and placed on the rod at B. The rod remains in 
+equilibrium and the reaction of C on the rod now has magnitude 50 N. 
+ 
+(b) Obtain another equation connecting W and x. 
+(3) 
+(c) Calculate the value of x and the value of W. 
+(4) 
+ 
+ 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+      P 
+ 
+                                                                                           1.4 m 
+ 
+ 
+B (0.4 kg) 
+ 
+    A (m kg) 
+ 
+1 m 
+                                                     30° 
+ 
+ 
+ 
+Figure 3 shows two particles A and B, of mass m kg and 0.4 kg respectively, connected by a 
+light inextensible string. Initially A is held at rest on a fixed smooth plane inclined at 30° to 
+the horizontal. The string passes over a small light smooth pulley P fixed at the top of the 
+plane. The section of the string from A to P is parallel to a line of greatest slope of the plane. 
+The particle B hangs freely below P. The system is released from rest with the string taut and 
+B descends with acceleration 5
+1 g. 
+ 
+(a) Write down an equation of motion for B. 
+(2) 
+(b) Find the tension in the string. 
+(2) 
+(c) Prove that m = 35
+16 . 
+(4) 
+(d) State where in the calculations you have used the information that P is a light smooth 
+pulley. 
+(1) 
+ 
+On release, B is at a height of one metre above the ground and AP = 1.4 m. The particle B 
+strikes the ground and does not rebound. 
+ 
+(e) Calculate the speed of B as it reaches the ground. 
+(2) 
+(f) Show that A comes to rest as it reaches P. 
+(5) 
+ 
+END 
+PMT

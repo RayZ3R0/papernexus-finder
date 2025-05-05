@@ -1,0 +1,256 @@
+Paper Reference(s) 
+6678 
+Edexcel GCE 
+Mechanics M2 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Thursday 21 June 2001 −  Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M2), the paper reference (6678), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+N6989 
+83019/R6678 3/3/3/3/3/8100 
+ 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2001 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 1. 
+At time t seconds, a particle P has position vector r metres relative to a 
+fixed origin O, where 
+ 
+r = (t2 + 2t)i + (t − 2t2)j. 
+ 
+Show that the acceleration of P is constant and find its magnitude. 
+(5) 
+     
+       
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+       Figure 1 
+ 
+ 
+ 
+ 
+                                               C                   A 
+                                                                    10 cm 
+                                                              D 
+ 
+         20 cm 
+ 
+ 
+ 
+                                                                   B 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 shows a decoration which is made by cutting 2 circular discs from a 
+sheet of uniform card. The discs are joined so that they touch at a point D on the 
+circumference of both discs. The discs are coplanar and have centres A and B 
+with radii 10 cm and 20 cm respectively. 
+ 
+(a) Find the distance of the centre of mass of the decoration from B. 
+(5) 
+The point C lies on the circumference of the smaller disc and ∠CAB is a right 
+angle. The decoration is freely suspended from C and hangs in equilibrium. 
+ 
+(b) Find, in degrees to one decimal place, the angle between AB and the vertical. 
+(4) 
+ 
+N6993 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N6993 
+3 
+ 
+3.  
+A uniform ladder AB, of mass m and length 2a, has one end A on rough 
+horizontal ground. The coefficient of friction between the ladder and the ground 
+is 0.5. The other end B of the ladder rests against a smooth vertical wall. The 
+ladder rests in equilibrium in a vertical plane perpendicular to the wall, and 
+makes an angle of 30° with the wall. A man of mass 5m stands on the ladder 
+which remains in equilibrium. The ladder is modelled as a uniform rod and the 
+man as a particle. The greatest possible distance of the man from A is ka. 
+ 
+Find the value of k. 
+(9) 
+ 
+ 
+4. 
+The unit vectors i and j lie in a vertical plane, i being horizontal and j vertical. 
+A ball of mass 0.1 kg is hit by a bat which gives it an impulse of (3.5i + 3j) Ns. 
+The velocity of the ball immediately after being hit is (10i + 25j) m s−1. 
+ 
+(a) Find the velocity of the ball immediately before it is hit. 
+(3) 
+In the subsequent motion the ball is modelled as a particle moving freely under 
+gravity. When it is hit the ball is 1 m above horizontal ground. 
+ 
+(b) Find the greatest height of the ball above the ground in the subsequent 
+motion. 
+(3) 
+The ball is caught when it is again 1 m above the ground. 
+ 
+(c) Find the distance from the point where the ball is hit to the point where it is 
+caught.  
+(4) 
+ 
+ 
+5. 
+A child is playing with a small model of a fire-engine of mass 0.5 kg and a 
+straight, rigid plank. The plank is inclined at an angle α to the horizontal. The 
+fire-engine is projected up the plank along a line of greatest slope. The 
+non-gravitational resistance to the motion of the fire-engine is constant and has 
+magnitude R newtons. 
+ 
+When α = 20° the fire-engine is projected with an initial speed of 5 m s−1 and 
+first comes to rest after travelling 2 m. 
+ 
+(a) Find, to 3 significant figures, the value of R. 
+(7) 
+When α = 40° the fire-engine is again projected with an initial speed of 5 m s−1. 
+ 
+(b) Find how far the fire-engine travels before first coming to rest. 
+(3) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+A particle A of mass 2m is moving with speed 2u on a smooth horizontal table. 
+The particle collides directly with a particle B of mass 4m moving with speed u in 
+the same direction as A. The coefficient of restitution between A and B is 2
+1 . 
+ 
+(a) Show that the speed of B after the collision is u
+2
+3
+. 
+(6) 
+(b) Find the speed of A after the collision. 
+(2) 
+Subsequently B collides directly with a particle C of mass m which is at rest on 
+the table. The coefficient of restitution between B and C is e. Given that there are 
+no further collisions, 
+ 
+(c) find the range of possible values for e. 
+(8) 
+ 
+ 
+N6891 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N6993 
+5 
+ 
+7. 
+ 
+ 
+ 
+ 
+      Figure 2 
+ 
+ 
+                                                    23.75 m s−1 
+ 
+ 
+                           B       α 
+ 
+ 
+                 2.4 m 
+ 
+ 
+                           A                                                                           C 
+ 
+At time t = 0 a small package is projected from a point B which is 2.4 m above a 
+point A on horizontal ground. The package is projected with speed 23.75 m s−1 at 
+an angle α to the horizontal, where tan α = 3
+4 . The package strikes the ground at 
+the point C, as shown in Fig. 2. The package is modelled as a particle moving 
+freely under gravity. 
+ 
+(a) Find the time taken for the package to reach C. 
+(5) 
+A lorry moves along the line AC, approaching A with constant speed 18 m s−1. At 
+time t = 0 the rear of the lorry passes A and the lorry starts to slow down. It 
+comes to rest T seconds later. The acceleration, a m s−2 of the lorry at time 
+t seconds is given by 
+ 
+a = 
+2
+4
+1 t
+−
+,       0 ≤ t ≤ T. 
+ 
+(b) Find the speed of the lorry at time t seconds.  
+(3) 
+(c) Hence show that T = 6. 
+(3) 
+(d) Show that when the package reaches C it is just under 10 m behind the rear of 
+the moving lorry. 
+(5) 
+ 
+END 
+PMT
+PMT

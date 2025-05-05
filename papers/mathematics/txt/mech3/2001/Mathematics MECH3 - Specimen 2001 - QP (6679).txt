@@ -1,0 +1,170 @@
+Paper Reference(s)
+6679
+Edexcel GCE
+Mechanics M3
+Advanced Level
+Specimen Paper
+Time: 1 hour 30 minutes
+Materials required for examination                       Items included with question papers
+Answer Book (AB16)                                                Nil
+Mathematical Formulae (Lilac)
+Graph Paper (ASG2)
+Candidates may use any calculator EXCEPT those with the facility for symbolic
+algebra, differentiation and/or integration. Thus candidates may NOT use
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G,
+Hewlett Packard HP 48G.
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679),
+your surname, other name and signature.
+Whenever a numerical value of g is required, take g = 9.8 m s2.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has seven questions.
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers
+without working may gain no credit.
+PMT
+
+
+--- Page Break ---
+
+13
+1.
+Figure 1
+A car moves round a bend in a road which is banked at an angle α to the horizontal, as shown in
+Fig. 1. The car is modelled as a particle moving in a horizontal circle of radius 100 m. When the
+car moves at a constant speed of 14 m s1, there is no sideways frictional force on the car.
+Find, in degrees to one decimal place, the value of α.
+(7)
+2.
+                         Figure 2
+P
+B
+A
+15 cm
+72 cm
+Two elastic ropes each have natural length 30 cm and modulus of elasticity λ N. One end of each
+rope is attached to a lead weight P of mass 2 kg and the other ends are attached to two points A
+and B on a horizontal ceiling, where AB = 72 cm.  The weight hangs in equilibrium 15 cm below
+the ceiling, as shown in Fig. 2. By modelling P as a particle and the ropes as light elastic strings,
+(a) find, to one decimal place, the value of λ .
+(6)
+(b) State how you have used the fact that P is modelled as a particle.
+(1)
+3. 
+A particle P of mass 0.5 kg moves away from the origin O along the positive x-axis under the
+action of a force directed towards O of magnitude 
+N
+2
+2
+x
+, where OP = x metres.  When x = 1,
+the speed of P is 3 m s1.  Find the distance of P from O when its speed has been reduced
+to 1.5 m s1.
+(8)
+PMT
+
+
+--- Page Break ---
+
+NQ
+4.
+A man of mass 75 kg is attached to one end of a light elastic rope of natural length 12 m. The
+other end of the rope is attached to a point on the edge of a horizontal ledge 19 m above the
+ground. The man steps off the ledge and falls vertically under gravity. The man is modelled as a
+particle falling from rest. He is brought to instantaneous rest by the rope when he is 1 m above
+the ground.  
+Find
+(a) the modulus of elasticity of the rope,
+(5)
+(b) the speed of the man when he is 2 m above the ground, giving your answer in m s1 to
+3 significant figures.
+(5)
+5.
+                            Figure 3
+r
+r
+h
+A uniform solid, S, is placed with its plane face on horizontal ground. The solid consists of a
+right circular cylinder, of radius r and height r, joined to a right circular cone, of radius r and
+height h. The plane face of the cone coincides with one of the plane faces of the cylinder, as
+shown in Fig. 3.
+(a)  Show that the distance of the centre of mass of S from the ground is
+
+
+h
+r
+h
+rh
+r
+
+
+
+3
+4
+4
+6
+2
+2
+ .
+(8)
+The solid is now placed with its plane face on a rough plane which is inclined at an angle α to
+the horizontal. The plane is rough enough to prevent S from sliding. Given that h = 2r, and that S
+is on the point of toppling, 
+(b)  find, to the nearest degree, the value of α.
+(5)
+PMT
+
+
+--- Page Break ---
+
+qìêå=çîÉê
+15
+6.
+A particle P is attached to one end of a light inextensible string of length a. The other end of the
+string is attached to a fixed point O. The particle is hanging in equilibrium below O when it
+receives a horizontal impulse giving it a speed u, where u2 = 3ga. The string becomes slack
+when P is at the point B. The line OB makes an angle  with the upward vertical.
+(a)  Show that 
+3
+1
+cos
+
+
+.
+(9)
+(b)  Show that the greatest height of P above B in the subsequent motion is 27
+4a .
+(6)
+7.
+A particle P of mass m is attached to one end of a light elastic string of natural length a and
+modulus of elasticity 6mg. The other end of the string is attached to a fixed point O.  When the
+particle hangs in equilibrium with the string vertical, the extension of the string is e.  
+(a) Find e.
+(2)
+The particle is now pulled down a vertical distance 
+a
+3
+1
+ below its equilibrium position and
+released from rest.  At time t after being released, during the time when the string remains taut,
+the extension of the string is e + x.  By forming a differential equation for the motion of P while
+the string remains taut, 
+(b) show that during this time P moves with simple harmonic motion of period 
+g
+a
+6
+2
+.
+(6)
+(c) Show that, while the string remains taut, the greatest speed of P is 3
+1 (6ga).
+(2)
+(d) Find t when the string becomes slack for the first time.
+(5)
+END
+PMT

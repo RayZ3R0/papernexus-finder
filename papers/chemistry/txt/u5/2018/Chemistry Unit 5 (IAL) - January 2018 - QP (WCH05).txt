@@ -1,0 +1,1355 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Friday 19 January 2018 – Morning
+Time: 1 hour 40 minutes
+WCH05/01
+Candidates must have:  Scientific calculator 
+Data Booklet 
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+• Show all your working in calculations and include units where appropriate.
+Pearson Edexcel 
+International
+Advanced Level
+P51947A
+©2018 Pearson Education Ltd.
+6/5/5/5/1/
+*P51947A0132*
+Turn over    
+
+
+--- Page Break ---
+
+2
+*P51947A0232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.   For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 Which electrode and solution would be used to measure the standard electrode potential 
+of the manganese(III)/manganese(II) half-cell?
+Mn
+3+(aq)  +  e–  U  Mn
+2+(aq)
+Electrode
+Solution
+A
+manganese
+1 mol dm
+–3 Mn
+3+(aq)
+B
+manganese
+1 mol dm
+–3 with respect to Mn
+3+(aq) and Mn
+2+(aq)
+C
+platinum
+1 mol dm
+–3 Mn
+3+(aq)
+D
+platinum
+1 mol dm
+–3 with respect to Mn
+3+(aq) and Mn
+2+(aq)
+(Total for Question 1 = 1 mark)
+2 In which pair of species are the oxidation numbers of the d-block elements the same?
+ 
+ 
+A [Cr(NH3)4Cl2]+ and [Mn(H2O)6]
+2+
+ 
+ 
+B CrO4
+2– 
+and TiCl3
+ 
+ 
+C Cr2O3 
+and [Fe(CN)6]3–
+ 
+ 
+D Cr2O7
+2– 
+and MnO4
+–
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+3
+*P51947A0332*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+3 One mole of metal ions reacted in solution with one mole of sulfur dioxide. 
+The half-equation for the sulfur dioxide reaction is
+SO2(aq) + 2H2O(l) o SO4
+2–(aq) + 4H+(aq) + 2e–
+ 
+The original oxidation number of the metal was +3.  What was the oxidation number 
+of the metal after the reaction?
+ 
+ 
+A +1
+ 
+ 
+B +2
+ 
+ 
+C +4
+ 
+ 
+D +5
+(Total for Question 3 = 1 mark)
+4 This question concerns four complexes.
+ 
+(a) Which complex has a tetrahedral structure?
+(1)
+ 
+ 
+A [CrCl4]–
+ 
+ 
+B [CuCl2]–
+ 
+ 
+C [Pt(NH3)2Cl2]
+ 
+ 
+D [TiCl6]2–
+ 
+(b) Which complex contains a metal in the +1 oxidation state?
+(1)
+ 
+ 
+A [CrCl4]–
+ 
+ 
+B [CuCl2]–
+ 
+ 
+C [Pt(NH3)2Cl2]
+ 
+ 
+D [TiCl6]2–
+(Total for Question 4 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+4
+*P51947A0432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+5 An ion of metal M has a charge of +n.  It forms a complex ion with a charged 
+bidentate ligand, L.
+ 
+(a) The formula of the complex ion formed between the metal ion and the bidentate ligand 
+is [ML2](+n – 4).  What is the charge on ligand L?
+(1)
+ 
+ 
+A +2
+ 
+ 
+B 0
+ 
+ 
+C –2
+ 
+ 
+D –4
+ 
+(b) Another complex ion can be formed in which both of the bidentate ligands L, 
+in [ML2](+n – 4), are replaced by the neutral monodentate ligand Z.
+ 
+ 
+What is the formula of the complex ion?
+(1)
+ 
+ 
+A [MZ2]n+
+ 
+ 
+B [MZ2]2n+
+ 
+ 
+C [MZ4]n+
+ 
+ 
+D [MZ4]2n+
+(Total for Question 5 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+5
+*P51947A0532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+6 Two reactions of copper(II) sulfate solution are shown.
+copper(II) sulfate
+solution
+brown solid  
+E
+zinc
+potassium iodide 
+solution
+white solid  
+F
+ 
+(a) What is the insoluble brown solid E?
+(1)
+ 
+ 
+A Copper
+ 
+ 
+B Copper(I) oxide
+ 
+ 
+C Copper(II) oxide
+ 
+ 
+D Zinc sulfate
+ 
+(b) What is the insoluble white solid F?
+(1)
+ 
+ 
+A Copper
+ 
+ 
+B Copper(I) iodide
+ 
+ 
+C Copper(II) iodide
+ 
+ 
+D Potassium sulfate
+(Total for Question 6 = 2 marks)
+7 When benzene reacts with a mixture of concentrated nitric and sulfuric acids, 
+the reaction is
+ 
+ 
+A electrophilic addition.
+ 
+ 
+B electrophilic substitution.
+ 
+ 
+C nucleophilic addition.
+ 
+ 
+D nucleophilic substitution.
+(Total for Question 7 = 1 mark)
+
+
+--- Page Break ---
+
+6
+*P51947A0632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+8 Benzene and phenol react with bromine.
+ 
+(a) What is the organic product when benzene reacts with excess bromine in the 
+presence of ultraviolet light?
+(1)
+A
+Br
+B
+Br
+Br
+Br
+Br
+Br
+Br
+C
+Br
+D
+Br
+Br
+Br
+Br
+Br
+Br
+
+
+--- Page Break ---
+
+7
+*P51947A0732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Bromine reacts more readily with phenol than with benzene.  This is because the
+(1)
+ 
+ 
+A benzene ring in phenol is more susceptible to nucleophilic attack.
+ 
+ 
+B benzene ring in phenol is deactivated because the oxygen of the OH group is 
+very electronegative.
+ 
+ 
+C lone pair of electrons on the oxygen atom in phenol overlap with the 
+delocalised electrons in the benzene ring.
+ 
+ 
+D lone pair of electrons on the oxygen atom enable phenol to act as an 
+electrophile.
+(Total for Question 8 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+8
+*P51947A0832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+9 The structure of compound G is
+CH3
+NH2
+NH2
+ 
+(a) What is the systematic name of compound G?
+(1)
+ 
+ 
+A 4-methylbenzene-1,3-diamine
+ 
+ 
+B 4-methylbenzene-1,5-diamine
+ 
+ 
+C 2-methylphenyldiamine
+ 
+ 
+D 4-methylphenyldiamine
+ 
+(b) What is the organic species formed in the reaction between compound G and 
+excess ethanoyl chloride?
+(1)
+CH3
+N
++
+H2(C2H5)
+N
++ H2(C2H5)
+CH3
+N
++
+(C2H5)3
+N
++ (C2H5)3
+CH3
+CONHCH3
+CONHCH3
+CH3
+NHCOCH3
+NHCOCH3
+(Total for Question 9 = 2 marks)
+A
+B
+C
+D
+
+
+--- Page Break ---
+
+9
+*P51947A0932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 Four different compounds, P, Q, R and S, are structural isomers with molecular formula C9H10O2.
+O
+O
+O
+O
+ 
+compound P 
+compound Q
+OH
+O
+O
+OH
+ 
+compound R 
+compound S
+ 
+(a) Which compound does not exhibit optical isomerism but does react with 
+sodium hydrogencarbonate to give a colourless gas?
+(1)
+ 
+ 
+A Compound P
+ 
+ 
+B Compound Q
+ 
+ 
+C Compound R
+ 
+ 
+D Compound S
+ 
+(b) Which compound reacts with sodium hydroxide solution to give sodium benzoate 
+as one of the products?
+(1)
+ 
+ 
+A Compound P
+ 
+ 
+B Compound Q
+ 
+ 
+C Compound R
+ 
+ 
+D Compound S
+(Total for Question 10 = 2 marks)
+
+
+--- Page Break ---
+
+10
+*P51947A01032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+11 A reaction sequence is shown.
+OH
+O
+compound W
+Step 2
+Step 4
+Step 3
+Step 1
+Cr2O7
+2–/H+
+O
+Cl
+O
+N
+O
+H
+ 
+(a) What is compound W?
+(1)
+ 
+ 
+A Butan-1-ol
+ 
+ 
+B Butan-2-ol
+ 
+ 
+C 2-methylpropan-1-ol
+ 
+ 
+D 2-methylpropan-2-ol
+ 
+(b) Which substances are required for Step 2?
+(1)
+ 
+ 
+A Acidified potassium dichromate(VI)
+ 
+ 
+B Iodine in alkali, followed by hydrochloric acid
+ 
+ 
+C Sodium hydroxide solution followed by hydrochloric acid
+ 
+ 
+D Ammoniacal silver nitrate (Tollens’ reagent)
+ 
+(c) Which is the reagent for Step 3?
+(1)
+ 
+ 
+A Aqueous chlorine
+ 
+ 
+B Chlorine gas
+ 
+ 
+C Hydrochloric acid
+ 
+ 
+D Phosphorus(V) chloride
+
+
+--- Page Break ---
+
+11
+*P51947A01132*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Which is the reagent for Step 4?
+(1)
+ 
+ 
+A CH3CH2CH2CH2NH2
+ 
+ 
+B CH3CH(NH2)CH2CH3
+ 
+ 
+C CH3CH2CH2CONH2
+ 
+ 
+D CH3CH(CONH2)CH3
+(Total for Question 11 = 4 marks)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+12
+*P51947A01232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+12 Aluminium and iron are both metallic elements.  There are similarities and differences 
+in the properties of their compounds.
+ 
+(a) Both elements form compounds in which their oxidation number is +3.
+ 
+ 
+(i) Complete the electronic configuration of the Al
+3+ and Fe
+3+ ions,  
+using the s, p, d notation.
+(2)
+ 
+ 
+ 
+Al
+3+ 
+1s2
+..............................................................................................
+ 
+ 
+ 
+Fe
+3+ 
+1s2
+..............................................................................................
+ 
+ 
+(ii) Aluminium only forms compounds in which its oxidation number is +3, 
+whereas iron has compounds with a variety of oxidation numbers.  
+Suggest a reason why iron forms stable compounds with more than one 
+oxidation number.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ *(b) Most aluminium compounds are colourless but iron(III) compounds are coloured.
+ 
+ 
+Explain why [Fe(H2O)6]
+3+ ions are coloured.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+13
+*P51947A01332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Aluminium ions and iron(III) ions form complexes in solution. 
+These solutions are acidic.
+ 
+ 
+(i) Draw the structure of the [Fe(H2O)6]
+3+ complex ion, showing clearly the shape 
+around the Fe
+3+ ion, and which atoms in the ligands are attached to the Fe
+3+ ion.
+(2)
+ 
+ 
+ *(ii) The following equilibrium occurs in aqueous solution
+[Fe(H2O)6]
+3+  +  H2O  U  [Fe(OH)(H2O)5]
+2+  +  H3O+
+ 
+ 
+ 
+Suggest why one of the water ligands loses a proton.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+14
+*P51947A01432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Aluminium chloride, AlCl3, and iron(III) chloride, FeCl3, can both be used as catalysts 
+in Friedel-Crafts reactions.
+ 
+ 
+The reaction between benzene and chloromethane, using an aluminium chloride catalyst, 
+can be summarised as
+C6H6  +  CH3Cl  +  AlCl3  o C6H6CH3
++  +  AlCl4
+– 
+C6H6CH3
++  +  AlCl4
+–  o C6H5CH3  +  HCl  +  AlCl3
+ 
+ 
+Suggest, by reference to the electronic structure of AlCl3, how the AlCl4
+– ion forms.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Thiocyanate ions, SCN
+–, are used to test for the presence of Fe
+3+ ions in aqueous solution.  
+A blood red colour, caused by the complex ion [Fe(SCN)(H2O)5]
+2+, is seen.
+ 
+ 
+(i) State the type of reaction taking place.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw a dot-and-cross diagram of the thiocyanate ion, [SCN]
+–. 
+Hence suggest a structure of the ion, showing all the bonds and which atom 
+has the negative charge.
+(2)
+
+
+--- Page Break ---
+
+15
+*P51947A01532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Suggest two ways in which the thiocyanate ion could bond to the Fe
+3+ in the complex.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) Aluminium hydroxide, Al(OH)3, is amphoteric.
+ 
+ 
+Write ionic equations for the reactions of aluminium hydroxide with hydrochloric acid 
+and with sodium hydroxide solution.   
+State symbols are not required.
+(2)
+ 
+ 
+Ionic equation with hydrochloric acid
+ 
+ 
+Ionic equation with sodium hydroxide solution
+(Total for Question 12 = 19 marks)
+
+
+--- Page Break ---
+
+16
+*P51947A01632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 This question is about carboxylic acids.
+ 
+(a) An organic compound, T, contains the elements carbon, hydrogen and oxygen only.  
+T contains a carboxylic acid group and one other functional group.
+ 
+ 
+*(i) A sample of compound T of mass 2.25 g was burned completely, producing 
+3.30 g of carbon dioxide and 1.35 g of water.  In the mass spectrum of 
+compound T, the molecular ion peak is at m/e = 90.
+ 
+ 
+ 
+Use all the data to calculate the molecular formula of compound T.
+ 
+ 
+ 
+You must show your working.
+(6)
+
+
+--- Page Break ---
+
+17
+*P51947A01732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) The mass spectrum of compound T has a peak at m/e = 45.
+ 
+ 
+ 
+Give the displayed formulae of two species that could produce this peak.
+(2)
+ 
+ 
+(iii) The low resolution proton nmr spectrum of compound T has four peaks with 
+areas in the ratio 1 : 2 : 2 : 1.
+ 
+ 
+ 
+Draw the structure of compound T and explain how your structure is 
+consistent with the proton nmr data.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+18
+*P51947A01832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The structure of 2-hydroxy-2-phenylpropanoic acid is shown.
+C
+HO
+CH3
+OH
+C
+O
+ 
+ 
+*(i) Outline how 2-hydroxy-2-phenylpropanoic acid can be synthesised in three steps 
+starting from benzene and an acyl chloride.
+ 
+ 
+ 
+Include the reagents for each step in the synthesis and draw the structures of 
+the two organic intermediates.
+(5)
+
+
+--- Page Break ---
+
+19
+*P51947A01932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Poly(2-hydroxy-2-phenylpropanoic acid) is a possible biodegradable polymer.
+ 
+ 
+ 
+Draw a section of this polymer, showing two repeat units.
+(2)
+(Total for Question 13 = 18 marks)
+
+
+--- Page Break ---
+
+20
+*P51947A02032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+14 This question is about redox reactions.
+ 
+(a) Vanadium exists in different oxidation states which can be interconverted using 
+suitable oxidising and reducing agents.
+ 
+ 
+Some relevant standard electrode potentials are shown in the table.
+Half-equation
+E 9/ V
+Zn
+2+(aq) + 2e– U Zn(s)
+–0.76
+V
+3+(aq) + e– U V
+2+(aq)
+–0.26
+SO4
+2–(aq) + 4H+(aq) + 2e– U SO2(aq) + 2H2O(l)
++0.17
+VO
+2+(aq) + 2H+(aq) + e– U V
+3+(aq) + H2O(l)
++0.34
+Fe
+3+(aq) + e– U Fe
+2+(aq)
++0.77
+VO2
++(aq) + 2H+(aq) + e– U VO
+2+(aq) + H2O(l)
++1.00
+ 
+ 
+(i) Write the overall half-equation for the oxidation of vanadium(II) ions to the 
+vanadium(V) ions, VO2
++.  State symbols are not required.
+(1)
+ 
+ 
+(ii) Select, from the table, a reducing agent which should reduce vanadium(V) to 
+vanadium(IV) but not to vanadium(III).  Justify your answer.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+21
+*P51947A02132*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Write the balanced equation for the disproportionation of V
+3+ into V
+2+ and VO
+2+ 
+and explain whether this reaction is feasible under standard conditions.  
+State symbols are not required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+22
+*P51947A02232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Excess potassium iodide solution was added to 25.0 cm3 of an aqueous solution of 
+bromine.
+Br2  +  2I
+–  o  2Br–  +  I2
+ 
+ 
+The iodine produced was titrated with sodium thiosulfate solution.  All of the iodine 
+required 24.20 cm3 of 0.100 mol dm
+–3 sodium thiosulfate solution for reaction.
+2S2O3
+2–  +  I2  o  S4O6
+2–  +  2I
+–
+ 
+ 
+(i) Calculate the concentration of the aqueous solution of bromine.
+(2)
+
+
+--- Page Break ---
+
+23
+*P51947A02332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) In another experiment, 100.0 cm3 of the same aqueous solution of bromine 
+was treated directly with 0.00100 moles of sodium thiosulfate.
+ 
+ 
+ 
+Excess potassium iodide was then added to the unreacted bromine.
+ 
+ 
+ 
+The iodine produced required 16.80 cm3 of the 0.100 mol dm
+–3 sodium thiosulfate 
+solution for reaction.
+ 
+ 
+ 
+Deduce the mole ratio of S2O3
+2– : Br2 and hence write a balanced equation for 
+the reaction between thiosulfate ions and bromine.
+ 
+ 
+ 
+State symbols are not required.
+(5)
+(Total for Question 14 = 14 marks)
+TOTAL FOR SECTION B = 51 MARKS
+
+
+--- Page Break ---
+
+24
+*P51947A02432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+15
+Sweeteners
+Table sugar (sucrose) contributes to tooth decay and obesity, so some manufacturers add 
+other natural or artificial sweeteners to food.
+Honey is a natural sweetener and has about the same relative sweetness as sucrose.  
+The sweetness arises from the simple sugars glucose and fructose.  Honey also contains 
+pinocembrin which is an antioxidant.
+pinocembrin
+O
+HO
+OH
+O
+Saccharin is an artificial sweetener, which was first produced in 1879.  It is over 300 times 
+sweeter than sucrose.
+saccharin
+O
+O
+C
+S
+NH
+O
+It is normally used as the sodium salt, which is very soluble in water.
+Aspartame is an ester of the dipeptide formed from the amino acids phenylalanine and 
+aspartic acid.  It was first produced in 1965 and is about 200 times sweeter than sucrose.
+aspartame
+OH
+O
+O
+O
+NH2
+N
+H
+O
+
+
+--- Page Break ---
+
+25
+*P51947A02532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(a) (i) Give the molecular formula for pinocembrin.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Label the chiral carbon atom in pinocembrin with an asterisk (*).
+(1)
+O
+HO
+OH
+O
+ 
+(b) One route for the synthesis of saccharin starts with the reaction between 
+methylbenzene and chlorosulfonic acid, HSO3Cl.
+HSO3Cl
+CH3
+CH3
+SO2Cl
+ 
+ 
+Draw the mechanism for this reaction.
+ 
+ 
+The electrophile is +SO2Cl.
+(3)
+
+
+--- Page Break ---
+
+26
+*P51947A02632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Another route for the synthesis of saccharin starts with the reaction between 
+methyl 2-aminobenzoate and nitrous acid (prepared from sodium nitrite and 
+hydrochloric acid).
+Intermediate A
+HNO2
+Step 1
+C
+O
+CH3
+NH2
+O
+C
+O
+CH3
+SO2H
+O
+SO2
+Step 2
+Cl2
+Step 3
+saccharin
+O
+O
+C
+S
+NH
+O
+C
+O
+CH3
+SO2NH2
+O
+C
+O
+CH3
+SO2Cl
+O
+catalyst
+Step 5
+Reagent B
+Step 4
+ 
+ 
+(i) Give the structure of the Intermediate A.
+(1)
+ 
+ 
+(ii) Suggest a substance for Reagent B in Step 4.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Complete the equation for the formation of saccharin in Step 5.
+(1)
+O
+O
+C
+S
+NH
+O
+C
+O
+CH3
+SO2NH2
+O
++
+..................................................
+
+
+--- Page Break ---
+
+27
+*P51947A02732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) The sodium salt of saccharin is much more soluble in water than saccharin.
+saccharin
+O
+O
+C
+S
+NH
+O
+ 
+ 
+ 
+The acidic hydrogen is the one that is attached to the nitrogen atom.
+ 
+ 
+ 
+Complete the structure of the sodium salt of saccharin, showing the charges 
+on both ions.
+(1)
+
+
+--- Page Break ---
+
+28
+*P51947A02832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Phenylalanine and aspartic acid are amino acids.
+OH
+O
+NH2
+OH
+O
+O
+NH2
+HO
+ 
+phenylalanine 
+aspartic acid
+ 
+ 
+(i) Draw the structure of the organic compound formed when hydrochloric acid 
+is added to phenylalanine.
+(1)
+ 
+ 
+(ii) Draw the structure of the organic product formed when excess 
+sodium hydroxide solution is added to aspartic acid.
+(1)
+
+
+--- Page Break ---
+
+29
+*P51947A02932*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) The structure of aspartame is
+OH
+O
+O
+O
+NH2
+N
+H
+O
+aspartame
+ 
+ 
+ 
+Draw the structure of the dipeptide formed between phenylalanine and 
+aspartic acid that is required to form aspartame.
+(2)
+ 
+ 
+(iv) Identify, by name or formula, the alcohol needed to form aspartame from the 
+dipeptide in (d)(iii).
+(1)
+....................................................................................................................................................................................................................................................................................
+Turn over    
+
+
+--- Page Break ---
+
+30
+*P51947A03032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(e) Sugar alcohols, such as sorbitol, are also used as artificial sweeteners. 
+Sorbitol is made from glucose.
+O
+OH
+OH
+OH
+OH
+HO
+OH
+OH
+OH
+OH
+OH
+HO
+ 
+glucose 
+sorbitol
+ 
+ 
+(i) State the reagent needed to convert glucose into sorbitol.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Describe a chemical test which will distinguish between glucose and sorbitol.
+ 
+ 
+ 
+Give the result for each substance.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Sorbitol is dehydrated to form sorbitan.  Sorbitan contains a ring with 
+four carbon atoms and one oxygen atom.  Complete the formula of sorbitan.
+(1)
+O
+(Total for Question 15 = 19 marks)
+TOTAL FOR SECTION C = 19 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+
+
+--- Page Break ---
+
+31
+*P51947A03132*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+32
+*P51947A03232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA

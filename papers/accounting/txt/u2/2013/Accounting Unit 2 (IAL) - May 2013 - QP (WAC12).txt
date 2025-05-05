@@ -1,0 +1,711 @@
+Turn over
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced
+Unit 2 –  Corporate and 
+Management Accounting
+Wednesday 12 June 2013 – Morning
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P42292A
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2013 Pearson Education Ltd.
+W850/6002/57570   1/1/1/1
+*P42292A*
+
+
+--- Page Break ---
+
+P42292A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Hong Kong Cameras plc produces cameras at its factory. The cameras are then delivered to Hong 
+Kong Cameras plc shops, where they are sold to customers.
+ 
+At 31 March 2013, the following balances were in the books:
+Debit
+£
+Credit
+£
+Bad debts written off
+1 850
+Bank 
+38 762
+Commission on sales
+52 750
+Corporation tax provision
+90 000
+7% Debentures 2018
+500 000
+Direct materials
+320 855
+Directors’ salaries
+290 000
+Discount allowed
+45 997
+Discount received on materials
+7 150
+Factory buildings (at cost)
+3 840 000
+Factory machinery (at cost)
+365 000
+Factory power
+48 950
+Fuel for lorries
+35 460
+Interest on bank balance
+2 836
+Inventory of finished goods at 1 April 2012
+134 800
+Maintenance of machinery
+44 780
+Motor lorries (at cost)
+172 000
+Office stationery
+3 865
+Ordinary shares of £1 each
+1 500 000
+Promotions and advertising
+65 000
+Rent on shop premises
+298 000
+Retained earnings
+369 629
+Revenue (sales)
+4 183 693
+Running costs of motor lorries
+36 880
+Trade payables
+21 100
+Trade receivables
+17 459
+Wages
+862 000
+6 674 408
+6 674 408
+
+
+--- Page Break ---
+
+P42292A 
+3
+ 
+Turn over
+ 
+Adjustments and additional information at 31 March 2013:
+ 
+ 
+Inventory of finished goods £138 400
+ 
+ 
+Inventory of office stationery £571
+ 
+ 
+Interest on bank balance has £242 outstanding
+ 
+ 
+Directors’ salaries include:
+Finance director
+£95 000
+Production director
+£95 000
+Sales director
+£100 000
+ 
+ 
+Factory power includes £4 000 paid in advance
+ 
+ 
+Wages include 
+Accountancy staff
+£71 800
+Production staff
+£339 100
+Office staff
+£141 200
+Shop staff
+£197 500
+Transport staff
+£112 400
+ 
+ 
+Assuming a nil residual value in each case and using the straight line method:
+ 
+ 
+– the factory buildings are to be depreciated over a 50 year life
+ 
+ 
+– factory machinery is to be depreciated over an eight year life
+ 
+ 
+– motor lorries are to be depreciated over a four year life.
+ 
+Required:
+ 
+(a) Using only the appropriate balances and adjustments, prepare the Statement of Comprehensive 
+Income for Hong Kong Cameras plc for the year ended 31 March 2013, using International 
+Accounting Standard (IAS) 1.
+ 
+ 
+You must show all workings clearly labelled in arriving at your figures to be entered in the 
+Statement of Comprehensive Income.
+(40)
+ 
+(b) Evaluate the usefulness of the Auditors’ Report to the users of the published accounts of Hong 
+Kong Cameras plc.
+(12)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+P42292A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. Chandpur Sounds Limited produces speakers for home music systems. It has been normal practice 
+by senior management to ask the accountant to value inventory using both the marginal costing 
+method and the absorption costing method.
+ 
+The following information is available for the year ended 31 March 2013:
+ 
+Opening inventory 
+2 100 units
+ 
+Opening inventory value: 
+Marginal costing £25 200
+ 
+ 
+Absorption costing £33 600
+ 
+Production 
+84 000 units per year
+ 
+Semi-Variable costs 
+£202 800 fixed element per year plus £0.70 per unit of production
+ 
+Fixed overheads 
+£12 500 per month
+ 
+Direct materials 
+£6.90 per unit 
+ 
+Direct labour 
+40 minutes work per unit at a wage rate of £6.90 per hour
+ 
+Selling price 
+£25 per unit
+ 
+Closing inventory 
+2 450 units
+ 
+Required:
+ 
+(a) Prepare for management, in columnar format, a Statement of Comprehensive Income for the 
+year ended 31 March 2013, showing:
+ 
+ 
+(i) marginal costing inventory valuation
+ 
+ 
+(ii) absorption costing inventory valuation
+(20)
+ 
+In March 2013, a possible customer is interested in buying the product, but is only prepared to offer 
+£15 per unit.
+ 
+Required:
+ 
+(b) Advise the management of Chandpur Sounds Limited whether this offer should be accepted. 
+(8)
+ 
+The semi-variable costs above are charged by a power company. The power company has informed 
+Chandpur Sounds Limited that, from 1 April 2013, the charges for power will change. They have 
+offered Chandpur Sounds Limited the choice of three options.
+ 
+The three options are:
+ 
+Option 1  A fixed rate of £23 000 per month
+ 
+Option 2   An increase in the fixed element of £202 800 per year by 5%, with the variable charge to 
+remain at £0.70 per unit of production.
+ 
+Option 3  A monthly charge of £16 200, plus a variable charge of £0.90 per unit of production.
+
+
+--- Page Break ---
+
+P42292A 
+5
+ 
+Turn over
+ 
+Required:
+ 
+(c) (i) Advise the management of Chandpur Sounds Limited which Option they should accept, if 
+output is expected to be 84 000 units for the year starting 1 April 2013.
+(7)
+ 
+ 
+(ii) Which Option would be the best option for Chandpur Sounds Limited, if output were 
+greater or less than 84 000 units for the year starting 1 April 2013?
+(5)
+ 
+(d)  
+Evaluate whether Chandpur Sounds Limited should use marginal costing or absorption 
+costing to value inventory.
+(12)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 13 of the question paper.
+
+
+--- Page Break ---
+
+P42292A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. The Statements of Financial Position of Larnaca Distributors plc at 31 March 2012 and 31 March 
+2013 were as follows: 
+31 March 2012
+31 March 2013
+ASSETS
+£
+£
+Non-current assets
+Non-current assets at cost
+800 000
+720 000
+Provision for depreciation
+(400 000)
+(388 000)
+400 000
+332 000
+Current assets
+Inventories
+323 000
+346 000
+Trade and Other receivables
+197 000
+212 000
+Cash and cash equivalents
+77 000
+71 000
+597 000
+629 000
+Total Assets
+997 000
+961 000
+EQUITY AND LIABILITIES
+Equity
+Share capital – £1 Ordinary shares
+500 000
+550 000
+Retained earnings
+180 000
+139 000
+Total capital and reserves
+680 000
+689 000
+Non-current liabilities
+8% Debenture 2013
+80 000
+--------
+Current liabilities
+Trade and Other payables
+219 000
+270 000
+Tax payable
+18 000
+2 000
+237 000
+272 000
+Total Equity and Liabilities
+997 000
+961 000
+
+
+--- Page Break ---
+
+P42292A 
+7
+ 
+Turn over
+ 
+Additional information:
+ 
+1. Motor vans bought for £140 000 were sold for £36 000 on 1 April 2012. The carry over (net 
+book) value of these motor vans was £42 000. 
+ 
+2. Computers were bought for £60 000 on 1 April 2012 and are expected to last for three years, 
+with no residual value.
+ 
+3. At 15 May 2012 a final dividend of 5 pence per share was paid to shareholders.
+ 
+4. An issue of 50 000 £1 Ordinary shares at par was made on 1 October 2012. All shares were 
+purchased and have been fully paid.
+ 
+5. At 30 March 2013, an interim dividend of 4 pence per share was paid to all Ordinary shareholders.
+ 
+6. The £80 000 8% Debenture was repaid on 31 March 2013.
+ 
+7. Operating profit before tax for the year ended 31 March 2013 was £8 000
+ 
+Required:
+ 
+(a) Prepare the Statement of Cash Flows for the year ended 31 March 2013 for Larnaca Distributors 
+plc in accordance with International Accounting Standard (IAS) 7 Statements of Cash Flows.
+(40)
+ 
+(b) Evaluate the current liquidity position of Larnaca Distributors plc. 
+(12)
+(Total 52 marks)
+Answer space for question 3 is on pages 14 to 18 of the question paper.
+
+
+--- Page Break ---
+
+P42292A 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. You are in practice as an accountant and have a meeting with a client, Sunny Kipwat, who owns a 
+fruit-growing business. 
+ 
+The accounts of Sunny Kipwat show:
+ 
+1. Rent of land is £1 560 per quarter (3 months) 
+ 
+2. Direct labour is £1.05 per tray of fruit
+ 
+3. Water bill is £250 a month plus £0.06 per tray of fruit
+ 
+4. Insurance for the year is £1 080
+ 
+5. A motor van was purchased at a cost of £13 160. The motor van has a life of 8 years and a 
+residual value of £200. Depreciation is to be charged on a straight-line basis.
+ 
+6. Delivery costs per tray are £0.27 
+ 
+7. Loan interest and repayment is £270 per month
+ 
+8. Selling price of a tray of fruit is £4.15
+ 
+9. Sales are 283 trays per week. All production is sold.
+ 
+Assume there are four weeks in a month.
+ 
+Required:
+ 
+(a) How many trays of fruit a month must Sunny Kipwat sell, in order to break even?
+(12)
+ 
+(b) How much profit will Sunny Kipwat make in one month?
+(4)
+
+
+--- Page Break ---
+
+P42292A 
+9
+ 
+Turn over
+ 
+Sunny Kipwat stated “I would like to make a profit of £2 000 a month. If all other costs and my 
+selling price remain the same, how much must I pay my workers per tray of fruit, in order to make 
+a profit of £2 000 a month?”
+ 
+Required:
+ 
+(c) Calculate how much Sunny Kipwat would need to pay his workers per tray of fruit, to make a 
+profit of £2 000 per month.
+(8)
+ 
+(d) Evaluate whether it would be advisable to pay direct labour a lower rate per tray, for Sunny 
+Kipwat to achieve a profit of £2 000 per month.
+(8)
+(Total 32 marks)
+Answer space for question 4 is on pages 19 to 22 of the question paper.
+
+
+--- Page Break ---
+
+P42292A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Imran Mohammad studies reports and company accounts on the internet, to decide whether to invest 
+in shares in a company. He is considering investing in Bengal Life plc, a life assurance company. 
+Imran has managed to find the following information from the reports and company accounts:
+ 
+Authorised share capital:
+ 
+ 
+£80 000 000 in Ordinary shares of £2.50 each
+ 
+ 
+£20 000 000 in 4% Redeemable Preference shares of £1each
+ 
+Issued share capital:
+ 
+ 
+£60 000 000 in Ordinary shares of £2.50 each
+ 
+ 
+£20 000 000 in 4% Redeemable Preference shares of £1each
+ 
+Profit for the year after tax £3 104 000
+ 
+Total ordinary dividend paid £960 000
+ 
+Redeemable Preference share dividend was paid in full.
+ 
+Market price of Ordinary shares £2.00
+ 
+Imran would like further information to decide whether to invest in this company.
+ 
+Required:
+ 
+(a) Calculate the following ratios, stating the formula used in each case: 
+ 
+ 
+(i) Dividend per share
+(4)
+ 
+ 
+(ii) Dividend yield 
+(4)
+ 
+ 
+(iii) Dividend cover 
+(4)
+ 
+ 
+(iv) Earnings per share 
+(4)
+ 
+ 
+(v) Price/Earnings ratio 
+(4)
+
+
+--- Page Break ---
+
+P42292A 
+11
+ 
+Turn over
+ 
+Jahingar, the uncle of Imran, is also interested in investing in shares and has given Imran the 
+following advice.
+ 
+“Do not buy the shares in Bengal Life plc at a market price of £2.00. You should buy the shares in 
+Oceanic Assurance at £2.25. They have a higher share price, so they must be a better share.”
+ 
+Required:
+ 
+(b) Advise Imran as to the value of this statement.
+(4)
+ 
+Jahingar also states “There is only one ratio that is important and worth knowing about, and that is 
+the dividend per share”.
+ 
+(c) Evaluate this statement on behalf of Imran. 
+(8)
+(Total 32 marks)
+Answer space for question 5 is on pages 23 to 26 of the question paper.
+
+
+--- Page Break ---
+
+P42292A 
+12 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. Venture Vending Limited is to start a business producing vending machines. The following 
+information is available:
+ 
+ 
+Sales are budgeted to be 5 vending machines a week, starting Week 3 in Month 1. In Month 2, 
+sales are budgeted to be 8 machines a week. In Month 3, sales are expected to rise to 12 machines 
+a week. Sales are expected to stay at this level in future months. Each vending machine sells for 
+£2 450. 
+ 
+ 
+Production will start in Week 2 in Month 1. For Month 1, production will be 7 vending machines 
+per week. In Month 2, production will be 10 machines a week. In Month 3, the number of 
+vending machines produced each week will be equal to sales in the following week. Any 
+vending machines produced but not sold each week will be put into inventory in the warehouse.
+ 
+ 
+Materials for production will be delivered from Week 1 in Month 1. Each week, the materials 
+delivered are the materials needed for production in the following week. Each vending machine 
+requires £675 of materials.
+ 
+ 
+Materials are budgeted to be paid for 2 weeks after delivery. For example, materials delivered 
+in Week 1 in Month 1, will be paid for in Week 3 Month 1.
+ 
+ 
+Customers are budgeted to pay 3 weeks after a sale. For example, a vending machine sold in 
+Week 3 Month 1, will be paid for in Week 2 Month 2.
+ 
+ 
+Assume 4 weeks in each month.
+ 
+Required:
+ 
+(a) Prepare, for the first three months of trading for Venture Vending Limited, the following budgets:
+ 
+ 
+For each of the three months, the budgets should show total figures for EACH month, NOT 
+weekly figures. 
+ 
+ 
+(i) A sales budget in units of vending machines sold.
+(3)
+ 
+ 
+(ii) A production budget in units of vending machines produced.
+(3)
+ 
+ 
+(iii) An inventory budget in units of vending machines. The budget is to show the number of 
+units going to inventory each month, and the total number of units in inventory at the end 
+of each month.
+(6)
+ 
+ 
+(iv) A purchases budget in units.
+(3)
+ 
+ 
+(v) A purchases budget in pounds (£s).
+(3)
+
+
+--- Page Break ---
+
+P42292A 
+13
+ 
+Turn over
+ 
+ 
+(vi) A trade payables budget in pounds (£s) showing the trade payables figure at the end of 
+each month.
+(3)
+ 
+ 
+(vii) A trade receivables budget in pounds (£s) showing the trade receivables figure at the end 
+of each month. 
+(3)
+ 
+At the end of Month 1, actual sales of vending machines have only been half (50%) of budgeted 
+sales. 
+ 
+Required:
+ 
+(b) Evaluate whether Venture Vending Limited should draw up a new set of budgets to replace the 
+existing budgets for Months 2 and 3.
+(8)
+(Total 32 marks)
+Answer space for question 6 is on pages 27 to 29 of the question paper.
+
+
+--- Page Break ---
+
+P42292A 
+14 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Vandeloos Fencing Limited produces wooden fence panels. Vandeloos Fencing Limited uses a 
+standard costing system and management by exception. 
+ 
+The budget and some actual figures for production for April 2013 were:
+Budget
+Actual
+Production (units)
+1 265
+1 265
+Direct Materials
+£4 554
+?
+Direct Labour
+£8 870
+?
+ 
+ 
+Each fence panel was budgeted to use 8 square metres of material in production but the actual 
+usage was 8.14 square metres
+ 
+ 
+The budgeted price of material was £0.45 per square metre, but the actual price paid was £0.51 
+per square metre
+ 
+ 
+11 workers were employed and each worker produced the budgeted figure of 115 fence panels 
+per month
+ 
+ 
+To produce the output, each worker was budgeted to work 42 hours per week for each of the 4 
+weeks in the month. Actual hours worked were 43.5 hours for each of the 4 weeks
+ 
+ 
+The budgeted labour wage rate was £4.80 per hour, and this was achieved.
+ 
+Required:
+ 
+(a) Calculate for the month of April 2013, total expenditure on: 
+ 
+ 
+(i) direct material 
+ 
+ 
+(ii) direct labour.
+(6)
+ 
+(b) Calculate for the month of April 2013 the:
+ 
+ 
+(i) material usage variance
+ 
+ 
+(ii) material price variance
+ 
+ 
+(iii) total material cost variance.
+(10)
+ 
+(c) Suggest one reason for each of the following variances and explain the actions Vandeloos 
+Fencing Limited could take on the:
+ 
+ 
+(i) material usage variance
+ 
+ 
+(ii) material price variance.
+(8)
+
+
+--- Page Break ---
+
+P42292A 
+15
+ 
+Vandeloos Fencing Limited applied management by exception to the figures for April 2013. The 
+cost accountant decided to ignore the labour variance, but to investigate the material variance.
+ 
+(d) Evaluate the decision of the cost accountant to ignore the labour variance, but to investigate the 
+material variance.
+(8)
+(Total 32 marks)
+Answer space for question 7 is on pages 30 to 33 of the question paper.
+
+
+--- Page Break ---
+
+P42292A 
+16 
+BLANK PAGE

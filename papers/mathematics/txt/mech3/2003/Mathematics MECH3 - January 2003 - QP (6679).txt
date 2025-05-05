@@ -1,0 +1,323 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+Advanced/Advanced Subsidiary 
+Monday 13 January 2003   Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. Pages 6, 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+ 
+without working may gain no credit.
+N10814A 
+ 
+ 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2003 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+120 cm 
+ 
+ 
+ 
+ 
+ 
+A particle of mass 5 kg is attached to one end of two light elastic strings. The other ends of the 
+strings are attached to a hook on a beam. The particle hangs in equilibrium at a distance 120 cm 
+below the hook with both strings vertical, as shown in Fig. 1. One string has natural length 100 
+cm and modulus of elasticity 175 N. The other string has natural length 90 cm and modulus of 
+elasticity  newtons. 
+ 
+ 
+ 
+ 
+ 
+Find the value of . 
+ (5)  
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+A 
+ 
+ 
+    5l 
+ 
+ 
+3l 
+B 
+ 
+ 
+A light inextensible string of length 8l has its ends fixed to two points A and B, where A is 
+vertically above B. A small smooth ring of mass m is threaded on the string. The ring is moving 
+with constant speed in a horizontal circle with centre B and radius 3l, as shown in Fig. 2. Find  
+ 
+(a) the tension in the string, 
+(3) 
+ 
+(b) the speed of the ring. 
+(5) 
+ 
+(c) State briefly in what way your solution might no longer be valid if the ring were firmly 
+attached to the string. 
+(1) 
+ 
+N10814A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N10814A 
+3 
+ 
+3.  
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+ 
+  r 
+ 
+ 
+         h 
+ 
+ 
+ 
+ 
+ 
+      O 
+ 
+ 
+ 
+A child’s toy consists of a uniform solid hemisphere attached to a uniform solid cylinder. The 
+plane face of the hemisphere coincides with the plane face of the cylinder, as shown in Fig. 3. 
+The cylinder and the hemisphere each have radius r, and the height of the cylinder is h. The 
+material of the hemisphere is 6 times as dense as the material of the cylinder. The toy rests in 
+equilibrium on a horizontal plane with the cylinder above the hemisphere and the axis of the 
+cylinder vertical.  
+ 
+(a) Show that the distance d of the centre of mass of the toy from its lowest point O is given by 
+ 
+d = 
+)
+4
+(
+2
+5
+2
+2
+2
+r
+h
+r
+hr
+h
+
+
+
+. 
+(7) 
+ 
+ 
+When the toy is placed with any point of the curved surface of the hemisphere resting on the 
+plane it will remain in equilibrium. 
+ 
+(b) Find h in terms of r. 
+(3) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+A piston P in a machine moves in a straight line with simple harmonic motion about a point O, 
+which is the centre of the oscillations. The period of the oscillations is  s. When P is 0.5 m 
+from O, its speed is 2.4 m s1. Find 
+ 
+(a) the amplitude of the motion,  
+(4) 
+ 
+(b) the maximum speed of P during the motion, 
+(1) 
+ 
+(c) the maximum magnitude of the acceleration of P during the motion,  
+ 
+(1) 
+(d) the total time, in s to 2 decimal places, in each complete oscillation for which the speed 
+of P is greater than 2.4 m s1. 
+(5) 
+ 
+ 
+5. 
+A car of mass 800 kg moves along a horizontal straight road. At time t seconds, the resultant 
+force acting on the car has magnitude 
+2)
+2
+(
+000
+48
+
+t
+ newtons, acting in the direction of the motion 
+of the car. When t = 0, the car is at rest. 
+ 
+(a) Show that the speed of the car approaches a limiting value as t increases and find this 
+value. 
+(6) 
+(b) Find the distance moved by the car in the first 6 seconds of its motion.  
+ (6) 
+ 
+ 
+6. 
+A light elastic string has natural length 4 m and modulus of elasticity 58.8 N. A particle P of 
+mass 0.5 kg is attached to one end of the string. The other end of the string is attached to a 
+vertical point A. The particle is released from rest at A and falls vertically.   
+ 
+ 
+ 
+(a) Find the distance travelled by P before it immediately comes to instantaneous rest for the 
+first time.  
+(7) 
+ 
+ 
+The particle is now held at a point 7 m vertically below A and released from rest. 
+ 
+(b)  Find the speed of the particle when the string first becomes slack.  
+(5) 
+ 
+ 
+N10814A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N10814A 
+5 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+          C 
+ 
+ 
+   B 
+ 
+ 
+ 
+ 
+    O 
+120 
+ 
+    a 
+ 
+ 
+       A 
+ 
+Part of a hollow spherical shell, centre O and radius a, is removed to form a bowl with a plane 
+circular rim. The bowl is fixed with the circular rim uppermost and horizontal. The point A is 
+the lowest point of the bowl. The point B is on the rim of the bowl and AOB = 120, as shown 
+in Fig. 4. A smooth small marble of mass m is placed inside the bowl at A and given an initial 
+horizontal speed u. The direction of motion of the marble lies in the vertical plane AOB. The 
+marble stays in contact with the bowl until it reaches B. When the marble reaches B, its speed 
+is v.  
+ 
+ 
+(a) Find an expression for v2. 
+(3) 
+(b) For the case when u2 = 6ga, find the normal reaction of the bowl on the marble as the 
+marble reaches B. 
+(3) 
+(c) Find the least possible value of u for the marble to reach B.  
+(3) 
+ 
+The point C is the other point on the rim of the bowl lying in the vertical plane OAB. 
+ 
+(d) Find the value of u which will enable the marble to leave the bowl at B and meet it again at 
+the point C.  
+(7) 
+ 
+END 
+ 
+ 
+ 
+ 
+PMT
+PMT

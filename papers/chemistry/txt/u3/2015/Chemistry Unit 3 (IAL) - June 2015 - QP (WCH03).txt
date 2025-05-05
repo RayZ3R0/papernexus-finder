@@ -1,0 +1,570 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P44883A
+©2015 Pearson Education Ltd.
+6/6/6/5/
+*P44883A0116*
+Chemistry
+Advanced Subsidiary
+Unit 3:  Chemistry Laboratory Skills I
+Thursday 7 May 2015 – Afternoon
+Time: 1 hour 15 minutes
+WCH03/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 50.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t You will be assessed on your ability to organise and present information, ideas, 
+ 
+descriptions and arguments clearly and logically, including your use of 
+ 
+grammar, punctuation and spelling.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P44883A0216*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 (a) A series of tests is carried out on a white solid, X, which contains one cation and 
+one anion.
+ 
+ 
+Complete the table below.
+Test
+Observation
+Inference
+(Name or formula)
+(i)
+Carry out a flame test on X
+A persistent 
+yellow colour
+The cation in X is
+..........................................................................
+(1)
+(ii)
+Add dilute hydrochloric acid 
+to the solid X
+Bubble the gas given off 
+into limewater
+Effervescence
+The limewater 
+turns cloudy
+The anion in X is
+..........................................................................
+(1)
+ 
+ 
+(iii) Write a balanced equation, including state symbols, for the reaction between the 
+gas formed in the reaction in (a)(ii) and limewater (calcium hydroxide solution).
+(2)
+ 
+(b) Another white solid, Y, also contains one cation and one anion.
+ 
+ 
+Complete the table below.
+Test
+Observation
+Inference
+(i)
+Carry out a flame test 
+on Y
+..........................................................................
+Strontium ions are 
+present
+(1)
+(ii)
+Add dilute nitric acid 
+and dilute aqueous 
+silver nitrate to a 
+solution of Y
+.
+.........................................................................
+..........................................................................
+The anion in Y is 
+probably a chloride
+(1)
+PMT
+
+
+--- Page Break ---
+
+3
+*P44883A0316*
+Turn over    
+ 
+ 
+(iii) A further test is carried out on the mixture formed in (b)(ii).  This confirms that 
+Y contains chloride ions, and not bromide or iodide ions.
+ 
+ 
+ 
+Describe this test and give the result.
+(2)
+Test .........................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Result ...................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) What would you observe when the mixture formed in (b)(ii) is left to stand in 
+sunlight?
+ 
+ 
+ 
+Name the product responsible for this observation.
+(2)
+Observation ..................................................................................................................................................................................................................................................
+Product ..............................................................................................................................................................................................................................................................
+ 
+(c) When aqueous solutions of X and Y are mixed, a white precipitate forms.
+ 
+ 
+Write an ionic equation for the reaction which produces the white precipitate.  
+State symbols are not required.
+(1)
+(Total for Question 1 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P44883A0416*
+2 An organic compound, Z, has only one –OH group.
+ 
+(a) State the test which confirms the presence of an –OH group and give the result 
+of a positive test.
+(2)
+Test .........................................................................................................................................................................................................................................................................
+Result ...................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Name two series of organic compounds, with different general formulae, each of 
+which has one –OH group.
+(1)
+.................................................................................................................................... and ....................................................................................................................................
+ 
+(c) Neither red nor blue litmus paper changed colour when used to test an aqueous 
+solution of Z.  A different sample of Z was warmed with a mixture of aqueous 
+potassium dichromate(VI) and sulfuric acid.  No change was observed.
+ 
+ 
+What can be deduced about the identity of the functional group in Z from each of 
+these observations? Justify your answer.
+(2)
+Test with litmus paper
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Warming with aqueous potassium dichromate(VI) and sulfuric acid
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+5
+*P44883A0516*
+Turn over    
+ 
+(d) Z was investigated by measuring the volume of carbon dioxide formed on 
+complete combustion.
+ 
+ 
+A sample of 0.10 mol of Z produced 9.6 dm3 of carbon dioxide.
+ 
+ 
+Under the conditions of the experiment, the molar volume of a gas is 24 dm3 mol−1.
+ 
+ 
+Use this information to calculate the number of carbon atoms in one molecule of Z. 
+Use the result of your calculation and your deduction in (c) to draw the displayed 
+formula of Z.  Show your working.
+(3)
+ 
+(e) Z has several isomers, only some of which contain an –OH group.
+ 
+ 
+(i) Give one piece of evidence from their mass spectra which would show that 
+two compounds could be isomers.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) How could infrared spectroscopy be used to show that two isomers of Z both 
+have an –OH group?  You are not required to give wavenumber values.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 2 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*P44883A0616*
+3 This question is about enthalpy changes which occur on dissolving different substances.
+ 
+(a) The enthalpy change which occurs when solid ammonium chloride, NH4Cl, 
+dissolves in water was found using the method below.
+ 
+ 
+25.0 cm3 of water was measured using a burette and put into a small beaker. 
+The temperature of the water was measured.
+ 
+ 
+5.00 g of powdered ammonium chloride was added to the water, the mixture  
+was stirred continuously and the lowest temperature of the resulting solution  
+was recorded.
+ 
+ 
+Results:
+ 
+ 
+Initial temperature of water        =    22.0qC
+ 
+ 
+Lowest recorded temperature    =    11.5qC
+ 
+ 
+(i) Calculate the energy transferred when 5.00 g of ammonium chloride dissolves 
+in 25.0 cm3 of water.
+ 
+ 
+ 
+Hence calculate the enthalpy change, ¨Hsolution, which occurs when 1 mol of 
+ammonium chloride dissolves in water.
+ 
+ 
+ 
+Give your final answer to three significant figures and include a sign and units.
+ 
+ 
+ 
+Use the equation:
+ 
+ 
+ 
+Energy transferred (J) = mass of water × 4.18 × temperature change.
+ 
+ 
+ 
+The density of water is 1.00 g cm–3
+(3)
+PMT
+
+
+--- Page Break ---
+
+7
+*P44883A0716*
+Turn over    
+ 
+ 
+(ii) The thermometer used in this experiment gave a total uncertainty in the 
+temperature measurement of just under ±5%. 
+ 
+ 
+ 
+The mass of ammonium chloride was measured using a balance which had an 
+uncertainty of ±0.005 g in each reading.
+ 
+ 
+ 
+Show by calculation that the uncertainty of the result of the experiment 
+would not be improved significantly if a more precise balance was used.
+(2)
+PMT
+
+
+--- Page Break ---
+
+8
+*P44883A0816*
+ 
+(b) In order to determine a more accurate value for the temperature change, the 
+experiment in (a) was repeated with some modifications to the procedure.
+ 
+ 
+The temperature of the water was measured as a stop clock was started, and 
+again after one minute and two minutes.  Three minutes after starting the clock, 
+the ammonium chloride was added to the water.  The temperature was then 
+read each minute from the fourth to the tenth minute, while stirring the mixture 
+continuously.
+ 
+ 
+(i) On the grid below, mark where you would expect to find the points when the 
+temperature measurements are plotted against time.  The initial temperature 
+has been plotted for you.  You are not expected to plot the position of the 
+points accurately; simply indicate their approximate position relative to the 
+starting point.
+(2)
+ 
+ 
+(ii) On the grid, draw the lines needed to determine the maximum temperature change.
+Add a label to show the maximum temperature change on the graph.
+(2)
+Time / minutes
+Temperature 
+/ qC
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+PMT
+
+
+--- Page Break ---
+
+9
+*P44883A0916*
+Turn over    
+ 
+ 
+(iii) A student carried out the experiment using water from a tap.  What is the 
+purpose of measuring the temperature of the water at 0, 1 and 2 minutes 
+from the time of starting the clock?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The equation for the thermal decomposition of ammonium chloride is shown 
+below.
+NH4Cl(s) o NH3(g) + HCl(g)
+ 
+ 
+(i) Suggest why the enthalpy change for this reaction, ¨Hreaction, is difficult to 
+determine directly by experiment.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*P44883A01016*
+ 
+ 
+(ii) Some enthalpy changes which can be determined experimentally are listed 
+below.
+ 
+ 
+ 
+NH4Cl(s) + water 
+o NH4Cl(aq) 
+ǻH1
+ 
+ 
+ 
+NH3(g) 
++ water 
+o NH3(aq) 
+ǻH2
+ 
+ 
+ 
+HCl(g) 
++ water 
+o HCl(aq) 
+ǻH3
+ 
+ 
+ 
+NH3(aq) + HCl(aq) o NH4Cl(aq) 
+ǻH4
+ 
+ 
+ 
+By adding arrows to the diagram below, construct a Hess cycle which can be 
+used to calculate the enthalpy change, ¨Hreaction, for the thermal decomposition 
+of ammonium chloride.
+ 
+ 
+ 
+Label each arrow with the appropriate symbol chosen from the list above for 
+the enthalpy change.  Assume that water is added where necessary to make  
+a solution.
+(1)
+ 
+ 
+(iii) Give the expression for the enthalpy change, ¨Hreaction, for the thermal 
+decomposition of ammonium chloride, in terms of the other enthalpy 
+changes in the cycle.
+(1)
+ 
+ 
+¨Hreaction =
+(Total for Question 3 = 13 marks)
+NH4Cl(s)
+NH4Cl(aq)
+NH3(g) + HCl(g)
+NH3(aq) + HCl(aq)
+ǻH reaction
+PMT
+
+
+--- Page Break ---
+
+11
+*P44883A01116*
+Turn over    
+4 Cyclohexene, C6H10, can be prepared by dehydrating cyclohexanol, C6H11OH, with 
+phosphoric acid.
+ 
+H3PO4
+C6H11OH 
+ C6H10 + H2O
+ 
+Procedure
+ 
+Step 1  12.0 cm3 of cyclohexanol was put into a small flask.  5 cm3 of concentrated 
+phosphoric acid, an excess, was added slowly to the cyclohexanol using a 
+dropping pipette.  Some anti-bumping granules were added to the mixture 
+and the flask was set up for distillation.
+ 
+Step 2  The portion of the distillate collected between 80qC and 90qC contained only 
+cyclohexene and water.
+ 
+Step 3  The distillate of cyclohexene and water was transferred to a separating funnel 
+and a saturated solution of sodium chloride was added.  Most of the water 
+which was in the distillate went into the saturated sodium chloride layer.
+ 
+Step 4  The crude cyclohexene was run out of the separating funnel and dried with 
+anhydrous calcium chloride.
+ 
+Step 5  The calcium chloride was removed by filtration through glass wool, and the 
+liquid was redistilled to collect pure cyclohexene.
+ 
+Cyclohexene has an unpleasant smell and irritates the eyes, so the entire experiment 
+was carried out in a fume cupboard.  In Step 1, tubing was connected to carry any 
+uncondensed cyclohexene to a drain.
+ 
+(a) The chemicals involved in this reaction are all hazardous if they make contact with 
+the eyes, or if swallowed or inhaled.
+ 
+ 
+Other than their effect on the eyes or their toxicity, state two different hazards of 
+the chemicals involved in this reaction.  Name the chemical associated with each 
+hazard.
+(2)
+Chemical
+Hazard
+PMT
+
+
+--- Page Break ---
+
+12
+*P44883A01216*
+ 
+(b) Calculate the number of moles of cyclohexanol used in this experiment.  The 
+density of cyclohexanol is 0.962 g cm–3.
+(2)
+ 
+(c) Draw a labelled diagram showing how to distil the reaction mixture in Step 1 and 
+collect the distillate boiling between 80qC and 90qC.
+(4)
+PMT
+
+
+--- Page Break ---
+
+13
+*P44883A01316*
+Turn over    
+ 
+(d) Explain the difference between a ‘dehydrating agent’, such as the phosphoric acid 
+used in Step 1, and a ‘drying agent’, such as the anhydrous calcium chloride used 
+in Step 4.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Suggest one advantage of using glass wool, rather than filter paper, when 
+removing the calcium chloride in Step 5.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) Calculate the mass of cyclohexanol needed to obtain 10.0 g cyclohexene if the 
+yield is 75%.
+(3)
+PMT
+
+
+--- Page Break ---
+
+14
+*P44883A01416*
+ 
+(g) The cyclohexene was tested by mixing it with bromine dissolved in an organic solvent.
+ 
+ 
+(i) What colour change would be observed?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the displayed formula for the organic product of this reaction.
+(1)
+(Total for Question 4 = 16 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+15
+*P44883A01516*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+16
+*P44883A01616*
+PMT

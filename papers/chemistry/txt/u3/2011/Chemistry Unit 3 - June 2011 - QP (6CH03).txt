@@ -1,0 +1,621 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 3B:  Chemistry Laboratory Skills I Alternative
+Monday 23 May 2011 – Morning
+Time: 1 hour 15 minutes
+6CH07/01
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• You will be assessed on your ability to organise and present information, ideas,
+ 
+descriptions and arguments clearly and logically, including your use of
+ 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+P37682A
+©2011 Edexcel Limited.
+7/7/5/3/
+*P37682A0116*
+PMT
+
+
+--- Page Break ---
+
+2
+*P37682A0216*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1
+A student carried out a series of tests on two solids, X and Y. In parts (a) and (b), 
+complete the inference column in the tables using names or formulae. 
+ 
+(a)
+(3)
+Test
+Observation
+Inference
+(i)
+Carry out a 
+flame test on 
+solid X.
+Lilac flame.
+Cation in X
+.............................................................................
+(ii)
+Dissolve solid X in 
+water. Add dilute 
+nitric acid followed 
+by aqueous silver 
+nitrate.
+Test any precipitate 
+formed with 
+concentrated
+ammonia solution.
+Pale cream precipitate 
+formed which dissolved 
+in concentrated ammonia 
+solution.
+Anion in X
+.............................................................................
+(iii)
+Add a few drops of 
+concentrated sulfuric 
+acid to a small 
+portion of solid X.
+A red-brown gas Z was 
+released which condensed to a 
+red-brown liquid.
+Identity of gas Z
+.............................................................................
+ 
+(iv)  Give the formula of solid X.
+(1)
+................................................................................................................................................................................................................................................
+ 
+(b)
+(3)
+Test
+Observation
+Inference
+(i)
+Warm a small 
+quantity of solid Y
+with aqueous sodium 
+hydroxide and test 
+any gas evolved with 
+damp red litmus 
+paper.
+Colourless gas evolved that 
+turned damp red litmus paper
+blue.
+Gas evolved
+.............................................................................
+Cation in Y
+.............................................................................
+(ii)
+Acidify a solution 
+of Y with dilute 
+hydrochloric acid 
+and then add aqueous 
+barium chloride. 
+White precipitate formed.
+Anion in Y
+.............................................................................
+ 
+(iii)  Give the formula of solid Y.
+(1)
+................................................................................................................................................................................................................................................
+(Total for Question 1 = 8 marks)
+PMT
+
+
+--- Page Break ---
+
+3
+*P37682A0316*
+Turn over  
+2
+An organic liquid, W, has the structure
+HOCH2CH
+CHCH2OH
+ 
+Complete the table by writing the observations you would expect to make when the 
+following tests are carried out.
+Test
+Observation
+Add W, drop by drop, to a small volume 
+of bromine water and shake the mixture 
+until there is no further change. 
+Colour change 
+from
+................................................................................................
+to
+................................................................................................
+Add phosphorus(V) chloride to W.
+Test any gas evolved with damp blue 
+litmus paper.
+................................................................................................
+................................................................................................
+Add aqueous potassium dichromate(VI), 
+acidified with dilute sulfuric acid, to W
+and heat the mixture.
+Colour change 
+from
+................................................................................................
+to
+...............................................................................................
+(Total for Question 2 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P37682A0416*
+3
+A titration was carried out in order to investigate the neutralization reaction shown 
+below.
+HCl(aq) + NaOH(aq) o NaCl(aq) + H2O(l)
+Procedure
+ 
+1. Using a pipette, transfer 50.0 cm3 of sodium hydroxide solution, concentration 
+1.00 mol dm–3, to a polystyrene cup.  Allow to stand for a few minutes.
+ 
+2. Record the temperature of the solution.
+ 
+3. From a burette, add 5.00 cm3 of dilute hydrochloric acid to the solution in the cup.
+ 
+4. Stir the mixture with the thermometer and record the temperature.
+ 
+5. Add successive 5.00 cm3 portions of hydrochloric acid, stirring the mixture and 
+recording the temperature after each addition.
+ 
+6. Continue adding hydrochloric acid until a total of 50.00 cm3 of the acid has been 
+added.
+ 
+Results
+Volume of HCl(aq) 
+added / cm3
+0.00
+5.00
+10.00 15.00 20.00 25.00 30.00 35.00 40.00 45.00 50.00
+Temperature / °C
+22.2
+23.7
+25.1
+26.6
+28.0
+29.5
+29.2
+28.4
+27.6
+26.8
+26.0
+ 
+A graph of the temperature (y-axis) against the volume of hydrochloric acid added         
+(x-axis) enables the maximum temperature rise and the volume of acid required for 
+neutralization to be determined.  From this information it is possible to calculate
+
+x the concentration of the hydrochloric acid
+
+x the enthalpy change for the reaction.
+PMT
+
+
+--- Page Break ---
+
+5
+*P37682A0516*
+Turn over  
+ 
+(a) (i) Plot a graph of temperature against volume of acid added on the axes below.  
+Draw two straight lines on your graph and extrapolate the lines until they 
+intersect.
+(2)
+ 
+ 
+(ii) Use the extrapolated lines on your graph to read off the maximum temperature 
+reached in the neutralization reaction.
+(2)
+Maximum temperature ........................................................ qC
+ 
+ 
+(iii) The point at which the two extrapolated lines meet corresponds to the volume of 
+hydrochloric acid required for neutralization.  Read off this volume from your 
+graph.
+(1)
+Volume of hydrochloric acid ........................................................ cm3
+32 –
+30 –
+28 –
+26 –
+24 –
+22 –
+20 –
+–
+0
+–
+10
+–
+20
+–
+30
+–
+40
+–
+50
+Temperature / qC
+Volume of HCl(aq) / cm3
+PMT
+
+
+--- Page Break ---
+
+6
+*P37682A0616*
+ 
+ 
+(iv) Calculate the number of moles of sodium hydroxide in 50.0 cm3 of a 
+1.00 mol dm–3 solution.
+(1)
+ 
+ 
+(v) HCl(aq) + NaOH(aq) o NaCl(aq) + H2O(l)
+ 
+ 
+ 
+Use this equation and your answers to (iii) and (iv) to calculate the 
+concentration of the hydrochloric acid in mol dm–3.
+(2)
+ 
+(b) (i) Use your graph and answer to (a)(ii) to calculate the maximum temperature 
+change, ǻT, for the reaction.
+(1)
+ǻT = ........................................................ °C
+PMT
+
+
+--- Page Break ---
+
+7
+*P37682A0716*
+Turn over  
+ 
+ 
+(ii) Use your value for the temperature rise, ǻT,  to calculate the heat energy 
+produced when 50.0 cm3 of sodium hydroxide is exactly neutralized by the 
+volume of hydrochloric acid you obtained in (a)(iii).
+ 
+ 
+ 
+Use the expression
+ 
+ 
+ 
+energy      = total mass of × specific heat capacity × temperature
+ 
+ 
+ 
+produced (J)       solution         of solution           rise
+ 
+ 
+ 
+[Assume the specific heat capacity of the solution to be 4.2 J g–1 °C–1 and the 
+density of the solution to be 1.0 g cm–3]
+(2)
+ 
+ 
+(iii) Use your answers to (a)(iv) and (b)(ii) to calculate the enthalpy change, in 
+kJ mol–1, for this reaction.
+ 
+ 
+ 
+Give your answer to two significant figures and include a sign.
+(3)
+ǻH = ........................................................ kJ mol–1
+(Total for Question 3 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+8
+*P37682A0816*
+4 An experiment was carried out to determine the concentration of a solution of potassium 
+iodate(V), KIO3.
+ 
+Procedure
+ 
+1. From a large volume of a solution of potassium iodate(V), use a pipette to withdraw 
+a 25.00 cm3 sample and place the sample in a conical flask.
+ 
+2. Add excess amounts of both potassium iodide solution and dilute sulfuric acid to the 
+25.00 cm3 of potassium iodate(V) solution in the conical flask.  The iodate(V) ions 
+oxidize iodide ions to iodine, in acidic solution, as shown in Equation 1:
+ 
+IO3– + 5I– + 6H+ o 3I2 + 3H2O
+(Equation 1)
+ 
+3. Titrate the iodine formed with a solution of sodium thiosulfate, Na2S2O3, using starch 
+as indicator.
+ 
+I2 + 2Na2S2O3 o 2NaI + Na2S4O6
+(Equation 2)
+Results
+Number of titration
+1
+2
+3
+Burette reading (final) / cm3
+25.10
+26.35
+24.10
+Burette reading (initial) / cm3
+ 0.00
+ 2.05
+ 0.00
+Volume of Na2S2O3 used / cm3
+25.10
+24.30
+24.10
+ 
+(a) (i) Which two titrations should be used to calculate the mean (average) titre?  
+Explain your answer.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P37682A0916*
+Turn over  
+ 
+ 
+(ii) Calculate the mean titre in cm3.
+(1)
+ 
+ 
+(iii) The sodium thiosulfate solution used in the titration has a concentration of 
+0.100 mol dm–3.  Calculate the number of moles of sodium thiosulfate in the 
+mean titre.
+(1)
+ 
+ 
+(iv) Use Equation 2 to calculate the number of moles of iodine, I2, that reacted with 
+the number of moles of sodium thiosulfate you have calculated in part (a)(iii).
+(1)
+ 
+ 
+(v) Use your answer to part (a)(iv) and Equation 1 to calculate the number of 
+moles of iodate(V) ions in 25.00 cm3 of solution.
+(1)
+ 
+ 
+(vi) Use your answer to (a)(v) to calculate the concentration of the potassium 
+iodate(V) solution, KIO3, in g dm–3.
+ 
+ 
+ 
+[The molar mass of KIO3 is 214 g mol–1]
+(2)
+PMT
+
+
+--- Page Break ---
+
+10
+*P37682A01016*
+ 
+(b) (i) The error associated with reading the 25.00 cm3 volume of the potassium 
+iodate(V) solution in a pipette is ± 0.06 cm3.
+ 
+ 
+ 
+Calculate the percentage error associated with using a 25.00 cm3 pipette.
+(1)
+ 
+ 
+(ii) Describe two things you could do to ensure that the burette readings are as 
+accurate as possible.  Assume that the burette has been appropriately rinsed and 
+filled with the sodium thiosulfate solution.
+(2)
+1  ...........................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+2  ...........................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 4 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+11
+*P37682A01116*
+Turn over  
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P37682A01216*
+5
+An experiment was carried out to prepare iodoethane, CH3CH2I.
+ 
+Procedure
+ 
+1. Put some solid, moist red phosphorus into a flask.
+ 
+2. Add ethanol to the flask.
+ 
+3. Set up the apparatus as shown in diagram 1.
+Diagram 1
+ 
+4. Add 25.4 g of powdered iodine, in small portions, to the flask.
+  
+5. Before each addition, remove the condenser.  Add the iodine and then immediately 
+replace the condenser.
+ 
+6. When all the iodine has been added, allow the flask to stand for 10 minutes and then 
+heat the flask for one hour as shown in diagram 1.
+ 
+7. Separate the iodoethane from the reaction mixture and dry it.
+ 
+8. Finally, purify the iodoethane using the apparatus shown in diagram 2.  Collect the 
+iodoethane over a suitably narrow temperature range.
+heat
+water bath
+water in
+water out
+PMT
+
+
+--- Page Break ---
+
+13
+*P37682A01316*
+Turn over  
+Diagram 2
+Data
+Name
+Appearance
+Flammability
+Boiling
+temperature / °C
+ethanol
+iodoethane
+colourless liquid
+colourless liquid
+flammable
+flammable
+78
+72
+ 
+Equations
+2P + 3I2 o 2PI3
+3CH3CH2OH + PI3 o 3CH3CH2I + H3PO3
+heat
+water bath
+water in
+water out
+PMT
+
+
+--- Page Break ---
+
+14
+*P37682A01416*
+ 
+(a) (i) Identify the technique shown in each diagram.
+(2)
+Diagram 1  ......................................................................................................................................................................................................................
+Diagram 2  ......................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why a stopper should not be placed in the top of the condenser shown 
+in diagram 1.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) (i) Give one reason why the iodine was added over a period of time and in small 
+amounts.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why water baths were used in both step 6 and step 8 rather than heating 
+the flasks directly with a Bunsen flame.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest the temperature range suitable for the collection of iodoethane shown in 
+diagram 2.
+(1)
+ 
+ 
+ 
+From ……………………..................................…… to ……………………..................................…… °C
+PMT
+
+
+--- Page Break ---
+
+15
+*P37682A01516*
+ 
+(c) (i) Calculate the number of moles of iodine, I2, in 25.4 g of iodine.
+  
+ 
+ 
+Use the relative atomic mass of I = 127
+(1)
+ 
+ 
+(ii) In this reaction, 1 mol I2 forms 2 mol CH3CH2I.
+ 
+ 
+ 
+Calculate the maximum mass of iodoethane, in g, that could be formed from 
+25.4 g of iodine.
+ 
+ 
+ 
+Use the following relative atomic masses: C = 12, H = 1, I = 127
+(3)
+ 
+ 
+(iii) In a preparation, the mass of iodoethane collected was 23.4 g.
+ 
+ 
+ 
+Calculate the percentage yield in this preparation.
+(1)
+(Total for Question 5 = 11 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*P37682A01616*
+PMT

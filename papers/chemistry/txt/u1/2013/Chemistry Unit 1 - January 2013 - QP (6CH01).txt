@@ -1,0 +1,857 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P41212A
+©2013 Pearson Education Ltd.
+7/6/5/5/4/5/
+*P41212A0124*
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Thursday 10 January 2013 – Morning
+Time: 1 hour 30 minutes
+6CH01/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*P41212A0224*
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 When aqueous solutions of barium chloride and potassium sulfate are mixed, a white 
+precipitate forms.  The ionic equation for the reaction is
+ 
+A 
+K+(aq)      +   Cl− (aq)         KCl(s)
+ 
+B 
+K2+(aq)    +   2Cl− (aq)       KCl2(s)
+ 
+C 
+Ba+(aq)    +   SO4
+− (aq)      BaSO4(s)
+ 
+D 
+Ba2+(aq)   +   SO4
+2− (aq)     BaSO4(s)
+(Total for Question 1 = 1 mark)
+2 Which of the following processes has the highest atom economy?
+ 
+A 
+Making poly(ethene) from ethene.
+ 
+B 
+Making ethene from eicosane, C20H42.
+ 
+C 
+Making chloromethane from methane.
+ 
+D 
+Making magnesium chloride from magnesium and hydrochloric acid.
+(Total for Question 2 = 1 mark)
+3 How many molecules are present in 16 g of oxygen gas, O2(g)?
+ 
+[Avogadro constant = 6 × 1023 mol−1]
+ 
+A 
+96 × 1023
+ 
+B 
+12 × 1023
+ 
+C 
+ 6 × 1023
+ 
+D 
+ 3 × 1023
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P41212A0324*
+Turn over    
+4 Nickel(II) sulfate is prepared by adding an excess of nickel(II) carbonate to 0.010 mol 
+of dilute sulfuric acid.
+ 
+NiCO3(s)   +   H2SO4(aq)      NiSO4(aq)   +   H2O(l)   +   CO2(g)
+ 
+Solid nickel(II) sulfate crystals are produced with a 20% yield.  How many moles of 
+nickel(II) sulfate crystals are obtained?
+ 
+A 0.001
+ 
+B 0.002
+ 
+C  0.010
+ 
+D 0.050  
+(Total for Question 4 = 1 mark)
+5 When 0.635 g of copper (relative atomic mass, RAM = 63.5) is added to an excess of 
+silver nitrate solution, 2.158 g of silver (RAM = 107.9) form.  The ionic equation for the 
+reaction is
+ 
+A Cu(s)    +   Ag2+(aq)      Cu2+(aq)   +   Ag(s)
+ 
+B Cu(s)    +   Ag+(aq)       Cu+(aq)    +   Ag(s)
+ 
+C 2Cu(s)  +   Ag2+(aq)      2Cu+(aq)  +   Ag(s)
+ 
+D Cu(s)    +   2Ag+(aq)     Cu2+(aq)   +   2Ag(s)
+(Total for Question 5 = 1 mark)
+6 In an experiment to measure the enthalpy change of a reaction involving gases, 
+which of the following conditions must always be kept constant?
+ 
+A Pressure 
+ 
+B Temperature
+ 
+C Volume
+ 
+D Temperature and pressure
+(Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P41212A0424*
+7 In an endothermic reaction in aqueous solution, which of the following is correct?
+ 
+Temperature 
+Sign of enthalpy change
+A
+Increases
+Positive
+B
+Increases
+Negative
+C
+Decreases
+Positive
+D
+Decreases
+Negative
+(Total for Question 7 = 1 mark)
+8 The enthalpy change for the reaction to form hydrated sodium thiosulfate crystals 
+cannot be measured directly.
+ 
+The following Hess cycle can be used.
+Na2S2O3(s)   +   5H2O(l)      Na2S2O3.5H2O(s)
+Na2S2O3 (aq)
+ 
+The enthalpy change for the reaction, Hr, is equal to
+ 
+A 
+ H1  +  H2
+ 
+B 
+ H1  −  H2
+ 
+C 
+−H1  −  H2
+ 
+D 
+−H1  +  H2
+(Total for Question 8 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Hr
++aq
+H1
++aq
+H2
+PMT
+
+
+--- Page Break ---
+
+5
+*P41212A0524*
+Turn over    
+9 When 10 cm3 of 2 mol dm–3 hydrochloric acid is reacted with
+ 
+10 cm3 of 2 mol dm–3 sodium hydroxide solution, the temperature change is T.
+HCl(aq)  +  NaOH(aq)    NaCl(aq)  +  H2O(l)
+ 
+When the reaction is repeated with 50 cm3 of each solution, the temperature change is
+ 
+A T
+ 
+B 5 × T
+ 
+C 
+1
+5  × T
+  
+D 10 × 2 × T
+(Total for Question 9 = 1 mark)
+10 An isotope of an element, atomic number z, has mass number 2z + 4.  How many 
+neutrons are in the nucleus of the element?
+ 
+A z + 4
+ 
+B z + 2
+ 
+C z
+ 
+D 4
+(Total for Question 10 = 1 mark)
+11 When an Al4+ ion is formed from an Al atom, the fourth electron is lost from the
+ 
+A 1s sub-shell.
+ 
+B 2s sub-shell.
+ 
+C 2p sub-shell.
+ 
+D 3s sub-shell.
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P41212A0624*
+12 Metals are good conductors of electricity because 
+ 
+A 
+metal atoms are arranged in a regular lattice.
+ 
+B 
+metal ions are very close to each other.
+ 
+C 
+metal ions are free to move through the lattice.
+ 
+D 
+electrons are free to move through the lattice.
+(Total for Question 12 = 1 mark)
+13 Which of the following statements is evidence for the existence of ions in ionic 
+compounds?
+ 
+A 
+Ionic compounds, in the solid state, conduct electricity.
+ 
+B 
+When any ionic compound in solution is electrolysed, the migration of ions 
+can be seen.
+ 
+C 
+In electron density maps for ionic compounds, there is no single line 
+representing electron density that surrounds both cations and anions.
+ 
+D 
+In electron density maps for ionic compounds, there are some single lines 
+representing electron density that surround both cations and anions.
+(Total for Question 13 = 1 mark)
+14 White phosphorus consists of
+ 
+A 
+a giant structure of atoms.
+ 
+B 
+a giant structure of ions.
+ 
+C 
+small molecules.
+ 
+D 
+single atoms.
+(Total for Question 14 = 1 mark)
+15 Isomers have different
+ 
+A 
+empirical formulae.
+ 
+B 
+molecular formulae.
+ 
+C 
+skeletal formulae.
+ 
+D 
+molar masses.
+(Total for Question 15 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P41212A0724*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+8
+*P41212A0824*
+16 Four of the reactions of propene are shown on the diagram below.
+ 
+(a) Nickel is often used as the catalyst for Reaction 1.  Use your Periodic Table to 
+select which of the following metals can be used instead of nickel to catalyse 
+Reaction 1.  
+(1)
+ 
+A 
+Potassium 
+ 
+B 
+Calcium 
+ 
+C 
+Gallium
+ 
+D 
+Palladium 
+ 
+(b) The name of the reagent and the product for Reaction 2 are
+(1)
+Reagent
+Product
+A
+bromine water
+dibromopropane
+B
+bromine 
+dibromopropane
+C
+bromine water
+1,2-dibromopropane
+D
+bromine 
+1,2-dibromopropane
+CH3CH2CH3
+CH3CH(OH)CH2OH
+Reaction 1
+Hydrogen / catalyst
+CH3CH
+CH2
+Reaction 4
+CH3CHBrCH2Br
+Reaction 2
+Reaction 3
+HBr
+Compound A
+PMT
+
+
+--- Page Break ---
+
+9
+*P41212A0924*
+Turn over    
+ 
+(c) What is formed in Reaction 3?
+(1)
+ 
+A Only 1-bromopropane
+ 
+B Only 2-bromopropane
+ 
+C A mixture of bromopropanes containing mainly 2-bromopropane
+ 
+D A mixture of bromopropanes containing mainly 1-bromopropane
+ 
+(d) A mixture of dilute sulfuric acid and which of the following reagents is needed for 
+Reaction 4?
+(1)
+ 
+A KOH
+ 
+B KMnO4
+ 
+C H2O2
+ 
+D O2
+ 
+(e) The reaction of propene in Reaction 4 can be classified both as 
+(1)
+A
+addition and reduction.
+B
+addition and oxidation.
+C
+free radical substitution and reduction.
+D
+free radical substitution and oxidation.
+(Total for Question 16 = 5 marks)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P41212A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17 This question is about the preparation of the alum, potassium aluminium sulfate, 
+KAl(SO4)2t12H2O.  It is a double salt consisting of potassium ions, aluminium ions and 
+sulfate ions, and water of crystallization.
+ 
+(a) The first step of the preparation involves adding an excess of aluminium foil to 10 cm3 
+of 2 mol dm−3 potassium hydroxide to form potassium aluminate.
+ 
+ 
+The equation for this reaction is
+ 
+ 
+2Al(s)   +   2KOH(aq)   +   2H2O(l)      2KAlO2(aq)   +   3H2(g)
+ 
+ 
+(i) Write a balanced ionic equation for this reaction.
+(1)
+ 
+ 
+(ii) Calculate the number of moles of potassium hydroxide used.
+(1)
+ 
+ 
+(iii) Hence state the number of moles of aluminium that react with the potassium 
+hydroxide.
+(1)
+ 
+ 
+(iv) Use your answer to (iii) to calculate the mass of aluminium that reacts with the 
+potassium hydroxide.  Use the Periodic Table as a source of data.
+(1)
+PMT
+
+
+--- Page Break ---
+
+11
+*P41212A01124*
+Turn over    
+ 
+ 
+(v) Calculate the total mass of aluminium added to the potassium hydroxide if a 
+10% excess of aluminium is required.
+(1)
+ 
+ 
+(vi) Identify two hazards in this first step of the preparation.
+(2)
+Hazard 1  ..........................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Hazard 2  ..........................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The second step of the reaction is the addition of a slight excess of 1 mol dm−3 
+sulfuric acid.
+ 
+ 
+(i) Balance the following equation for the reaction
+(1)
+ 
+ 
+ 
+KAlO2(aq)   +     H2SO4(aq)      KAl(SO4)2(aq)   +     H2O(l)
+ 
+ 
+(ii) Calculate the volume of the 1 mol dm−3 sulfuric acid that reacts with the 
+potassium aluminate.
+(1)
+ 
+ 
+(iii) State how you would show that the acid had been added in excess.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P41212A01224*
+ 
+ 
+*(iv) State and explain the steps necessary to obtain pure, dry crystals from the 
+mixture.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Suggest the colour of the crystals.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Suggest the formula of another metal ion which could form an alum, in 
+combination with potassium and sulfate ions.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 17 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+13
+*P41212A01324*
+Turn over    
+18 This question is about lithium iodide, an ionic salt.
+ 
+(a) Draw dot and cross diagrams for the lithium and iodide ions.  Show all the 
+electrons in the lithium ion but only outer shell electrons in the iodide ion.
+(2)
+ 
+(b) On the Born-Haber cycle below, fill in the missing formulae (including state 
+symbols) and the missing enthalpy change.  
+(3)
+Hlat[LiI(s)]
+LiI(s)
+Hf[LiI(s)]
+..........................  +  .........................
+Eaff1[I(g)]
+Em1[Li(g)]
+Li(g)
+.........................
+.........................
+Hat[Li(s)]
+.........................
+.........................
++
+PMT
+
+
+--- Page Break ---
+
+14
+*P41212A01424*
+ 
+(c) Calculate the electron affinity of iodine, Eaff1[I(g)], using the data below.
+H/kJ mol−1
+Lattice energy for lithium iodide, Hlat
+−759
+Enthalpy change of atomization of lithium, Hat
++159
+Enthalpy change of atomization of iodine, Hat
++107
+First ionization energy of lithium, Em1
++520
+Enthalpy change of formation of lithium iodide, Hf
+−270
+(2)
+ 
+(d) The experimental lattice energy for lithium iodide is −759 kJ mol−1.  The 
+theoretical lattice energy is different from this value.
+ 
+ 
+Will the experimental lattice energy be more negative or less negative than the 
+theoretical lattice energy?  Justify your answer.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P41212A01524*
+Turn over    
+ 
+(e) State and explain how electron affinity values change as you go down Group 7 
+from chlorine to iodine.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P41212A01624*
+19 Hydrogen has three isotopes, 1H, known as protium, 2H, deuterium, and 3H, tritium.
+ 
+(a) In terms of sub-atomic particles, give the similarities and differences between 
+atoms of these three isotopes of hydrogen.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................  
+ 
+(b) When a nitrogen atom collides with a high energy neutron, one atom of tritium 
+and one atom of another element are formed.  Complete the equation below.
+(1)
+14
+7N   +   1
+0n      3
+1H   +   ...........................
+ 
+(c) Tritium-deuterium gas, consisting of molecules each containing one deuterium 
+atom and one tritium atom, is used in some nuclear warheads.  Typically, each 
+warhead has about 4.0 g of the gas added.
+ 
+ 
+(i) Calculate the number of moles of tritium-deuterium in 4.0 g.
+(2)
+ 
+ 
+(ii) Calculate the volume, in cm3, of 4.0 g of tritium-deuterium gas.
+ 
+ 
+ 
+[Molar volume of a gas under these conditions = 24 000 cm3 mol–1]
+(1)
+PMT
+
+
+--- Page Break ---
+
+17
+*P41212A01724*
+Turn over    
+ 
+(d) Tritium is not usually included in calculations of the relative atomic mass of 
+hydrogen, because it is radioactive and has a relatively short half-life.
+ 
+ 
+Calculate the relative atomic mass of hydrogen with the following isotopic 
+composition.  Give your answer to four decimal places.
+ 
+(2)
+Isotope
+Mass number
+Relative abundance
+1H
+1.0078
+99.9850
+2H
+2.0141
+0.0150
+ 
+(e) The electronic energy levels in hydrogen are shown below.
+ 
+ 
+(i) Mark on the energy level diagram, with an arrow, the transition that 
+represents the ionization energy of hydrogen.  
+(1)
+n = ∞
+n = 4
+n = 3
+n = 2
+n = 1
+PMT
+
+
+--- Page Break ---
+
+18
+*P41212A01824*
+ 
+ 
+(ii) In some versions of the Periodic Table, hydrogen is placed in the same group 
+as sodium.  Give the electronic configurations for both a hydrogen atom and a 
+sodium atom, using the s and p notation.
+ 
+ 
+ 
+Use these electronic configurations to suggest why this is a reasonable 
+grouping.
+(2)
+H  ...............................................................................................................................................................................................................................................................................
+Na  ...........................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(f) Which element in the Periodic Table has the highest first ionization energy? Justify 
+your answer.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+19
+*P41212A01924*
+Turn over    
+20 This question is about the gas ethane, C2H6, and its reactions.
+ 
+(a) Write the equation, including state symbols, which represents the reaction taking 
+place when the standard enthalpy change of combustion of ethane is measured.
+(2)
+ 
+(b) Ethane can react with chlorine to form chloroethane and hydrogen chloride.
+ 
+ 
+C2H6(g)   +   Cl2(g)      C2H5Cl(g)   +   HCl(g)
+Bond
+Bond enthalpy/kJ mol–1
+C—H
+413
+C—C
+347
+C—Cl
+346
+H—Cl
+432
+Cl—Cl
+243
+ 
+  
+Rewrite this equation using displayed formulae.
+ 
+ 
+Use the equation you have written, together with the bond enthalpy data, to 
+calculate the enthalpy change for the reaction.
+(4)
+PMT
+
+
+--- Page Break ---
+
+20
+*P41212A02024*
+ 
+(c) This reaction takes place in a number of steps, some of which are shown below.
+ 
+ 
+Step 1  
+ 
+             Cl2   $Mt
+ 
+ 
+Step 2         CH3CH3$Mt   HCl   +   CH3CH2t
+ 
+ 
+(i) State the type of reaction occurring in step 1 and the conditions needed for 
+this step.
+(2)
+Type ......................................................................................................................................................................................................................................................................
+Conditions ......................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Complete the equation below for the third step of the reaction, and show the 
+movement of electrons using the appropriate arrows.  
+(3)
+ 
+ 
+ 
+ CH3CH2t$M–Cl   
+
+ 
+ 
+(iii) Write equations for two termination steps in this reaction.
+(2)
+ 
+(d) Ethane can be cracked in industry.  Write an equation for the cracking of ethane.
+(1)
+ 
+(e) Suggest two reasons why cracking of larger alkane molecules is important in 
+industry.
+(2)
+Reason 1:  ........................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Reason 2:  ........................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 16 marks)
+TOTAL FOR SECTION B = 60 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+21
+*P41212A02124*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+22
+*P41212A02224*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+23
+*P41212A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+*P41212A02424*
+PMT

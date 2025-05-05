@@ -1,0 +1,265 @@
+N6993
+83019/R6677 3/3/3/3/3/36, 100
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+Edexcel Foundation is a registered charity. ©2001 Edexcel
+Paper Reference(s)
+6679
+Edexcel GCE
+Mechanics M3
+(New Syllabus)
+Advanced/Advanced Subsidiary
+Thursday 7 June 2001 Afternoon
+Time:  1 hour 30 minutes
+Materials required for examination
+    Items included with question papers
+Answer Book (AB16)
+         Nil
+Graph Paper (ASG2)
+Mathematical Formulae (Lilac)
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature.
+Whenever a numerical value of g is required, take g = 9.8 m s2.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has seven questions.
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers
+without working may gain no credit.
+PMT
+PMT
+
+
+--- Page Break ---
+
+N6993
+2
+1.
+A particle P moves along the x-axis in the positive direction. At time t seconds,
+the velocity of P is v m s1 and its acceleration is
+t
+6
+1
+-
+2
+1 e
+m s2. When t = 0 the 
+speed of P is 10 m s1.
+(a) Express v in terms of t.
+(4)  
+(b) Find, to 3 significant figures, the speed of P when t = 3.
+(2)   
+(c) Find the limiting value of v.
+(1)
+2.
+       Figure 1
+A
+u m s1
+0.2 m
+
+A smooth solid hemisphere, of radius 0.8 m and centre O, is fixed with its plane 
+face on a horizontal table. A particle of mass 0.5 kg is projected horizontally with 
+speed u m s1 from the highest point A of the hemisphere. The particle leaves the 
+hemisphere at the point B, which is a vertical distance of 0.2 m below the level 
+of A. The speed of the particle at B is v m s1 and the angle between OA and OB 
+is , as shown in Fig. 1.
+(a) Find the value of cos .
+      (1)     
+(b) Show that v2 = 5.88.
+(3)
+(c) Find the value of u.
+(3)
+PMT
+PMT
+
+
+--- Page Break ---
+
+N6993
+3
+3.
+Figure 2
+B
+  A
+A light horizontal spring, of natural length 0.25 m and modulus of elasticity 52 N, 
+is fastened at one end to a point A. The other end of the spring is fastened to a 
+small wooden block B of mass 1.5 kg which is on a horizontal table, as shown in 
+Fig. 2. The block is modelled as a particle.
+The table is initially assumed to be smooth. The block is released from rest when 
+it is a distance 0.3 m from A. By using the principle of the conservation of 
+energy,
+(a) find, to 3 significant figures, the speed of B when it is a distance 0.25 m 
+from A.
+(5)
+It is now assumed that the table is rough and the coefficient of friction between B 
+and the table is 0.6.
+(b) Find, to 3 significant figures, the minimum distance from A at which B can 
+rest in equilibrium.
+(5)
+PMT
+PMT
+
+
+--- Page Break ---
+
+N6891
+4
+4.
+A projectile P is fired vertically upwards from a point on the earth’s surface.
+When P is at a distance x from the centre of the earth its speed is v. Its
+acceleration is directed towards the centre of the earth and has magnitude 
+2
+x
+k ,
+where k is a constant. The earth may be assumed to be a sphere of radius R.
+(a) Show that the motion of P may be modelled by the differential equation
+2
+2
+d
+d
+x
+gR
+x
+v
+v
+
+
+.
+(4)
+The initial speed of P is U, where U 2 < 2gR. The greatest distance of P from the 
+centre of the earth is X.
+(b) Find X in terms of U, R and g.
+(6)
+PMT
+PMT
+
+
+--- Page Break ---
+
+N6993
+5
+5.
+Figure 3
+r
+h
+2
+1
+h    
+An ornament S is formed by removing a solid right circular cone, of radius r and 
+height 2
+1 h, from a solid uniform cylinder, of radius r and height h, as shown in 
+Fig. 3.
+(a) Show that the distance of the centre of mass S from its plane face is 
+h
+40
+17
+.
+      (7)
+The ornament is suspended from a point on the circular rim of its open end. It 
+hangs in equilibrium with its axis of symmetry inclined at an angle to the 
+horizontal. Given that h = 4r,
+(b) find, in degrees to one decimal place, the value of .
+(4)
+PMT
+PMT
+
+
+--- Page Break ---
+
+N6891
+6
+6.
+Figure 4
+A
+60
+h
+P
+60
+B
+A particle P of mass m is attached to two light inextensible strings. The other 
+ends of the string are attached to fixed points A and B. The point A is a distance h 
+vertically above B. The system rotates about the line AB with constant angular 
+speed . Both strings are taut and inclined at 60to AB, as shown in Fig. 4. The 
+particle moves in a circle of radius r.
+(a) Show that r = 2
+3 h.
+(2)
+(b) Find, in terms of m, g, h and , the tension in AP and the tension in BP.
+(8)
+The time taken for P to complete one circle is T.
+(c) Show that T < 
+
+
+
+
+
+
+g
+h
+2
+
+.
+(4)
+PMT
+PMT
+
+
+--- Page Break ---
+
+N6993
+7
+7.
+      Figure 5
+A
+R
+30
+A small ring R of mass in is free to slide on a smooth straight wire which is fixed 
+at an angle of 30to the horizontal. The ring is attached to one end of a light 
+elastic string of natural length a and modulus of elasticity . The other end of the 
+string is attached to a fixed point A of the wire, as shown in Fig. 5. The ring rests 
+in equilibrium at the point B, where AB = a
+8
+9
+.
+(a) Show that = 4mg.
+(3)
+The ring is pulled down to the point C, where BC =
+a
+4
+1
+, and released from rest. 
+At time t after R is released the extension of the string is ( a
+8
+1
++ x).
+(b) Obtain a differential equation for the motion of R while the string remains 
+taut, and show that it represents simple harmonic motion with period 
+
+
+
+
+
+
+g
+a
+
+.
+(6)
+(c) Find, in terms of g, the greatest magnitude of the acceleration of R while the 
+string remains taut.
+(2)
+(d) Find, in terms of a and g, the time taken for R to move from the point at 
+which it first reaches maximum speed to the point where the string becomes slack 
+for the first time.
+(5)
+END
+PMT
+PMT

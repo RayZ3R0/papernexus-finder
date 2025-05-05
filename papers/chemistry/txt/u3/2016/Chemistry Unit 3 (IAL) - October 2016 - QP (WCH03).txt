@@ -1,0 +1,639 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P50705A
+©2016 Pearson Education Ltd.
+5/6/6/6/5/
+*P50705A0116*
+Chemistry
+Advanced Subsidiary
+Unit 3:  Chemistry Laboratory Skills I
+Monday 7 November 2016 – Morning
+Time: 1 hour 15 minutes
+WCH03/01
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• You will be assessed on your ability to organise and present information, ideas, 
+ 
+descriptions and arguments clearly and logically, including your use of 
+ 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P50705A0216*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 A white solid, A, has one metal cation and an anion consisting of two or more elements. 
+ 
+(a) A flame test is carried out on compound A by mixing the solid with concentrated 
+hydrochloric acid and using a wire to place some of the mixture formed in the 
+hottest part of a Bunsen flame. 
+ 
+ 
+(i) The wire is made from a metal or an alloy.  Name a suitable material for the 
+wire and give one reason why this material is used. 
+(2)
+Material  ............................................................................................................................................................................................................................................................
+Reason  ..............................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+  
+  
+(ii) Suggest one reason for using hydrochloric acid in this test, rather than 
+another strong acid.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) In a flame test for solid A, a red colour is observed.  Identify, by name or formula, 
+one Group 1 metal ion and one Group 2 metal ion that could be present.
+(2)
+Group 1 metal ion ..................................................................................................................................................................................................................................
+Group 2 metal ion ..................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P50705A0316*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) When solid A is added to water, some dissolves to form a colourless solution.
+ 
+ 
+When phenolphthalein is added to this mixture, it turns pink. 
+ 
+ 
+When dilute hydrochloric acid is added to the mixture, the temperature increases 
+and a colourless solution forms, but no gas is given off.
+ 
+ 
+(i) Identify, by name or formula, the anion present in A.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the ionic equation for the reaction that causes the temperature to 
+increase.  State symbols are not required.
+(1)
+ 
+(c) When dilute sulfuric acid is added to the solution of A, a white precipitate forms.
+ 
+ 
+(i) Name the white precipitate.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the ionic equation, including state symbols, for the formation of this 
+precipitate.
+(1)
+ 
+(d) Give the formula of the white solid, A.
+(1)
+(Total for Question 1 = 10 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P50705A0416*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+2 P, Q and R are different halogenoalkanes with the general formula C3H7X.
+ 
+(a) 2 cm3 of ethanol is added to three test tubes in a water bath at 50°C.
+ 
+ 
+Three drops of P are added to the first test tube, three drops of Q to the second 
+and three drops of R to the third.
+ 
+ 
+2 cm3 portions of aqueous silver nitrate solution are added to each test tube.
+ 
+ 
+Explain why ethanol is added to each test tube. 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Cream coloured precipitates form in the test tubes containing P and Q.  
+These precipitates are soluble in concentrated ammonia solution.
+ 
+ 
+A yellow coloured precipitate forms in the test tube which contains R. 
+This precipitate is insoluble in concentrated ammonia solution.
+ 
+ 
+Deduce the identity of the halogen present in each halogenoalkane.
+(2)
+P and Q  ............................................................................................................................................................................................................................................................
+R  ..............................................................................................................................................................................................................................................................................
+ 
+(c) The mass spectrum of P includes a peak at m/e = 29 but neither Q nor R has a 
+peak at this value.
+ 
+ 
+(i) Suggest the identity of the positive ion responsible for this peak at m/e = 29.
+(1)
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P50705A0516*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Deduce the structural formulae of the three halogenoalkanes.
+(3)
+ 
+ 
+ 
+P
+ 
+ 
+ 
+Q
+ 
+ 
+ 
+R
+(Total for Question 2 = 7 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P50705A0616*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 An iodine coulometer can be used to find the equation for the reaction between 
+iodine and sodium thiosulfate.
+An iodine coulometer
+anode
+cathode
+10% KI
+screw 
+clips
+concentrated 
+solution of KI
+concentrated 
+solution of 
+I2 in KI
+DC supply
+A
+–
++
+ 
+The DC supply is switched on for 15.0 minutes.
+ 
+The constant current, measured by the ammeter, is 0.200 A.
+ 
+The screw clips are closed, the left-hand bung is removed and the contents of the 
+anode (positive electrode) tube are run into a 100 cm3 volumetric flask.  The tube 
+and electrode are rinsed with a little distilled water and the washings added to the 
+volumetric flask.  The solution in the volumetric flask is made up to the mark with 
+distilled water and mixed thoroughly.
+ 
+10.0 cm3 portions of the contents of the volumetric flask are now titrated with 
+0.0100 mol dm–3 sodium thiosulfate solution.
+ 
+(a) (i) Name the indicator used for the titration, and give the colour change seen at 
+the end-point.
+(2)
+Indicator  ..........................................................................................................................................................................................................................................................
+Colour change from .......................................................................................................... to ..........................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P50705A0716*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) State the appearance of the titration mixture just before the indicator is added.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Calculate the number of moles of electrons transferred from the iodide ions to 
+form iodine in the experiment.  Use the expression
+ 
+ 
+number of moles of electrons
+current (A
+time (s)
+=
+×
+)
+96 500
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P50705A0816*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) The total volume of solution in the volumetric flask is 100 cm3.
+ 
+ 
+10.0 cm3 portions of the mixture are titrated with 
+0.0100 mol dm–3 sodium thiosulfate solution.
+ 
+ 
+The results are given in the table below.
+Titration number
+1
+2
+3
+4
+Second reading / cm3
+19.45
+38.05
+19.05
+38.25
+First reading / cm3
+0.00
+19.45
+0.00
+19.55
+Titre / cm3
+ 
+ 
+(i) Complete the table.
+(1)
+ 
+ 
+(ii) Which result(s) should be discarded?  Give a reason for your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Calculate the mean titre for the remaining values.
+(1)
+ 
+ 
+(iv) Calculate the number of moles of thiosulfate ions in this mean titre.
+(1)
+ 
+ 
+(v) Calculate the number of moles of thiosulfate ions needed to react with the 
+total amount of iodine in the 100 cm3 of solution in the flask.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P50705A0916*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) (i) Complete the ionic half-equations for the oxidation of thiosulfate ions and the 
+oxidation of iodide ions.
+(2)
+ 
+2S2O3
+2−(aq)                        l  S4O6
+2−(aq)
+ 
+2I−(aq)                                l  I2(aq)
+ 
+ 
+(ii) In part (b), you calculated the number of moles of electrons lost when the 
+iodide ions are oxidised to form the amount of iodine in the flask.
+ 
+ 
+ 
+In part (c)(v), you calculated the number of moles of thiosulfate ions required 
+to reduce this iodine back to iodide ions.
+ 
+ 
+ 
+Show that the results calculated from the two experiments are consistent with 
+your ionic half-equations.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) (i) The uncertainty in each burette reading is ±0.05 cm3 and the uncertainty in 
+the volume reading for the pipette is ±0.04 cm3.  Calculate the percentage 
+uncertainties for the first burette titre and for the pipette volume of 10.0 cm3.
+(2)
+Burette uncertainty = ..................................................... %
+Pipette uncertainty = ..................................................... %
+ 
+ 
+(ii) Explain whether these uncertainties are significant in this experiment. 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 3 = 16 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P50705A01016*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 A student investigates the oxidation of the alcohol, propan-1-ol.
+ 
+(a) To oxidise propan-1-ol to form propanal, the following procedure is used.
+ 
+ 
+Ɣ Place about 20 cm3 of dilute sulfuric acid in a boiling tube. 
+ 
+ 
+Ɣ Add about 3 g of sodium dichromate(VI) and 2–3 anti-bumping granules.
+ 
+ 
+Ɣ Shake the contents of the boiling tube until the solid is fully dissolved.
+ 
+ 
+Ɣ Place about 1 cm3 of propan-1-ol in a pear-shaped flask.
+ 
+ 
+Ɣ Keep the pear-shaped flask cool and slowly add the contents of the boiling tube.
+ 
+ 
+Ɣ Add the apparatus needed for immediate distillation of the product.
+ 
+ 
+Ɣ Gently distil the product directly from the reaction mixture.
+ 
+ 
+(i) Sodium dichromate(VI) is a carcinogen. 
+ 
+ 
+ 
+It is often supplied as a fine powder.
+ 
+ 
+ 
+Suggest the particular hazard associated with the compound being a fine powder.
+ 
+ 
+ 
+Give a suitable safety precaution.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why anti-bumping granules are added and how they work.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P50705A01116*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Select from the apparatus below, the apparatus you would use for distillation. 
+1
+2
+3
+4
+5
+6
+7
+8
+ 
+ 
+ 
+You should identify each piece of apparatus by number or name and state 
+how you would connect them together for the preparation of propanal.
+ 
+ 
+ 
+You should also name a suitable collecting vessel not shown above.
+ 
+ 
+ 
+You should not draw a diagram.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P50705A01216*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The oxidation of propan-1-ol to form propanoic acid is a reaction which involves 
+two steps.  These are heating under reflux and distillation. 
+ 
+ 
+Differences in the quantities and concentrations of the reactants are also involved, 
+compared to the preparation of propanal.  
+ 
+ 
+(i) Give these differences in the quantities and concentrations of reactants.  
+Precise amounts and concentrations are not required.
+ 
+ 
+ 
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) When carrying out the heating under reflux step, a Liebig condenser is used in 
+the top of a pear-shaped flask.
+ 
+ 
+ 
+State the direction of water flow in the reflux condenser and what will happen 
+if the water flows in the wrong direction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain why the condenser is needed in the reflux process and how it works.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) Describe the appearance of propanal and of propanoic acid.
+(1)
+Propanal  ..........................................................................................................................................................................................................................................................
+Propanoic acid  ..........................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P50705A01316*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Suggest a chemical test that would positively identify the functional group of 
+each product after purification.  Give the result of each test.
+(4)
+ 
+ 
+ 
+Test for propanal 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+ 
+Test for propanoic acid
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 4 = 17 marks)
+TOTAL FOR PAPER = 50 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P50705A01416*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P50705A01516*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P50705A01616*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

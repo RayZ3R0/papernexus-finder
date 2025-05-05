@@ -1,0 +1,225 @@
+32
+6665
+Edexcel GCE
+Pure Mathematics C3
+Advanced Level
+Specimen Paper
+Time: 1 hour 30 minutes
+Materials required for examination                       Items included with question papers
+Answer Book (AB16)                                                Nil
+Mathematical Formulae (Lilac)
+Graph Paper (ASG2)
+Candidates may use any calculator EXCEPT those with the facility for
+symbolic algebra, differentiation and/or integration. Thus candidates may
+NOT use calculators such as the Texas Instruments TI-89, TI-92,
+Casio cfx 9970G, Hewlett Packard HP 48G.
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre
+number, candidate number, the unit title (Pure Mathematics C3), the paper reference (6665), your
+surname, other name and signature.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has seven questions.
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers without
+working may gain no credit.
+© 2003 Edexcel
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+physicsandmathstutor.com
+PMT
+
+
+--- Page Break ---
+
+33
+1.
+The function f is defined by
+f: x   | x – 2 | – 3, x  ъ.
+(a) Solve the equation f(x) = 1.
+            
+      
+(3)
+The function g is defined by
+g: x  x2 – 4x + 11, x  0.
+(b) Find the range of g.
+   
+                  
+      
+(3)
+(c) Find gf(–1).
+(2)
+2.
+f(x) = x3 – 2x – 5.
+(a) Show that there is a root  of f(x) = 0 for x in the interval [2, 3].
+(2)
+The root  is to be estimated using the iterative formula
+xn + 1 = 
+,
+5
+2
+
+
+
+
+
+
+
+n
+x
+x0 = 2.
+(b) Calculate the values of x1, x2, x3 and x4, giving your answers to 4 significant figures.
+(3)
+(c) Prove that, to 5 significant figures,  is 2.0946.
+(3)
+3.
+(a) Using the identity for cos (A + B), prove that cos   1 – 2 sin2 ( 2
+1  ).
+(3)
+(b) Prove that 1 + sin  – cos   2 sin ( 2
+1  )[cos ( 2
+1  ) + sin ( 2
+1  )].
+(3)
+(c) Hence, or otherwise, solve the equation
+
+
+
+
+2
+0
+,0
+cos
+sin
+1
+
+
+
+
+
+.
+(4)
+physicsandmathstutor.com
+PMT
+
+
+--- Page Break ---
+
+34
+4.
+ 
+f(x) = x + 
+1
+3
+
+x
+ – 
+3
+2
+12
+2
+
+ x
+x
+, x Ӈ ъ, x > 1.
+(a) Show that f(x) = 
+3
+3
+3
+2
+
+
+
+x
+x
+x
+.
+(5)
+(b) Solve the equation f  (x) = 25
+22 .
+(5)
+5.
+Figure 1
+y
+(0, q)
+(p, 0)        O                                         x
+Figure 1 shows part of the curve with equation y = f(x), x  ъ. The curve meets the x-axis at
+P (p, 0) and meets the y-axis at Q (0, q).
+(a) On separate diagrams, sketch the curve with equation
+(i)
+y = |f(x)|,
+(ii) y = 3f( 2
+1 x).
+In each case show, in terms of p or q, the coordinates of points at which the curve meets the
+axes.
+(5)
+Given that f(x) = 3 ln(2x + 3),
+(b) state the exact value of q,
+(1)
+(c) find the value of  p,
+(2)
+(d) find an equation for the tangent to the curve at P.
+(4)
+physicsandmathstutor.com
+PMT
+
+
+--- Page Break ---
+
+Turn over
+35
+6.
+As a substance cools its temperature, T C, is related to the time (t minutes) for which it has been
+cooling. The relationship is given by the equation
+T = 20 + 60e–0.1t, t  0.
+(a) Find the value of T when the substance started to cool.
+(1)
+(b) Explain why the temperature of the substance is always above 20C.
+(1)
+(c) Sketch the graph of T against t.
+(2)
+(d) Find the value, to 2 significant figures, of  t at the instant T = 60.
+(4)
+(e) Find 
+t
+T
+d
+d
+.
+(2)
+(f) Hence find the value of T at which the temperature is decreasing at a rate of 1.8 C per
+minute.
+(3)
+7.
+(i)
+Given that y = tan x + 2 cos x, find the exact value of x
+y
+d
+d  at x = 4
+ .
+(3)
+(ii) Given that x = tan 2
+1 y, prove that x
+y
+d
+d  = 
+2
+1
+2
+x
+
+.
+(4)
+(iii) Given that y = e–x sin 2x, show that x
+y
+d
+d  can be expressed in the form R e–x cos (2x + ). Find,
+to 3 significant figures, the values of R and Į, where 0 < Į < 2
+ .
+  
+(7)
+END
+physicsandmathstutor.com
+PMT

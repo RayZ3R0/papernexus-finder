@@ -1,0 +1,748 @@
+Turn over
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 –  The Accounting System and 
+Costing
+Tuesday 10 January 2012 – Afternoon
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P40325A
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2012 Pearson Education Ltd.
+W850/6001/57570   1/1/1/1
+*P40325A*
+
+
+--- Page Break ---
+
+P40325A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Toyndon Products is in business manufacturing chairs in its factory. It also purchases finished 
+goods for resale. The following trial balance was extracted from the books on 31 December 2011.
+ 
+Dr 
+Cr
+ 
+£ 
+£
+Capital 
+ 
+70 000
+Drawings 
+27 200
+Light, heat & power 
+  7 500
+6% Bank loan (Repayable 31.12.2015) 
+ 
+100 000
+Wages:
+ 
+Factory 
+86 000
+ 
+Administration 
+22 500
+Salaries:
+ 
+Factory management  
+45 000
+ 
+Administration 
+58 000
+ 
+Marketing 
+78 000
+Inventory (stock) 1 January 2011:
+ 
+Raw materials 
+17 000
+ 
+Finished goods 
+28 000
+Purchases of:
+ 
+Raw materials 
+95 000
+ 
+Finished goods 
+80 000
+Direct factory costs 
+  8 500
+Rent & rates 
+15 000
+General expenses:
+ 
+Factory 
+16 500 
+ 
+Administration 
+15 600
+ 
+Revenue (sales) 
+ 
+600 000
+Non-current (fixed) assets:
+ 
+Plant and equipment 
+150 000
+ 
+Office equipment 
+  60 000
+Provision for depreciation on
+non-current (fixed) assets:
+ 
+Plant and equipment 
+ 
+50 000
+ 
+Office equipment 
+ 
+10 000
+Trade receivables (debtors) 
+  48 000
+Trade payables (creditors) 
+ 
+36 500
+Provision for doubtful debts 
+ 
+  1 800
+Bank 
+  10 500
+      
+             
+            
+  
+868 300 
+868 300
+
+
+--- Page Break ---
+
+P40325A 
+3
+ 
+Turn over
+ 
+Additional information at 31 December 2011:
+ 
+(i) Inventory (stock): Raw materials £13 000; Finished goods £33 000. 
+There was no Inventory (stock) of work in progress at 1 January 2011 or 31 December 2011.
+ 
+(ii) Factory wages owing were £2 000.
+ 
+(iii) Light, heat & power and rent & rates were apportioned between the factory and administration 
+in the ratio 4:1.
+ 
+(iv) The 6% Bank loan had been taken out on 1 January 2010. No interest had been paid on the loan 
+for the year 2011.
+ 
+(v) Depreciation is to be charged as follows:
+ 
+ 
+ 
+Plant and equipment – 25% per annum using the reducing balance method
+ 
+ 
+ 
+Office equipment – 15% per annum using the straight line method.
+ 
+(vi) The provision for doubtful debts is to be maintained at 5% of outstanding trade receivables 
+(debtors).
+ 
+(vii) During the year 20 000 chairs were manufactured by Toyndon Products and these units were 
+transferred to finished goods at factory cost.
+ 
+Required:
+ 
+(a) (i) Prepare the manufacturing account for the year ended 31 December 2011.
+(12)
+ 
+ 
+(ii) Calculate the cost of producing one chair.
+ (2)
+ 
+(b) Prepare the:
+ 
+ 
+(i) statement of comprehensive income (trading and profit and loss account) for the year 
+ended 31 December 2011
+(15)
+ 
+ 
+(ii) statement of financial position (balance sheet) at 31 December 2011.
+ 
+(15)
+ 
+An overseas manufacturer has approached Toyndon Products and offered to supply the chairs 
+currently manufactured at 5% below the manufacturing costs of Toyndon Products.
+ 
+(c) Evaluate, from the perspective of Toyndon Products, the offer of the overseas manufacturer.
+(8)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 5 of the question paper.
+
+
+--- Page Break ---
+
+P40325A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. The following trial balance was prepared by an inexperienced book-keeper for Begum on 
+30 November 2011. The trial balance is incorrectly drafted, and subsequently further errors were 
+discovered requiring correction by journal.
+ 
+ 
+Trial balance at 30 November 2011
+ 
+£ 
+£
+ Dr 
+Cr
+Capital 
+ 
+  25 000
+Drawings 
+ 
+    4 500
+Revenue (sales) 
+ 
+101 600
+Purchases 
+46 500
+Purchase returns 
+  3 250
+Sales returns 
+ 
+    6 800
+Discount allowed 
+  6 500
+Discount received 
+  4 000
+Wages 
+ 
+27 500
+General expenses 
+ 
+9 400
+Cash deposited at bank 
+14 000
+Trade receivables (debtors) 
+ 
+    9 800 
+Trade payables (creditors) 
+13 870
+Motor vehicles 
+40 000
+Motor vehicles – provision for depreciation 
+ 
+  14 500
+Suspense 
+70 980 
+            
+  
+199 100 
+199 100
+ 
+Subsequently the following errors were discovered:
+ 
+(i) In November Begum had brought a motor vehicle £5 000 and paid £5 000 of personal funds 
+into the business bank account. No entries had been had been made in the books to record this 
+transaction.
+ 
+(ii) Discount received of £650 had been posted to the debit of the discount allowed account. The 
+entry in the cash book was correct.
+ 
+(iii) Drawings made by Begum of £3 000 have been entered in the wages account.
+ 
+(iv) Payment of £1 750 from a credit customer, Nahir, had been correctly entered in the bank, but 
+no entry had been made in the account of Nahir.
+ 
+(v) A payment by cheque for general expenses £1 850 had been correctly recorded in the bank 
+account. The entry had been recorded in the general expenses account as £1 580. 
+ 
+(vi) In November, Begum sold a motor vehicle by cheque for £4 900. The vehicle had cost £12 000 
+in September 2009. At the date of the disposal the accumulated depreciation was £5 250. No 
+entries had been recorded in the books.
+
+
+--- Page Break ---
+
+P40325A 
+5
+ 
+Turn over
+ 
+Required:
+ 
+(a) Distinguish between a compensating error and an error of reversal.
+(4)
+ 
+(b) Prepare journal entries to correct the errors (i) to (vi) above. Narratives are not required.
+(18)
+ 
+(c) Redraft the trial balance after the correction of all errors.
+(16)
+ 
+(d) Prepare the following ledger accounts for the year ended 30 November 2011:
+
+
+
+0RWRUYHKLFOHDFFRXQW
+
+
+
+0RWRUYHKLFOHGLVSRVDODFFRXQW
+  (6)
+ 
+(e) Evaluate the usefulness of preparing a trial balance at the end of an accounting period.
+(8)
+(Total 52 marks)
+Answer space for question 2 is on pages 6 to 11 of the question paper.
+
+
+--- Page Break ---
+
+P40325A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. Tang Manufacturing has two production departments: Machining and Assembly: and two service 
+departments: Administration and Maintenance. Budgeted overheads have been allocated and 
+apportioned to the four departments as follows:
+ 
+ 
+£
+ 
+Machining 
+40 000
+ 
+Assembly 
+50 000
+ 
+Administration 
+15 000
+ 
+Maintenance 
+10 000
+ 
+The budgeted use of the two service departments has been estimated as follows:
+ 
+Machining 
+Assembly 
+Administration 
+Maintenance
+ 
+Administration 
+40% 
+40% 
+- 
+20%
+ 
+Maintenance 
+60% 
+25% 
+15% 
+-
+ 
+Additional information:
+ 
+ 
+Machining 
+Assembly
+ 
+Budgeted machine hours 
+6 000 
+-
+ 
+Budgeted direct labour hours 
+- 
+8 000
+ 
+Actual machine hours 
+6 600 
+-
+ 
+Actual direct labour hours 
+- 
+7 250
+ 
+Actual overhead cost 
+£42 500 
+£68 250
+ 
+Required:
+ 
+(a) Explain the term semi-fixed cost, giving an example of a semi-fixed cost.
+(4)
+ 
+(b) Distinguish between allocation and apportionment in overhead recovery.
+(4)
+ 
+(c) Re-apportion the overheads of the service departments to the production departments using the 
+continuous allotment method.
+(14)
+ 
+(d) (i) Calculate for the machining and assembly departments the overhead absorption rates.
+(6)
+ 
+ 
+(ii) Calculate the actual under or over absorption of overhead for the year.
+(10)
+ 
+(e) Calculate the overhead to be charged to a quotation requiring 12 hours of machining and 25 
+hours of assembly.
+(6)
+ 
+(f) Evaluate the use of separate overhead recovery rates for the machining and assembly departments 
+as an alternative to calculating a single recovery rate for the business as a whole.
+(8)
+(Total 52 marks)
+Answer space for question 3 is on pages 13 to 16 of the question paper.
+
+
+--- Page Break ---
+
+P40325A 
+7
+ 
+Turn over
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. Dhanisha is in business buying and selling goods on credit. She has not maintained proper 
+accounting records throughout her first year of business, which ended on 31 December 2011. 
+ 
+Dhanisha has provided the following summarised information for the year ended  
+31 December 2011 from her memory and from notes that she has made:
+ 
+(i) Dhanisha commenced business on 1 January 2011 with an inventory (stock) £ 7 500 and 
+£3 500 in the bank.
+ 
+(ii) Purchases £48 000 of goods for resale were made on credit, and £5 000 of the goods were 
+unsold on 31 December 2011. Dhanisha had paid cheques to trade payables (creditors) of  
+£34 250.
+ 
+(iii) Revenue (sales) of £96 000 on credit, £6 000 of which were returned to Dhanisha. Trade 
+receivables (debtors) paid cheques £71 000.
+ 
+(iv) Dhanisha rented premises for £7 000 per annum payable 6 months in advance. Six-monthly 
+(half-yearly) payments were made on 2 January 2011, 30 June 2011 and 25 December 2011. 
+ 
+(v) Other expenses paid by cheque were: telephone and broadband £6 800, general expenses 
+£2 750. On 31 December 2011, £750 was owing for general expenses.
+ 
+(vi) Non-current (fixed) assets were purchased on 1 January 2011 for £ 20 000 and on 30 June 2011 
+for £8 000. During the year Dhanisha paid trade payables (creditors) £24 000 by cheque for 
+these non-current (fixed) assets. Depreciation is to be charged at the rate of 15% per annum 
+proportionate to the period of ownership in the year. 
+ 
+(vii) Personal drawings of £12 500 were made by cheque.
+ 
+Required:
+ 
+(a) Prepare for Dhanisha the:
+ 
+ 
+(i)  cash book (bank columns only) for the year ended 31 December 2011
+ 
+ 
+ (8)
+ 
+ 
+(ii) statement of comprehensive income (trading and profit and loss account) for the year 
+ended 31 December 2011. 
+ (10)
+ 
+ 
+(iii) Statement of financial position (balance sheet) at 31 December 2011.
+ (10)
+ 
+(b) Evaluate Dhanisha’s decision not to maintain a formal set of accounting records.
+ (4)
+(Total 32 marks)
+Answer space for question 4 is on pages 17 to 20 of the question paper.
+
+
+--- Page Break ---
+
+P40325A 
+8 
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Rahman is in business as an electrician.
+ 
+The following information is available for his business:
+
+
++HZRUNVKRXUVSHUZHHNIRUZHHNVSHU\HDU
+
+
+5DKPDQKDVWKHREMHFWLYHWRHDUQSHUDQQXPE\FKDUJLQJFXVWRPHUVIRUKLVODERXU
+
+
+7KHRYHUKHDGVRIWKHEXVLQHVVDUHHVWLPDWHGWREHSHUDQQXP
+
+
+5DKPDQHVWLPDWHVWKDWKHVSHQGVRIKLVWLPHGRLQJZRUNWKDWFDQEHFKDUJHGWRFXVWRPHUV
+
+
+7KHWRWDOFRVWRIHDFKMREODERXUPDWHULDOVDQGRYHUKHDGVLVPDUNHGXSE\
+ 
+Required:
+ 
+(a) Describe two characteristics of job costing.
+(4)
+ 
+(b) Calculate the hourly rate that Rahman must charge customers to achieve annual earnings of  
+£20 000 and recover the overheads of the business.
+(8)
+ 
+ 
+Rahman is preparing a quotation for a job. This job will:
+
+
+
+FRVWLQPDWHULDOV
+
+
+
+WDNHKRXUVWRFRPSOHWH
+ 
+(c) Prepare a quotation for this job.
+(8)
+ 
+(d) State four activities carried out by Rahman in his business which will not be charged directly 
+to customers.
+(8)
+ 
+(e) Evaluate the system of costing customers’ orders using labour and overhead hourly rates.
+(4)
+(Total 32 marks)
+Answer space for question 5 is on pages 21 to 23 of the question paper.
+
+
+--- Page Break ---
+
+P40325A 
+9
+ 
+Turn over
+BLANK PAGE
+
+
+--- Page Break ---
+
+P40325A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. Costas operates a business buying and selling goods on credit. On 1 January 2009 he put a plan 
+into operation to double his revenue (sales) over a three-year period. The following information is 
+available:
+Year ended 
+31 December 2011
+ 
+ 
+ 
+£
+ 
+ 
+Revenue (sales) 
+800 000
+ 
+ 
+Cost of sales 
+560 000
+ 
+ 
+Opening inventory (stock) 
+30 000
+ 
+ 
+Purchases 
+570 000
+ 
+ 
+Closing inventory (stock) 
+40 000
+ 
+ 
+Trade receivables (debtors) 
+50 000
+ 
+ 
+Trade payables (creditors) 
+100 000
+ 
+ 
+Bank overdraft 
+20 000
+ 
+ 
+Capital and non-current (long term) liabilities 
+100 000
+ 
+The following information is also available for the years ended 31 December 2009 and  
+31 December 2010:
+    
+Year ended  
+Year ended
+ 
+31 December 2009    31 December 2010
+Revenue (sales) 
+£400 000 
+£600 000
+Percentage gross profit to sales  
+40% 
+35%
+Inventory (stock) turnover 
+9 times 
+12 times
+Current ratio 
+2:1 
+1.3:1
+Liquid (acid test) ratio 
+0.75:1 
+0.50:1 
+Trade payables (creditors) payment period 
+36 days 
+48 days
+Trade receivables (debtors) collection period 
+35 days 
+29 days
+Capital and non-current (long term) liabilities 
+£100 000 
+£100 000
+
+
+--- Page Break ---
+
+P40325A 
+11
+ 
+Turn over
+ 
+Required:
+ 
+(a) Calculate for the year ended 31 December 2011 the:
+ 
+ 
+(i) Percentage gross profit to revenue (sales)
+(3)
+ 
+ 
+(ii) Inventory (stock) turnover
+(3)
+ 
+(b) (i) Comment upon the trend for the ratios in (a)(i) and (ii) above.
+(2)
+ 
+ 
+(ii) Suggest two possible reasons for the significant increase in revenue (sales) over the three 
+years.
+(2)
+ 
+(c) Calculate for the year ended 31 December 2011 the:
+ 
+ 
+(i) Current ratio
+(3)
+ 
+ 
+(ii) Liquid (acid test) ratio
+(3)
+ 
+ 
+(iii) Trade payables (creditors) payment period
+(3)
+ 
+ 
+(iv) Trade receivables (debtors) collection period.
+(3)
+ 
+(d) State whether the changes in the payment and collection periods over the three years will 
+benefit the business. 
+(2)
+ 
+(e) Suggest two possible courses of action, from the information provided and your calculations, 
+that Costas could take to improve his liquidity position.
+(4)
+ 
+(f) Evaluate whether Costas doubling his revenue (sales) in three years has been beneficial for his 
+business.
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 24 to 26 of the question paper.
+
+
+--- Page Break ---
+
+P40325A 
+12
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Sifat owns a retail shop. On 31 October 2011 the shop was broken into and goods were stolen. Sifat 
+needs to calculate the value of the goods stolen.
+ 
+The following information is available for the month of October 2011:
+ 
+(i) Revenue (sales) were £92 000 and sales returns £2 000.
+ 
+(ii) Purchases:
+ 
+ 
+£
+ 
+Purchase returns 
+1 980
+ 
+Discount received 
+3 250
+ 
+Payments to trade payables (creditors) 
+50 500
+ 
+Cash purchases 
+16 600
+ 
+Trade payables (creditors) balance 1 October 2011 
+12 500
+ 
+Trade payables (creditors) balance 31 October 2011, after the theft 
+9 570
+ 
+(iii)  
+£
+ 
+ 
+Inventory (stock) 1 October 2011  
+17 200
+ 
+ 
+Remaining inventory (stock) 31 October 2011  
+7 850
+ 
+(iv) Sifat applies a 25% mark up to sell his goods
+ 
+Required:
+ 
+(a) Prepare the purchases ledger control account for the month of October 2011, showing the value 
+of the purchases in this account.
+(10)
+ 
+(b) Calculate the total value of the purchases for the month of October 2011.
+(2)
+ 
+(c) Prepare the statement of comprehensive income (trading account) for the month of October 
+2011, showing the value of the closing inventory (stock) before the goods were stolen.
+(12)
+ 
+(d) Calculate the value of the inventory (stock) stolen on 31 October 2011.
+(4)
+ 
+(e) Evaluate the use of control accounts in ensuring that the books are accurate.
+(4)
+(Total 32 marks)
+Answer space for question 7 is on pages 27 to 29 of the question paper.

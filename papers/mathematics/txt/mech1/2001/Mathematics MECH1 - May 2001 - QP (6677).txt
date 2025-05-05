@@ -1,0 +1,432 @@
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Thursday 7 June 2001 −  Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s-2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+ 1. 
+Two small balls A and B have masses 0.5 kg and 0.2 kg respectively. They are 
+moving towards each other in opposite directions on a smooth horizontal table 
+when they collide directly. Immediately before the collision, the speed of A is 
+3 m s−1 and the speed of B is 2 m s−1. The speed of A immediately after the 
+collision is 1.5 m s−1. The direction of the motion of A is unchanged as a result of 
+the collision. 
+ 
+ 
+By modelling the balls as particles, find 
+ 
+(a) the speed of B immediately after the collision, 
+ 
+             
+      
+(3)   
+(b) the magnitude of the impulse exerted on B in the collision. 
+    
+     
+ (3)    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Two forces P and Q, act on a particle. The force P has magnitude 5 N and the 
+force Q has magnitude 3 N. The angle between the directions of P and Q is 40°, 
+as shown in Fig. 1. The resultant of P and Q is F. 
+ 
+(a) Find, to 3 significant figures, the magnitude of F.       
+ 
+ 
+      (5)
+ 
+ 
+ 
+       
+(b) Find, in degrees to 1 decimal place, the angle between the directions of F 
+and P .  
+ 
+ 
+ 
+       
+(3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q 
+P 
+40° 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+3.  
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A car of mass 1200 kg moves along a straight horizontal road. In order to obey a 
+speed restriction, the brakes of the car are applied for 3 s, reducing the car’s 
+speed from 30 m s−1 to 17 m s−1. The brakes are then released and the car 
+continues at a constant speed of 17 m s−1 for a further 4 s. Figure 2 shows a 
+sketch of the speed-time graph of the car during the 7 s interval. The graph 
+consists of two straight line segments. 
+ 
+(a) Find the total distance moved by the car during this 7 s interval. 
+(4) 
+ 
+(b) Explain briefly how the speed-time graph shows that, when the brakes are 
+applied, the car experiences a constant retarding force. 
+(2) 
+(c) Find the magnitude of this retarding force. 
+(3) 
+ 
+ 
+speed (m s-1) 
+time (s) 
+O 
+3 
+7 
+17 
+30 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+4. 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A small parcel of mass 3 kg is held in equilibrium on a rough plane by the action 
+of a horizontal force of magnitude 30 N acting in a vertical plane through a line 
+of greatest slope. The plane is inclined at an angle of 30° to the horizontal, as 
+shown in Fig. 3. The parcel is modelled as a particle. The parcel is on the point of 
+moving up the slope. 
+ 
+ 
+(a) Draw a diagram showing all the forces acting on the parcel. 
+(2) 
+ 
+(b) Find the normal reaction on the parcel. 
+(4) 
+(c)  Find the coefficient of friction between the parcel and the plane. 
+(5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30° 
+30 N 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+5. 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A large log AB is 6 m long. It rests in a horizontal position on two smooth 
+supports C and D, where AC = 1 m and BD = 1 m, as shown in Figure 4. David 
+needs an estimate of the weight of the log, but the log is too heavy to lift off both 
+supports. When David applies a force of magnitude 1500 N vertically upwards to 
+the log at A, the log is about to tilt about D. 
+ 
+(a) State the value of the reaction on the log at C for this case. 
+ 
+ 
+(1) 
+David initially models the log as uniform rod. Using this model, 
+ 
+(b) estimate the weight of the log 
+  
+ 
+ 
+ 
+(3) 
+The shape of the log convinces David that his initial modelling assumption is too 
+simple. He removes the force at A and applies a force acting vertically upwards 
+at B. He finds that the log is about to tilt about C when this force has magnitude 
+1000 N.  David now models the log as a non-uniform rod, with the distance of the 
+centre of mass of the log from C as x metres. Using this model, find 
+ 
+(c) a new estimate for the weight of the log,  
+ 
+ 
+       
+(6) 
+(d) the value of x. 
+ 
+ 
+ 
+       
+(2) 
+(e) State how you have used the modeling assumption that the log is a rod.        
+(1) 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+6 m 
+1 m 
+1 m 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+6 
+6. 
+A breakdown van of mass 2000 kg is towing a car of mass 1200 kg along a 
+straight horizontal road. The two vehicles are joined by a tow bar which remains 
+parallel to the road. The van and the car experience constant resistances to motion 
+of magnitudes 800 N and 240 N respectively. There is a constant driving force 
+acting on the van of 2320 N. Find 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) the magnitude of the acceleration of the van and the car, 
+(3) 
+(b) the tension in the tow bar. 
+(4) 
+The two vehicles come to a hill inclined at an angle α to the horizontal, where 
+sin α = 1
+20 . The driving force and the resistances to the motion are unchanged. 
+ 
+(c) Find the magnitude of the acceleration of the van and the car as they move up 
+the hill and state whether their speed increases or decreases. 
+(6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+7 
+ 
+7. 
+[In this question, the horizontal unit vectors i and j are directed due east and 
+north respectively] 
+ 
+ 
+ 
+A mountain rescue post O receives a distress call via a mobile phone from a 
+walker who has broken a leg and cannot move. The walker says he is by a 
+pipeline and he can also see a radio mast which he believes to be south-west of 
+him. The pipeline is known to run north-south for a long distance through the 
+point with position vector 6i km, relative to O. The radio mast is known to be at 
+the point with position vector 2j km, relative to O. 
+ 
+ 
+(a) Using the information supplied by the walker, write down his position vector 
+in the form (ai + bj). 
+(2) 
+ 
+The rescue party moves at a horizontal speed of 5 km h-1. The leader of the party 
+wants to give the walker and idea of how long it will take to for the rescue party 
+to arrive. 
+ 
+ 
+ 
+(b) Calculate how long it will take for the rescue party to reach the walker’s 
+estimated position. 
+(3) 
+ 
+The rescue party sets out and walks straight towards the walker’s estimated 
+position at a constant horizontal speed of  5 km h-1. After the party has travelled 
+for one hour, the walker rings again. He is very apologetic and says that he now 
+realises that the radio mask is in fact north-west of his position 
+ 
+ 
+ 
+(c) Find the position vector of the walker. 
+(3) 
+ 
+(d) Find in degrees to one decimal place, the bearing on which the rescue party 
+should now travel in order to reach the walker directly. 
+(7) 
+ 
+ 
+END 
+ 
+ 
+ 
+ 
+PMT
+PMT

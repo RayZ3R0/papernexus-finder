@@ -1,0 +1,1005 @@
+Turn over
+Printer’s Log. No.
+M36983A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2010 Edexcel Limited.
+W850/6001/57570   1/1/
+*M36983A*
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 – The Accounting System and Costing
+Friday 21 May 2010 – Morning
+Source booklet for use with Questions 
+1 to 7.
+Do not return the insert with the 
+question paper.
+
+
+--- Page Break ---
+
+M36983A	
+	
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1.	
+Georgia and Harriet are in partnership, sharing profits and losses equally. No interest is paid on
+capital or charged on drawings. No salaries are paid to the partners.	
+On 30 April 2009, the capital account balances of the partners were:		
+Capital accounts:	
+Georgia	
+£35 000			
+Harriet	
+£15 000			 		 								  		
+On 1 May 2009 Georgia and Harriet agreed to admit Ionna as a partner. It was agreed that:
+(i) Ionna would bring £15 000 cash into the partnership.
+(ii) Goodwill was valued at £50 000.
+(iii) Goodwill would not be retained in the books of the new partnership.
+(iv) No interest would be paid on capital.
+(v) Interest would be charged on drawings at the rate of 5% on balances at the end of the year.
+(vi) Salaries would be paid to: Harriet £9 000 and Ionna £6 000.
+(vii) Profits and losses would be shared: Georgia two fifths; Harriet two fifths; Ionna one fifth.
+
+
+--- Page Break ---
+
+M36983A	
+
+
+Turn over
+	
+At the end of the first year of trading, on 30 April 2010, with the exception of the capital accounts, 
+the following balances remained in the books of the partnership after the preparation of the trading 
+account.
+	
+	
+£	
+	
+	
+Gross profit	
+63 270
+	
+Carriage inwards	
+340	CR
+	
+Carriage outwards	
+4 650 
+	
+Insurance	
+1 800
+	
+Rent	
+8 500
+Rent receivable	
+1 500
+Motor vehicles running expenses	
+  9 180
+Motor vehicles (Cost £16 000)	
+10 000
+Office equipment (Cost £11 000)	
+9 800
+Wages and salaries	
+17 000
+Sundry expenses	
+6 750
+Loan interest paid	
+1 000		
+	
+	
+8% Loan repayable 30.4.2015	
+20 000
+Provision for doubtful debts	
+3 800
+Stock at 30 April 2010	
+52 000
+Debtors	
+26 000
+Creditors	
+17 690
+Bank	
+9 500	DR
+Current accounts at 1 May 2009
+	
+Georgia	
+430	CR
+	
+Harriet	
+  1 850	DR
+Drawings 	
+Georgia	
+ 1 000
+	
+Harriet	
+10 000
+	
+Ionna	
+3 000
+	
+The following information is available for the year ended 30 April 2010:
+	
+(i)	 Insurance includes an annual fire insurance renewal of £1 200 paid on 1 January 2010.
+	
+(ii)	 Rent receivable of £500 is outstanding.
+	
+(iii)	Wages and salaries includes drawings of £5 000 made by Ionna which had been incorrectly 
+posted to the wages and salaries account.
+	
+(iv)	Depreciation is charged at the rate of 25% on motor vehicles using the reducing balance 
+method and 20% on office equipment using the straight line method.
+	
+(v)	 The provision for doubtful debts is to be maintained at 4% of debtors.
+
+
+--- Page Break ---
+
+M36983A	
+	
+	
+Required:
+	
+(a)	 Prepare for the year ended 30 April 2010 the:
+	
+	
+(i)	 capital accounts of Georgia, Harriet and Ionna
+(7)
+	
+	
+(ii)	 profit and loss account of the partnership
+(15)
+	
+	
+(iii)	profit and loss appropriation account
+(6)
+	
+	
+(iv)	current accounts of Georgia, Harriet and Ionna.
+(6)
+	
+(b)	 Prepare the balance sheet of the partnership as at 30 April 2010.
+(10)
+	
+Ionna considered setting up business as a sole trader before agreeing to join the partnership of 
+Georgia and Harriet.
+	
+(c)	 Evaluate the decision of Ionna to join the partnership of Georgia and Harriet as an alternative 
+to opening a new business of her own, as a sole trader.
+   (8)
+	
+	
+	
+   (Total 52 marks)
+Answer space for question 1 is on pages 2 to 8 of the question paper.
+
+
+--- Page Break ---
+
+M36983A	
+5
+
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.	 Jaida is in business buying and selling goods on credit. On 31 March 2010, Jaida extracted a trial 
+balance for the business which failed to agree, the debit total of balances exceeding the credit total 
+of balances by £1 750. A suspense account was opened to record the difference.
+	
+Jaida then prepared the draft trading and profit and loss account for the year, before locating the 
+errors, which had resulted in the suspense account balance. 
+	
+The draft trading and profit and loss account prepared on 31 March 2010 was as follows:
+	
+	
+Jaida – Trading and Profit and Loss Account for the year ended 31 March 2010
+	
+	
+£	
+£
+	
+Sales	
+	
+	
+133 000
+	
+Sales returns	
+	
+     6 500
+	
+	
+	
+	
+126 500
+	
+Opening stock	
+12 900
+	
+Purchases	
+62 000
+	
+	
+	
+74 900
+	
+Closing stock	
+13 500
+	
+Cost of sales	
+ 	
+ 61 400
+	
+Gross profit	
+	
+65 100
+	
+Less
+	
+Wages	 	
+35 000
+	
+Operating expenses	
+28 900
+	
+Depreciation on motor vehicle	
+  3 200
+	
+Bad debt	
+600
+	
+Provision for doubtful debts	
+     550
+	
+	
+	
+	
+ 68 250
+	
+Net loss		
+	
+    3 150
+
+
+--- Page Break ---
+
+M36983A	
+	
+	
+After the preparation of the draft trading and profit and loss account, the following errors were 
+located:
+	
+(i)	
+A sale of goods £2 300 on credit to Salem, had been recorded in the sales account as £230.
+	
+(ii)	 Sales returns £170 had been correctly recorded in the account of the debtor, but had been 
+credited as £150 in the sales returns account.
+	
+(iii)	 Purchases included a cash payment of £450 for operating expenses. 
+	
+(iv)	 Stock at 31 March 2010 contained one stock sheet valued at the list price of £6 000, including 
+the ‘mark up’ of 25%.
+	
+(v)	
+The calculation and recording of wages for the year was incorrect. The following actual 
+payments were made to Jaida’s three staff members:
+	
+Ahmed	
+Paid an annual salary of £12 000 plus a bonus of £500.
+	
+Beena	
+Paid a monthly salary of £750 plus a commission of 5% of sales. Average 
+monthly sales were £8 000.
+	
+Chandra	
+Paid an hourly rate of £3 per hour for 40 hours per week, 52 weeks per 
+year. Average overtime worked for 50 weeks of the year was 6 hours at 
+time and a half.
+	
+(vi)	 During the year operating expenses of £5 000 for repairing the vehicle, were recorded in the 
+vehicle asset account. Depreciation was charged on the balance of the vehicles account at the 
+year end at the rate of 20% on cost using the straight line method. 
+	
+(vii)	 The provision for doubtful debts on 1 April 2009 was £550 and this was entered in the draft 
+profit and loss account. 
+	
+(viii)	During the year, debts of £600 were written off as bad debts. On 31 March 2010 the debtors 
+balance was £18 700 and it was decided to write off an additional £1 200 as bad debts and to 
+maintain the provision for doubtful debts at 4% of the remaining debts. This adjustment had 
+not been made.
+
+
+--- Page Break ---
+
+M36983A	
+
+
+Turn over
+	
+Required:
+	
+(a)	 Prepare the: 
+	
+	
+•	
+journal entries recording the correction of the errors and transfers in (i) to (viii) (narratives 
+are not required) 
+	
+	
+•	
+suspense account following the correction of the errors in (i) to (viii).
+  (20)
+	
+(b)	 Prepare for Jaida, for the year ended 31 March 2010, the:
+	
+	
+(i)	 Stock account
+(4)
+	
+	
+(ii)	 Provision for doubtful debts account
+(4)
+	
+	
+(iii)	Motor vehicles account
+(4)
+	
+(c)	 Re-draft the trading and profit and loss account following correction of the errors in (a).
+(8)
+	
+(d)	 Explain the accounting concept of materiality.
+(4)
+	
+(e)	 Evaluate whether it is useful for Jaida to prepare the draft trading and profit and loss account 
+when the trial balance contains a suspense account.
+(8)
+	
+	
+	
+ (Total 52 marks)
+Answer space for question 2 is on pages 9 to 15 of the question paper.
+
+
+--- Page Break ---
+
+M36983A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.	 Soller Products makes two products: the Standard and the Super. The following information is 
+available for the year ended 30 April 2010.
+	
+(i)	
+Both products use the same raw material. On 1 May 2009, the stock of raw material was
+5 000 units at a value of £10 per unit. 
+	
+(ii)	 During the year, 40 000 units of raw material were issued to production and the following 
+purchases of raw material were made:
+	
+	
+	
+May – July	
+12 000 units @ £12
+	
+	
+	
+August – October	
+10 000 units @ £13
+	
+	
+	
+November – January	
+15 000 units @ £12
+	
+	
+	
+February – April	
+8 000 units @ £11
+	
+	
+Stock is valued using the First In First Out (F.I.F.O) method based upon periodic valuation.
+	
+(iii)	 One unit of raw material will make either one Standard or one Super.
+	
+(iv)	 During the year 25 000 Standards and 15 000 Supers were produced.
+	
+(v)	
+The factory has two production lines, one to make the Standard and one to make the Super. 
+Twenty production staff made Standards and fifteen production staff made Supers.
+	
+(vi)	 Manufacturing wages are paid on the basis of day-work rate plus bonus. 
+	
+	
+•	 All production staff work 40 hours per week for 50 weeks of the year and are paid at a rate 
+of £5 per hour. 
+	
+	
+•	 A bonus payment of £1 for each Standard produced is shared amongst the Standard line 
+workers.
+	
+	
+•	 A bonus payment of £1 for each Super produced is shared amongst the Super line 
+workers.
+	
+(vii)	 Factory overheads were allocated to the production lines of the Standard and the Super on the 
+following basis: 
+	
+	
+	
+	 	
+Standard	
+Super	
+Total
+       	
+	
+	 	
+£	
+£	
+£
+	
+	
+	
+Management salaries	
+160 000	
+50 000	
+210 000
+	
+	
+	
+Premises costs	
+100 000	
+80 000	
+180 000
+	
+	
+	
+Depreciation	
+70 000	
+40 000	
+110 000
+	
+(viii)	Work in progress: 
+	
+1 May 2009	
+30 April 2010
+       	
+	
+	 	
+£	
+£
+	
+Standard	
+  50 000	
+25 000
+	
+Super	 	
+30 000	
+15 000
+	
+(ix)	 The Standard was sold for £35 per unit and the Super for £50 per unit. All units produced 
+during the year were sold and there were no stocks of finished goods at the start or end of the 
+year.
+
+
+--- Page Break ---
+
+M36983A	
+
+
+Turn over
+	
+Required:
+	
+(a)	 Prepare for the year ended 30 April 2010, the manufacturing account, in columnar format, 
+showing the:
+	
+	
+•	
+prime cost of producing the Standard and the Super
+	
+	
+•	
+manufacturing cost of producing the Standard and the Super.
+(16)
+	
+(b)	 Calculate:
+	
+	
+(i)	 the cost of manufacturing:
+	
+	
+	
+•	
+one Standard
+	
+	
+	
+•	
+one Super
+(4)
+	
+	
+(ii)	 the total annual gross profit from sales of the:
+	
+	
+	
+•	
+Standard
+	
+	
+	
+•	
+Super
+(4)
+ 	
+	
+Soller Products is considering ceasing production of the Standard which it considers to be 
+unprofitable. The Production Manager is concerned at this development and believes that if 
+overheads were apportioned to production lines, instead of being allocated, this would show 
+that the Standard was profitable. 
+	
+	
+Additional information:
+	
+	
+Standard	
+Super
+	
+Employees (number)	
+20	
+15
+	
+Floor area occupied (sq m)	
+2 500	
+3 500 	
+	
+Equipment value (£’000)	
+10 000	
+12 000
+	
+(c)	 Calculate, with overheads apportioned instead of allocated, the:
+	
+	
+(i)	 total overhead which would be charged to each production line 
+(8)
+	
+	
+(ii)	 total annual gross profit from sales for each production line.
+(4)
+	
+(d)	 (i)	 Distinguish between apportionment of overheads and absorption of overheads. 
+(4)
+	
+	
+(ii)	 Explain the circumstances in which there would be over absorption of overheads. 
+(4)
+	
+(e)	 Evaluate whether Soller Products should cease the production of the Standard.
+(8)
+	
+	
+	
+ (Total 52 marks)
+Answer space for question 3 is on pages 16 to 22 of the question paper.
+
+
+--- Page Break ---
+
+M36983A	
+10	
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. 	 White Lightning is a popular music band recording albums and performing at concerts. On 1 April 
+2009, the band started the White Lightning Fan Club with £1 000 cash which was paid into a bank 
+account.
+	
+The following is the summarised information for the year ended 31 March 2010.
+	
+(i)	 Fans were asked to register ‘on-line’ and were then sent a membership pack and an invoice for a 
+£10 subscription for the year. The number of fans registering ‘on-line’ was 2 000. At 31 March 
+2010, subscriptions from 400 fans were in arrears and 75 fans had paid their subscriptions in 
+advance for a second year.
+	
+(ii)	 The fan club decided not to write off any subscription debts as bad debts.
+	
+(iii)	A fan club secretary was appointed on 1 April 2009 at a salary of £8 000 per annum. Other 
+expenses paid were: telephone and postage £3 600, rent £2 000 and general office expenses 
+£1 850. At 31 March 2010, £250 was owing for a telephone bill.
+	
+(iv)	Office furniture and a second hand photocopier were purchased on credit on 1 April 2009 for 
+£4 000. During the year £3 000 was paid to the creditor. It is estimated that the office furniture 
+and the second hand photocopier will have a life of 5 years, and a residual value of £600.
+	
+(v)	 A monthly newsletter was circulated to all members at a cost of £1 080.
+	
+(vi)	During the year the fan club raffled two tickets to a White Lightning concert. The cost of the 
+tickets was £280 and 400 fans entered the raffle each paying £1 for a raffle ticket.
+	
+(vii)	The fan club offered autographed copies of the band’s latest album. The club purchased
+300 albums at a cost of £12 each. During the year the club sold 280 of the autographed albums 
+at £15 each.
+	
+Required:
+	
+(a)	 Prepare for the White Lightning Fan Club the:
+	
+	
+(i) 	 receipts and payments account for the year ended 31 March 2010
+(8)
+	
+	
+(ii)	 income and expenditure account for the year ended 31 March 2010 showing clearly the 
+profit or loss made on the raffle of concert tickets and the sales of the band’s album
+(12)
+	
+	
+(iii)	balance sheet as at 31 March 2010.
+(8)
+	
+(b)	 Evaluate the decision of the fan club not to write off any bad debts.
+	
+	
+	
+(4)
+	
+	
+	
+ (Total 32 marks)
+Answer space for question 4 is on pages 24 to 28 of the question paper.
+
+
+--- Page Break ---
+
+M36983A	
+11
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. 	 Kerry is considering starting a business making vehicle trailers. He has carried out market research 
+and has determined that there is a market for inexpensive Budget vehicle trailers and also high 
+quality Superior vehicle trailers. He has decided to specialise in one type of trailer only, either the 
+Budget or the Superior. His market research has revealed the following:
+	
+	
+	
+	
+Budget	
+Superior
+	
+	
+Sales per annum	
+50	
+20
+	
+	
+Retail price	
+£1 700	
+ £3 800
+	
+	
+Costs:
+	
+	
+Raw materials
+	
+	
+	
+List price 	
+£200	
+£300
+	
+	
+	
+Trade discount on materials	
+20%	
+10%
+	
+	
+Labour
+	
+	
+	
+Hours per trailer	
+64	
+130
+	
+	
+	
+Rate per hour	
+£5	
+£6
+	
+	
+Overheads
+	
+	
+	
+Marketing	
+	
+£19 000 per annum
+	
+	
+	
+Administration	
+	
+£30 000 per annum
+	
+	
+	
+Equipment	
+Cost £12 000, life 5 years, residual value £2 000
+	
+Required:
+	
+(a)	 (i) 	 Explain the term fixed cost.
+(2)
+	
+	
+(ii)	 Give one example of a fixed cost to be incurred by Kerry’s business.
+(2)
+	
+(b)	 Calculate for Kerry, the cost of making:
+	
+	
+(i)	 one Budget vehicle trailer
+(9)
+	
+	
+(ii)	 one Superior vehicle trailer.
+(9)
+	
+(c)	 Calculate for Kerry, the total profit if he specialises in making the: 
+	
+	
+(i)	 Budget vehicle trailer
+(3)
+	
+	
+(ii) 	Superior vehicle trailer.
+(3)
+	
+To start the new business making vehicle trailers, Kerry would need to leave his employment as an 
+accounts manager earning £15 000 per annum.
+	
+(d)	 Evaluate the decision of Kerry to leave his employment to start the new business, and advise 
+him which vehicle trailer, if any, he should make.
+(4)
+	
+	
+	
+ (Total 32 marks)
+Answer space for question 5 is on pages 29 to 33 of the question paper.
+
+Turn over
+
+
+--- Page Break ---
+
+M36983A	
+12	
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. 	 Panjit is in business buying and selling goods on credit. He is concerned that, although his business 
+is making a good profit, his balance at the bank is not increasing. The following information is 
+available: 
+	
+(i)	 Summarised transactions for the year ended 31 March 2010
+	
+	
+ £
+	
+Receipts from debtors	
+151 000
+	
+Payments to creditors	
+99 000 
+	
+Fixed assets purchased	
+18 000
+	
+6% Loan taken out by Panjit	
+10 000
+	
+Expenses paid	
+25 000
+	
+Drawings	
+43 000
+	
+(ii)	 Asset and liabilities 
+	
+	
+	
+31 March 2009	 31 March 2010
+	
+	
+	
+£	
+£
+	
+	
+Bank	
+3 000	
+?
+	
+	
+Debtors	
+15 000	
+12 000
+	
+	
+Creditors	
+22 000	
+7 000
+	
+	
+Stock	
+25 000	
+26 000
+	
+	
+Prepaid expenses	
+  4 000	
+ 2 000
+	
+	
+Fixed assets	
+40 000	
+45 000
+	
+	
+6% Loan	
+–	
+10 000
+	
+(iii) Credit purchases for the year ended:
+	
+	
+	
+31 March 2009	 31 March 2010
+	
+	
+	
+£	
+£
+	
+	
+	
+80 000	
+84 000
+
+
+--- Page Break ---
+
+M36983A	
+13
+
+Turn over
+	
+Required:
+	
+(a)	 Distinguish between the profitability and the liquidity of a business.
+(4)
+	
+(b)	 Calculate the bank balance at 31 March 2010.
+(6)
+	
+(c)	 Calculate for both the years ended 31 March 2009 and 31 March 2010, the:
+	
+	
+(i)	 Current ratio
+(6)
+	
+	
+(ii)	 Liquid (acid test) ratio
+(6)
+	
+	
+(iii)	Creditors payment period (in days)
+(6)
+	
+(d)	 Evaluate the liquidity of Panjit’s business.
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 34 to 39 of the question paper.
+
+
+--- Page Break ---
+
+M36983A	
+14	
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.	 Capela is a general trader. She has been busy with the business and has not maintained the debtors 
+and creditors personal accounts for April 2010. All other entries have been made in the accounts.
+	
+Capela wishes to complete her accounts for April 2010. She has extracted a trial balance at 30 April 
+2010 with the exception of the balances for debtors and creditors, although she is aware that there 
+are some errors in the accounts.
+	
+The following balances were available at 30 April 2010:
+	
+	
+£
+	
+Total creditors at 1 April 2010	
+9 730
+	
+Total debtors at 1 April 2010	
+14 250
+	
+Purchases on credit	
+12 420
+	
+Cheques received	
+25 000
+	
+Returns outwards	
+380
+	
+Discount received	
+460
+	
+Debtor cheque returned dishonoured	
+600
+	
+Discount allowed	
+160
+	
+Sales on credit	
+28 310
+	
+Cheques paid	
+13 500
+	
+Returns inwards	
+250
+	
+Purchases for cash	
+5 350
+	
+Bad debt written off	
+800
+	
+Provision for doubtful debts	
+750
+	
+The following errors have been discovered in the books:
+	
+(i)	 a credit note £750 for goods returned to Capela, had not been entered into the accounts
+	
+(ii)	 discount received of £95 had been claimed in error by Capela
+	
+(iii)	invoices for credit purchases of £2 500, had not been entered into the accounts
+	
+(iv)	a debtor who owed £600 has now been declared bankrupt. 
+	
+Required:
+	
+(a)	 Explain two limitations of the trial balance.
+(4)
+	
+(b)	 Prepare, incorporating any adjustments for errors and showing the balance at 30 April 2010, 
+the:
+	
+	
+(i)	 purchases ledger control account
+(10)
+	
+	
+(ii)	 sales ledger control account.
+(14)
+	
+(c)	 Evaluate the contribution of control accounts in ensuring that the debtors and creditors accounts 
+are always accurate.
+(4)
+	
+	
+	
+(Total 32 marks)
+Answer space for question 7 is on pages 40 to 43 of the question paper.
+
+
+--- Page Break ---
+
+M36983A	
+15
+BLANK PAGE
+
+
+--- Page Break ---
+
+M36983A	
+16	
+BLANK PAGE

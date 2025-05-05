@@ -1,0 +1,937 @@
+Paper Reference
+Turn over    
+Pearson Edexcel 
+International Advanced Level
+WAC01/01
+Accounting (Modular Syllabus)
+Unit 1: The Accounting System and Costing
+Tuesday 12 May 2015 – Morning
+Source Booklet
+Do not return the insert with the question paper.
+*P44821A*
+P44821A
+©2015 Pearson Education Ltd.
+1/2/2/1/1
+
+
+--- Page Break ---
+
+2
+P44821A
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1 The following trial balance was extracted from the books of Tolbury Golf Club at 
+30 April 2015:
+ 
+Dr 
+Cr
+ 
+£ 
+£
+ 
+Revenue:  
+Restaurant Sales 
+ 
+175 000
+ 
+ 
+Subscriptions 
+ 
+225 000
+ 
+Interest receivable 
+ 
+4 200
+ 
+Donations 
+ 
+ 
+12 000
+ 
+Restaurant inventory 1 May 2014 
+7 000
+ 
+Purchases of supplies for restaurant 
+57 500
+ 
+Wages: 
+Restaurant 
+35 000
+ 
+ 
+General 
+96 000
+ 
+Salaries: 
+Restaurant  
+27 500
+ 
+ 
+General 
+64 000
+ 
+Electricity: 
+Restaurant 
+8 500
+ 
+ 
+General 
+19 200
+ 
+Insurance 
+ 
+5 750
+ 
+Golf course maintenance 
+64 850
+ 
+Bad debts: 
+Subscriptions 
+11 000
+ 
+Provision for doubtful debts on subscriptions 
+ 
+2 500
+ 
+Clubhouse (at cost) 
+280 000
+ 
+Equipment (at cost) 
+200 000
+ 
+Fixtures and fittings (at cost) 
+100 000
+ 
+Provisions for depreciation:
+ 
+ 
+Clubhouse 
+ 
+84 000
+ 
+ 
+Equipment 
+ 
+120 000
+ 
+ 
+Fixtures and fittings  
+ 
+50 000
+ 
+Trade receivables 
+1 450
+ 
+Trade payables 
+ 
+21 250
+ 
+Bank savings account 
+90 000
+ 
+Cash and bank 
+     26 200
+ 
+Accumulated fund 
+ 
+   400 000
+ 
+ 
+ 
+1 093 950 
+1 093 950
+
+
+--- Page Break ---
+
+3
+P44821A
+Turn over    
+ 
+Additional information at 30 April 2015:
+ 
+1. Restaurant inventory £6 500.
+ 
+2. Insurance prepaid £2 500.
+ 
+3. Interest receivable owing £1 200.
+ 
+4. Subscriptions:  paid in advance £16 500: in arrears £27 500.
+ 
+5. Depreciation is charged as follows:
+ 
+ 
+ 
+Clubhouse at the rate of 2% per annum straight line
+ 
+ 
+ 
+Equipment at the rate of 20% per annum reducing balance
+ 
+ 
+ 
+Fixtures and fittings at the rate of 10% per annum straight line.
+ 
+6. One quarter of the depreciation on equipment and half of the depreciation on 
+fixtures and fittings are to be charged to the restaurant.
+ 
+7. The provision for doubtful debts on subscriptions is to be increased to £3 000.
+ 
+Required:
+ 
+(a) Prepare the:
+ 
+ 
+(i) Restaurant Trading Account for the year ended 30 April 2015
+(10)
+ 
+ 
+(ii) Income and Expenditure Account for the year ended 30 April 2015
+(18)
+ 
+ 
+(iii) Statement of Financial Position at 30 April 2015.
+(16)
+ 
+(b) Evaluate the usefulness of a provision for doubtful debts on subscriptions.
+(8)
+(Total for Question 1 = 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+4
+P44821A
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2 Andreas extracted a trial balance on the 31 March 2015 which failed to agree. He then 
+prepared a Draft Statement of Comprehensive Income. After preparation of the Draft 
+Statement of Comprehensive Income the following balances remained in the books:
+ 
+Dr 
+Cr
+ 
+£ 
+£
+ 
+Profit for the year  
+ 
+9 680
+ 
+Wages accrued 
+ 
+500
+ 
+Heat and light accrued 
+ 
+590
+ 
+General expenses prepaid 
+750
+ 
+Computer maintenance accrued 
+ 
+350
+ 
+Provision for doubtful debts 
+ 
+2 300
+ 
+Non-current assets (at cost):
+ 
+ 
+Leasehold on buildings 
+100 000
+ 
+ 
+Computers 
+24 000
+ 
+ 
+Fixtures and fittings 
+12 500
+ 
+Provisions for depreciation:
+ 
+ 
+Leasehold on buildings 
+ 
+50 000
+ 
+ 
+Computers 
+ 
+14 000
+ 
+ 
+Fixtures and fittings 
+ 
+10 000
+ 
+Trade receivables 
+31 800
+ 
+Trade payables 
+ 
+27 500
+ 
+Inventory 31 March 2015 
+16 100
+ 
+Cash and bank 
+1 990
+ 
+Capital 
+ 
+   75 000
+ 
+Suspense 
+     2 780 
+ 
+ 
+ 
+189 920 
+189 920
+ 
+On inspection of the books, Andreas found the following errors:
+ 
+1. Wages of £1 250 had been entered correctly in the Wages Account, but had been 
+recorded in the Bank as £2 150.
+ 
+2. Discount allowed £940 had been credited to the Discount Allowed Account.
+ 
+3. The Leasehold on buildings is a 25 year lease, no depreciation had been charged 
+in the Statement of Comprehensive Income.
+ 
+4. A new computer costing £1 600 had been posted to the Computers Maintenance 
+Account. Depreciation of 25% of cost per annum had not been charged in the 
+Statement of Comprehensive Income. 
+ 
+5. A cheque receipt of £480 from a debtor, Fung, had been omitted from the books.
+
+
+--- Page Break ---
+
+5
+P44821A
+Turn over    
+ 
+Required:
+ 
+(a) Prepare the: 
+ 
+ 
+(i) Journal entries to correct the errors (1) to (5). Narratives are not required
+(12)
+ 
+ 
+(ii) Suspense Account after the correction of the errors (1) to (5).
+(4)
+ 
+(b) Calculate the profit for the year after the correction of all errors.
+(10)
+ 
+(c) Prepare the Statement of Financial Position at 31 March 2015, after the correction 
+of all errors.
+(18)
+ 
+(d) Evaluate the usefulness of draft financial statements, before the correction of 
+errors.
+ (8)
+(Total for Question 2 = 52 marks)
+Answer space for question 2 is on pages 8 to 14 of the question paper.
+
+
+--- Page Break ---
+
+6
+P44821A
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3 Nural is considering buying a restaurant. He has found two restaurants that are for 
+sale, each at a purchase price of £100 000. Nural has sufficient funds available to 
+purchase one of the restaurants. The two restaurants are the: 
+ 
+1. Garden Restaurant –  Opened nine years ago, the Restaurant is in an area of the 
+Town Centre which has many other competing restaurants
+ 
+2. New Restaurant –  Opened one year  ago, the Restaurant is in a residential area on 
+the outskirts of the Town.
+ 
+The following summarised information is available:
+Statements of Comprehensive Income for the year ended 31 March 2015
+ 
+Garden Restaurant 
+New Restaurant
+ 
+£ 
+£
+ 
+Revenue 
+270 000 
+140 000
+ 
+Cost of sales 
+(108 000) 
+(70 000)
+ 
+Gross profit 
+162 000 
+70 000
+ 
+Wages 
+(80 000) 
+(17 000)
+ 
+General expenses 
+(50 000) 
+(30 000)
+ 
+Depreciation - Lease 
+(25 000) 
+-
+ 
+Depreciation - Fixtures and fittings  
+(1 000) 
+(1 000)
+ 
+Profit for the year 
+   6 000 
+22 000
+Statements of Financial Position at 31 March 2015
+ 
+Garden Restaurant 
+New Restaurant
+ 
+£ 
+£
+ 
+Non-current Assets (carry over value)
+ 
+Leasehold on premises 
+25 000 
+-
+ 
+Freehold premises 
+- 
+60 000
+ 
+Fixtures and fittings 
+  1 000 
+10 000
+ 
+ 
+26 000 
+70 000
+ 
+Current Assets
+ 
+Inventory 
+12 000 
+4 000
+ 
+Trade receivables 
+8 000 
+5 000
+ 
+Cash and bank 
+  2 000 
+  6 000
+ 
+ 
+48 000 
+85 000
+ 
+£ 
+£
+ 
+Capital at 1 April 2014 
+47 000 
+73 000
+ 
+Profit for the year 
+6 000 
+22 000
+ 
+ 
+53 000 
+95 000
+ 
+Drawings 
+(20 000) 
+(15 000)
+ 
+ 
+33 000 
+80 000
+ 
+Current Liabilities
+ 
+Trade payables 
+15 000 
+  5 000
+ 
+ 
+48 000 
+85 000
+
+
+--- Page Break ---
+
+7
+P44821A
+Turn over    
+ 
+Additional information:
+ 
+1. All purchases are on credit, and for the year ended 31 March 2015 these were:
+ 
+ 
+• 
+Garden Restaurant £110 000
+ 
+ 
+• 
+New Restaurant £70 000.
+ 
+Required:
+ 
+(a) Calculate for the Garden Restaurant and for the New Restaurant the following :
+ 
+ 
+(i) gross profit as a percentage of revenue
+ 
+ 
+(ii) return on capital employed percentage (using the closing capital)
+ 
+ 
+(iii) current ratio
+ 
+ 
+(iv) trade payables payment period (in days)
+ 
+ 
+(v) non-current assets to revenue ratio
+ 
+ 
+(vi) value of the goodwill included in the purchase price of £100 000. 
+(24)
+ 
+(b) Suggest two possible reasons for the differences between the ratios for the 
+Garden Restaurant and for the New Restaurant under each of the following 
+headings:
+ 
+ 
+(i) Profitability 
+ 
+ 
+(ii) Liquidity
+ 
+ 
+(iii) Use of assets.
+(12)
+ 
+(c) Explain the importance to Nural of calculating the non-current assets to revenue 
+ratio.
+(4)
+ 
+(d) Suggest four non-financial factors that Nural should consider before making a 
+decision to purchase either the Garden Restaurant or the New Restaurant.
+(4)
+ 
+(e) Evaluate which restaurant, if any, Nural should purchase.
+(8)
+(Total for Question 3 = 52 marks)
+Answer space for question 3 is on pages 15 to 20 of the question paper.
+
+
+--- Page Break ---
+
+8
+P44821A
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4 The following balances were extracted from the books of Promita for the month of 
+February 2015:
+ 
+Opening balances on 1 February
+ 
+Sales ledger control account 
+£32 500 Dr 
+ 
+ 
+£950 Cr
+ 
+Provision for doubtful debts 
+£1 300
+ 
+Additional information for the month of February 2015:
+ 
+1. Totals for the month of February 
+ 
+£
+ 
+Sales day book 
+66 580
+ 
+Cash sales 
+3 000
+ 
+Sales returns day book 
+2 060
+ 
+Cheques from trade receivables 
+55 900
+ 
+Dishonoured cheque 
+3 360
+ 
+Refund to trade receivable by cheque 
+190
+ 
+Discount allowed 
+1 620
+ 
+Bad debt written off 
+900
+ 
+2. There was no credit balance on the Sales Ledger Control Account at 28 February 
+2015.
+ 
+3. The bad debt written-off in February related to the debt of Chumi, who was only 
+able to pay £600 of his debt. The balance was irrecoverable.
+ 
+4. The provision for doubtful debts is to be maintained at 4% of trade receivables at 
+28 February 2015.
+
+
+--- Page Break ---
+
+9
+P44821A
+Turn over    
+ 
+Required:
+ 
+(a) Distinguish between bad debts and a provision for doubtful debts.
+(4)
+ 
+(b) Suggest two possible reasons for the opening credit balance on the Sales Ledger 
+Control Account at 1 February 2015.
+(2)
+ 
+(c) Prepare the:
+ 
+ 
+(i) Sales Ledger Control Account for the month of February 2015
+(10)
+ 
+ 
+(ii) journal entry recording the writing off of the bad debt of Chumi
+(6)
+ 
+ 
+(iii) Provision for Doubtful Debts Account for the month of February 2015.
+(6)
+ 
+(d) Evaluate the use of control accounts.
+(4)
+(Total for Question 4 = 32 marks)
+Answer space for question 4 is on pages 21 to 24 of the question paper.
+
+
+--- Page Break ---
+
+10
+P44821A
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5 Khin manufactures bicycle frames from metal tubing. The following information 
+relates to the month of March 2015:
+ 
+1. Each bicycle frame requires 3 metres of metal tubing.
+ 
+2. The inventory of metal tubing at 1 March 2015 was 600 metres costing £1.20 per 
+metre.
+ 
+3. Receipts of metal tubing for March:
+ 
+3 March  
+1 800 metres @ £1.30 per metre
+ 
+17 March 
+1 500 metres @ £1.50 per metre
+ 
+4. Issues of metal tubing to production for March:
+ 
+5 March 
+2 000 metres
+ 
+20 March 
+1 000 metres
+ 
+5. Khin uses the perpetual inventory Last In First Out (L.I.F.O) method of valuation.
+ 
+6. 5% of the total raw material issued to production in March was wasted.
+ 
+7. The production line has 12 employees. Each employee worked 185 hours in 
+March. Employees worked:
+ 
+ 
+• 
+160 hours at standard time of £4 per hour 
+ 
+ 
+• 
+20 hours at time and a half
+ 
+ 
+• 
+5 hours at double time.
+ 
+8. Expenses for March were £3 800 of which 40% were direct and 60% were indirect.
+ 
+9. There was no work in progress at the beginning or end of the month.
+
+
+--- Page Break ---
+
+11
+P44821A
+Turn over    
+ 
+Required:
+ 
+(a) Calculate the value of the closing inventory of metal tubing at 31 March 2015.
+(10)
+ 
+(b) Prepare the Prime Cost section of the Manufacturing Account for the month 
+ending 31 March 2015.
+(12)
+ 
+(c) Calculate for March 2015, the:
+ 
+ 
+(i) number of bicycle frames manufactured 
+ (3)
+ 
+ 
+(ii) prime cost per bicycle frame manufactured.
+  (3)
+ 
+(d) Evaluate the use of Last In First Out (L.I.F.O) as a method of valuing inventory.
+  (4)
+(Total for Question 5 = 32 marks)
+Answer space for question 5 is on pages 25 to 29 of the question paper.
+
+
+--- Page Break ---
+
+12
+P44821A
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6 Poon and Quan are in partnership sharing profits and losses in the ratio 2:1. The 
+following is their summary Statement of Financial Position at 28 February 2015:
+ 
+£
+ 
+Non-current Assets (book value)
+ 
+Motor vehicles 
+25 000
+ 
+Fixtures and fittings 
+  9 000
+ 
+ 
+34 000
+ 
+Current Assets
+ 
+Inventory 
+36 000
+ 
+Trade receivables 
+46 000
+ 
+Bank 
+    2 000
+ 
+ 
+118 000
+ 
+Capital: 
+ 
+Poon 
+60 000
+ 
+Quan 
+40 000
+ 
+Current Liabilities
+ 
+Trade payables 
+  18 000
+ 
+ 
+118 000
+ 
+On 28 February 2015 Poon retired from the business and Quan continued in business 
+as a sole trader. The following was agreed:
+ 
+• 
+Goodwill was valued at £60 000, and this would remain in the books of Quan
+ 
+• 
+Poon would take one of the motor vehicles at the book value of £10 000
+ 
+• 
+Inventory was re-valued at £30 000 
+ 
+• 
+All other assets and liabilities were transferred at book value
+ 
+• 
+Poon would leave £50 000 in the business as a loan for 5 years. The balance owing 
+to him would be paid by cheque.
+ 
+On 1 March 2015 Quan obtained a £30 000 8% business bank loan.
+
+
+--- Page Break ---
+
+13
+P44821A
+Turn over    
+ 
+Required:
+ 
+(a) Where there is no partnership agreement, state how the following would be 
+treated:
+ 
+ 
+(i) Partners’ salaries
+ 
+ 
+(ii) Partners’ loans
+ 
+ 
+(iii) Share of profits or losses
+ 
+ 
+(vi) Interest on drawings
+(4)
+ 
+(b) Prepare the: 
+ 
+ 
+(i) Capital Accounts of Poon and Quan 
+(8)
+ 
+ 
+(ii) Bank Account
+(5)
+ 
+ 
+(iii) Quan’s opening Statement of Financial Position at 1 March 2015.
+(11)
+ 
+(c) Evaluate the decision of Quan to keep goodwill in his books.
+(4)
+ (Total for Question 6 = 32 marks)
+Answer space for question 6 is on pages 30 to 34 of the question paper.
+
+
+--- Page Break ---
+
+14
+P44821A
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7 There was a fire at the business premises of Lucia on 20 April 2015. Lucia did not keep 
+full accounting records, but is able to provide the following information:
+ 
+• 
+Balances at 1 April 2015:
+ 
+Inventory at cost 
+£25 000
+ 
+Trade receivables 
+£18 000
+ 
+Trade payables 
+£15 500
+ 
+• 
+Transactions between 1 April and 20 April 2015:
+ 
+Receipts from trade receivables 
+£138 000
+ 
+Payments to trade payables 
+£69 000
+ 
+Cash purchases 
+£25 800
+ 
+• 
+Balances at 20 April 2015:
+ 
+Remaining inventory at cost 
+£14 300
+ 
+Trade receivables 
+£20 000
+ 
+Trade payables 
+£16 700
+ 
+• 
+Lucia uses a ‘mark-up’ of 40%.
+ 
+Required:
+ 
+(a) Explain the:
+ 
+ 
+(i) accounting term net realisable value. 
+(4)
+ 
+ 
+(ii) effect on the financial statements if the closing inventory is overvalued. 
+(4)
+ 
+(b) Calculate the:
+ 
+ 
+(i) purchases for the period 1 April to 20 April 2015.
+(5)
+ 
+ 
+(ii) revenue for the period 1 April to 20 April 2015.
+(4)
+ 
+(c) Prepare the trading account for the period 1 April to 20 April 2015 showing the 
+value of the inventory remaining and the value of the inventory destroyed.
+(11)
+ 
+ 
+“It would be more appropriate for Lucia to record the inventory at market value in 
+her books.”
+ 
+(d) Evaluate this statement.
+(4)
+(Total for Question 7 = 32 marks)
+Answer space for question 7 is on pages 35 to 38 of the question paper.
+
+
+--- Page Break ---
+
+15
+P44821A
+BLANK PAGE
+
+
+--- Page Break ---
+
+16
+P44821A
+BLANK PAGE

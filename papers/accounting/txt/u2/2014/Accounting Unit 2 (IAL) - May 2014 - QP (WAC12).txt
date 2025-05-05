@@ -1,0 +1,957 @@
+Turn over
+Paper Reference(s)
+WAC02/01
+Pearson Edexcel
+International Advanced Level
+Accounting (Modular Syllabus)
+Unit 2 –  Corporate and 
+Management Accounting
+Wednesday 11 June 2014 – Morning
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+P43180A
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2014 Pearson Education Ltd.
+W850/WAC02/57570   1/1/1/1/1/1/1/1
+*P43180A*
+
+
+--- Page Break ---
+
+P43180A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Wavelength Asia plc produces satellite dishes at its factory.  The satellite dishes are then delivered 
+to the company’s warehouse before sale to customers.  
+ 
+At 31 March 2014, the following balances were in the books.
+ 
+Debit
+£
+Credit
+£
+Bad debts
+77 000 
+ 
+Bank
+125 000 
+ 
+Bank loan interest
+20 000 
+ 
+Cash
+27 000 
+ 
+7.5% Debenture 2016
+ 
+          2 000 000
+Direct materials
+4 121 000 
+ 
+Factory buildings at cost
+2 800 000 
+ 
+Factory buildings depreciation
+           112 000
+Goodwill
+800 000 
+ 
+Interest on debenture
+150 000 
+ 
+Inventory at 1 April 2013
+326 000 
+ 
+Land at cost
+3 100 000 
+ 
+Marketing costs
+759 000 
+ 
+Motor vans at cost
+124 000 
+ 
+Motor vans depreciation
+            48 000
+Office expenses
+184 000 
+ 
+Ordinary shares £1
+ 
+ 2 258 000 
+Rent on warehouse premises
+209 000 
+ 
+Retained earnings
+ 
+1 121 000 
+Revenue
+ 
+8 653 000 
+Shipping costs
+521 000 
+ 
+Short-term bank loan
+ 
+500 000 
+Trade payables
+ 645 000 
+Trade receivables
+        556 000 
+Wages
+ 1 438 000
+_________ 
+ 
+         15 337 000 
+15 337 000 
+
+
+--- Page Break ---
+
+P43180A 
+3
+ 
+Turn over
+ 
+Additional information at 31 March 2014:
+ 
+• 
+Inventory £389 000
+ 
+• 
+Interest owing on bank loan £4 000
+ 
+• 
+Marketing costs include £250 000 paid in advance
+ 
+• 
+Wages include
+       £
+Direct factory labour
+988 000
+Office staff
+294 000
+Motor van drivers
+156 000
+ 
+• 
+Assuming a nil residual value and using the straight line method
+ 
+ 
+– 
+the factory buildings are to be depreciated over a 50 year life
+ 
+ 
+– 
+the motor vans are to be depreciated over a four year life
+ 
+• 
+A Corporation tax provision to be made for £399 000, payable by 30 April 2014
+ 
+Required:
+ 
+(a) Showing all workings clearly, prepare for Wavelength Asia plc, in accordance with International 
+Accounting Standard 1 (Revised), the:
+ 
+ 
+(i) Statement of Comprehensive Income for the year ended 31 March 2014
+(23)
+ 
+ 
+(ii) Statement of Financial Position at 31 March 2014.
+(17)
+ 
+(b) Evaluate the financial performance of Wavelength Asia plc for the year ended 31 March 2014 
+and the financial position at 31 March 2014.
+(12)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 9 of the question paper.
+
+
+--- Page Break ---
+
+P43180A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. 
+Grecian Glass Limited has a factory, producing four glass products: vases, bowls, dishes and 
+ornaments.  Production is planned according to demand, and Grecian Glass Limited has seen 
+demand increase.  When production is planned for Week 16, Grecian Glass Limited does not have 
+enough resources to meet all the orders in Week 16. Grecian Glass Limited is only able to operate 
+the factory for 55 hours a week.  
+ 
+There are 11 skilled direct labour staff, each of whom could produce any of the four products and 
+could each work a 55 hour week. 
+ 
+There are 14 machines each of which can produce any of the four products, each of which operate 
+for 55 hours a week. 
+ 
+The same glass material is used for all four products. Glass materials for production are delivered 
+in 10 kilogram blocks and placed on shelves in the stores. Three rows of five blocks are required 
+to fill a shelf.  At the start of Week 16, there are three shelves filled to capacity. 
+ 
+The following information is available for Week 16:
+Product
+Vases
+Bowls
+Dishes
+Ornaments
+Labour hours per unit
+1.5
+2
+1
+3
+Machine hours per unit
+1
+2.5
+1.5
+3.5
+Materials per unit (kilograms)
+1.2
+1.8
+1.6
+0.5
+Variable costs per unit
+£23
+£35
+£25
+£30
+Selling price per unit
+£32
+£45
+£37
+£41
+Sales units
+120
+70
+60
+90
+ 
+Required:
+ 
+(a) If Grecian Glass Limited were to meet all the demand for Week 16, calculate the amount of 
+input required for each product and in total for each of the following factors of production:
+ 
+ 
+(i) Labour hours
+ 
+ 
+(ii) Machine hours
+ 
+ 
+(iii) Materials (kilograms)
+(6)
+
+
+--- Page Break ---
+
+P43180A 
+5
+ 
+Turn over
+ 
+(b) Calculate the total amount available for production in Week 16, for each of the following 
+factors of production:
+ 
+ 
+(i) Labour hours
+ 
+ 
+(ii) Machine hours
+ 
+ 
+(iii) Materials (kilograms)
+(5)
+ 
+(c) For each of the three factors of production (labour hours, machine hours and material in 
+kilograms) calculate the shortage or excess for Week 16.  State whether each factor of 
+production is a limiting factor, or not a limiting factor, for Week 16.    
+(6)
+ 
+(d) Calculate the optimum units of production in Week 16 of vases, bowls, dishes, and ornaments, 
+to give the maximum contribution.
+(15)
+ 
+(e) Calculate the forecast profit for Week 16 at the optimum production level if fixed costs for 
+Week 16 are £1 950.
+(8)  
+ 
+At the start of Week 16 another business, Hellenic Design Limited, asks Grecian Glass Limited if 
+it is interested in a regular contract.
+ 
+Hellenic Design Limited will supply 50 ornaments a week to Grecian Glass Limited, at a price of 
+£35 per item, for one year.
+ 
+(f) Evaluate whether the directors of Grecian Glass Limited should accept the offer from Hellenic 
+Glass Limited.
+(12)
+(Total 52 marks)
+Answer space for question 2 is on pages 10 to 16 of the question paper.
+
+
+--- Page Break ---
+
+P43180A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. 
+The Statement of Changes in Equity of Barisal Industrials plc for the year ended 31 March 2014 
+is being prepared and is shown below.
+ 
+Figures are in £ millions 
+Ordinary 
+Shares £1
+Capital
+£
+Share 
+Premium
+£
+Capital 
+Redemption 
+Reserve
+£
+Retained 
+Earnings
+£
+General 
+Reserve
+£
+Foreign 
+Exchange
+Reserve
+£
+Total Equity
+£
+Balance at 
+1 April 2013
+1 100
+300
+50
+623
+85
+20
+2 178
+(i)
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Balance at 
+31 March 
+2014
+ 
+You are the Finance Director for Barisal Industrials plc.
+ 
+Required:
+ 
+(a) Complete the Statement of Changes in Equity in the Answer Booklet to show the figures for 
+the following changes for the year ended 31 March 2014. You should show your workings in 
+the lined space available. 
+
+
+--- Page Break ---
+
+P43180A 
+7
+ 
+Turn over
+ 
+ 
+(i) Comprehensive Income for the year ended 31 March 2014 was £348 million.
+ 
+ 
+(ii) A sum of £35 million was transferred to the General Reserve from Retained Earnings.
+ 
+ 
+(iii) The balance on the Foreign Exchange Reserve was transferred back to Retained Earnings.
+ 
+ 
+(iv) In May 2013, the final dividend of 2.8 pence per Ordinary Share for the year ended  
+31 March 2013 was paid.
+ 
+ 
+(v) In July 2013 80 million Ordinary Shares of £1 each, issued at a premium of 30 pence per 
+share, were redeemed at the same price at which they were issued.
+ 
+ 
+(vi) In October 2013, an interim dividend of 0.7 pence per Ordinary Share was paid. 
+(22)
+ 
+Barisal Industrials plc redeemed some shares during the year.
+ 
+(b) Explain:
+ 
+ 
+(i) two advantages to a company of redeeming Ordinary Shares.
+ 
+ 
+(ii) two disadvantages to a company of redeeming Ordinary Shares.
+(8)
+ 
+Over lunch, a new member of the Finance Department asks “What are the differences between 
+reserves, provisions, and liabilities?” 
+ 
+Required:
+ 
+(c) Explain the following terms, including how each is created:
+ 
+ 
+(i) reserves
+ 
+ 
+(ii) provisions
+ 
+ 
+(iii) liabilities
+(10)
+ 
+At a board meeting, the Human Resources Director asked “Do you think the payment of the total 
+dividend of 3.5 pence per share in the last financial year was generous?”
+ 
+Required:
+ 
+(d) On behalf of the company, evaluate whether the total dividend of 3.5 pence per share paid in 
+the last financial year was generous.
+(12)
+(Total 52 marks)
+Answer space for question 3 is on pages 18 to 24 of the question paper.
+
+
+--- Page Break ---
+
+P43180A 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. 
+You are the Management Accountant for The Alexandria Sweet Company Limited, and are 
+responsible for producing budgets and the variance analysis.
+ 
+The following information applied to the Budget for the month of April 2014.
+ 
+• 
+Production and sales of sweet packets were expected to be 220 000 packets
+ 
+• 
+Selling price per packet is £0.35 (35 pence)
+ 
+• 
+Direct labour costs are 19 workers paid £8.50 per hour
+ 
+• 
+Variable overheads are budgeted at £10 460 for the month
+ 
+• 
+After deduction of material cost, labour cost, and variable overheads, a gross profit margin of 
+30% is expected
+ 
+• 
+After deduction of fixed overheads, a net profit margin of 8% is expected
+ 
+• 
+The factory operates for 40 hours a week, for 4 weeks per month
+ 
+Required:
+ 
+(a) Complete the Budget Statement of Comprehensive Income in column (a) of the table in the 
+answer booklet for the month of April 2014.
+(9)
+ 
+The following actual information was available for April 2014.
+ 
+• 
+Production and sales quantities were 220 000, as budgeted
+ 
+• 
+A special promotion was in operation for one week and 55 000 packets were sold for  
+£0.30 (30 pence) each
+ 
+• 
+All costs were as budgeted, except for the following:
+ 
+ 
+ż 
+A fall in the world price of sugar resulted in material costs falling by 12%
+ 
+ 
+ż 
+Trade unions obtained a pay rise to £8.75 per hour, for the last two weeks of April
+ 
+ 
+ż 
+Variable overheads included electricity, budgeted at £0.18 (18 pence) per unit of electricity. 
+The actual price of electricity rose by £0.02 (2 pence) per unit of electricity. The amount 
+of electricity used was the same as the budgeted figure, at 14 500 units of electricity
+ 
+ 
+ż 
+Fixed overheads included the salary of an Assistant Manager, who worked for one week 
+in April and was paid for one week. She then left and was not replaced. The Assistant 
+Manager was paid £24 000 per year
+
+
+--- Page Break ---
+
+P43180A 
+9
+ 
+Turn over
+ 
+Required:
+ 
+(b)  Prepare the Actual Statement of Comprehensive Income in column (b) of the table in the 
+answer booklet for the month of April 2014.       
+(11)
+ 
+(c) Complete a Variance column in column (c) of the table in the answer booklet for the month of 
+April 2014.
+(4)
+ 
+A member of staff states “I do not know why we bother drawing up budgets, because most of the 
+figures in the Statement of Comprehensive Income are out of our business’s control.”
+ 
+(d) Evaluate budgets as a management tool for control.
+(8)
+(Total 32 marks)
+Answer space for question 4 is on pages 26 to 28 of the question paper.
+
+
+--- Page Break ---
+
+P43180A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. 
+The Statement of Cash Flows for Chang Tao Stores plc has been drawn up according to International 
+Accounting Standard 7 (IAS7) and is shown below.
+Statement of Cash Flow for Chang Tao Stores plc
+for year ended 31 March 2014
+ 
+£ 
+000’s
+£ 
+000’s
+Cash Flows from operating activities
+Profit from operations
+15 987
+ 
+Add depreciation on non-current assets
+459
+ 
+Less profit on sale of non-current asset
+(35)
+ 
+Operating cash flow before working capital changes
+16 411
+ 
+Increase in inventories
+(313)
+ 
+Decrease in trade receivables
+348
+ 
+Decrease in trade payables
+(274)
+ 
+Cash generated from operations
+16 172
+ 
+Less interest paid: 
+Bank overdraft
+(76)
+ 
+ 
+Debenture
+(480)
+ 
+Less tax paid
+(3 409)
+ 
+Net Cash from Operating Activities
+12 207
+ 
+ 
+ 
+Cash Flows from Investing Activities
+ 
+ 
+Payments to acquire tangible non-current assets
+(13 248)
+ 
+Payments to acquire shares in other companies
+(20 570)
+ 
+Dividends received from shares in other companies
+126
+ 
+Net Cash Used in Investing Activities
+ 
+(33 692)
+
+
+--- Page Break ---
+
+P43180A 
+11
+ 
+Turn over
+Cash Flows from Financing Activities
+ 
+ 
+Issue of Ordinary Shares
+9 000
+ 
+Issue of Debenture
+12 000
+ 
+Dividends paid: 
+Final 2013
+(286)
+ 
+ 
+Interim 2014
+(140)
+ 
+ 
+Preference
+(100)
+ 
+Net Cash from Financing Activities
+20 474
+ 
+ 
+ 
+Net decrease in cash and cash equivalents
+ 
+(1 011)
+ 
+ 
+ 
+Cash and cash equivalents at the beginning of the year
+ 
+2 106
+ 
+ 
+ 
+Cash and cash equivalents at the end of the year
+ 
+1 095
+ 
+ 
+ 
+Net decrease in cash and cash equivalents
+ 
+(1 011)
+ 
+Required:
+ 
+(a) Prepare answers to the following:
+ 
+ 
+(i) Explain why an adjustment for depreciation charged is added in a Cash Flow statement.
+(2)
+ 
+ 
+(ii) Plant was the only non-current asset sold in the year, for £120 000. State the book value 
+of the plant when sold.  
+(2)
+ 
+ 
+(iii) At the start of the year on 1 April 2013, unsold goods were valued at £983 000. State the 
+value of unsold goods at the end of the year.  
+(2)
+ 
+ 
+(iv) Explain why the figure given for 'Decrease in Trade Receivables' is plus 348 and not  
+minus 348.
+(2)
+ 
+ 
+(v) Suppliers were owed £1 084 000 at the end of the year. Calculate the amount owed to 
+suppliers at the start of the year. 
+(2)
+ 
+ 
+(vi) The debenture was issued on 1 August 2013. Interest is paid every six months, in January 
+and July. Calculate the interest rate on the debenture.
+(5)
+
+
+--- Page Break ---
+
+P43180A 
+12 
+ 
+ 
+(vii) The debenture is “secured on property” purchased on 1 August 2013. Explain what this 
+means for Chang Tao Stores plc. 
+(2)
+ 
+ (viii) Explain why the Final Dividend for the year ended 31 March 2014 is NOT included in the 
+Cash Flow statement for the year ended 31 March 2014.  
+(1)
+ 
+ 
+(ix) At 1 April 2013, Chang Tao Stores plc had a bank balance of £209 000. Calculate how 
+much cash Chang Tao Stores plc had at 1 April 2013. 
+(2)
+ 
+ 
+(x) At 1 April 2014, Chang Tao Stores plc had an overdraft of £178 000. Calculate the exact 
+movement on the cash balances during the year. 
+(4)
+ 
+(b) Evaluate the performance of Chang Tao Stores plc concerning liquidity, over the financial year 
+ended 31 March 2014.
+(8)
+(Total 32 marks)
+Answer space for question 5 is on pages 29 to 32 of the question paper.
+
+
+--- Page Break ---
+
+P43180A 
+13
+ 
+Turn over
+BLANK PAGE
+
+
+--- Page Break ---
+
+P43180A 
+14 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. 
+You are the accountant for Wilson Onyango Tailoring, which rents four shops, selling made-to-
+measure suits. The made-to-measure suits are a luxury item, and trade may fluctuate according 
+to the state of the economy. The last year has seen difficult trading conditions, and next year is 
+expected to be the same. As a result, the owner of the business, Wilson Onyango, has asked you to 
+carry out a financial review for the year ended 31 March 2014.
+ 
+For the year ended 31 March 2014, the four shops have identical costs, which are:
+ 
+• 
+Material costs per suit £78
+ 
+• 
+Direct labour costs per suit £95
+ 
+• 
+Rent for each shop £3 375 per quarter (three months)
+ 
+• 
+Other fixed costs £1 115 per month per shop
+ 
+• 
+Insurance for the whole business £184 per month
+ 
+Other information available for the year ended 31 March 2014:
+ 
+• 
+Suits are only made to order.  All suits made are sold, and no inventories of suits are held
+ 
+• 
+Each suit sells for £250
+ 
+• 
+Total number of suits for all four stores sold in year is 1 400
+ 
+Required:
+ 
+(a) As part of the financial review, prepare:
+ 
+ 
+(i) the Statement of Comprehensive Income for the whole business for the year ended  
+31 March 2014.  
+(4)
+ 
+ 
+(ii) calculations to find the break-even point, in sales units, for the year ended 31 March 2014.
+(4)
+ 
+Wilson Onyango decided to close one of the shops on 1 April 2014. The effects of this were:
+ 
+• 
+Rent and other fixed costs for the store closed would no longer apply
+ 
+• 
+No extra fixed costs would be allocated to the remaining three stores
+ 
+• 
+Insurance for the whole business would be £170 per month
+ 
+• 
+Sales in all three stores would fall to 1 350 per year in total
+ 
+• 
+All other costs and revenues remain the same
+
+
+--- Page Break ---
+
+P43180A 
+15
+ 
+Turn over
+ 
+Required:
+ 
+(b) As a further part of the financial review, prepare:
+ 
+ 
+(i) the forecast Statement of Comprehensive Income for the year ended 31 March 2015 
+(4)
+ 
+ 
+(ii) calculations to find the forecast break-even point, in sales units, for the year ended  
+31 March 2015
+(4)
+ 
+ 
+(iii) calculations to find the forecast margin of safety, measured in sales units, for the year 
+ended 31 March 2015
+(2)
+ 
+Wilson Onyango likes to see the figures presented graphically.  
+ 
+Required:
+ 
+(c) On the grid in your answer booklet, mark on the following for the year ended 31 March 2015:
+ 
+ 
+• 
+Fixed costs
+ 
+ 
+• 
+Total costs
+ 
+ 
+• 
+Sales revenue
+ 
+ 
+• 
+Break-even point
+ 
+ 
+• 
+Margin of safety, measured in sales units, if sales are 1 350 units
+ 
+ 
+• 
+Indicate the area of profit if sales are 1 350 units
+(6)
+ 
+(d) Evaluate the decision of Wilson Onyango to close one of the stores for the year ended 31 March 
+2015.
+(8)
+(Total 32 marks)
+Answer space for question 6 is on pages 33 to 38 of the question paper.
+
+
+--- Page Break ---
+
+P43180A 
+16 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. 
+The Bengal Bay Metal Company plc produces tin cans. The directors have decided to build a new 
+factory, and have to choose between two possible locations, Amillakat and Barigong.  The directors 
+have decided to evaluate the forecast figures for the next five years, in order to choose the better 
+location.
+ 
+The following information is available concerning the two locations.
+ 
+Amillakat
+ 
+• 
+Location is in an industrial area, away from housing
+ 
+• 
+Cost of factory £22 million
+ 
+• 
+Running costs per year £5 million, which includes £800 000 of depreciation per year
+ 
+Barigong
+ 
+• 
+Location is in the city centre, near housing area
+ 
+• 
+A grant is available which reduces the cost of the factory to £16 million
+ 
+• 
+Running costs per year £6.7 million, which includes £900 000 of depreciation per year
+ 
+Sales will be 565 million tin cans per year, at a price of £0.02 (2 pence) per can, regardless of which 
+location is selected.
+ 
+The cost of capital for the factory will be 7%.  A table of discount factors for 7% is given below.
+Year
+Discount Factor
+1
+0.935
+2
+0.873
+3
+0.816
+4
+0.763
+5
+0.713
+ 
+Required:
+ 
+(a) Explain the following accounting terms: 
+ 
+ 
+(i) payback period
+ 
+ 
+(ii) accounting (average) rate of return
+ 
+ 
+(iii) internal rate of return.
+(6)
+
+
+--- Page Break ---
+
+P43180A 
+17 
+ 
+(b) Calculate the Net Present Value of the factory at each location after five years of operation.
+(18)
+ 
+(c)  Evaluate the two possible locations on which to build the new factory.
+(8)
+(Total 32 marks)
+Answer space for question 7 is on pages 39 to 42 of the question paper.
+
+
+--- Page Break ---
+
+P43180A 
+18 
+BLANK PAGE
+
+
+--- Page Break ---
+
+P43180A 
+19 
+BLANK PAGE
+
+
+--- Page Break ---
+
+P43180A 
+20 
+BLANK PAGE

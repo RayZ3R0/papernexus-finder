@@ -1,0 +1,582 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42980A
+©2014 Pearson Education Ltd.
+6/6/6/6/
+*P42980A0116*
+Chemistry
+Advanced Subsidiary
+Unit 3: Chemistry Laboratory Skills I
+Wednesday 7 May 2014 – Morning
+Time: 1 hour 15 minutes
+WCH03/01
+Candidates may use a calculator.
+Instructions
+•	Use black ink or ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+	
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+	
+– there may be more space than you need.
+Information
+•	 The total mark for this paper is 50.
+•	 The marks for each question are shown in brackets
+	
+– use this as a guide as to how much time to spend on each question.
+•	 You will be assessed on your ability to organise and present information, ideas, 
+	
+descriptions and arguments clearly and logically, including your use of 
+	
+grammar, punctuation and spelling.
+•	 A Periodic Table is printed on the back cover of this paper.
+Advice
+•	 Read each question carefully before you start to answer it.
+•	 Keep an eye on the time.
+•	 Try to answer every question.
+•	 Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P42980A0216*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1	 A series of tests was carried out on A, a white powder.  A is known to contain one cation 
+and one anion.  Complete the table below.  You may use names or formulae in your 
+answers.
+Test
+Observation
+Inference
+(a)
+Carry out a flame test 
+on A.
+........................................................................
+Cation is calcium.
+(1)
+(b)
+Add a few drops of 
+dilute nitric acid to an 
+aqueous solution of A, 
+followed by aqueous 
+silver nitrate.
+Then add 
+concentrated aqueous 
+ammonia solution.
+........................................................................
+........................................................................
+........................................................................
+........................................................................
+........................................................................
+Anion is probably iodide.  
+This confirms the anion is 
+iodide.
+(2)
+(c)
+Add an aqueous 
+solution of chlorine to 
+an aqueous solution 
+of A.
+The colour of the resulting 
+solution is 
+........................................................................
+The colour is due to the 
+formation of 
+........................................................................
+(2)
+(d)
+Add an aqueous 
+solution of starch to 
+the mixture formed 
+in (c).  
+The colour of the resulting 
+mixture is 
+........................................................................
+This confirms the inference 
+made in (c).
+(1)
+(e)
+Add a solution of 
+sodium carbonate to 
+an aqueous solution 
+of A.   
+When there is no 
+further change, add 
+dilute hydrochloric 
+acid to the mixture.   
+A white precipitate forms.
+The precipitate dissolves 
+in the acid and bubbles of 
+gas are seen.
+The precipitate is
+........................................................................
+The gas is 
+........................................................................
+(2)
+PMT
+
+
+--- Page Break ---
+
+3
+*P42980A0316*
+Turn over    
+	
+(f)	 When concentrated sulfuric acid is added to a solid sample of A, there is a 
+vigorous redox reaction.
+	
+	
+(i)	 Identify, by name or formula, the product formed by the oxidation of the 
+iodide ion in this reaction.  Describe the appearance of this product.
+(2)
+Product ..............................................................................................................................................................................................................................................................
+Appearance ..................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Identify, by name or formula, one product formed when the 
+concentrated sulfuric acid is reduced.  Describe an observation you could 
+make that shows this product has formed.
+(2)
+Product ..............................................................................................................................................................................................................................................................
+Observation ..................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 1 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42980A0416*
+2	 This question concerns the analysis of an organic compound.
+	
+(a)	 (i)	 How can the relative molecular mass of a compound be found from its mass 
+spectrum?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The general formula of an alcohol can be written ROH, where R is an alkyl 
+group.	
+	
+	
+	
+The relative molecular mass of an alcohol Q is 88.  The formula of the alkyl 
+group may be represented as CxHy.
+	
+	
+	
+State the values of x and y.
+(1)
+x ...............................                    y ...............................
+	
+(b)	 When Q was warmed with a mixture of sulfuric acid and aqueous 
+potassium dichromate(VI), there was no colour change.
+	
+	
+Deduce the displayed formula of alcohol Q.
+(1)
+PMT
+
+
+--- Page Break ---
+
+5
+*P42980A0516*
+Turn over    
+	
+(c)	 When a sample of Q was reacted with phosphorus(V) chloride, PCl5, steamy fumes 
+were seen.
+	
+	
+(i)	 Identify these steamy fumes by name or formula.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The steamy fumes were tested by reacting them with ammonia gas.  A white 
+smoke was seen.
+	
+	
+	
+Write an equation, including state symbols, for the reaction in which the white 
+smoke was formed.
+(2)
+	
+(d)	 One of the isomers of the alcohol Q is an ether.  Ethers contain two alkyl groups 
+linked by an oxygen atom and can be represented as R-O-R.
+	
+	
+Explain how the information in an infrared spectrum would be used to decide 
+whether the spectrum is produced by an alcohol or an ether.  Wavenumber data 
+are not required.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 2 = 7 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*P42980A0616*
+3	 (a)	 The concentrations of acids and alkalis can be found by titration using a suitable 
+indicator.
+	
+	
+Give the colours which are seen if the indicator phenolphthalein is used.
+(2)
+Colour in acid .............................................................................................................................................................................................................................................
+Colour in alkali ...........................................................................................................................................................................................................................................
+	
+(b)	 Another type of titration is a thermometric titration.
+	
+	
+In a thermometric titration, 20.0 cm3 of 1.50 mol dm–3 hydrochloric acid was 
+placed in a well-insulated cup, and its temperature was measured.  Portions of 
+sodium hydroxide solution were added from a burette.  The mixture was stirred 
+continuously and the temperature measured after each addition.
+Total volume of 
+sodium hydroxide 
+added /cm3
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+Temperature / °C
+20.4
+22.8
+25.5
+28.0
+27.2
+24.1
+20.8
+	
+	
+On the axes opposite, plot a graph of temperature against the total volume of 
+sodium hydroxide added.  Draw two straight lines on your graph and extrapolate 
+the lines until they intersect.  Hence find the maximum temperature of the 
+reaction mixture and the total volume of sodium hydroxide which just neutralized 
+the hydrochloric acid.
+(4)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42980A0716*
+Turn over    
+Maximum temperature.....................................................................................................................................................................................................................
+Total volume of sodium hydroxide that just neutralized the hydrochloric acid.
+....................................................................................................................................................................................................................................................................................
+30
+28
+26
+24
+22
+20
+Temperature 
+/ °C
+0
+5
+10
+15
+20
+25
+30
+Total volume of sodium hydroxide added / cm3
+PMT
+
+
+--- Page Break ---
+
+8
+*P42980A0816*
+	
+(c)	 In an experiment using a different sample of sodium hydroxide solution, 20.0 cm3 of 
+1.50 mol dm–3 hydrochloric acid was neutralized by 15.50 cm3 of sodium hydroxide 
+solution.  The starting temperature was 20.4°C and the temperature at neutralization 
+was 30.6°C.
+	
+	
+(i)	 Calculate the energy, in joules, transferred when the acid is just neutralized.
+Energy transferred
+J
+total mass of solution
+g
+J g
+( )
+( )
+.
+(
+=
+×
+4 18
+1
+¯  
+temperature rise
+°
+°
+¯
+C
+C
+1)
+(
+)
+×
+	
+	
+	
+Assume that the density of the solution is 1 g cm–3.
+(1)
+	
+	
+(ii)	 The number of moles of hydrochloric acid used was 3.00 × 10-2.
+	
+	
+	
+Calculate the enthalpy change of the reaction, in kJ mol-1, for the 
+neutralization of one mole of hydrochloric acid. 
+Give your answer to three significant figures and include a sign.
+(2)
+DH = ...................................................................................................... kJ mol-1
+PMT
+
+
+--- Page Break ---
+
+9
+*P42980A0916*
+Turn over    
+	
+	
+(iii)	Why is it important that the temperature readings are taken as quickly as 
+possible?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iv)	Thermometric titrations can also be carried out using an electronic probe 
+connected to a computer, instead of a thermometer.
+	
+	
+	
+The sodium hydroxide is run into the acid from the burette at a steady rate.   
+The acid is in an insulated beaker with a magnetic stirrer.   The computer then 
+produces a plot of the results.
+	
+	
+	
+Explain why this modified method can give improved results, other than 
+because of any increase in accuracy of the temperature readings by the 
+electronic probe.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(d)	 (i)	 Calculate the concentration, in mol dm–3, of the sodium hydroxide used when 
+20.0 cm3 of 1.50 mol dm–3 hydrochloric acid is neutralized by 15.50 cm3 of 
+sodium hydroxide.
+(2)
+PMT
+
+
+--- Page Break ---
+
+10
+*P42980A01016*
+	
+	
+(ii)	 Each time a burette is read, the error is ±0.05 cm3.
+	
+	
+	
+Calculate the percentage error in using a burette to measure a volume of 
+5.00 cm3 of sodium hydroxide.
+(1)
+	
+(e)	 (i)	 When a titration is carried out using an indicator, the concentrations of acid 
+and alkali are usually between 0.05 and 0.20 mol dm–3.
+	
+	
+	
+Explain why more concentrated solutions are used in thermometric titrations.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Sodium hydroxide is described as an irritant at concentrations less than 
+0.50 mol dm–3.
+	
+	
+	
+In what way is more concentrated sodium hydroxide hazardous?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 3 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+11
+*P42980A01116*
+Turn over   
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P42980A01216*
+4	 Butanone, CH3COCH2CH3, can be prepared from butan-2-ol, CH3CH(OH)CH2CH3, using 
+the procedure below.
+	
+An organic solvent suitable for this procedure has a low boiling temperature and is 
+extremely flammable, so adequate safety precautions must be taken.
+	
+Procedure
+	
+1.	 Place about 10 g of sodium dichromate(VI) and 20 cm3 of distilled water in a 
+conical flask.  Shake the flask to dissolve the solid.  Then slowly add about 8 cm3 of 
+concentrated sulfuric acid.  
+	
+2.	 Dissolve 5.00 g of butan-2-ol in the organic solvent in a round-bottom flask.  
+Stand the flask in a large beaker containing ice and water.  Slowly add the 
+acidified sodium dichromate(VI) solution through a funnel to the butan-2-ol 
+solution in the flask.
+	
+3.	 When the addition is finished, leave the mixture to cool and separate the organic 
+layer, which contains the butanone, from the aqueous layer.
+	
+4.	 Wash the organic layer with sodium hydrogencarbonate solution, and then with 
+water.  Discard the aqueous layer.
+	
+5.	 Add some sodium sulfate, Na2SO4, to the organic layer and wait until this solution 
+is clear.
+	
+6.	 Decant the solution into a flask, and add a few anti-bumping granules.  Use 
+distillation to remove the solvent, which has a lower boiling temperature than 
+butanone.  The solvent boils between 32°C and 36°C.
+	
+(a)	 What colour change will be seen when the acidified sodium dichromate(VI) reacts 
+with the butan-2-ol?
+(1)
+	
+	
+From  .............................................................. to ..............................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P42980A01316*
+Turn over    
+ 	
+(b)	 The reaction is exothermic.  Other than the risk of explosion, why is it important 
+to cool the flask in a beaker of ice and water in step 2? 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 State the purpose of washing the crude butanone in step 4 with sodium 
+hydrogencarbonate solution.  Describe the method used to carry out this process, 
+naming the piece of apparatus used.
+(3)
+Purpose .............................................................................................................................................................................................................................................................
+Method .............................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(d)	 What is the purpose of adding sodium sulfate in step 5?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P42980A01416*
+	
+(e)	 Draw a labelled diagram of the apparatus used in step 6 to distil off the solvent 
+from the organic layer.  The diagram should show at least one precaution which 
+must be taken when distilling an extremely flammable liquid.
+(4)
+	
+(f)	 (i)	 Calculate the volume, in cm3, of 5.00 g of butan-2-ol.
+	
+	
+	
+The density of butan-2-ol is 0.805 g cm–3.
+(1)
+PMT
+
+
+--- Page Break ---
+
+15
+*P42980A01516*
+	
+	
+(ii)	 Each mole of butan-2-ol can produce a maximum yield of one mole of 
+butanone.
+	
+	
+	
+Calculate the mass of butan-2-ol that would be required to make 3.00 g of 
+butanone if the yield is 64%.
+	
+	
+	
+Relative molecular masses: 
+butan-2-ol
+74.1
+butanone
+72.1
+(3)
+(Total for Question 4 = 14 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*P42980A01616*
+PMT

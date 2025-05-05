@@ -1,0 +1,838 @@
+N37963A
+©2011 Edexcel Limited.
+7/7/5/2/
+*N37963A0124*
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 80. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your 
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+     Turn over
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 2:  Application of Core Principles of Chemistry
+Candidates may use a calculator.
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+6CH02/01
+Paper Reference
+Thursday 20 January 2011 – Afternoon
+Time: 1 hour 30 minutes
+PMT
+
+
+--- Page Break ---
+
+2
+*N37963A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.
+If you change your mind, put a line through the box 
+ and then mark your new answer with 
+a cross 
+.
+1 The equation for the reaction between limewater and hydrochloric acid, including state 
+symbols, is
+ 
+A 
+CaOH(s) 
++ HCl(aq) ĺ CaCl(aq) + H2O(l)
+ 
+B 
+Ca(OH)2(s) + 2HCl(aq) ĺ CaCl2(aq) + 2H2O(aq)
+ 
+C 
+CaOH(aq)  + HCl(aq) ĺ CaCl(aq) + H2O(aq)
+ 
+D 
+Ca(OH)2(aq) + 2HCl(aq) ĺ CaCl2(aq) + 2H2O(l)
+(Total for Question 1 = 1 mark)
+2 As you go down Group 2 of the Periodic Table, which of the following decreases?
+ 
+A 
+The reactivity of the elements.
+ 
+B 
+The solubility of the hydroxides of the elements.
+ 
+C 
+The solubility of the sulfates of the elements.
+D
+The thermal stability of the carbonates of the elements.
+(Total for Question 2 = 1 mark)
+3 Which concentrated acid would be best for mixing with a salt to carry out a flame test?
+ 
+A 
+Hydrochloric acid
+ 
+B 
+Nitric acid
+ 
+C 
+Phosphoric(V) acid
+ 
+D 
+Sulfuric acid
+(Total for Question 3 = 1 mark)
+4 The flame produced by a compound containing barium in a flame test is
+ 
+A 
+colourless.
+ 
+B 
+green.
+ 
+C 
+red.
+ 
+D 
+yellow.
+(Total for Question 4 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*N37963A0324*
+Turn over  
+5 Which of the following is a greenhouse gas?
+ 
+A Argon
+ 
+B Nitrogen
+ 
+C Oxygen
+ 
+D Water vapour
+(Total for Question 5 = 1 mark)
+6 For parts (a) and (b), use your knowledge of intermolecular forces to predict the 
+compound with the highest boiling temperature.
+ 
+(a) 
+A 
+HF
+ 
+B 
+H2O
+ 
+C NH3
+ 
+D CH4
+(1)
+ 
+(b) 
+A 
+1-iodobutane
+ 
+B 
+1-chlorobutane
+ 
+C 2-methyl-2-iodopropane
+ 
+D 2-methyl-2-chloropropane
+(1)
+(Total for Question 6 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*N37963A0424*
+7 Consider the following organic liquids:
+ 
+A ethanal
+ 
+B ethanol
+ 
+C tetrachloromethane
+ 
+D trichloromethane
+ 
+(a) Each liquid is run from a burette.  Which liquid would not be deflected significantly 
+by a charged rod?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+(b) Which liquid would react with phosphorus(V) chloride to give a gas which fumes in 
+moist air?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+(c) Which liquid would you expect to have the peak at the greatest mass/charge ratio in 
+its mass spectrum?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+(d) Which liquid has an infrared spectrum with a broad absorption due to hydrogen 
+bonding?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+(Total for Question 7 = 4 marks)
+PMT
+
+
+--- Page Break ---
+
+5
+*N37963A0524*
+Turn over  
+8 Which of the following best defines the meaning of the term anthropogenic change?
+ 
+It is a change caused by
+ 
+A nature.
+ 
+B plants.
+ 
+C animals.
+ 
+D humans.
+(Total for Question 8 = 1 mark)
+9 Which of the following equations represents the change when concentrated sulfuric acid 
+is added to solid potassium chloride at room temperature?
+ 
+A 8KCl + 5H2SO4 o 4K2SO4 + H2S + 4Cl2 + 4H2O
+ 
+B 2KCl + 3H2SO4 o 2KHSO4 + SO2 + Cl2  + 2H2O
+ 
+C 6KCl + 4H2SO4 o 3K2SO4 + S 
++ 3Cl2 + 4H2O
+ 
+D KCl + H2SO4
+o KHSO4 + HCl
+(Total for Question 9 = 1 mark)
+10 The Maxwell-Boltzmann distribution of molecular energies is useful for explaining why 
+increasing temperature affects the rate of a chemical reaction.
+ 
+(a) Which of the following statements describes how the shape of the Maxwell-
+Boltzmann distribution curve changes as temperature increases?
+(1)
+A
+The peak decreases in height and moves to the left.
+B
+The peak increases in height and moves to the left.
+C
+The peak decreases in height and moves to the right.
+D
+The peak increases in height and moves to the right.
+ 
+(b) The main reason that reaction rates increase with temperature is that
+(1)
+A
+all the molecules move faster.
+B
+all the molecules collide more frequently.
+C
+more molecules collide with the correct orientation.
+D
+a larger proportion of molecules have high energies.
+(Total for Question 10 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*N37963A0624*
+11 Four organic reactions are given below:
+ A  
+  CH3CH3
+oCH2
+CH2 + H2
+ B  
+nCH2
+CH2
+o( CH2
+CH2 ) n
+ 
+C CH2
+CH2 + HBr oCH3CH2Br
+ 
+D CH3CH2Br + H2O oCH3CH2OH + HBr
+ 
+(a) Which reaction is a substitution reaction?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+(b) Which reaction is an electrophilic addition reaction?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+(c) Which reaction involves initial attack by a nucleophile?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+ 
+(d) Which reaction requires an initiator?
+(1)
+A
+ 
+B
+ 
+C
+ 
+D
+(Total for Question 11 = 4 marks)
+PMT
+
+
+--- Page Break ---
+
+7
+*N37963A0724*
+Turn over  
+12 Which of the following statements is true?
+ 
+A CFCs and nitrogen monoxide, NO, are involved in the depletion of the ozone 
+layer.
+ 
+B CFCs act as catalysts for the depletion of the ozone layer, while nitrogen 
+monoxide, NO, does not.
+ 
+C CFCs and ozone are free radicals.
+ 
+D CFCs and nitrogen monoxide, NO, are decomposed by UV radiation.
+(Total for Question 12 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+8
+*N37963A0824*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+9
+*N37963A0924*
+Turn over  
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+13 This question is about iodine and its compounds.
+ 
+(a) (i) The element iodine can be obtained from seaweed.  One step in the procedure 
+is to extract the iodine from aqueous solution by shaking with a hydrocarbon 
+solvent in a separating funnel.
+ 
+ 
+ 
+Draw a diagram of a separating funnel containing the separated layers.  Label 
+the hydrocarbon layer, and state its colour.
+ 
+ 
+ 
+[Density of hydrocarbon layer 0.660 g cm–3]
+(3)
+Diagram
+Colour of hydrocarbon layer  ............................................................................................................................................................................
+ 
+ 
+(ii) Iodine is also formed when an aqueous solution containing iodide ions reacts 
+with an aqueous solution of iron(III) ions.
+ 
+ 
+ 
+Write the ionic equation for this reaction.  State symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+10
+*N37963A01024*
+ 
+(b) Hydrogen iodide gas is usually prepared by adding phosphoric(V) acid to solid 
+potassium iodide.
+ 
+ 
+(i) Suggest why phosphoric(V) acid is used in this preparation rather than 
+concentrated sulfuric acid.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Describe what you would see if a test tube of hydrogen iodide gas was inverted 
+in a beaker of water.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) When hydrogen iodide gas reacts with ammonia, dense white fumes form.  
+Write the equation for this reaction, including state symbols.
+(2)
+PMT
+
+
+--- Page Break ---
+
+11
+*N37963A01124*
+Turn over  
+ 
+(c) 1-iodobutane can be made by reacting butan-1-ol with phosphorus(III) iodide, PI3,
+formed by reacting moist red phosphorus with iodine.
+ 
+ 
+(i) Complete the following equation for the formation of 1-iodobutane.
+(1)
+ 
+ 
+ 
+PI3 + …............… C4H9OH o
+ 
+ 
+(ii) Identify the intermolecular forces present between molecules of 1-iodobutane.
+(1)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) 1-iodobutane reacts with hot aqueous silver nitrate solution.  Describe what you 
+would see when this reaction takes place.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Give the structural formula for the organic product of the reaction between 
+1-iodobutane and ammonia.
+(1)
+(Total for Question 13 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*N37963A01224*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+13
+*N37963A01324*
+Turn over  
+14 This question is about methanol, CH3OH, and ethanol, CH3CH2OH.
+ 
+(a) (i) Draw a dot and cross diagram for methanol, showing outer electrons only.
+(1)
+ 
+ 
+(ii) Give the approximate values for the HCH and COH bond angles in methanol.  
+Justify your answers.
+(4)
+HCH angle  .................................
+Justification  ..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+COH angle  .................................
+Justification  ..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Using displayed formulae, draw a diagram to show a hydrogen bond between 
+two methanol molecules.  On your diagram, show the bond angle around the 
+hydrogen atom of the hydrogen bond and give its value.
+(2)
+PMT
+
+
+--- Page Break ---
+
+14
+*N37963A01424*
+ 
+(b) Methanol reacts with sodium.
+ 
+ 
+(i) State what you would observe in this reaction.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation for this reaction.  State symbols are not required.
+(1)
+ 
+(c) Ethanol can be used to make ethanal.
+ 
+ 
+(i) Identify, by name or formula, the two chemicals you would use to make ethanal 
+from ethanol in the laboratory.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*N37963A01524*
+Turn over  
+ 
+ 
+(ii) Draw a diagram of the apparatus you would use to prepare ethanal from ethanol 
+in the laboratory and collect the product.
+(2)
+ 
+ 
+(iii) Both ethanal and propane have a molar mass of 44 g mol–1, but their boiling 
+temperatures are different.
+ 
+ 
+ 
+Suggest which substance has the higher boiling temperature.  Justify your 
+answer by comparing the intermolecular forces in each compound.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 14 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*N37963A01624*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+17
+*N37963A01724*
+Turn over  
+15 The ingredients list on the label of a commercial indigestion remedy states that each 
+tablet contains 680 mg of calcium carbonate.
+ 
+To check this, the following experiment was carried out.
+ 
+One tablet was crushed.  50.0 cm3 of 1.00 mol dm–3 hydrochloric acid, an excess, was 
+then added and the mixture was transferred to a volumetric flask.  The volume was made 
+up to exactly 100 cm3 with distilled water.  10.0 cm3 of this solution was titrated with 
+0.300 mol dm–3 sodium hydroxide solution.  The following results were obtained.
+Run
+Rough
+1
+2
+Final burette 
+reading / cm3
+21.80
+33.20
+44.40
+Initial burette 
+reading / cm3
+10.00
+21.80
+33.20
+Volume added 
+/ cm3
+11.80
+11.40
+11.20
+ 
+(a) (i) What should be used to crush the tablet?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Name a suitable indicator for the titration.  State the colour change you would 
+expect to see.
+(2)
+Indicator  .........................................................................................................................................................................................................................
+Colour change from  ............................................................................................ to  .............................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*N37963A01824*
+ 
+(b) (i) Select appropriate readings and calculate the mean titre.
+(1)
+ 
+ 
+(ii) Calculate the number of moles of sodium hydroxide used.
+(1)
+ 
+ 
+(iii) Use your answer to (ii) to write down the number of moles of hydrochloric acid 
+left in 10.0 cm3 of the solution used in the titration.
+(1)
+ 
+ 
+(iv) Calculate the number of moles of hydrochloric acid left in 100 cm3 of solution.
+(1)
+PMT
+
+
+--- Page Break ---
+
+19
+*N37963A01924*
+Turn over  
+ 
+ 
+(v) 50.0 cm3 of 1.00 mol dm–3 hydrochloric acid contains 0.0500 mol of 
+hydrochloric acid.
+ 
+ 
+ 
+Use this and your answer to (iv) to calculate the number of moles of 
+hydrochloric acid that reacted with the indigestion tablet.
+(1)
+ 
+ 
+(vi) The equation for the reaction between hydrochloric acid and calcium carbonate 
+is:
+CaCO3(s) + 2HCl(aq) oCaCl2(aq) + CO2(g) + H2O(l)
+ 
+ 
+ 
+Use this, and your answer to (v), to calculate the number of moles of calcium 
+carbonate in one tablet.
+(1)
+ 
+ 
+(vii) Calculate the mass of calcium carbonate in one tablet.
+ 
+ 
+ 
+[Assume that the molar mass of CaCO3 is 100 g mol–1]
+(1)
+ 
+ 
+(viii) Suggest a reason, other than experimental error, why your value differs from the 
+value given on the label.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 15 = 11 marks)
+TOTAL FOR SECTION B = 39 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*N37963A02024*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+21
+*N37963A02124*
+Turn over  
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+16 This question is about some reactions which can be used in the manufacture of hydrogen.
+ 
+Reaction 1 uses two naturally occurring chemicals, water and natural gas.  Steam is 
+reacted with methane to form carbon monoxide and hydrogen in an equilibrium reaction.
+ 
+Reaction 1    CH4(g) + H2O(g) U CO(g) + 3H2(g)                     ǻH = +210 kJ mol–1
+ 
+In reaction 2, carbon monoxide and steam are passed over copper at high temperature.  
+This forms carbon dioxide and hydrogen.
+Reaction 2    CO(g) + H2O(g) U CO2(g) + H2(g)
+ 
+The carbon dioxide formed is removed by passing it through potassium carbonate 
+solution in reaction 3.
+Reaction 3    K2CO3(aq) + CO2(g) + H2O(l) o 2KHCO3(aq)
+ 
+The potassium carbonate is regenerated by heating the potassium hydrogencarbonate 
+solution in reaction 4.  The carbon dioxide gas produced is released into the atmosphere.
+Reaction 4    2KHCO3(aq) o K2CO3(aq) + CO2(g) + H2O(l)
+ 
+(a) For each of the first three reactions, state the initial and final oxidation numbers of 
+any elements that change their oxidation numbers.  Hence decide which are redox 
+reactions.
+(5)
+ Reaction 1  ..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Reaction 2  ....................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Reaction 3  ....................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*N37963A02224*
+ *(b) (i) Discuss, with reasons, the conditions of temperature and pressure that would 
+favour the production of hydrogen in reaction 1.  You should consider the effect 
+of the conditions on both yield and rate.
+(7)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Excess steam is used in reaction 1.  State why an excess of a reagent is used 
+and suggest why steam, rather than methane, is chosen.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*N37963A02324*
+ 
+(c) Copper is a catalyst in reaction 2.  Explain how a catalyst increases the rate of a 
+reaction.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(d) (i) State one economic advantage of reaction 4.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ *(ii) Reaction 4 contributes to global warming.  Identify the substance formed in this 
+reaction which is likely to be responsible and explain the processes that lead to 
+an increase in global temperatures.
+ 
+ 
+ 
+Suggest two effects an increase in global temperatures might have on the 
+environment.
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 16 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*N37963A02424*
+PMT

@@ -1,0 +1,899 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P41213A
+©2013 Pearson Education Ltd.
+7/6/5/4/5/
+*P41213A0124*
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 2:  Application of Core Principles of Chemistry
+Wednesday 16 January 2013 – Morning
+Time: 1 hour 30 minutes
+6CH02/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.  
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*P41213A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Which of these bond angles is the largest?
+ 
+A 
+Cl–B–Cl in BCl3
+ 
+B 
+H–N–H in NH3
+ 
+C 
+Cl–Be–Cl in BeCl2
+ 
+D 
+H–O–H in H2O
+(Total for Question 1 = 1 mark)
+2 In propene, CH2=CH–CH3,
+ 
+A 
+the C=C double bond is longer and stronger than the C–C single bond.
+ 
+B 
+the C=C double bond is shorter and stronger than the C–C single bond.
+ 
+C 
+the C=C double bond is shorter and weaker than the C–C single bond.
+ 
+D 
+the C=C double bond is longer and weaker than the C–C single bond.
+(Total for Question 2 = 1 mark)
+3 Which of the following molecules is not polar?
+ 
+A 
+HCl
+ 
+B 
+CH3Cl
+ 
+C 
+CHCl3
+ 
+D 
+CCl4
+(Total for Question 3 = 1 mark)
+4 The O–H bond in water is polar because, compared with the hydrogen atom, the 
+oxygen atom has
+ 
+A 
+more electrons.
+ 
+B 
+more neutrons.
+ 
+C 
+greater electronegativity.
+ 
+D 
+a larger atomic radius.
+(Total for Question 4 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P41213A0324*
+Turn over    
+5 Which of the following compounds has the highest boiling temperature?
+ 
+A CH4
+ 
+B CH3Cl
+ 
+C HCHO
+ 
+D CH3OH
+(Total for Question 5 = 1 mark)
+6 The oxidation number of sulfur in thiosulfate ions, S2O3
+2–, is
+ 
+A +2
+ 
+B +3
+ 
+C +4
+ 
+D +6
+(Total for Question 6 = 1 mark)
+7 Which of the following is a redox reaction?
+ 
+A Ca + 2H2O  Ca(OH)2 + H2
+ 
+B MgO + H2O  Mg(OH)2
+ 
+C NaCl + AgNO3  AgCl + NaNO3
+ 
+D Na2CO3 + 2HCl  2NaCl + CO2 + H2O  
+(Total for Question 7 = 1 mark)
+8 A solid gives a red colour in a flame test and reacts with concentrated sulfuric acid to 
+produce steamy fumes, but no other gases.  The solid could be
+ 
+A lithium bromide.
+ 
+B strontium chloride. 
+ 
+C calcium bromide.
+ 
+D sodium chloride.
+(Total for Question 8 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P41213A0424*
+9 Which of the following statements is correct?
+ 
+A 
+Barium sulfate is less soluble in water than calcium sulfate.
+ 
+B 
+Barium hydroxide is less soluble in water than calcium hydroxide.
+ 
+C 
+Barium nitrate undergoes thermal decomposition more readily than calcium nitrate.
+ 
+D 
+Barium shows more than one oxidation state in its compounds.
+(Total for Question 9 = 1 mark)
+10 Going down Group 7 from chlorine to iodine
+ 
+A 
+the boiling temperature of the hydrogen halide decreases.
+ 
+B 
+the polarity of the hydrogen halide bond increases.
+ 
+C 
+the reducing power of the halide ion increases.
+ 
+D 
+the oxidizing power of the halogen element increases.
+(Total for Question 10 = 1 mark)
+11 What colour is the vapour which forms when concentrated sulfuric acid is added to 
+solid potassium iodide? 
+ 
+A 
+Green 
+ 
+B 
+Orange 
+ 
+C 
+Brown 
+ 
+D 
+Purple
+(Total for Question 11 = 1 mark)
+12 Calculate the volume of dilute hydrochloric acid, concentration 0.200 mol dm–3, needed 
+to neutralize 20 cm3 of aqueous calcium hydroxide, concentration 0.100 mol dm–3.
+2HCl(aq) + Ca(OH)2(aq)  CaCl2(aq) + 2H2O(l)
+ 
+A 
+10 cm3
+ 
+B 
+20 cm3
+ 
+C 
+40 cm3
+ 
+D 
+80 cm3
+(Total for Question 12 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P41213A0524*
+Turn over    
+13 The reaction of heated magnesium with steam is faster than the reaction of 
+magnesium with cold water.  This is mainly because
+ 
+A in cold water, the water molecules do not collide as frequently with magnesium.
+ 
+B the coating of oxide on magnesium decomposes when it is heated.
+ 
+C the fraction of particles with energy greater than the activation energy is higher 
+in the reaction with steam.
+ 
+D the reaction with steam goes by an alternative route with lower activation energy.
+(Total for Question 13 = 1 mark)
+14 Which of these compounds would not react when heated with a mixture of 
+potassium dichromate(VI) and sulfuric acid?
+ 
+A CH3OH
+ 
+B CH3(CH2)2OH
+ 
+C (CH3)2CHOH
+ 
+D (CH3)3COH
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P41213A0624*
+15 Under certain conditions, butan-1-ol can be oxidized to the compound with infrared 
+spectrum shown below.
+O–H stretching vibrations alcohols 
+3750 – 3200 cm–1
+O–H stretching vibrations carboxylic acids 
+3300 – 2500 cm–1
+C=O stretching vibrations aldehydes and ketones 
+1740 – 1680 cm–1
+C=O stretching vibrations carboxylic acids 
+1725 – 1700 cm–1
+ 
+The compound is most likely to be
+ 
+A 
+butan-2-ol.
+ 
+B 
+butanal.
+ 
+C 
+butanone.
+ 
+D 
+butanoic acid.  
+(Total for Question 15 = 1 mark)
+16 Which of the following is a secondary alcohol?
+ 
+A 
+2-methylpentan-3-ol
+ 
+B 
+2-methylpropan-2-ol
+ 
+C 
+2,2-dimethylpropan-1-ol
+ 
+D 
+ethane-1,2-diol
+(Total for Question 16 = 1 mark)
+Wavenumber / cm–1
+Transmittance  
+/ %
+3000
+2000
+1000
+80
+60
+40
+20
+0
+PMT
+
+
+--- Page Break ---
+
+7
+*P41213A0724*
+Turn over    
+17 Propanal, CH3CH2CHO, and propanone, CH3COCH3, are isomers, but only propanal has 
+a significant peak in its mass spectrum at mass/charge ratio 
+ 
+A 15
+ 
+B 29
+ 
+C 43
+ 
+D 58
+(Total for Question 17 = 1 mark)
+18 The reaction of the halogenoalkane, C2H5Cl, with alcoholic ammonia is
+ 
+A nucleophilic substitution.
+ 
+B electrophilic substitution.
+ 
+C reduction.
+ 
+D elimination.  
+(Total for Question 18 = 1 mark)
+19 The formation of a carbocation from a halogenoalkane is an example of 
+ 
+A homolytic fission.
+ 
+B heterolytic fission.
+ 
+C an initiation reaction.
+ 
+D a propagation reaction.  
+(Total for Question 19 = 1 mark)
+20 The equations below show some reactions which occur in the upper atmosphere.
+ 
+            O3   O  + O2  
+ 
+NO  + O3  NO2 + O2
+ 
+NO2 + O  NO  + O2
+ 
+Which of the following statements is not correct? 
+ 
+A Oxygen free radicals are formed by the action of ultraviolet light.
+ 
+B NO acts as a catalyst.
+ 
+C NO acts as an oxidizing agent.
+ 
+D NO is released by aircraft engines.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+8
+*P41213A0824*
+SECTION B
+Answer ALL the questions. Write your answers in the spaces provided.
+21 Chlorine is used to prevent the growth of bacteria in swimming pool water.  It reacts 
+as shown below.
+Cl2(aq) + H2O(l)  HCl(aq) + HClO(aq)
+ 
+(a) (i) By giving appropriate oxidation numbers, explain why this is a 
+disproportionation reaction.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+ 
+ 
+(ii)  State and explain the effect on the position of equilibrium if concentrated 
+hydrochloric acid is added to a sample of chlorinated swimming pool water.
+(2)
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P41213A0924*
+Turn over    
+ 
+(b) In a similar reaction, chlorine reacts with sodium hydroxide to make household 
+bleach.
+Cl2(aq) + 2NaOH(aq)    NaCl(aq) + NaClO(aq) + H2O(l)
+ 
+ 
+The concentration of NaClO in diluted bleach was measured by titration.  
+A 25.0 cm3 sample of bleach was pipetted into a conical flask.  Approximately 
+1.5 g of solid potassium iodide and 10 cm3 of hydrochloric acid with concentration 
+2.00 mol dm–3 were added.  Each mole of ClO–, from the NaClO in the solution 
+of bleach, produced one mole of iodine, I2, which was titrated with sodium 
+thiosulfate solution.
+ 
+ 
+(i) Complete the ionic half-equations below for the reaction of ClO– with acidified 
+potassium iodide by balancing them and adding electrons where required.
+(2)
+ClO–  +   ......................H+                     Cl–  +  H2O
+ 
+......................I–                       I2
+ 
+ 
+(ii) Use your answer to (a)(i) to write the overall ionic equation for the reaction 
+between ClO– and I–
+ ions in acidic conditions.
+(1)
+ 
+ 
+(iii) The iodine in the sample required a mean (average) titre of 24.20 cm3 of  
+0.0500 mol dm−3 sodium thiosulfate solution.  Thiosulfate ions react with iodine 
+as shown below.
+ 
+ 
+ 
+ 
+2S2O3
+2−  + I2    S4O6
+2–  +  2I–
+ 
+ 
+ 
+Calculate the number of moles of iodine in the solution.
+(2)
+ 
+ 
+(iv) What is the number of moles of ClO– ions in the sample of diluted bleach?
+(1)
+PMT
+
+
+--- Page Break ---
+
+10
+*P41213A01024*
+ 
+ 
+(v) Hence calculate the concentration, in mol dm–3, of ClO– in the diluted bleach.
+(1)
+ 
+ 
+(vi) 1.5 g of potassium iodide, KI, contains 9.04 × 10–3 mol of I–.  Use your answers 
+to (b)(ii) and (b)(iv) to show by calculation why this amount was suitable.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vii) A student carrying out this titration measured the mean (average) titre as 
+24.50 cm3.
+ 
+ 
+ 
+What is the percentage difference in this student’s titre, compared with the 
+accurate value of 24.20 cm3?
+(1)
+PMT
+
+
+--- Page Break ---
+
+11
+*P41213A01124*
+Turn over    
+ 
+ 
+(viii) The difference between the student’s mean titre and the accurate value was 
+not due to the limitations in the accuracy of the measuring instruments. 
+ 
+ 
+ 
+Suggest one possible reason for this difference. 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Suggest one damaging effect to the upper atmosphere which could be caused by 
+the presence of chlorine compounds. 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P41213A01224*
+22 This question is about two halogenoalkanes, X and Y, which have the structures 
+shown below.
+ 
+ 
+X 
+Y
+ 
+(a) (i) Draw the skeletal formula of X.
+(1)
+ 
+ 
+(ii) Name Y.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Write an equation for the reaction of X with an alcoholic solution of ammonia, 
+and name the organic product.
+(2)
+Name of product .....................................................................................................................................................................................................................................
+ 
+ 
+(iv) When Y is heated with an aqueous solution of potassium hydroxide, an 
+alcohol is formed in a two-step reaction.  Write the mechanism for this 
+reaction using ‘curly arrows’ where appropriate and clearly showing the 
+structure of the intermediate.
+(3)
+H3C
+C
+I
+CH3
+CH3
+CH3CH2CH2CH2Br
+PMT
+
+
+--- Page Break ---
+
+13
+*P41213A01324*
+Turn over    
+ 
+ 
+(v) When Y is heated with an alcoholic solution of potassium hydroxide, the 
+alkene C4H8 is formed.  What type of reaction occurs to produce the alkene?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Separate ethanolic solutions of X and Y were warmed with water containing 
+dissolved silver nitrate.  Describe what would be seen in each case, ignoring any 
+differences in the rates of reaction.
+(2)
+Observation with X 
+....................................................................................................................................................................................................................................................................................
+Observation with Y 
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The rates of hydrolysis of primary halogenoalkanes are affected by the strength of 
+the bond between the carbon and the halogen atom. 
+ 
+ 
+Is the C–Br bond weaker or stronger than the C–I bond? Explain why the bond 
+strength differs.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P41213A01424*
+23 The skeletal formula of cyclohexanol is shown below. 
+a
+OH
+ 
+(a) (i) The actual bond angles differ from the angles in the two dimensional diagram 
+shown.
+ 
+ 
+ 
+What is the angle of the C–C–C bond labelled a?
+(1)
+Angle  ..................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) What is the angle of the C–O–H bond? Justify your answer, explaining why 
+the size of the angle is different from the angle in (i).
+(3)
+Angle  ..................................................................................................................................................................................................................................................................
+Explanation  ..................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+ 
+(b) (i) Suggest what you would expect to see when cyclohexanol reacts with 
+sodium.
+(2)
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P41213A01524*
+Turn over    
+ 
+ 
+(ii) Phosphorus(V) chloride (phosphorus pentachloride) is used to test for 
+the presence of an –OH group.  Write the equation for the reaction of 
+cyclohexanol with phosphorus(V) chloride.
+(2)
+ 
+ 
+(iii) Give the chemical test you could use to identify the gas produced, and the 
+observation you would make.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Cyclohexanol reacts with hot acidified potassium dichromate(VI) solution.
+ 
+ 
+ 
+Give the skeletal formula of the organic product of this reaction.
+(1)
+ 
+ 
+(v) What colour change would you observe as this reaction takes place?
+(1)
+From .............................................................................................................................. to ..............................................................................................................................
+ 
+(c) The mass spectrum of cyclohexanol has a prominent peak at mass / charge ratio 82.   
+Suggest the molecular formula of the fragment which causes this peak.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 12 marks)
+TOTAL FOR SECTION B = 41 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*P41213A01624*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24 
+ 
+Carbon capture is the name given to some processes used to prevent carbon 
+dioxide entering the atmosphere.  Carbon capture is carried out because carbon 
+dioxide is a greenhouse gas.
+Flue gases in chimneys contain carbon dioxide produced from burning fossil 
+fuels.   Various different compounds can be used to react with the carbon dioxide 
+to capture it.  Alternatively, carbon dioxide can be separated from other gases by a 
+physical process.
+Many sources of natural gas contain carbon dioxide, which can be removed by 
+freezing. 
+Captured carbon dioxide must then be stored to prevent it entering the 
+atmosphere.  It can be injected into depleted oil and gas formations, or into porous 
+rocks full of salt water.  These are usually over 1 km below the Earth’s surface and 
+have non-porous rocks above them.  Eventually the carbon dioxide dissolves, 
+forming carbonate ions and then new minerals.
+ 
+(a) Greenhouse gases can absorb infrared radiation.  Explain why carbon dioxide 
+absorbs infrared radiation but oxygen cannot.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) A solution of the compound aminoethanol, H2NCH2CH2OH, can be used to absorb 
+carbon dioxide.  
+2H2NCH2CH2OH  +  CO2 + H2O  (H3NCH2CH2OH)2CO3
+ 
+ 
+(i) Explain why aminoethanol is soluble in water. 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P41213A01724*
+Turn over    
+ 
+ 
+(ii) The position of this equilibrium moves to the left on heating. This frees the 
+captured carbon dioxide for storage.  Use this information to decide whether 
+the forward reaction is exothermic or endothermic.  Explain your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The composition of a sample of natural gas and the melting temperatures of four 
+of its components are shown below.
+Percentage
+Melting temperature / K
+Methane
+95.2
+ 91.1
+2-methylpropane
+ 0.8
+113.7
+Butane
+ 0.9
+134.7
+Other hydrocarbons
+ 2.4
+Carbon dioxide
+ 0.7
+216.5
+ 
+ 
+(i) Draw a dot and cross diagram for carbon dioxide.
+(2)
+ 
+ 
+(ii) The London forces between molecules of carbon dioxide are stronger than 
+the London forces between molecules of methane.  Suggest a reason for this.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*P41213A01824*
+ 
+ 
+(iii) Use your knowledge of intermolecular forces to suggest why butane has a 
+higher melting temperature than 2-methylpropane.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+ 
+(d) When carbon dioxide dissolves, it may eventually form minerals such as 
+magnesium carbonate and calcium carbonate.
+ 
+ 
+(i) State the results of flame tests carried out on these two minerals.
+(2)
+Magnesium carbonate  .....................................................................................................................................................................................................................
+Calcium carbonate  ...............................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P41213A01924*
+Turn over    
+ 
+ 
+*(ii) Magnesium carbonate and calcium carbonate both undergo thermal 
+decomposition, but they have different stability to heat.  The difference in 
+stability to heat can be compared in an experiment.
+ 
+ 
+ 
+Suggest how this experiment could be carried out.  You should indicate
+ 
+ 
+ 
+ how to detect when the thermal decomposition occurs 
+ 
+ 
+ 
+ the measurement you would make to compare the stability to heat 
+ 
+ 
+ 
+ how to make the comparison fair.
+ 
+ 
+ 
+You may include a diagram if you wish but it is not essential.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+PMT
+
+
+--- Page Break ---
+
+20
+*P41213A02024*
+ 
+ 
+*(iii) State and explain which of the two carbonates is more stable to heat.
+(3)
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 24 = 19 marks)
+TOTAL FOR SECTION C = 19 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+21
+*P41213A02124*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+22
+*P41213A02224*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+23
+*P41213A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+*P41213A02424*
+PMT

@@ -1,0 +1,577 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P48371A
+©2017 Pearson Education Ltd.
+6/6/5/6/1/1/
+*P48371A0116*
+Chemistry
+Advanced Subsidiary
+Unit 3: Chemistry Laboratory Skills I
+Wednesday 25 January 2017 – Morning
+Time: 1 hour 15 minutes
+WCH03/01
+Candidates may use a calculator.
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+	
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+	
+– there may be more space than you need.
+Information
+•	 The total mark for this paper is 50.
+•	 The marks for each question are shown in brackets
+	
+– use this as a guide as to how much time to spend on each question.
+•	 You will be assessed on your ability to organise and present information, ideas, 
+	
+descriptions and arguments clearly and logically, including your use of 
+	
+grammar, punctuation and spelling.
+•	 A Periodic Table is printed on the back cover of this paper.
+Advice
+•	 Read each question carefully before you start to answer it.
+•	 Keep an eye on the time.
+•	 Try to answer every question.
+•	 Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P48371A0216*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Answer ALL the questions.  Write your answers in the spaces provided.
+1	 A student carried out the tests described to distinguish between the pairs of 
+compounds named in parts (a) to (d).
+	
+State what you would see when the test is carried out.  Identify by name or formula 
+any gases evolved during the reactions in parts (b) to (d).
+	
+(a)	 Solid potassium chloride and solid sodium chloride.
+	
+	
+Test: A flame test.
+(2)
+Observation with potassium chloride................................................................................................................................................................................
+Observation with sodium chloride........................................................................................................................................................................................
+	
+(b)	 Aqueous potassium sulfate and aqueous potassium carbonate.
+	
+	
+Test: Addition of excess dilute hydrochloric acid followed by aqueous barium chloride.
+	
+	
+Identify any gas evolved.
+(2)
+Observation with potassium sulfate....................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Observation with potassium carbonate...........................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 Solid ammonium sulfate and solid potassium sulfate.
+	
+	
+Test: Warm the solid with aqueous sodium hydroxide and use damp red litmus paper 
+to test any gas released.
+	
+	
+Identify any gas evolved.
+(3)
+Observation with ammonium sulfate.................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Observation with potassium sulfate....................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P48371A0316*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 Solid sodium chloride and solid sodium bromide.
+	
+	
+Test: Add concentrated sulfuric acid. 
+	
+	
+Identify all of the gases evolved.
+(4)
+Observation with sodium chloride........................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Observation with sodium bromide.......................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 1 = 11 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P48371A0416*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+2	 A halogenoalkane, G, has the molecular formula C4H9X, where X represents a halogen atom.
+	
+On heating G with excess dilute aqueous sodium hydroxide, compound G is 
+converted into compound J, C4H10O.
+	
+Complete the tables.
+	
+(a)
+Test
+Observation
+Inference
+To the solution remaining 
+after heating G with excess 
+dilute aqueous 
+sodium hydroxide,
+add .................................................................
+.............................................................................
+followed by 
+aqueous silver nitrate. 
+White precipitate forms.
+The atom X
+is ......................................................................
+(2)
+	
+(b)
+Test
+Observation
+Inference
+Add phosphorus(V) chloride 
+to pure J.
+ 
+Test any gas evolved with 
+.............................................................................
+White smoke
+The formula of the white 
+smoke is
+.............................................................................
+Compound J is an alcohol.
+(2)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P48371A0516*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)
+Test
+Observation
+Inference
+Warm J with acidified
+potassium dichromate(VI) 
+solution.
+ 
+.............................................................................
+.............................................................................
+Compound J is not oxidised.
+Compound J is a
+....................................................... alcohol.
+(2)
+	
+(d)	 On the basis of the observations and inferences made in parts (a) to (c), draw the 
+structure of compound J.
+(1)
+ (Total for Question 2 = 7 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P48371A0616*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+3	 A student carried out two similar, separate experiments to determine the 
+enthalpy changes for the reactions of sodium hydrogencarbonate and 
+sodium carbonate with excess dilute hydrochloric acid.
+	
+(a)	 The first experiment was to find the enthalpy change ΔH1 for the reaction
+NaHCO3(s)  +  HCl(aq)  →  NaCl(aq)  +  H2O(l) + CO2(g)
+	
+Results
+Measurement
+Value
+Mass of solid sodium hydrogencarbonate added to 
+hydrochloric acid 
+4.20 g
+Volume of hydrochloric acid
+50.0 cm3
+Initial temperature of hydrochloric acid before addition 
+of solid sodium hydrogencarbonate
+21.0 °C
+Final temperature of solution 
+14.0 °C
+Molar mass of sodium hydrogencarbonate
+84.0 g mol–1
+Specific heat capacity of solution
+4.18 J g–1 °C–1
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P48371A0716*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(i)	 Calculate the number of moles of sodium hydrogencarbonate used in the experiment.
+(1)
+moles of NaHCO3 = ...................................................... mol
+	
+	
+(ii)	 Calculate the heat energy absorbed in the reaction between 
+sodium hydrogencarbonate and hydrochloric acid. 
+	
+	
+	
+Use the expression:
+Energy absorbed (J)  =  50.0  ×  specific heat capacity of solution  ×  temperature change
+(1)
+energy absorbed = ...................................................... J 
+	
+	
+(iii)	Calculate the value of ΔH1.
+	
+	
+	
+Your answer should be in units of kJ mol–1, expressed to three significant 
+figures, and include a sign.
+(3)
+ΔH1 = ...................................................... kJ mol–1
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P48371A0816*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 In the second experiment, the enthalpy change for the reaction between 
+sodium carbonate and dilute hydrochloric acid was determined.
+Na2CO3(s)  +  2HCl(aq)  →  2NaCl(aq)  +  H2O(l)  +  CO2(g)
+	
+	
+The molar enthalpy change of this reaction ΔH2 was found to be –36.0 kJ mol–1.
+	
+	
+(i)	 Describe two ways in which the temperature change differs when equal numbers 
+of moles of sodium hydrogencarbonate and sodium carbonate are reacted 
+separately with the same volume of excess dilute hydrochloric acid.
+(2)
+First difference............................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Second difference...................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 State one assumption that has been made when calculating the values of ΔH1 
+and ΔH2 from the experimental results.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P48371A0916*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 The results of the experiments in parts (a) and (b) may be used to calculate 
+the enthalpy change of reaction for the thermal decomposition of 
+sodium hydrogencarbonate.  The equation for the reaction is
+2NaHCO3(s)  →  Na2CO3(s)  +  H2O(l)  +  CO2(g)          ΔHreaction
+	
+	
+(i)	 Complete the Hess cycle.  Include state symbols with any formulae.
+(2)
++2HCl(aq)
+2NaHCO3(s)
+ΔHreaction
+Na2CO3(s)  +  H2O(l)  +  CO2(g)
++2HCl(aq)
+	
+	
+(ii)	 Using the Hess cycle, or otherwise, complete the expression for ΔHreaction in 
+terms of enthalpy changes ΔH1 and ΔH2.
+(1)
+	
+	
+	
+ΔHreaction  =
+	
+	
+(iii)	Use your value for ΔH1 calculated in part (a)(iii), the value of ΔH2 = –36.0 kJ mol–1 and 
+your expression in (c)(ii), to calculate a value for ΔHreaction in kJ mol–1.
+(1)
+ΔHreaction = ...................................................... kJ mol–1
+(Total for Question 3 = 12 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P48371A01016*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+4	 A titration is carried out to determine the concentration of a solution of 
+sodium hydroxide, NaOH(aq), using the organic acid H2Y.
+	
+The equation for the reaction is 
+H2Y(aq)  +  2NaOH(aq)  →  Na2Y(aq)  +  2H2O(l)
+	
+Sodium hydroxide solution is added from a burette to 25.0 cm3 of a 0.0500 mol dm–3 
+solution of  H2Y, to which several drops of phenolphthalein have been added.
+	
+(a)	 State the colour change for the phenolphthalein indicator at the end-point of this 
+titration.
+(2)
+From ............................................................................................................................. to ..............................................................................................................................
+	
+(b)	 A student obtained the readings shown. 
+Titration number
+1
+2
+3
+Burette reading (final) / cm3
+24.90
+23.60
+23.65
+Burette reading (initial) / cm3
+  1.00
+  0.00
+  0.15
+Volume of NaOH used / cm3
+23.90
+23.60
+23.50
+Used to calculate mean (ü)
+	
+	
+(i)	 Calculate the mean titre in cm3.
+	
+	
+	
+Show which titres you have used in your calculation by putting a tick (ü) in 
+the appropriate boxes.
+(2)
+Mean titre = ...................................................... cm3
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P48371A01116*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 On the diagram below, show how the level of the sodium hydroxide solution 
+appears when the final burette reading of 23.65 cm3 is recorded in titration 3.
+(2)
+23
+24
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P48371A01216*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 (i)	 Calculate the number of moles of the acid, H2Y, in 25.0 cm3 of a 0.0500 mol dm–3 solution.
+(1)
+	
+	
+(ii)	 Calculate the number of moles of sodium hydroxide, NaOH, in the mean titre.
+(1)
+	
+	
+(iii)	 Calculate the concentration of the sodium hydroxide solution in mol dm–3.
+(1)
+	
+	
+(iv)	Describe two things you would do when using a burette to ensure that a 
+particular reading is as accurate as possible.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 4 = 11 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P48371A01316*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+5	 In an experiment to prepare cyclohexene, C6H10, concentrated sulfuric acid, H2SO4, 
+was added slowly to 6.24 g of cyclohexanol, C6H11OH, in the apparatus shown in the 
+diagram.  The mixture was heated.
+concentrated 
+sulfuric acid
+cyclohexanol
+cyclohexene
+heat
+	
+As the reaction took place, an impure liquid distilled over into the collection flask.
+	
+The equation for the preparation of cyclohexene is
+C6H11OH  →  C6H10  +  H2O
+	
+(a)	 (i)	 Calculate the volume of cyclohexanol used in this experiment.
+	
+	
+	
+The density of cyclohexanol is 0.962 g cm–3.
+(2)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P48371A01416*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Calculate the mass of cyclohexene that would be formed if all 6.24 g of 
+cyclohexanol were converted into cyclohexene.
+(2)
+	
+	
+(iii)	After purifying the liquid, 1.64 g of cyclohexene was collected.  
+Calculate the percentage yield of cyclohexene in this preparation.
+(1)
+	
+(b)	 The mixture in the collection flask contains impure cyclohexene, which is 
+immiscible with water.
+	
+	
+(i)	 Three steps, shown in the table below, are then carried out for the purposes shown.
+	
+	
+	
+Complete the table by identifying suitable substances for each step.
+(3)
+Step
+Purpose of step
+Suitable substance to use
+1
+To remove acidity
+2
+To remove inorganic impurities
+3
+To dry the product
+	
+	
+(ii)	 Identify the final step required in order to obtain pure cyclohexene from the dry product.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 5 = 9 marks)
+TOTAL FOR PAPER = 50 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P48371A01516*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P48371A01616*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

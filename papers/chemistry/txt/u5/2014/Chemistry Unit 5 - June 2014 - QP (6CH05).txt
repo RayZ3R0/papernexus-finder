@@ -1,0 +1,1149 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42973A
+©2014 Pearson Education Ltd.
+6/6/6/6/3/3/
+*P42973A0128*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Tuesday 17 June 2014 – Afternoon
+Time: 1 hour 40 minutes
+6CH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PMT
+
+
+--- Page Break ---
+
+2
+*P42973A0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 In which of the following ions does the metal have an oxidation number of +3?
+ 
+ 
+A MnO4
+2–
+ 
+ 
+B VO2+
+ 
+ 
+C [Fe(CN)6]4–
+ 
+ 
+D [CrCl2(H2O)4]+
+(Total for Question 1 = 1 mark)
+2 Copper metal is oxidized to Cu2+ by nitrate(V) ions which are reduced to  
+nitrogen monoxide, NO.   
+By considering the changes to the oxidation numbers of copper and nitrogen, it can 
+be deduced that in this reaction
+ 
+ 
+A 2 mol of copper reacts with 3 mol of nitrate(V) ions.
+ 
+ 
+B 2 mol of copper reacts with 5 mol of nitrate(V) ions.
+ 
+ 
+C 3 mol of copper reacts with 2 mol of nitrate(V) ions.
+ 
+ 
+D 5 mol of copper reacts with 2 mol of nitrate(V) ions.
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P42973A0328*
+Turn over    
+3 The diagram below shows a cell set up between a copper metal / copper(II) ion 
+electrode and a reference electrode, known as a calomel electrode.
+ 
+Under standard conditions, the emf of this cell was −0.07 V.  The standard electrode 
+potential of the copper metal / copper(II) ion electrode is +0.34 V.  Hence the 
+standard electrode potential of the calomel electrode is
+ 
+ 
+A −0.41 V
+ 
+ 
+B −0.27 V
+ 
+ 
+C +0.27 V
+ 
+ 
+D +0.41 V
+(Total for Question 3 = 1 mark)
+4 For the reaction
+2NO2(g)  U  N2O4(g)
+ 
+at 450 K the total entropy change, ǻStotal, is negative.  Hence the equilibrium constant, 
+Kp, for this reaction at 450 K is
+ 
+ 
+A zero.
+ 
+ 
+B positive and greater than 1.
+ 
+ 
+C positive and less than 1.
+ 
+ 
+D negative.
+(Total for Question 4 = 1 mark)
+copper metal
+calomel electrode
+copper(II) sulfate 
+solution
+salt 
+bridge
+V
+PMT
+
+
+--- Page Break ---
+
+4
+*P42973A0428*
+5 The standard electrode potentials of two half reactions are shown below.
+ 
+½Cl2  +  e−  U  Cl− 
+E 9 = +1.36 V
+ 
+Co3+  +  e−  U  Co2+ 
+E 9 = +1.82 V
+ 
+Which of the following processes is thermodynamically favourable?  The reaction of
+ 
+ 
+A Co2+ with Cl2 to form Cl−
+ 
+ 
+B Co2+ with Cl− to form Cl2
+ 
+ 
+C Co3+ with Cl2 to form Cl−
+ 
+ 
+D Co3+ with Cl– to form Cl2
+(Total for Question 5 = 1 mark)
+6 A solution of potassium manganate(VII) was used to determine the concentration of 
+iron(II) ions in solution by titration in the presence of excess dilute sulfuric acid.
+ 
+(a) With the potassium manganate(VII) in the burette, the end-point of the reaction is 
+when the solution in the conical flask turns
+(1)
+ 
+ 
+A colourless.
+ 
+ 
+B pink.
+ 
+ 
+C green.
+ 
+ 
+D orange.
+ 
+(b) If insufficient acid is added, the titre value is
+(1)
+ 
+ 
+A low and a brown precipitate forms.
+ 
+ 
+B low and a green precipitate forms.
+ 
+ 
+C high and a brown precipitate forms.
+ 
+ 
+D high and a green precipitate forms.
+(Total for Question 6 = 2 marks)
+7 What is the electronic configuration of the stable scandium ion?
+ 
+ 
+A [Ar] 3d0 4s2
+ 
+ 
+B [Ar] 3d1 4s1
+ 
+ 
+C [Ar] 3d0 4s1
+ 
+ 
+D [Ar] 3d0 4s0
+(Total for Question 7 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P42973A0528*
+Turn over    
+8 The shapes of the complexes [CrCl4]– and [Pt(NH3)2Cl2] are
+[CrCl4]−
+[Pt(NH3)2Cl2]
+A
+square planar
+square planar
+B
+tetrahedral
+tetrahedral
+C
+square planar
+tetrahedral
+D
+tetrahedral
+square planar
+(Total for Question 8 = 1 mark)
+9 The compound 1,2-diaminoethane, H2NCH2CH2NH2, is a bidentate ligand; in formulae, 
+it is usually abbreviated to ‘en’.
+ 
+When 1,2-diaminoethane is added to [Co(NH3)6]2+ in aqueous solution, [Co(en)3]2+ is 
+formed.  What is the best explanation for this?
+ 
+ 
+A There are much stronger bonds between the ligands and the cobalt(II) ion in 
+[Co(en)3]2+ than in [Co(NH3)6]2+.
+ 
+ 
+B When [Co(en)3]2+ is formed from [Co(NH3)6]2+ the reaction is exothermic.
+ 
+ 
+C When [Co(en)3]2+ is formed from [Co(NH3)6]2+ the total entropy change is 
+positive.
+ 
+ 
+D When [Co(en)3]2+ is formed from [Co(NH3)6]2+  the reaction has a low activation 
+energy.
+(Total for Question 9 = 1 mark)
+10 When aqueous sodium hydroxide is added to an aqueous solution of a transition 
+metal compound, a green precipitate is formed which dissolves in excess sodium 
+hydroxide forming a green solution.  The transition metal ion present in the original 
+solution is
+ 
+ 
+A Cr3+
+ 
+ 
+B Fe3+
+ 
+ 
+C Fe2+
+ 
+ 
+D Ni2+
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P42973A0628*
+11 Benzene reacts with a nitrating mixture of concentrated nitric and sulfuric acids.  
+Which species is least likely to be present in the nitrating mixture?
+ 
+ 
+A NO3
+−
+ 
+ 
+B H3O+
+ 
+ 
+C HSO4
+−
+ 
+ 
+D NO2
++
+(Total for Question 11 = 1 mark)
+12 Benzene (Tb = 80.1qC) has a higher boiling temperature than ethanol (Tb = 78.5qC).  
+This is because the
+ 
+ 
+A benzene ring is stabilised.
+ 
+ 
+B London forces between benzene molecules are stronger than the hydrogen 
+bonds between ethanol molecules.
+ 
+ 
+C hydrogen bonds between benzene molecules are stronger than the hydrogen 
+bonds between ethanol molecules.
+ 
+ 
+D C–H bonds in benzene are stronger than the C–H bonds in ethanol.
+(Total for Question 12 = 1 mark)
+13 Separate 0.1 mol dm−3 aqueous solutions of ammonia, methylamine and 
+phenylamine were prepared.  Which of the following sequences shows the solutions 
+in order of increasing pH?
+ 
+ 
+A phenylamine, methylamine, ammonia
+ 
+ 
+B phenylamine, ammonia, methylamine
+ 
+ 
+C methylamine, ammonia, phenylamine
+ 
+ 
+D methylamine, phenylamine, ammonia
+(Total for Question 13 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+*P42973A0728*
+Turn over    
+14 The benzenediazonium ion, C6H5N2
++, is an intermediate in the preparation of azo dyes.
+ 
+(a) In the formation of an azo dye, the benzenediazonium ion is
+(1)
+ 
+ 
+A an electrophile.
+ 
+ 
+B a nucleophile.
+ 
+ 
+C a carbocation.
+ 
+ 
+D a substituent.
+ 
+(b) The temperature of the aqueous reaction mixture must be kept below 10qC to 
+prevent the benzenediazonium ion being converted into
+(1)
+ 
+ 
+A benzene.
+ 
+ 
+B nitrobenzene.
+ 
+ 
+C phenylamine.
+ 
+ 
+D phenol.
+(Total for Question 14 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+*P42973A0828*
+15 The monomer of the addition polymer poly(propenol) may be represented as  
+CH3–CH=CHOH.
+ 
+The repeat unit of the addition polymer is
+ 
+ 
+A
+OH
+⎡
+⎣
+⎢
+⎡
+⎣
+⎢
+ 
+ 
+B
+OH
+⎡
+⎣
+⎢
+⎡
+⎣
+⎢
+ 
+ 
+C
+OH
+⎡
+⎣
+⎢
+⎡
+⎣
+⎢
+ 
+ 
+D
+OH
+⎡
+⎣
+⎢
+⎡
+⎣
+⎢
+(Total for Question 15 = 1 mark)
+16 Chromatography may be used to separate mixtures of amino acids.  This is best 
+explained by the fact that different amino acids have different interactions with
+ 
+ 
+A the mobile phase only.
+ 
+ 
+B the stationary phase only.
+ 
+ 
+C the mobile phase and the stationary phase.
+ 
+ 
+D ninhydrin.
+(Total for Question 16 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P42973A0928*
+Turn over    
+17 In an aqueous solution with a pH of 7, the amino acid alanine exists mainly as
+ 
+ 
+A 
+H2N
+CH
+CH3
+HO
+C
+O
+ 
+ 
+B 
+H2N
+CH
+CH3
+–O
+C
+O
+ 
+ 
+C 
+H3
++N
+CH
+CH3
+HO
+C
+O
+ 
+ 
+D 
+H3
++N
+CH
+CH3
+–O
+C
+O
+(Total for Question 17 = 1 mark)
+18 When a solid is purified by recrystallization, the procedure involves the removal of 
+impurities by filtration of the hot mixture followed by filtration of the cold mixture.  
+Which impurities are removed by these two filtrations?
+Hot filtration
+Cold filtration
+A
+insoluble impurities
+insoluble impurities
+B
+insoluble impurities
+soluble impurities
+C
+soluble impurities
+insoluble impurities
+D
+soluble impurities
+soluble impurities
+(Total for Question 18 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P42973A01028*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+19 A compound A, known to contain only the elements carbon, hydrogen and oxygen, 
+was subjected to detailed analysis.
+ 
+(a) A sample of A was burned completely in the apparatus shown below.  Solid X 
+absorbed the water formed in the combustion and solid Y absorbed the carbon 
+dioxide.
+ 
+ 
+(i) Explain why the oxygen must be dry.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest a suitable substance to use as solid X.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest a suitable substance to use as solid Y.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+dry oxygen
+compound A
+heat
+suction
+solid Y
+solid X
+PMT
+
+
+--- Page Break ---
+
+11
+*P42973A01128*
+Turn over    
+ 
+ 
+(iv) 3.60 g of compound A was burned completely.  The mass of solid X increased 
+by 3.60 g and the mass of solid Y increased by 8.80 g.
+ 
+ 
+ 
+Use these data to calculate the empirical formula of compound A.   
+You must show your working.
+(5)
+PMT
+
+
+--- Page Break ---
+
+12
+*P42973A01228*
+ 
+(b) The mass spectrum of A is shown below.
+ 
+ 
+(i) Identify the molecular ion peak and hence deduce the molecular formula of A.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Relative 
+intensity
+m / e
+30
+50
+70
+90
+110
+130
+150
+100
+80
+60
+40
+20
+0
+10
+20
+40
+60
+80
+100
+120
+140
+PMT
+
+
+--- Page Break ---
+
+13
+*P42973A01328*
+Turn over    
+ 
+ 
+(ii) Given that A does not have a ring structure, suggest the structural formulae 
+of three of the species that might cause the peak at m/e = 43 in the mass 
+spectrum of A.
+(3)
+ 
+*(c) The low resolution nmr spectrum of A has three peaks in the ratio 6:1:1.  Draw the 
+structure of A and show how your structure is consistent with the nmr data.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P42973A01428*
+20 Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) widely used as an 
+analgesic (pain reliever).  It was discovered in the 1960s by the Boots Group which 
+developed a six step synthesis from 2-methylpropylbenzene.  The synthesis shown 
+below was introduced in the 1990s by the BHC Company and received a Presidential 
+Green Chemistry Challenge award in 1997.  The citation noted that the synthesis has 
+just three steps, all of which are catalytic, and an effective atom economy of 99%.  
+Both syntheses are carried out in solution.
+ 
+(a) (i) Suggest why a three step synthesis is likely to be ‘greener’ than a six step 
+process.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Why does the use of catalysts make processes ‘greener’ (as well as faster)?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+O
+(CH3CO)2O
+HF catalyst
+H2
+Ni catalyst
+CO
+Pd catalyst
+OH
+OH
+O
+2-methylpropylbenzene
+ibuprofen
+PMT
+
+
+--- Page Break ---
+
+15
+*P42973A01528*
+Turn over    
+ 
+(b) The first step of the synthesis is an electrophilic substitution which is usually 
+carried out in a school laboratory using ethanoyl chloride and an aluminium 
+chloride catalyst.
+ 
+ 
+(i) Write an equation showing the formation of the electrophile in the school 
+experiment.
+(1)
+ 
+ 
+(ii) Give the mechanism for the electrophilic substitution of  
+2-methylpropylbenzene by ethanoyl chloride, using the electrophile you have 
+given in (b)(i).
+(3)
+ 
+ 
+(iii) Suggest one environmental benefit of using (CH3CO)2O, rather than ethanoyl 
+chloride, in the manufacture of ibuprofen.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P42973A01628*
+ 
+(c) The final stage of the modern synthesis for ibuprofen is shown below.
+ 
+ 
+(i) Suggest a benefit of using a solid catalyst in this reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+CO
+Pd catalyst
+OH
+OH
+O
+ibuprofen
+PMT
+
+
+--- Page Break ---
+
+17
+*P42973A01728*
+Turn over    
+ 
+ 
+(ii) The preparation in part (c) can be carried out in a laboratory in three reactions.
+(3)
+Reaction 1
+Reaction 2
+Reaction 3
+Give:
+The reagents for Reaction 1
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+The reagents and conditions for Reaction 3
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+OH
+I
+I
+CN
+CN
+OH
+O
+PMT
+
+
+--- Page Break ---
+
+18
+*P42973A01828*
+ 
+ 
+(iii) Using your Data Booklet, explain how infrared spectroscopy can be used to 
+distinguish between the two structures shown below.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Ibuprofen is a chiral molecule and only one of its enantiomers is biologically 
+active.  However, although the synthesis produces a racemic mixture, an 
+isomerase enzyme in the body converts the inactive enantiomer into the active 
+enantiomer.
+ 
+ 
+(i) Explain the term ‘chiral molecule’.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Mark with an asterisk (*) the chiral centre on the structure of ibuprofen below.
+(1)
+OH
+OH
+O
+ibuprofen
+OH
+O
+PMT
+
+
+--- Page Break ---
+
+19
+*P42973A01928*
+Turn over    
+ 
+ 
+(iii) Explain the term ‘racemic mixture’.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest two benefits that arise from the isomerization of the inactive 
+enantiomer of ibuprofen.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 18 marks)
+PMT
+
+
+--- Page Break ---
+
+20
+*P42973A02028*
+21 (a) The following method was used to estimate the concentration of ethanol in an 
+aqueous solution, Q, prepared by the fermentation of sucrose.
+ 
+ 
+25 cm3 of Q was measured using a pipette and transferred to a  250 cm3 
+volumetric flask; the flask was made up to the mark with distilled water and mixed 
+thoroughly, forming a diluted solution, R.
+ 
+ 
+25 cm3 samples of R were mixed with an equal volume of a 0.200 mol dm–3 
+potassium dichromate(VI) solution and excess dilute sulfuric acid.
+ 
+ 
+The mixture was allowed to stand for several hours and then the amount of 
+unreacted potassium dichromate(VI) was determined by titration against a 
+0.255 mol dm−3 iron(II) ammonium sulfate solution.  The mean titre was 23.85 cm3.
+ 
+ 
+(i) Use the ionic half-equations below to write the full ionic equation for the 
+reaction between potassium dichromate(VI) and iron(II) ammonium sulfate.
+ 
+ 
+ 
+State symbols are not required.
+(1)
+Fe3+  +  e−  o  Fe2+
+  Cr2O7
+2−  +  14H+  +  6e−  o  2Cr3+  +  7H2O
+ 
+ 
+(ii) Calculate the number of moles of potassium dichromate(VI) that remained 
+unreacted after standing for several hours with solution R.
+(2)
+PMT
+
+
+--- Page Break ---
+
+21
+*P42973A02128*
+Turn over    
+ 
+ 
+(iii) Calculate the number of moles of potassium dichromate(VI) that reacted with 
+the ethanol while standing for several hours with solution R.
+(2)
+ 
+ 
+(iv) Write an ionic half-equation for the oxidation of ethanol to ethanoic acid.
+ 
+ 
+ 
+Use your equation, and the half-equation for the reduction of dichromate(VI) 
+ions, to show that 3 mol of ethanol are oxidized by 2 mol of potassium 
+dichromate(VI).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Calculate the concentration of ethanol (in mol dm−3) in solution Q.
+(3)
+PMT
+
+
+--- Page Break ---
+
+22
+*P42973A02228*
+ 
+*(b) The indicator used in this titration was barium diphenylamine sulfonate, which 
+turns from deep purple to colourless at the end-point.
+ 
+ 
+Identify the ion responsible for turning the indicator from deep purple to 
+colourless at the end-point.
+ 
+ 
+By considering the type of reaction involved when this ion reacts with barium 
+diphenylamine sulfonate, suggest how barium diphenylamine sulfonate acts as 
+an indicator in this titration.  Note that complex formation does not occur.  The 
+detailed reactions of this particular indicator are not required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(c) This method of determining ethanol concentration does not give very reliable 
+results, although the titration is very accurate.
+ 
+ 
+Suggest one reason why this might be the case, explaining how the measured 
+concentration would differ from the actual concentration of the ethanol.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 16 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+23
+*P42973A02328*
+Turn over    
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+22
+Metal Complexes
+Complexes involve ligands forming dative covalent bonds with a central 
+cation; the number of dative covalent bonds is the coordination number of 
+the cation in the complex.  Complexes may be positive, negative or neutral.  
+The ligands may be neutral or negatively charged, but are never positively 
+charged.  The ligands must have a lone pair of electrons.  In some complexes 
+the central atom is neutral, as is the case with nickel carbonyl which is used in 
+the Mond process for the purification of nickel:
+Ni(s)  +  4CO(g)  UNi(CO)4(g)
+The formation of complexes is typical of transition metals but other elements 
+also form complexes.  Zinc, which is a d block element but not a transition 
+metal, and aluminium, which is a Group 3 element, both form complexes.  
+Transition metal complexes are usually coloured, but if the interaction 
+between the ligand and the central ion is very strong, then the resulting 
+complex may well be colourless.  This is the case with the complex [FeF6]3−.
+The ligand in a complex affects its redox properties and this is apparent from 
+considering the relevant standard electrode potentials.  For example, with 
+copper(II) species:
+[Cu(H2O)6]2+(aq)  +  2e−  U  Cu(s)  +  6H2O(l)      E 9 = +0.34 V
+[Cu(H2O)2(NH3)4]2+(aq)  +  2e−  U  Cu(s)  +  2H2O(l)  +  4NH3(aq)      E 9 = −0.05 V
+Complexes are industrially important, for example in the purification of nickel 
+mentioned above and in the extraction of gold which involves the complex 
+[Au(CN)2]−.
+Complex formation is used in estimating the concentrations of metal 
+ions in solution.  Examples of this are the use of EDTA in titration and 
+dimethylglyoxime in gravimetric analysis.  Complexes are also used in 
+qualitative analysis, for example, in Tollens’ reagent.  This reagent is usually 
+prepared by the addition of sodium hydroxide solution to an aqueous 
+solution of silver nitrate followed by aqueous ammonia.  The resulting 
+solution contains diamminesilver(I) ions.
+PMT
+
+
+--- Page Break ---
+
+24
+*P42973A02428*
+ 
+(a) The hydrated copper(II) ion is classed as a complex but the hydrated sodium ion is 
+not.  By considering the interaction between the water molecules and the sodium 
+ion, explain why the hydrated sodium ion is not considered to be a complex.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Suggest how the aluminium ion is able to form dative covalent bonds in its 
+complexes such as [AlF6]3−.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(c) (i) Transition metal complexes are usually coloured.  Explain how the colours 
+occur.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Why are zinc complexes such as [Zn(NH3)4]2+ colourless?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+25
+*P42973A02528*
+Turn over    
+ 
+ 
+(iii) Suggest why the strong interactions between the F– ligands and Fe3+ ion result 
+in the complex [FeF6]3− being colourless.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Use the standard electrode potentials given in the passage to predict whether it 
+is feasible for thiosulfate ions, S2O3
+2−, to reduce copper(II) ions to copper.  Consider 
+the case when the copper(II) ions are dissolved in water, and when they are 
+dissolved in aqueous ammonia.  Give chemical equations to support your answer.
+(3)
+ 
+ 
+The relevant redox reaction for thiosulfate ions is
+S4O6
+2−(aq)  +  2e−  U  2S2O3
+2−(aq)      E 9  =  +0.09 V
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+26
+*P42973A02628*
+ 
+(e) The proportion of nickel in nisil, an alloy of nickel and silicon used in 
+thermocouples, may be determined by the following gravimetric analysis.
+ 
+ 
+Finely ground nisil is dissolved in concentrated hydrochloric acid and, after 
+neutralization, excess dimethylglyoxime dissolved in ethanol is added to the 
+solution formed.  The resulting red precipitate is filtered, washed, dried and 
+weighed.  The equation for the formation of the precipitate is
+ 
+ 
+(i) State the coordination number of the nickel in the complex ion.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) In an experiment, 1.02 g of nisil formed 4.82 g of the complex.  Calculate the 
+percentage by mass of nickel in the alloy.  The molar mass of the complex is 
+288.7 g mol−1.
+(2)
+N
+H3C
+CH3
+N
+OH
+Ni2+  +  2
+HO
+H3C
+Ni2+
+H3C
+C
+C
+N
+N
+O–
+OH
+CH3
+CH3
+C
+C
+N
+N
+HO
+O–
++ 2H+
+PMT
+
+
+--- Page Break ---
+
+27
+*P42973A02728*
+ 
+(f) Suggest why the nickel carbonyl complex is used to purify nickel ores.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(g) Use the equilibria below to explain why ammonia is used to prepare Tollens’ 
+reagent, as described in the passage.
+(3)
+2Ag+(aq)  +  2OH−(aq)  U  Ag2O(s)  +  H2O(l)      Equilibrium 1
+Ag+(aq)  +  2NH3(aq)  U  Ag(NH3)2
++(aq)      Equilibrium 2
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+28
+*P42973A02828*
+PMT

@@ -1,0 +1,549 @@
+*P55415A0112*
+P55415A
+©2018 Pearson Education Ltd.
+1/1/1/1/1/1/C2/
+Turn over    
+Instructions
+•	Use black ink or ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 40. 
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	Candidates may use a calculator.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Keep an eye on the time.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+Centre Number
+Candidate Number
+Total Marks
+You must have: 
+Calculator, HB pencil, ruler
+Biology
+Advanced Subsidiary
+Unit 3: Practical Biology and Research Skills
+Morning (Time: 1 hour 30 minutes)
+Paper Reference WBI03/01
+Friday 19 October 2018
+Candidate surname
+Please check the examination details below before entering your candidate information
+Other names
+
+
+--- Page Break ---
+
+2
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0212*
+BLANK PAGE
+
+
+--- Page Break ---
+
+3
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0312*
+Answer ALL questions.
+1	 The pH of soil affects the growth of plants.  Farmers often add chemicals to soil in 
+order to adjust its pH.  
+	
+A student investigated the effect of pH on the growth of Kentucky bluegrass (Poa pratenis).
+	
+An equal mass of soil was placed into each of 25 pots.  The pH of the soil in each pot 
+was adjusted to give pH values of: 6.0, 6.5, 7.0, 7.5 and 8.0.  There were five pots for 
+each pH value.
+	
+Five grass seeds were planted in each of the pots. 
+	
+The pots were watered every day for the next 14 days.  The same volume of water 
+was added to each pot. 
+	
+The height of each grass plant was measured and recorded after 14 days.
+	
+(a)	 (i)	 Name the independent variable in this investigation.
+....................................................................................................................................................................................................................................................................................
+(1)
+	
+	
+(ii)	 Suggest two variables, other than the mass of soil and the volume of water, 
+that should be kept constant in this investigation.  Describe how each variable 
+could be controlled.
+(4)
+Variable 1..........................................................................................................................................................................................................................................................
+How it could be controlled............................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Variable 2..........................................................................................................................................................................................................................................................
+How it could be controlled............................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+4
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0412*
+	
+(b)	 The table below shows the results of this investigation.
+pH
+Grass plant height / mm
+Plant 1
+Plant 2
+Plant 3
+Plant 4
+Plant 5
+Mean
+Standard 
+deviation
+6.0
+  8
+  9
+  8
+  9
+  8
+  8.4
+0.5
+6.5
+38
+39
+36
+36
+34
+36.6
+1.9
+7.0
+38
+35
+37
+39
+39
+37.6
+1.7
+7.5
+12
+10
+10
+10
+11
+10.6
+0.9
+8.0
+  6
+  7
+  7
+  6
+  7
+  6.6
+0.5
+
+
+--- Page Break ---
+
+5
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0512*
+	
+	
+(i)	 Plot a line graph to show the effect of pH on the mean height of the grass plants.  
+Include the standard deviations on your graph.
+(5)
+
+
+--- Page Break ---
+
+6
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0612*
+	
+	
+(ii)	 The student made two conclusions from these results:
+	
+	
+	
+•	
+the grass plants grew taller in the soil at pH values 6.5 and 7.0 than in the 
+soil with other pH values
+	
+	
+	
+•	
+there was no significant difference in height between pH 6.5 and 7.0.  
+	
+	
+	
+Using the information in the table, give reasons why the student came to 
+these conclusions.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 The student found the following diagram online and suggested that the pH of the 
+soil affected the availability of mineral ions for the growth of the plants.  
+	
+	
+The diagram shows the availability to the plants of some mineral ions at a range 
+of pH values. 
+	
+	
+The height of the white bars shows the availability of each mineral ion.
+pH
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+nitrate
+phosphate
+sulfate
+potassium
+calcium
+magnesium
+
+
+--- Page Break ---
+
+7
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0712*
+	
+	
+(i)	 Using the information in this diagram and the data in part (b), explain why the 
+student suggested that the pH of the soil affected the availability of mineral 
+ions to the plants. 
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 State how three of the mineral ions shown in this diagram are used by plants.
+(3)
+Mineral................................................................................................................................................................................................................................................................
+Use..........................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Mineral................................................................................................................................................................................................................................................................
+Use..........................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Mineral................................................................................................................................................................................................................................................................
+Use..........................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 1 = 20 marks)
+
+
+--- Page Break ---
+
+8
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0812*
+2	 Read the following account from a student’s unfinished draft issue report on Ebola.
+	
+1.	 Ebola is a severe and often fatal viral disease.  It is caused by a virus in the order 
+Mononegavirales, family Filoviridae and genus Ebola.  The normal host species of the 
+virus is currently unknown.  However, it is thought that the disease spread through 
+human consumption of the Angolan free-tailed bat, Mops condylurus.  For this reason, 
+Ebola virus (EBOV) is said to be a zoonotic disease, meaning it can be transferred 
+between humans and animals.  Currently, Ebola has no vaccine or cure and, with a high 
+50 to 90% mortality rate, therapeutic intervention is crucial.  However, a study carried 
+out by Dr Xiangguo Qiu suggests monoclonal antibodies as a potential treatment.
+	
+2.	 The incubation period is 2 to 21 days and includes fever, fatigue, muscle pain, headaches 
+and sore throat.  Patients rapidly progress to an advanced disease and 50% develop 
+a hemorrhagic fever, producing symptoms such as nausea, vomiting, a shock-like 
+syndrome, diarrhoea, rash and impaired kidney and liver function.  Internal and external 
+bleeding arise in some cases, resulting in multiple organ failure.  There are also low 
+white blood cell and platelet counts and elevated liver enzymes.  Usually, 6 to 16 days 
+after symptoms appear, 90% of hosts develop a sudden and severe infection due to low 
+blood pressure and fluid loss, which rapidly progresses to death.  Ebola can be spread 
+to others through direct contact with someone who has developed symptoms of the 
+disease.  The virus can be spread through broken skin or mucous membranes between 
+infected fruit bats or primates.  The virus can also be spread by objects that have been 
+contaminated with the virus and blood or bodily fluids, including urine, saliva, sweat, 
+faeces, vomit, breast milk and semen.  Men can still transmit the virus through their 
+semen for up to seven weeks after recovery from the illness. 
+	
+3.	 The average mortality rate for Ebola is about 50%.  The three countries most affected 
+by the virus were Guinea, Sierra Leone and Liberia.  A total of 8 110 people died from 
+the disease in these three countries up to January 11th 2015.  The country with the 
+highest mortality rate was Guinea with 2 806 people infected of which 1 814 died, a 
+mortality rate of approximately 65%.  Liberia had the second highest mortality rate of 
+approximately 43%, as 8 331 people were infected of which 3 538 died.  Sierra Leone 
+had the lowest mortality rate as 9 446 people were infected and 2 758 died. 
+	
+4.	 ZMapp, an antibody cocktail, is an experimental biopharmaceutical drug made up 
+of three monoclonal antibodies (mAbs).  The drug is intravenously administered to 
+EBOV‑infected patients.  Ebola is deadly because it disrupts the human immune system.  
+The antibodies in ZMapp are thought to block or neutralise the virus, by binding 
+directly to the antigen of the virus therefore boosting a patient’s ability to fight the 
+virus, which increases their chance of survival.
+	
+5.	 The ZMapp was tested on Rhesus monkeys in three groups of six animals (A, B and C) 
+and one of three animals (D).  All treatment groups were infected with the virus and 
+received three doses of 50 mg kg−1 of ZMapp.  The drug was firstly administered to 
+group A at 3 days post-infection (dpi), at 4 dpi to group B and at 5 dpi to group C, with 
+two additional identical doses for each group, spaced 3 days apart.  Days 14, 21 and 28 
+post-infection were used as designated sample days for all groups, during which rectal 
+temperatures and clinical scores were measured.  The following were also sampled 
+for analysis: blood for serum biochemistry, cell counts and viraemia.  Group D had 
+no ZMapp administered and acted as a control.  All the animals in groups A, B and C 
+survived the disease and were virus free by 14 dpi in all cases.  All animals in the control 
+group D had died by 8 dpi.  In all cases in groups A, B and C, lymphocyte counts were 
+raised above those in the control group animals.
+
+
+--- Page Break ---
+
+9
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A0912*
+	
+6.	 In the testing, one monkey had a flushed face and severe rash on more than 40% of its 
+body surface.  Another monkey had a flushed face as well as a rash on its arms and legs. 
+	
+7.	 The UN Office for the Coordination of Humanitarian Affairs (OCHA) announced it 
+needed $988m to fight the disease in Liberia, Guinea and Sierra Leone.  In addition, the 
+UN Secretary-General, Ban Ki-moon, asked for a $1bn trust fund to be set up to act as a 
+‘rapid, flexible spending reserve’.
+	
+8.	 Ebola is deadly because it disrupts the human immune system.  An Ebola survivor 
+still has antibodies specific to the antigen of the virus remaining in their bloodstream 
+from the previous infection.  Blood plasma transfusion therefore allows sufferers of the 
+disease to have the same antibodies as the survivor present in the bloodstream.  This 
+results in a strengthened immune system and thus a more efficient elimination of the 
+virus.  However, the treatment is yet to be tested on a wider scale.  Currently, there 
+are no data on the effectiveness of this treatment in curing EBOV-infected patients.  
+Survivors would need to give consent for blood to be taken and this might be a 
+problem for them and/or the sufferer to be treated with the transfusion.  For example, 
+some religions do not approve of blood transfusions.
+	
+(a)	 The visit or issue report needs to describe a main solution and one or more 
+alternative solutions to the problem identified.
+	
+	
+(i)	 State the problem that is identified in this report.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Describe the main solution and one alternative solution discussed in this report.
+(4)
+Main solution...............................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Alternative solution...............................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+10
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A01012*
+	
+(b)	 State one way in which the Ebola virus can be transmitted from person to person.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 The student wanted to add some visuals to this report and started one to show 
+the timeline of the treatment of the Rhesus monkeys described in paragraph 5.
+	
+	
+This paragraph is shown again below.
+	
+	
+‘The ZMapp was tested on Rhesus monkeys in three groups of six animals (A, B 
+and C) and one of three animals (D).  All treatment groups were infected with 
+the virus and received three doses of 50 mg kg−1 of ZMapp.  The drug was firstly 
+administered to group A at 3 days post-infection (dpi), at 4 dpi to group B and at 
+5 dpi to group C, with two additional identical doses for each group, spaced 3 days 
+apart.  Days 14, 21 and 28 post-infection were used as designated sample days for 
+all groups, during which rectal temperatures and clinical scores were measured.  
+The following were also sampled for analysis: blood for serum biochemistry, 
+cell counts and viraemia.  Group D had no ZMapp administered and acted as a 
+control.  All the animals in groups A, B and C survived the disease and were virus 
+free by 14 dpi in all cases.  All animals in the control group D had died by 8 dpi.  
+In all cases in groups A, B and C, lymphocyte counts were raised above those in the 
+control group animals.’
+	
+	
+Using this information, complete the timeline below to show how monkeys in 
+groups A, B and C were treated.
+(4)
+Ebola infection
+28
+21
+14
+7
+0
+Days from Ebola infection
+
+
+--- Page Break ---
+
+11
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A01112*
+	
+(d)	 In the student’s bibliography, there is a reference to the paper reporting the 
+Rhesus monkey study.  This paper is by Xiangguo Qiu and others, published in the 
+journal Nature in 2014.
+	
+	
+State the further information needed to write a complete reference.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(e)	 Give three ethical implications that might arise from the studies and treatments 
+outlined in this report.
+(3)
+1.................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+2.................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+3.................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+12
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+*P55415A01212*
+	
+(f)	 (i)	 Using the information in paragraph 3, calculate the percentage mortality rate 
+from Ebola in Sierra Leone. 
+	
+	
+	
+Show your working.
+(2)
+...............................................................%
+	
+	
+(ii)	 Draw a table to show the information in paragraph 3.  Include the numbers infected, 
+the numbers who died and the percentage mortality rates for all three countries.
+(2)
+(Total for Question 2 = 20 marks)
+TOTAL FOR PAPER = 40 MARKS

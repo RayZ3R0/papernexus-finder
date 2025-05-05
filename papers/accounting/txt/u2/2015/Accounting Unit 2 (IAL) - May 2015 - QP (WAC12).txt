@@ -1,0 +1,881 @@
+Paper Reference
+Turn over    
+Do not return the insert with the question paper.
+*P44822A*
+P44822A
+©2015 Pearson Education Ltd.
+1/2/2/1/2/1
+WAC02/01
+Monday 8 June 2015 – Morning
+Source booklet
+Accounting (Modular Syllabus)
+Unit 2: Corporate and Management Accounting
+Pearson Edexcel 
+International Advanced Level
+
+
+--- Page Break ---
+
+2
+P44822A
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1 The Statements of Financial Position of Maltese Construction plc at 31 March 2014 
+and 31 March 2015 were as follows:
+ 
+31 March 2014
+31 March 2015
+ASSETS
+ £
+£
+Non-current Assets
+Property, plant and equipment at cost
+5 428 000
+5 728 000
+Provision for depreciation
+(1 650 000)
+(1 979 000)
+Property, plant and equipment carry over
+3 778 000
+3 749 000
+Shares held in other companies 
+1 085 000
+1 260 000
+4 863 000
+5 009 000
+Current Assets
+Inventories
+744 000
+656 000
+Trade and Other receivables
+621 000
+537 000
+Cash and cash equivalents
+326 000
+435 000
+ 
+1 691 000
+1 628 000
+ 
+Total Assets 
+6 554 000
+6 637 000
+ 
+EQUITY AND LIABILITIES
+Equity & Reserves
+Share capital – Ordinary shares of £1
+3 500 000
+3 000 000
+3% Redeemable preference shares of £1
+320 000
+320 000
+Share Premium
+700 000
+650 000
+Retained earnings
+453 000
+757 000
+4 973 000
+4 727 000
+ 
+Non-current Liabilities
+6% Bank Loan
+-----
+1 500 000
+ 
+1 500 000
+ 
+Current Liabilities
+5.5% Debenture 2014
+1 000 000
+-----
+Trade and Other payables
+373 000
+342 000
+Current Tax payable
+ 208 000
+68 000
+ 
+1 581 000
+410 000
+ 
+Total Equity and Liabilities
+6 554 000
+6 637 000
+ 
+
+
+--- Page Break ---
+
+3
+P44822A
+Turn over    
+ 
+Additional information:
+ 
+(i) Plant bought for £900 000, with depreciation to date of £360 000 was sold for 
+£420 000 on 4 April 2014. 
+ 
+(ii) Property was bought for £1 200 000 on 11 May 2014.
+ 
+(iii) On 16 May 2014 ordinary shareholders received a final dividend for year ended  
+31 March 2014 of 2 pence (£0.02) per share.
+ 
+(iv) A redemption of 500 000 £1 Ordinary shares at a premium of 10 pence (£0.10) per 
+share was made on 31 August 2014.  
+ 
+(v) On 1 October 2014, the following took place:
+ 
+ 
+• 
+5.5% debenture of £1 000 000 was redeemed
+ 
+ 
+• 
+6% bank loan of £1 500 000 was received
+ 
+(vi) Ordinary shareholders received an interim dividend of 1 pence (£0.01) per share 
+on 20 October 2014.
+ 
+(vii)  A purchase of shares in other companies took place on 12 December 2014.
+ 
+(viii)  Preference shareholders received their dividends in full during the year.
+ 
+(ix) Profit after interest but before tax for the year ended 31 March 2015 was £481600.
+ 
+Required:
+ 
+(a) Prepare a Statement of Cash Flow for the year ended 31 March 2015 in 
+accordance with International Accounting Standard (IAS) 7 Statement of Cash 
+Flows (revised).
+(40)
+ 
+(b) Evaluate the change in the gearing ratio of Maltese Construction plc from  
+31 March 2014 to 31 March 2015. State the formula that you have used. 
+(12)
+(Total for Question 1 = 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+4
+P44822A
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2 Nazir Aiman bought a business producing t-shirts on 1 April 2014. When the business 
+was purchased, the inventory was 4 200 t-shirts at an agreed value of £16 800. You 
+are in practice as an accountant, and your client, Nazir, has asked you to prepare the 
+accounts for the year ended 31 March 2015. Nazir has asked you to value the closing 
+inventory using both the marginal costing method and the absorption costing 
+method.
+ 
+The following information is available for the year ended 31 March 2015.
+ 
+• 
+Fixed overheads – £2 450 per week
+ 
+• 
+Semi-Variable costs – £850 fixed element per week plus 22 pence (£0.22) per  
+t-shirt 
+ 
+• 
+Direct materials – 95 pence (£0.95) per t-shirt 
+ 
+• 
+25 direct staff are employed, who each work 8 hours and 20 minutes a day, for 5 
+days a week
+ 
+• 
+Direct labour – 25 minutes work per t-shirt at a wage rate of £6.00 per hour
+ 
+• 
+The quantity of t-shirts produced is determined by the speed of the direct labour, 
+not the size of the order
+ 
+• 
+Sales price – £6.50 per t-shirt
+ 
+• 
+The business has a contract to supply a major overseas retailer with 2 400 t-shirts 
+a week, which it fulfils. There are no other customers.
+ 
+• 
+Assume 50 weeks in a year
+ 
+Required:
+ 
+(a) Calculate the quantity of t-shirts produced in one year.
+(6)
+ 
+(b) Prepare for Nazir, a statement showing the net profit, for the year ended  
+31 March 2015, using:
+ 
+ 
+(i) marginal costing inventory valuation
+ 
+ 
+(ii) absorption costing inventory valuation
+(20)
+ 
+Nazir is aware that his level of inventory is increasing. He has tried to find customers 
+who may buy some of the inventory. He has received offers from a:
+ 
+(i) shop owner who has offered to buy 3 000 t-shirts at £4.00 per t-shirt.  
+ 
+(ii) market trader who has offered to buy 2 000 t-shirts at £5.50 per t-shirt. 
+ 
+(iii) wholesaler who has offered to buy 4 000 t-shirts at £3.50 per t-shirt.
+ 
+Required:
+ 
+(c) Advise Nazir Aiman whether to accept the offer from the:
+ 
+ 
+(i) shop owner
+ 
+ 
+(ii) market trader
+ 
+ 
+(iii) wholesaler 
+(14)
+
+
+--- Page Break ---
+
+5
+P44822A
+Turn over    
+ 
+Nazir has stated, “I must prepare my final accounts using absorption costing, because 
+it makes me more profit”.
+ 
+Required:
+ 
+(d) Evaluate this statement and advise Nazir whether he should use marginal costing 
+or absorption costing to value his inventory. 
+(12)
+(Total for Question 2 = 52 marks)
+Answer space for question 2 is on pages 8 to 14 of the question paper.
+
+
+--- Page Break ---
+
+6
+P44822A
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3 Purple Waves plc has been granted a licence to operate a mobile phone network in 
+another country for 5 years. The cost of the licence and other start-up costs total  
+£400 million.
+ 
+The finance director has prepared two possible options to finance the funding of the 
+project. The details of each option are shown below.
+Option A
+£m
+Interest Rate/
+Expected return
+Debenture
+100
+9%
+Bank Loan
+50
+8%
+Preference Shares
+50
+6%
+Ordinary Shares
+200
+4%
+Total
+400
+Option B
+£m 
+Interest Rate/
+Expected return
+Debenture
+50
+8%
+Bank Loan
+200
+9%
+Preference Shares
+40
+4%
+Ordinary Shares
+110
+4%
+Total
+400
+ 
+Required:
+ 
+(a) For each funding option, calculate the weighted average cost of capital.
+(12)
+ 
+(b) (i) Select the most appropriate funding option for the directors of Purple Waves plc. 
+(2)
+ 
+ 
+(ii) Give one reason for your choice of funding option.
+(2)
+
+
+--- Page Break ---
+
+7
+P44822A
+Turn over    
+ 
+Additional Information:   
+ 
+• 
+In year 1, the number of customers is estimated to be 1 million paying £180 each, 
+a year.
+ 
+• 
+In years 2 and 3, the number of customers is estimated to be 1.8 million each year, 
+paying £190 a year.
+ 
+• 
+In years 4 and 5, the number of customers is estimated to be 2.2 million each year, 
+paying £200 a year.
+ 
+• 
+In year 1 the running costs (including depreciation) are estimated to be  
+£285 million per year. 
+ 
+• 
+In years 2 and 3, the running costs (including depreciation) are estimated to be 
+£300 million for each year.
+ 
+• 
+In years 4 and 5, the running costs (including depreciation) are estimated to be 
+£340 million for each year.
+ 
+• 
+Depreciation is estimated to be £80 million for each year.
+ 
+• 
+The directors of Purple Waves plc require investments to give an average rate of 
+return (accounting rate of return) of 10%.
+ 
+• 
+A table showing the discount factors is given.
+Year
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+1
+0.971
+0.962
+0.952
+0.943
+0.935
+0.926
+0.917
+2
+0.943
+0.925
+0.907
+0.890
+0.873
+0.857
+0.842
+3
+0.915
+0.889
+0.864
+0.840
+0.816
+0.794
+0.772
+4
+0.888
+0.855
+0.823
+0.792
+0.763
+0.735
+0.708
+5
+0.863
+0.822
+0.784
+0.747
+0.713
+0.681
+0.650
+ 
+Required:
+ 
+(c) Calculate the Net Present Value of the project at the end of year 5.
+(15)
+ 
+(d) Calculate the average rate of return (accounting rate of return) of the project. 
+(9)
+ 
+(e) Evaluate the project for the company, using the calculations made, and 
+considering any other relevant factors. 
+(12)
+(Total for Question 3 = 52 marks)
+Answer space for question 3 is on pages 15 to 23 of the question paper.
+
+
+--- Page Break ---
+
+8
+P44822A
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4 George and Mary run a farm. The business is seasonal, and on 1 July 2015, they 
+expect to be overdrawn by £4 000. They have been asked to meet the bank manager 
+to discuss the overdraft. The bank manager has asked George and Mary to bring 
+a monthly cash budget for the 6 months 1 July 2015 to 31 December 2015 to the 
+meeting. George and Mary have asked you, their accountant, to draw up the monthly 
+cash budget.
+ 
+The following information is available:
+ 
+• 
+The farm shop is only open in July and August and sells fruit for cash. Sales are 
+expected to be £80 per day, 7 days a week.
+ 
+• 
+Expenses of the farm shop are £10 per day.
+ 
+• 
+The wheat is to be harvested in August and sold to a flour producer for £195 
+per ton. The harvest is estimated to be 45 tons. The flour producer will pay in 
+September.
+ 
+• 
+In August and September, fruit will be sold to supermarkets for £2 500 for each 
+month. The supermarkets will pay two months after the sale.
+ 
+• 
+Vegetables will be harvested and sold in September, October and November, for 
+£900 each month, to a factory. The factory will pay one month after the sale.
+ 
+• 
+In November and December, animals will be taken to the market and sold for 
+cash, for £130 per animal. Each month, 5 animals will be sold at the market. 
+ 
+• 
+In July, August and September, a farm worker will be employed and paid £175 per 
+week.
+ 
+• 
+Feed and fertiliser £235 per month
+ 
+• 
+Power and fuel £175 per month
+ 
+• 
+Depreciation £150 per month
+ 
+• 
+Other fixed costs £25 per week
+ 
+• 
+Drawings for George and Mary will be £180 each per week.
+ 
+• 
+Assume 4 weeks in a month.
+ 
+Required: 
+ 
+(a) Prepare a monthly cash budget for the farm, for each month of the 6 month 
+period 1 July 2015 to 31 December 2015.
+(24)
+
+
+--- Page Break ---
+
+9
+P44822A
+Turn over    
+ 
+At the meeting, the bank manager recommends a 6 month bank loan for George and 
+Mary from 1 July 2015 for £6 000.
+ 
+Required:
+ 
+(b) Evaluate the Bank Manager’s recommendation.
+(8)
+(Total for Question 4 = 32 marks)  
+Answer space for question 4 is on pages 24 to 26 of the question paper.
+
+
+--- Page Break ---
+
+10
+P44822A
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5 Middle East Medical plc agreed to purchase Lifejoy plc on 1 April 2015.  
+The directors of Middle East Medical plc have agreed to take over all of the assets of 
+Lifejoy plc, except cash and cash equivalents and to settle all the liabilities except the 
+current tax payable.   
+The purchase price was agreed as a cash payment of £1.03 for every one share held in 
+Lifejoy plc.
+ 
+The Statements of Financial Position of the two companies at 31 March 2015, before 
+any revaluations, were as follows:
+ MIDDLE EAST MEDICAL 
+plc
+LIFEJOY plc
+£
+£
+£
+£
+Assets
+Non-current Assets
+Property, plant and equipment
+355 000 000
+80 382 000
+Intangible assets
+  98 000 000
+    2 000 000
+453 000 000
+  82 382 000
+Current Assets
+Inventories
+  27 800 000
+3 120 000
+Trade and Other Receivables
+  14 660 000
+624 000
+Cash and Cash equivalents
+258 117 000
+78 000
+300 577 000
+3 822 000
+Total Assets
+753 577 000
+86 204 000
+Equity and Liabilities
+Equity
+Ordinary Shares of £1 each
+250 000 000
+Ordinary Shares of £0.25 each
+24 000 000
+Share Premium
+100 000 000
+24 000 000
+Retained earnings
+286 595 000
+16 760 000
+636 595 000
+  64 760 000
+Non-current Liabilities
+Mortgage
+100 000 000
+- - - - - - - - - - 
+Bank Loan
+- - - - - - - - - - 
+20 000 000
+100 000 000
+  20 000 000
+Current Liabilities
+Trade and Other payables
+ 12 263 000
+     524 000
+Current tax payable
+   4 719 000
+     795 000
+Short term provisions
+- - - - - - - - - - 
+     125 000
+  16 982 000
+   1 444 000
+Total Equity and Liabilities
+753 577 000
+86 204 000
+ 
+
+
+--- Page Break ---
+
+11
+P44822A
+Turn over    
+Additional information:
+ 
+The assets of Lifejoy plc were revalued as follows:
+ 
+• 
+Property with a book value of £14 000 000 to a current market value of  
+£17 750 000 
+ 
+• 
+Plant with a book value of £6 000 000 was reduced by £1 200 000
+ 
+• 
+Trade Receivables were reduced by 10%  
+ 
+• 
+A newly granted patent for a medical cure, classed as an intangible, was to be 
+valued at £12 000 000 and entered into the books of Lifejoy plc
+ 
+Required:
+ 
+(a) Calculate the purchase price of Lifejoy plc.
+(4)
+ 
+(b) Prepare the Acquisition Account in the books of Middle East Medical plc to show 
+the purchase of Lifejoy plc.
+(6)
+ 
+(c) Prepare the Statement of Financial Position of Middle East Medical plc at  
+1 April 2015 after the purchase of Lifejoy plc. 
+(14)
+ 
+Middle East Medical plc financed the purchase of Lifejoy plc by cash.
+ 
+(d) Evaluate the use of cash to finance the purchase of a company.
+(8)    
+(Total for Question 5 = 32 marks)
+Answer space for question 5 is on pages 27 to 31 of the question paper.
+
+
+--- Page Break ---
+
+12
+P44822A
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6 Tangapur Paper Limited produces paper at its factory. The company has a standard 
+costing system. 
+ 
+The following information is available for the month of April 2015.
+ 
+BUDGET
+ACTUAL
+VARIANCE
+£
+£
+£
+Revenue
+165 000
+162 500
+Less
+ 
+Material Costs
+(47 890)
+(49 910)
+ 
+Labour Costs
+(24 640)
+(24 057)
+ 
+Variable Overheads
+(36 620)
+(38 880)
+ 
+= Cost of Sales
+(109 150)
+(112 847)
+ 
+Gross Profit
+55 850
+49 653
+ 
+Less Fixed Overheads
+(54 750)
+(54 750)
+ 
+Net Profit
+1 100
+(5 097)
+ 
+ 
+Required:
+ 
+(a) Complete the Variance column, in the answer booklet, for the month of  
+April 2015. 
+(7)
+ 
+The following information is also available for April 2015:
+ 
+• 
+The budgeted production of 420 tons of paper for April 2015 was achieved.
+ 
+• 
+Budgeted labour was 28 workers, each working 40 hours a week, for four weeks in 
+a month, at £5.50 per hour.
+ 
+• 
+One worker left on 31 March and was not replaced. This left 27 workers for the 
+month of April.
+ 
+• 
+Management called an emergency meeting on 1 April and explained to workers 
+the company was experiencing financial problems. Workers agreed to accept a 10 
+pence (£0.10) an hour reduction in pay with immediate effect. 
+ 
+• 
+Due to mechanical problems, and to complete the budgeted production, all the 
+workers worked 5 hours overtime at the reduced rate of pay. 
+
+
+--- Page Break ---
+
+13
+P44822A
+Turn over    
+ 
+Required:
+ 
+(b) Calculate the:
+ 
+ 
+(i) labour efficiency variance for the month of April 2015. 
+(5)
+ 
+ 
+(ii) labour rate variance for the month of April 2015.
+(5) 
+ 
+The budget for May 2015 has been produced. The budgeted fixed overheads for  
+May 2015 are £56 290.
+ 
+A junior member of the accounting staff stated “I see that the figure for fixed 
+overheads for May 2015 has risen. I thought the fixed overheads figure did not 
+change.”
+ 
+Required:
+ 
+(c) (i) Briefly explain why a fixed overhead figure may change.
+(1)
+ 
+ 
+(ii) Give three examples of fixed overheads that may rise, and explain briefly why 
+they may increase.  
+(6) 
+ 
+(d) Evaluate the usefulness of a standard costing system to Tangapur Paper Limited. 
+(8) 
+(Total for Question 6 = 32 marks)
+Answer space for question 6 is on pages 32 to 35 of the question paper.
+
+
+--- Page Break ---
+
+14
+P44822A
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7 Jiao Suen holds 500 shares in China Capital plc. She bought the shares on  
+31 March 2014 for £1.87 per share. At the end of the financial year ended  
+31 March 2015, she is considering two options:  
+ 
+• 
+to keep the shares in China Capital plc   
+OR
+ 
+• 
+sell the shares in China Capital plc and buy shares in Kowloon Investments plc.
+ 
+Jiao Suen has obtained a copy of the accounts of Kowloon Investments plc from the 
+internet. The accounts show the following information. 
+Information for Kowloon Investments plc
+Authorised share capital
+80 million (80 000 000) 75 pence (£0.75) Ordinary shares  
+Issued share capital
+60 million (60 000 000) 75 pence (£0.75) Ordinary shares  
+Net profit before interest and tax
+£5 760 000
+Net profit after interest and tax
+£4 320 000
+Total Equity
+£49 500 000
+Non-Current liabilities
+£10 500 000
+Total ordinary dividend paid for year
+£ 2 880 000
+Share price
+£1.20 
+ 
+Required:
+ 
+(a) Using the information for Kowloon Investments plc calculate the following ratios:
+ 
+ 
+(i) Return on Capital Employed 
+(3)
+ 
+ 
+(ii) Earnings per ordinary share 
+(3)
+ 
+ 
+(iii) Price/earnings ratio  
+(3)
+ 
+ 
+(iv) Dividend paid per share 
+(3)
+ 
+ 
+(v) Dividend cover 
+(3)
+ 
+ 
+(vi) Dividend yield                                   
+(3)
+
+
+--- Page Break ---
+
+15
+P44822A
+ 
+Jiao Suen has been sent a copy of the final accounts of China Capital plc for the 
+financial year ended 31 March 2015. These accounts show:
+Information for China Capital plc
+Return on capital employed
+8.1%
+Earnings per ordinary share
+15 pence (£0.15) per share
+Price/earnings ratio
+14 times
+Dividend paid per share
+6.3 pence (£0.063) per share
+Dividend cover
+2.38 times
+Dividend yield
+3%
+Share price at 31 March 2014
+£1.87
+Share price at 31 March 2015
+£2.10
+ 
+Required:
+ 
+(b) Calculate the: 
+ 
+ 
+(i) total capital gain made by Jiao Suen, due to the rise in the share price, over 
+the financial year ended 31 March 2015, for the shares she holds in China 
+Capital plc. 
+(3)
+ 
+ 
+(ii) total income received by Jiao Suen as a result of the dividends paid for the 
+financial year ended 31 March 2015, for the shares she holds in China Capital 
+plc. 
+(3)
+ 
+(c) Evaluate whether Jiao Suen should keep her shares in China Capital plc, or sell her 
+shares and buy shares in Kowloon Investments plc. 
+(8)                                                                                                                            
+(Total for Question 7 = 32 marks)
+Answer space for question 7 is on pages 36 to 39 of the question paper.
+
+
+--- Page Break ---
+
+16
+P44822A
+BLANK PAGE

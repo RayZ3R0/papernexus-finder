@@ -1,0 +1,1266 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42989RA
+©2014 Pearson Education Ltd.
+6/6/6/6/3/3/
+*P42989rA0128*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Tuesday 17 June 2014 – Afternoon
+Time: 1 hour 40 minutes
+6CH05/01R
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t  Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t  The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+t  Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PMT
+
+
+--- Page Break ---
+
+2
+*P42989rA0228*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 In which of the following ions does the metal have an oxidation number of +2?
+ 
+ 
+A MnO4
+2–
+ 
+ 
+B VO2+
+ 
+ 
+C [Fe(CN)6]4–
+ 
+ 
+D [CrCl2(H2O)4]+
+(Total for Question 1 = 1 mark)
+2 Sulfur dioxide reacts with hydrogen sulfide to form water and sulfur.  By considering 
+the changes in the oxidation numbers of sulfur, it can be deduced that, in this 
+reaction
+ 
+ 
+A 1 mol of sulfur dioxide oxidizes 2 mol of hydrogen sulfide.
+ 
+ 
+B 1 mol of sulfur dioxide reduces 2 mol of hydrogen sulfide.
+ 
+ 
+C 2 mol of sulfur dioxide oxidizes 1 mol of hydrogen sulfide.
+ 
+ 
+D 2 mol of sulfur dioxide reduces 1 mol of hydrogen sulfide.
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P42989rA0328*
+Turn over    
+3 The diagram below shows a cell set up between a standard copper metal / copper(II) 
+ion electrode and a silver metal / silver(I) ion electrode in which the silver ion 
+concentration is 0.1 mol dm–3.
+ 
+At 298 K, the emf of this cell was +0.40 V.  The electrode potential of the copper  
+metal / copper(II) ion electrode is +0.34 V.  What is the electrode potential of this 
+silver metal / silver(I) ion electrode?
+ 
+ 
+A –0.74 V
+ 
+ 
+B –0.06 V
+ 
+ 
+C +0.06 V
+ 
+ 
+D +0.74 V
+(Total for Question 3 = 1 mark)
+4 For the reaction
+Zn(s)  +  Cu2+(aq)  o  Cu(s)  +  Zn2+(aq)
+ 
+E 9
+cell is positive.  From this it can be deduced that, for this reaction,
+ 
+ 
+A ǻStotal and lnK are positive.
+ 
+ 
+B ǻStotal and lnK are negative.
+ 
+ 
+C ǻStotal is positive and lnK is negative.
+ 
+ 
+D ǻStotal is negative and lnK is positive.
+(Total for Question 4 = 1 mark)
+copper metal
+0.1 mol dm–3 silver 
+nitrate solution
+silver metal
+salt bridge
+1.0 mol dm–3 copper(II) 
+sulfate solution
+V
+PMT
+
+
+--- Page Break ---
+
+4
+*P42989rA0428*
+5 Sodium thiosulfate was used to determine the concentration of iodine by titration.
+ 
+(a) The sodium thiosulfate solution was prepared by dissolving 4.5 g of sodium 
+thiosulfate in water and making the solution up to 250 cm3 in a volumetric flask.  
+The volumetric flask is accurate to ± 0.3 cm3 so, to match this accuracy, the mass 
+of the sodium thiosulfate should be accurate to at least
+(1)
+ 
+ 
+A ± 0.5 g
+ 
+ 
+B ± 0.05 g
+ 
+ 
+C ± 0.005 g
+ 
+ 
+D ± 0.0005 g
+ 
+(b) With the sodium thiosulfate in the burette, what is the colour of the solution in 
+the conical flask at the end-point of the reaction?
+(1)
+ 
+ 
+A Blue-black
+ 
+ 
+B Colourless
+ 
+ 
+C Red-brown
+ 
+ 
+D Yellow
+(Total for Question 5 = 2 marks)
+6 In a hydrogen-oxygen fuel cell, hydrogen is
+ 
+ 
+A oxidized at the anode.
+ 
+ 
+B oxidized at the cathode.
+ 
+ 
+C reduced at the anode.
+ 
+ 
+D reduced at the cathode.
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P42989rA0528*
+Turn over    
+7 The electronic configuration of iron is [Ar]3d64s2.  What is the electronic configuration 
+of the iron(II) ion, Fe2+?
+ 
+3d 
+4s
+A
+[Ar]
+n
+n
+n
+n
+n
+n
+B
+[Ar]
+np
+n
+n
+n
+n
+C
+[Ar]
+np
+np
+n
+n
+D
+[Ar]
+np
+np
+np
+(Total for Question 7 = 1 mark)
+8 Chromium has the electronic configuration [Ar]3d54s1.  Which of the following 
+compounds is unlikely to exist?
+ 
+ 
+A K3CrO4
+ 
+ 
+B CrO2Cl2
+ 
+ 
+C KCrO2Cl
+ 
+ 
+D KCrO4
+(Total for Question 8 = 1 mark)
+9 The shapes of the complexes [CrCl4]– and [CuCl2]– are
+[CrCl4]–
+[CuCl2]–
+A
+tetrahedral
+linear
+B
+square planar
+linear
+C
+tetrahedral
+V-shaped
+D
+square planar
+V-shaped
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P42989rA0628*
+10 When EDTA is added to [Cu(NH3)4]2+ in aqueous solution, the copper(II)-EDTA complex, 
+[Cu(EDTA)]2–, predominates in the resulting solution.
+ 
+This is best explained by the fact that when [Cu(EDTA)]2– is formed from [Cu(NH3)4]2+
+ 
+ 
+A there are much stronger bonds between the ligands and the copper(II) ion.
+ 
+ 
+B the reaction has a low activation energy.
+ 
+ 
+C the reaction is exothermic.
+ 
+ 
+D the total number of particles on the right-hand side of the equation is greater 
+than on the left.
+(Total for Question 10 = 1 mark)
+11 The graph below shows the variation in the colour intensity of different solutions 
+formed by mixing a 0.05 mol dm–3 solution of a metal ion X and a 0.05 mol dm–3 
+solution of a complexing agent Y, in the proportions shown on the graph.
+ 
+The most likely formula of the complex formed is
+ 
+ 
+A X2Y
+ 
+ 
+B XY2
+ 
+ 
+C XY3
+ 
+ 
+D X3Y
+(Total for Question 11 = 1 mark)
+Colour intensity
+cm3 of Y
+cm3 of X
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+PMT
+
+
+--- Page Break ---
+
+7
+*P42989rA0728*
+Turn over    
+12 When benzene reacts with fuming sulfuric acid, which species is most likely to be the 
+electrophile?
+ 
+ 
+A H3O+
+ 
+ 
+B SO3
+ 
+ 
+C HSO4
+–
+ 
+ 
+D SO4
+2–
+(Total for Question 12 = 1 mark)
+13 Benzene reacts with propanoyl chloride in the presence of a suitable catalyst.
+ 
+The skeletal formula of propanoyl chloride is
+Cl
+O
+ 
+What is the organic product of this reaction?
+A
+O
+B
+O
+C
+O
+D
+O
+(Total for Question 13 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P42989rA0828*
+14 Excess dilute sulfuric acid is added to phenylamine.  What is the product of the 
+reaction?
+A
+S
+O
+O
+OH
+B
+S
+O
+O
+HO
+NH2
+C
+S
+O
+O–
+O
+NH4
++
+D
+S
+O–
+O–
+O
+O
+NH3
++
+2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+(Total for Question 14 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P42989rA0928*
+Turn over    
+15 Butylamine (Tb = 77.8qC) has a higher boiling temperature than propylamine (Tb = 47.7qC).  
+This is because the
+ 
+ 
+A hydrogen bonds of butylamine are stronger than the hydrogen bonds of 
+propylamine.
+ 
+ 
+B London forces of butylamine are stronger than the hydrogen bonds of 
+propylamine.
+ 
+ 
+C London forces of butylamine are stronger than the London forces of 
+propylamine.
+ 
+ 
+D C–H bonds of butylamine are stronger than the C–H bonds of propylamine.
+(Total for Question 15 = 1 mark)
+16 Ninhydrin is used in thin-layer chromatography to help with the identification of 
+amino acids.  This is because the ninhydrin
+ 
+ 
+A reacts with amino acids to form a compound which has an intense colour.
+ 
+ 
+B reacts with amino acids to form compounds each of which has a characteristic 
+colour.
+ 
+ 
+C increases the separation of the amino acids on the chromatogram.
+ 
+ 
+D ensures that the mobile phase maintains a nearly constant pH for all the amino 
+acids.
+(Total for Question 16 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+10
+*P42989rA01028*
+17 The monomer of the addition polymer poly(propenamide) is CH2=CHCONH2.  The 
+repeat unit of the polymer is
+A
+C
+O
+CH2
+C
+H
+N
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+B
+O
+CH2
+H2C
+H
+N
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+C
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+C
+O
+H2
+C
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+C
+H
+C
+N
+H2
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+D
+O
+CH
+CH
+H
+N
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+C
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+(Total for Question 17 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+11
+*P42989rA01128*
+Turn over    
+18 15 cm3 of a gaseous hydrocarbon requires 90 cm3 of oxygen for complete 
+combustion, both volumes being measured at 15qC and 1 atm.  The formula of the 
+hydrocarbon is
+ 
+ 
+A C4H6
+ 
+ 
+B C4H8
+ 
+ 
+C C4H10
+ 
+ 
+D impossible to calculate without knowing the molar volume of gases under 
+these conditions.
+(Total for Question 18 = 1 mark)
+19 In an aqueous solution with a pH of 12, the amino acid alanine exists mainly as
+ 
+ 
+A 
+H2N
+CH
+C
+O
+HO
+CH3
+ 
+ 
+B 
+H2N
+CH
+C
+O
+–O
+CH3
+ 
+ 
+C 
+H3 N
+CH
+C
+O
+HO
+CH3
++
+ 
+ 
+D 
+H3 N
+CH
+C
+O
+–O
+CH3
++
+(Total for Question 19 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+12
+*P42989rA01228*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 (a) When iron(II) sulfate is dissolved in water, the iron(II) ions are slowly oxidized to 
+iron(III) ions by oxygen dissolved in the water.
+ 
+ 
+(i) Write the two ionic half-equations for this redox reaction in acid conditions.  
+State symbols are not required.
+(1)
+ 
+ 
+(ii) Hence write the overall ionic equation for the reaction.  State symbols are not 
+required.
+(1)
+ 
+(b) 6.90 g of iron(II) sulfate crystals (FeSO4.7H2O) was dissolved in distilled water 
+and the solution made up to 250 cm3 in a volumetric flask.  After 24 hours, 
+25.0 cm3 portions of this solution were pipetted into a conical flask and titrated 
+against acidified potassium manganate(VII) solution with a concentration of 
+0.0195 mol dm–3.  The mean titre was 24.90 cm3.
+ 
+ 
+(i) Write the ionic equation showing that 1 mol of manganate(VII) ions oxidizes 
+5 mol of iron(II) ions in acid conditions.  State symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+13
+*P42989rA01328*
+Turn over    
+ 
+ 
+(ii) What is the colour of the solution in the conical flask at the end-point of the 
+titration?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iii) Calculate the amount of Fe2+ ions in 250 cm3 of the solution after it had been 
+left to stand for 24 hours.  Hence calculate the percentage of the iron(II) ions 
+that had been oxidized between the preparation of the solution and the 
+titration.  The molar mass of FeSO4.7H2O is 277.9 g mol–1.
+(5)
+ 
+ 
+(iv) Suggest, with an explanation, the appropriate number of significant figures to 
+give for the answer to (b)(iii).
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P42989rA01428*
+ 
+(c) The most stable oxidation states in iron compounds are +2 and +3, but others 
+do exist, for example in the ferrate(VI) ion, FeO4
+2–.  The ionic half-equation for the 
+conversion of ferrate(VI) to iron(III) is
+FeO4
+2–(aq)  +  8H+(aq)  +  3e–  U  Fe3+(aq)  +  4H2O(l)    E 9 = +2.20 V
+ 
+ 
+(i) Ferrate(VI) decomposes in neutral or acid solution, but is stable in alkali.  
+Suggest why this is so.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation for the disproportionation of iron(III) into iron(II) and 
+ferrate(VI) in aqueous solution.  State symbols are not required.
+(2)
+ 
+ 
+(iii) Use standard electrode potential values to determine the thermodynamic 
+feasibility of this disproportionation.
+(2)
+(Total for Question 20 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+15
+*P42989rA01528*
+Turn over    
+21 Chromium is a typical transition metal: it forms complexes, coloured compounds and 
+exists in a range of stable oxidation states.  Chromium and some of its compounds 
+also show catalytic properties.
+ 
+(a) Define the term transition metal.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The diagram below summarises some reactions of chromium compounds.
+ 
+ 
+(i) Identify, by name (including the oxidation state where appropriate) or formula, 
+the species containing chromium in the sequence.
+(4)
+W  ............................................................................................................................................................................................................................................................................
+X  ..............................................................................................................................................................................................................................................................................
+Y  ..............................................................................................................................................................................................................................................................................
+Z  ..............................................................................................................................................................................................................................................................................
+reagent C
+(NH4)2Cr2O7(s)
+Cr3+(aq)
+blue solution Z
+green solution Y
+shake mixture
+heat
+yellow 
+solution W
+dissolved in water 
+add NaOH(aq)
+colourless organic 
+liquid A and 
+H2SO4(aq)
+element B and 
+H2SO4(aq)
+green 
+precipitate X
+excess 
+NaOH(aq)
+a few drops of 
+NaOH(aq)
+Cr2O3(s)
+PMT
+
+
+--- Page Break ---
+
+16
+*P42989rA01628*
+ 
+ 
+(ii) Identify, by name or formula, suitable reagents for the sequence.
+(3)
+A  ..............................................................................................................................................................................................................................................................................
+B  ..............................................................................................................................................................................................................................................................................
+C  ..............................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Write the ionic equation for the reaction between (NH4)2Cr2O7 and NaOH to 
+form the yellow solution.  State symbols are not required.
+(1)
+ 
+ 
+(iv) When (NH4)2Cr2O7 is heated, steam and nitrogen are formed as well as Cr2O3.  
+Write the equation for this reaction.  State symbols are not required.
+ 
+ 
+ 
+Explain why this is a redox reaction, stating any changes in oxidation numbers 
+that occur.
+(3)
+Equation
+Explanation  ..................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Explain how shaking solution Z re-forms Cr3+(aq).
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P42989rA01728*
+Turn over    
+ 
+(c) If excess aqueous ammonia is added to Cr3+(aq), the ammonia acts as a ligand and 
+the resulting green solution contains a chromium species which is different from 
+the one found in Y.
+ 
+ 
+(i) Explain the term ‘ligand’.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write an equation for the reaction that occurs, showing all the ligands involved 
+for both the chromium species in the reaction.  State symbols are not required.
+(2)
+(Total for Question 21 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+*P42989rA01828*
+22 Paracetamol is a mild painkiller which also reduces the temperature of patients with 
+fever, actions known as analgesic and antipyretic respectively.  The reaction scheme 
+below summarises a laboratory synthesis of paracetamol starting from phenol.  The 
+yields shown are for the particular product of each step in the synthesis.
+ 
+(a) The nitration of benzene is an electrophilic substitution reaction that requires 
+concentrated nitric and sulfuric acids.
+ 
+ 
+(i) Write an equation for the formation of the electrophile by the reaction 
+between concentrated nitric and concentrated sulfuric acids.
+(2)
+OH
+OH
+NO2
+25% yield
+50% H2SO4
+NaNO3(s)
+85% yield
+paracetamol
+OH
+NO2
+OH
+NH2
+OH
+HN
+NaBH4
+NaOH(aq)
+O
+O
+O
+O
+74% yield
+PMT
+
+
+--- Page Break ---
+
+19
+*P42989rA01928*
+Turn over    
+ 
+ 
+(ii) Give the mechanism for the formation of nitrobenzene from benzene.
+(3)
+ 
+ 
+(iii) Explain why phenol is nitrated in much milder conditions than benzene.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest why the yield for the nitration of phenol is so low.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Suggest an alternative to NaBH4 that could be used in aqueous solution.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Calculate the overall yield of the synthesis.
+(1)
+PMT
+
+
+--- Page Break ---
+
+20
+*P42989rA02028*
+ 
+(b) The paracetamol, prepared by the synthesis shown at the start of the question, 
+may be purified by recrystallization.  In this process, the paracetamol is dissolved 
+in a minimum volume of hot water, the hot mixture filtered, the filtrate cooled 
+and the resulting crystals filtered and dried.  The table below summarises the 
+solubility of paracetamol in water at various temperatures.
+Temperature / qC
+5
+10
+20
+95
+Solubility / g / 100 g
+0.82
+0.94
+1.3
+5.2
+ 
+ 
+(i) Explain the purpose of each of the filtrations in the recrystallization of 
+paracetamol.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) From the temperatures given in the table, choose the pair of temperatures that 
+will give the highest yield of paracetamol from the recrystallization.  Explain 
+your choice.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Name the technique that could be used in a school laboratory to check the 
+purity of the recrystallized paracetamol.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P42989rA02128*
+Turn over    
+ 
+(c) The mass spectrum of paracetamol is shown below.
+ 
+ 
+(i) Label the molecular ion peak, with an M, on the mass spectrum.
+(1)
+ 
+ 
+(ii) Suggest the formula of an ion that could cause the peak at m/e = 43.
+(1)
+ 
+(d) Paracetamol is highly toxic: overdosing causes irreversible liver damage.  Despite 
+this, paracetamol is readily available from pharmacies and even supermarkets.  
+Suggest one control measure that sellers might employ to reduce the risk to 
+paracetamol users.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 18 marks)
+TOTAL FOR SECTION B = 50 MARKS
+100
+80
+60
+40
+20
+0
+25
+50
+75
+100
+m/e
+Relative 
+intensity
+125
+150
+10
+PMT
+
+
+--- Page Break ---
+
+22
+*P42989rA02228*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+23 
+Anaesthetics
+Substances have been used to relieve or eliminate pain during medical procedures for 
+well over two thousand years.  However, uncertainty about the nature and purity of the 
+plant extracts being used and in standardising their application prompted Fallopius, a 
+leading sixteenth century physician, to complain ‘When soporifics are weak, they are 
+useless, and when strong, they kill’.  Modern analytical techniques have all but eliminated 
+these problems.
+Anaesthetics are divided into two broad categories: general anaesthetics, which cause 
+a reversible loss of consciousness, and local anaesthetics, which result in the absence of 
+pain sensation in the area where they are applied.  General anaesthetics may be delivered 
+by inhalation or injection, while local anaesthetics may be injected or applied directly to 
+the surface.  The structures of some anaesthetics are shown below.
+Ethoxyethane was first synthesized in 1540 by distilling a mixture of ethanol and 
+concentrated sulfuric acid.  Although its anaesthetic properties were established at this 
+time, it was not until the nineteenth century that it was used as an inhalational general 
+anaesthetic in medical procedures.  However, ethoxyethane is highly flammable and has 
+unpleasant side effects, so it has been entirely replaced by compounds like desflurane 
+in modern medical practice.  Propofol is a general anaesthetic which is administered by 
+injection.
+Procaine and benzocaine are local anaesthetics and are examples of aminoester 
+anaesthetics.
+O
+Ethoxyethane (Tb = 34.5qC)
+Propofol
+OH
+Desflurane (Tb = 23.5qC)
+F
+F
+F
+F
+F
+O
+F
+O
+H2N
+O
+N
+Procaine
+Benzocaine
+O
+H2N
+O
+PMT
+
+
+--- Page Break ---
+
+23
+*P42989rA02328*
+Turn over    
+ 
+(a) (i) Explain why ethoxyethane has a lower boiling temperature than ethanol 
+(Tb = 78.5qC) even though an ethanol molecule has fewer electrons.  A detailed 
+explanation of the forces involved is not required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) Desflurane is approximately 3700 times more potent as a greenhouse gas 
+than carbon dioxide and it has been estimated that the worldwide use of 
+inhalational anaesthetics contributes the equivalent of 1 million cars to global 
+warming.
+ 
+ 
+ 
+Suggest three factors that might be considered before deciding whether this 
+type of general anaesthetic should be banned.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+24
+*P42989rA02428*
+ 
+ 
+(iii) Suggest why desflurane is much more stable than ethoxyethane and why the 
+chemical stability of desflurane increases its potential to cause damage to the 
+environment.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(b) Procaine is often used by dentists and administered by injection.  Due to the 
+presence of the amine groups, procaine is a basic compound.
+ 
+ 
+Explain why the presence of an amine group makes a compound basic and hence 
+compare the effect of each amine group on the basicity of procaine.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+25
+*P42989rA02528*
+Turn over    
+ 
+(c) The aminoester, benzocaine, is a local anaesthetic used in creams and cough 
+drops.  It can be made from 4-aminobenzoic acid, the structure of which is shown 
+below.
+4-aminobenzoic acid
+O
+H2N
+OH
+ 
+ 
+(i) One possible preparation of benzocaine would be from 4-aminobenzoic acid 
+using ethanol and a sulfuric acid catalyst.  Suggest a disadvantage of this 
+method.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest an alternative two-stage synthesis of benzocaine from 
+4-aminobenzoic acid.  The reagents used must be identified and the structure 
+of the intermediate compound given.
+(3)
+PMT
+
+
+--- Page Break ---
+
+26
+*P42989rA02628*
+ 
+(d) The structure of an anaesthetic may be determined by proton nmr spectroscopy, 
+while its purity may be established by high performance liquid chromatography.
+ 
+ 
+(i) Low resolution nmr spectra for phenol and for propofol are shown below.  In 
+these simplified spectra, the signal strength is proportional to the number of 
+protons of each type, but only within each spectrum.
+ 
+ 
+ 
+Use the phenol spectrum and your Data Booklet to identify the protons of 
+propofol responsible for each of the peaks (A to E) in its nmr spectrum.  Label 
+all of the protons in the diagram below.
+(3)
+Signal strength
+Chemical shift δ / ppm
+phenol
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Signal strength
+propofol
+Chemical shift δ / ppm
+10
+9
+8
+A
+B
+C
+D
+E
+7
+6
+5
+4
+3
+2
+1
+0
+OH
+CH
+HC
+H3C
+H3C
+CH3
+CH3
+H
+H
+H
+PMT
+
+
+--- Page Break ---
+
+27
+*P42989rA02728*
+ 
+ 
+(ii) Explain why high performance liquid chromatography, rather than nmr, is used 
+to show that an anaesthetic contains no trace impurities.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+28
+*P42989rA02828*
+PMT

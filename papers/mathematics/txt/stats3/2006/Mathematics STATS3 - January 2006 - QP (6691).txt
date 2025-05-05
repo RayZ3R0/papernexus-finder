@@ -1,0 +1,387 @@
+Paper Reference(s) 
+6685/01       6691/01 
+Edexcel GCE 
+Statistics S3 
+Advanced/Advanced Subsidiary 
+Friday 27 January 2006 − Afternoon 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Mathematical Formulae (Lilac)                                  Nil 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S3), the paper reference (6685 or 
+6691), your surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+The marks for individual questions and the parts of questions are shown in round brackets: e.g. (2). 
+There are 7 questions on this paper. The total mark for this paper is 75. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N22339A 
+ 
+This publication may only be reproduced in accordance with Edexcel Limited copyright policy. 
+©2006 Edexcel Limited. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+A school has 15 classes and a sixth form. In each class there are 30 students. In the sixth form 
+there are 150 students. There are equal numbers of boys and girls in each class. There are 
+equal numbers of boys and girls in the sixth form. The head teacher wishes to obtain the 
+opinions of the students about school uniforms. 
+ 
+ 
+Explain how the head teacher would take a stratified sample of size 40. 
+(7) 
+      
+ 
+2. 
+A workshop makes two types of electrical resistor. 
+ 
+ 
+The resistance, X ohms, of resistors of Type A is such that X ∼ N(20, 4). 
+ 
+ 
+The resistance, Y ohms, of resistors of Type B is such that Y ∼ N(10, 0.84). 
+  
+ 
+ 
+When a resistor of each type is connected into a circuit, the resistance R ohms of the circuit is 
+given by R = X + Y where X and Y are independent. 
+ 
+ 
+Find 
+ 
+ 
+(a) E(R), 
+(1) 
+ 
+(b) Var(R), 
+(2) 
+ 
+(c) P(28.9 < R < 32.64) 
+(6) 
+ 
+ 
+3. 
+The drying times of paint can be assumed to be normally distributed. A paint manufacturer 
+paints 10 test areas with a new paint. The following drying times, to the nearest minute, were 
+recorded. 
+ 
+ 
+ 
+ 
+82, 
+98, 
+140, 
+110, 
+90, 
+125, 
+150, 
+130, 
+70, 
+110. 
+ 
+ (a) Calculate unbiased estimates for the mean and the variance of the population of drying 
+times of this paint. 
+(5) 
+ 
+ 
+Given that the population standard deviation is 25, 
+ 
+ 
+(b) find a 95% confidence interval for the mean drying time of this paint. 
+ (5) 
+ 
+ 
+Fifteen similar sets of tests are done and the 95% confidence interval is determined for each 
+set. 
+ 
+ 
+(c) Estimate the expected number of these 15 intervals that will enclose the true value of the 
+population mean µ. 
+(2) 
+ 
+N22339A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4. 
+People over the age of 65 are offered an annual flu injection. A health official took a random 
+sample from a list of patients who were over 65. She recorded their gender and whether or not 
+the offer of an annual flu injection was accepted or rejected. The results are summarised 
+below. 
+ 
+ 
+ Gender 
+Accepted 
+Rejected 
+ Male 
+170 
+110 
+ Female 
+280 
+140 
+ 
+ 
+Using a 5% significance level, test whether or not there is an association between gender and 
+acceptance or rejection of an annual flu injection. State your hypotheses clearly.  
+ 
+ 
+ 
+ 
+ 
+ 
+(9) 
+ 
+ 
+5. 
+Upon entering a school, a random sample of eight girls and an independent random sample of 
+eighty boys were given the same examination in mathematics. The girls and boys were then 
+taught in separate classes. After one year, they were all given another common examination in 
+mathematics. 
+ 
+ 
+The means and standard deviations of the boys’ and the girls’ marks are shown in the table. 
+ 
+ 
+Examination marks 
+ 
+Upon entry 
+After 1 year 
+Mean 
+Standard 
+deviation 
+Mean 
+Standard 
+deviation 
+Boys 
+50 
+12 
+59 
+6 
+Girls 
+53 
+12 
+62 
+6 
+ 
+ 
+You may assume that the test results are normally distributed. 
+ 
+ 
+(a) Test, at the 5% level of significance, whether or not the difference between the means of 
+the boys’ and girls’ results was significant when they entered school. 
+(7) 
+ 
+(b) Test, at the 5% level of significance, whether or not the mean mark of the boys is 
+significantly less than the mean mark of the girls in the ‘After 1 year’ examination. 
+(5) 
+ 
+(c) Interpret the results found in part (a) and part (b). 
+(1) 
+ 
+N22339A 
+3 
+Turn over 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+An area of grass was sampled by placing a 1 m × 1 m square randomly in 100 places. The 
+numbers of daisies in each of the squares were counted. It was decided that the resulting data 
+could be modelled by a Poisson distribution with mean 2. The expected frequencies were 
+calculated using the model. 
+ 
+ 
+The following table shows the observed and expected frequencies. 
+ 
+Number of daisies 
+Observed frequency 
+Expected frequency 
+ 
+ 
+0 
+ 
+ 
+8 
+ 
+ 
+13.53 
+ 
+ 
+1 
+ 
+ 
+32 
+ 
+ 
+27.07 
+ 
+ 
+2 
+ 
+ 
+27 
+  r 
+ 
+ 
+3 
+ 
+ 
+18 
+  s 
+ 
+ 
+4 
+ 
+ 
+10 
+ 
+ 
+9.02 
+ 
+ 
+5 
+ 
+ 
+3 
+ 
+ 
+3.61 
+ 
+ 
+6 
+ 
+ 
+1 
+ 
+ 
+1.20 
+ 
+ 
+7 
+ 
+ 
+0 
+ 
+ 
+0.34 
+ 
+ 
+≥ 8 
+ 
+ 
+1 
+  t 
+ 
+ 
+(a) Find values for r, s and t. 
+(4) 
+ 
+(b) Using a 5% significance level, test whether or not this Poisson model is suitable. State 
+your hypotheses clearly. 
+(7) 
+ 
+ 
+An alternative test might have been to estimate the population mean by using the data given. 
+ 
+ 
+(c) Explain how this would have affected the test. 
+(2) 
+ 
+ 
+N22339A 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+7. 
+The numbers of deaths from pneumoconiosis and lung cancer in a developing country are 
+given in the table. 
+ 
+Age group (years) 
+20–29 
+30–39 
+40–49 
+50–59 
+60–69 
+70 and 
+over 
+Deaths from 
+pneumoconiosis 
+(1000s) 
+12.5 
+5.9 
+18.5 
+19.4 
+31.2 
+31.0 
+Deaths from lung 
+cancer (1000s) 
+3.7 
+9.0 
+10.2 
+19.0 
+13.0 
+18.0 
+ 
+ 
+The correlation between the number of deaths in the different age groups for each disease is to 
+be investigated. 
+ 
+ 
+(a) Give one reason why Spearman’s rank correlation coefficient should be used.  
+(1) 
+ 
+(b) Calculate Spearman’s rank correlation coefficient for these data.  
+(6) 
+ 
+(c) Use a suitable test, at the 5% significance level, to interpret your result. State your 
+hypotheses clearly. 
+ (5) 
+ 
+TOTAL FOR PAPER: 75 MARKS 
+END 
+N20908A 
+5 
+ 
+ 
+PMT
+PMT

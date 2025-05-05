@@ -1,0 +1,1260 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+P50788A
+©2017 Pearson Education Ltd.
+6/5/5/5/5/1/8/c2
+*P50788A0128*
+Chemistry
+Advanced
+Unit 4: General Principles of Chemistry I – Rates,  
+Equilibria and Further Organic Chemistry  
+(including synoptic assessment)
+Tuesday 31 October 2017 – Morning
+Time: 1 hour 40 minutes
+WCH04/01
+Candidates must have: Data Booklet 
+Scientific calculator
+Instructions
+•	 Use black ink or black ball-point pen.
+•	 Fill in the boxes at the top of this page with your name,  
+	
+centre number and candidate number.
+•	 Answer all questions.
+•	 Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	 The total mark for this paper is 90. 
+•	 The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	 Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+	
+– you should take particular care with your spelling, punctuation and grammar,  
+as well as the clarity of expression, on these questions.
+•	 A Periodic Table is printed on the back cover of this paper.
+Advice
+•	 Read each question carefully before you start to answer it.
+•	 Try to answer every question.
+•	 Check your answers if you have time at the end.
+•	 Show all your working in calculations and include units where appropriate.
+Pearson Edexcel 
+International
+Advanced Level
+Turn over    
+
+
+--- Page Break ---
+
+2
+*P50788A0228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1	 The rate of the reaction between hydrogen and bromine is investigated.
+H2(g)  +  Br2(g)  →  2HBr(g)
+	
+(a)	 The progress of this reaction may be continuously monitored by measuring the 
+change in
+(1)
+	
+	
+A	 volume.
+	
+	
+B	 pressure.
+	
+	
+C	 pH.
+	
+	
+D	 colour.
+	
+(b)	 What can be deduced about the rate equation for this reaction from its  
+chemical equation?
+(1)
+	
+	
+A	 It is first order with respect to both hydrogen and bromine.
+	
+	
+B	 It is second order with respect to hydrogen bromide.
+	
+	
+C	 It is second order with respect to both hydrogen and bromine.
+	
+	
+D	 Nothing, because the chemical equation gives no information about the mechanism.
+(Total for Question 1 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+3
+*P50788A0328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+2	 The decomposition of compound X is first order.  The correct graph for this is
+	
+	
+A	 	
+	
+[X]
+time
+	
+	
+B	 	
+	
+[X]
+time
+	
+	
+C	 	
+	
+[X]
+time
+	
+	
+D	 	
+	
+[X]
+time
+(Total for Question 2 = 1 mark)
+
+
+--- Page Break ---
+
+4
+*P50788A0428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+3	 For a zero order reaction, the relationship between [Y]0  which is the concentration of Y 
+at the start of any half-life, the rate constant, k, and the half-life, t½, is
+[Y]0 = 2k t½
+	
+From this it can be deduced that for a zero order reaction the half-life
+	
+	
+A	 increases as the reaction proceeds.
+	
+	
+B	 decreases as the reaction proceeds.
+	
+	
+C	 remains constant when the temperature is constant.
+	
+	
+D	 remains constant under all conditions.
+(Total for Question 3 = 1 mark)
+4	 If an endothermic reaction is thermodynamically feasible, it may be deduced that
+	
+	
+A	 the activation energy is low.
+	
+	
+B	 ∆Ssurroundings is positive.
+	
+	
+C	 ∆Ssystem is positive.
+	
+	
+D	 ∆Stotal is negative.
+(Total for Question 4 = 1 mark)
+5	 Calcium carbonate is stable at room temperature but decomposes when heated strongly:
+CaCO3(s)  →  CaO(s)  +  CO2(g)
+	
+The best explanation for this is
+	
+	
+A	 ∆Ssurroundings becomes less negative as temperature increases.
+	
+	
+B	 ∆Ssystem becomes more positive as temperature increases.
+	
+	
+C	 the entropy of gases is higher than that of solids.
+	
+	
+D	 the entropy of a substance increases with temperature.
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+5
+*P50788A0528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+6	 At 298 K, butane has a larger standard molar entropy than 2-methylpropane.  
+The explanation for this is that butane has
+	
+	
+A	 more ways of distributing energy quanta.
+	
+	
+B	 fewer ways of distributing energy quanta.
+	
+	
+C	 a less negative standard molar enthalpy change of formation.
+	
+	
+D	 a higher boiling temperature.
+(Total for Question 6 = 1 mark)
+7	 The cracking of alkanes is carried out at high temperature. 
+The equation for a typical reaction is 
+C8H18(g)    C4H10(g)  +  2C2H4(g)
+	
+When the pressure is increased, the reaction shifts to the
+	
+	
+A	 right to re-establish the equilibrium.
+	
+	
+B	 left to re-establish the equilibrium.
+	
+	
+C	 right, and then moves to the left to re-establish the equilibrium.
+	
+	
+D	 left, and then moves to the right to re-establish the equilibrium.
+(Total for Question 7 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+6
+*P50788A0628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+8	 Water gas is a mixture of carbon monoxide and hydrogen produced by passing steam 
+over white-hot carbon:
+H2O(g)  +  C(s)    H2(g)  +  CO(g)
+	
+The equilibrium constant, Kp, for this reaction is given by the expression
+	
+	
+A	 	
+	
+p
+p
+(
+)
+(
+)
+H
+CO
+2 ×
+	
+	
+B	 	
+	
+1
+2
+p
+p
+(
+)
+(
+)
+H
+CO
+×
+	
+	
+C	 	
+	
+p
+p
+p
+(
+)
+(
+)
+(
+)
+H
+CO
+H O
+2
+2
+×
+	
+	
+D	 	
+	
+p
+p
+p
+(
+)
+(
+)
+(
+)
+H O
+H
+CO
+2
+2 ×
+ (Total for Question 8 = 1 mark)
+9	 In the Haber process, ammonia is produced on an industrial scale by an exothermic reaction. 
+	
+(a)	 The equation for the Haber process can be written as
+N2(g)  +  3H2(g)    2NH3(g)      or      1 2N2(g)  +  3 2H2(g)    NH3(g)
+	
+	
+The units of the equilibrium constant, Kc, are
+(1)
+N2(g)  +  3H2(g)    2NH3(g)
+1 2N2(g)  +  3 2H2(g)    NH3(g)
+A
+dm6 mol−2
+dm3 mol−1
+B
+dm6 mol−2
+dm6 mol−2
+C
+mol2 dm−6
+mol dm−3
+D
+mol2 dm−6
+mol2 dm−6
+
+
+--- Page Break ---
+
+7
+*P50788A0728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 The Haber process is carried out at temperatures between 673 K and 773 K.  
+What is the effect of increasing the temperature on the reaction?
+(1)
+Rate
+Equilibrium yield
+A
+increased
+increased
+B
+increased
+decreased
+C
+decreased
+increased
+D
+decreased
+decreased
+(Total for Question 9 = 2 marks)
+10	 The equilibrium constant for a reaction always increases when there is an increase in
+	
+	
+A	 pressure
+	
+	
+B	 temperature
+	
+	
+C	 ∆Ssystem
+	
+	
+D	 ∆Stotal
+(Total for Question 10 = 1 mark)
+11	 When concentrated nitric and sulfuric acids are mixed, the reaction is
+H2SO4  +  HNO3    HSO4
+−  +  H2NO3
++
+	
+In this reaction, the Brønsted-Lowry acids are 
+	
+	
+A	 H2SO4  and  HNO3
+	
+	
+B	 H2SO4  and  H2NO3
++
+	
+	
+C	 HNO3  and  H2NO3
++
+	
+	
+D	 HNO3  and  HSO4
+−
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+8
+*P50788A0828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+12	 Hydrofluoric acid, HF, is a weak acid (pKa = 3.2).  What happens when a 1 mol dm−3 
+solution of hydrofluoric acid is diluted with an equal volume of water?
+Percentage of HF 
+molecules dissociated
+pH
+A
+decreases
+decreases
+B
+decreases
+increases
+C
+increases
+increases
+D
+increases
+decreases
+(Total for Question 12 = 1 mark)
+13	 Two buffer solutions, M and N, were prepared by mixing 50 cm3 of ethanoic acid and 
+50 cm3 of sodium ethanoate solutions.  In buffer M, both components were 2 mol dm−3 
+and in buffer N, both components were 1 mol dm−3. 
+ 
+The pH values of M and N were compared initially and then 1 mol dm−3 hydrochloric acid 
+was added to each until the first change in pH was observed.
+Initial pH
+Effect of adding acid
+A
+M higher pH
+pH of M changed first
+B
+N higher pH
+pH of N changed first
+C
+M and N same pH
+pH of M changed first
+D
+M and N same pH
+pH of N changed first
+(Total for Question 13 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+9
+*P50788A0928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+14	 This question concerns four organic compounds:
+OH
+P
+O
+Q
+O
+R
+O
+OH
+S
+	
+(a)	 The compound which will have the fewest peaks in its low resolution  
+proton nmr spectrum is
+(1)
+	
+	
+A	 P
+	
+	
+B	 Q
+	
+	
+C	 R
+	
+	
+D	 S
+	
+(b)	 The compound which is oxidised by acidified potassium dichromate(VI) and 
+reduced by lithium tetrahydridoaluminate(III) is
+(1)
+	
+	
+A	 P
+	
+	
+B	 Q
+	
+	
+C	 R
+	
+	
+D	 S
+	
+(c)	 Which two compounds react together to form a new organic compound?
+(1)
+	
+	
+A	 Q and S
+	
+	
+B	 R and S
+	
+	
+C	 P and S
+	
+	
+D	 Q and R
+(Total for Question 14 = 3 marks)
+
+
+--- Page Break ---
+
+10
+*P50788A01028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+15	 The most energy efficient method of heating a chemical reaction is using
+	
+	
+A	 microwave radiation.
+	
+	
+B	 infrared radiation.
+	
+	
+C	 a Bunsen burner.
+	
+	
+D	 a water bath.
+(Total for Question 15 = 1 mark)
+16	 Magnetic Resonance Imaging (MRI) is widely used in hospitals and clinics for medical 
+diagnosis.  The technique uses
+	
+	
+A	 microwaves.
+	
+	
+B	 radio waves.
+	
+	
+C	 ultrasound.
+	
+	
+D	 X-rays. 
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+11
+*P50788A01128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17	 Hydrogen peroxide decomposes to form water and oxygen in a first order reaction.
+H2O2(aq)  →  H2O(aq)  +  ½O2(g)
+	
+The decomposition is slow under normal conditions but occurs rapidly in the 
+presence of a catalyst such as manganese(IV) oxide.
+	
+(a)	 (i)	 Write the rate equation for the decomposition of hydrogen peroxide.
+(1)
+	
+	
+(ii)	 Draw a diagram of an apparatus that could be used to continuously monitor 
+the progress of this reaction.  State the measurements that would be made.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+12
+*P50788A01228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 Data obtained in a suitable experiment were used to calculate some results.
+[H2O2(aq)] / mol dm−3
+Time / s
+2.00
+0.0
+1.50
+1.00
+0.75
+0.50
+560
+0.25
+	
+	
+(i)	 Complete the table by inserting as many times as possible.  If you think that it 
+is not possible to give a time without using the value of the rate constant, put 
+a cross (X) in the box.
+(2)
+	
+	
+(ii)	 Explain how the data in the completed table can be used to obtain the rate of 
+the reaction at a particular concentration.  No calculation is required.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	When the concentration of hydrogen peroxide was 0.75 mol dm−3, the rate of 
+reaction was 1.9 × 10−3 mol dm−3 s−1. 
+	
+	
+	
+Calculate the rate constant for the reaction.  Include units with your answer.
+(2)
+
+
+--- Page Break ---
+
+13
+*P50788A01328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 The diagram below shows the reaction profile for the decomposition of  
+hydrogen peroxide without a catalyst.  On the diagram draw the reaction profile 
+for the catalysed reaction, which involves an intermediate.
+(2)
+Energy
+H2O2
+H2O + ½O2
+Progress of reaction
+(Total for Question 17 = 12 marks)
+
+
+--- Page Break ---
+
+14
+*P50788A01428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+18	 The contact process for the manufacture of sulfuric acid involves the oxidation of 
+sulfur dioxide:
+2SO2(g)  +  O2(g)    2SO3(g)      ∆H 298 = −196 kJ mol−1
+	
+This reaction is usually carried out at 2 atm and 450 °C.
+	
+(a)	 Give the expression for the equilibrium constant, Kp , for this equilibrium.
+(1)
+	
+(b)	 A mixture containing 0.500 mol of sulfur dioxide, 0.100 mol of oxygen and  
+0.750 mol of sulfur trioxide is placed in a vessel at 2 atm and 500 °C.  
+At this temperature Kp = 2.50 × 1010 atm−1.
+	
+	
+(i)	 Show by calculation that this system is not at equilibrium.
+(3)
+
+
+--- Page Break ---
+
+15
+*P50788A01528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Explain, using your answer to (b)(i), the direction that the system would move 
+to reach equilibrium.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Explain, in terms of the entropy changes involved, why the equilibrium shifts 
+to the right when the temperature is reduced from 500 °C to 450 °C.  
+No calculation is required.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+(c)	 Suggest two reasons why the contact process equilibrium is operated at just  
+2 atm although equilibrium yield increases at higher pressure.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 10 marks)
+
+
+--- Page Break ---
+
+16
+*P50788A01628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+19	 Lactic acid (2-hydroxypropanoic acid) can be synthesised from propan-1-ol in the 
+following sequence.
+Cl2 and 
+UV radiation
+Step 2
+1. NaOH(aq)
+2. Reagent T
+Step 3
+Step 1
+OH
+propan-1-ol
+O
+OH
+propanoic acid
+O
+OH
+OH
+lactic acid
+O
+OH
+Cl
+2-chloropropanoic 
+acid
+	
+(a)	 (i)	 Name the reagents and state the conditions required for Step 1.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Suggest the type and mechanism of the reaction in Step 2.
+(2)
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Suggest why Step 2 is likely to give a low yield of 2-chloropropanoic acid.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+17
+*P50788A01728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iv)	Identify reagent T in Step 3 and explain why it is needed.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+(b)	 The reaction of 2-chloropropanoic acid with NaOH(aq) in Step 3 is a nucleophilic 
+substitution which occurs by a mixture of SN1 and SN2 mechanisms.
+	
+	
+(i)	 Give the SN2 mechanism for this reaction, showing the relevant curly arrows 
+and lone pairs.
+(4)
+
+
+--- Page Break ---
+
+18
+*P50788A01828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Some halogenoalkanes react with alkali entirely by an SN1 mechanism while 
+others react entirely by an SN2 mechanism. 
+	
+	
+	
+Give the rate equations for these two mechanisms, using RCI for the halogenoalkanes. 
+	
+	
+	
+Explain why the rate equations are different.
+	
+	
+	
+You are not required to draw any further mechanisms. 
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+(c)	 2-chloropropanoic acid and lactic acid both exist as optical isomers.
+	
+	
+(i)	 State the property associated with optical isomerism.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 State the structural relationship between a pair of optical isomers, and use 
+a labelled diagram to identify the structural feature that results in optical 
+isomerism in one of these compounds. 
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+19
+*P50788A01928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+ *(iii)	A single optical isomer of 2-chloropropanoic acid reacts with  
+sodium hydroxide in an SN2 reaction.  State and explain, in terms of this 
+mechanism, the stereoisomerism of the lactic acid formed.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+(d)	 Describe how the infrared spectra of propan-1-ol and lactic acid will be similar 
+and how they will differ.  Quote values from your Data Booklet.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 22 marks)
+
+
+--- Page Break ---
+
+20
+*P50788A02028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+20	 An aliphatic compound Z with five carbon atoms, gave an orange precipitate with 
+2,4-dinitrophenylhydrazine but no reaction when warmed with ammoniacal silver nitrate.  
+In the mass spectrum of Z the molecular ion peak was at m/e = 86.
+	
+Draw the three possible structures of Z.  Explain your reasoning.
+(6)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 6 marks)
+TOTAL FOR SECTION B = 50 MARKS
+
+
+--- Page Break ---
+
+21
+*P50788A02128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+21	 	
+	
+	
+	
+	
+Soaps and Detergents
+	
+Soaps and detergents are cleaning agents.  Soaps are usually the sodium salt of a  
+carboxylic acid with a very long carbon chain; they are made by treating naturally 
+occurring fats and oils with sodium hydroxide.  Sodium stearate, C17H35COO−Na+, is a  
+typical soap.  The use of soaps was first recorded 4500 years ago, but detergents 
+were developed in Germany around 1916 when there was a shortage of the raw 
+materials required for manufacturing soap.  Modern detergents are manufactured from 
+petrochemicals.  The alkylbenzene sulfonate C18H29SO3
+−Na+ is a typical modern detergent.
+	
+Soaps and detergents clean because the long hydrocarbon chain is lipophilic  
+(‘fat-attracting’) and the ionic end of the structure is hydrophilic (‘water-attracting’).  
+A fat or grease particle, which contains a long chain of carbon atoms, binds to the 
+hydrocarbon chains of soap or detergent forming a tiny sphere, the surface of which is 
+covered with hydrophilic groups making it water soluble.  These spheres are called micelles.
+lipophilic chain
+hydrophilic group
+grease particle
+soap or detergent
+micelle
+
+
+--- Page Break ---
+
+22
+*P50788A02228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+ *(a)	 Name and describe the forces that bind the lipophilic part of a soap or detergent 
+to a grease particle.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+(b)	 Identify the interaction between the hydrophilic part of the stearate ion and 
+water.  Draw a diagram to illustrate your answer.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+23
+*P50788A02328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 Chemically, stearic acid is a typical carboxylic acid, but it is only slightly soluble in water.
+	
+	
+Data:	 pKa = 4.89 ;  solubility in water = 0.34 g dm−3 at 25 °C
+	
+	
+(i)	 Explain why stearic acid is only slightly soluble in water whereas  
+ethanoic acid is fully miscible in water.  A detailed description of the  
+forces involved is not required.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Write the equation for the dissociation of stearic acid, C17H35COOH,  
+in aqueous solution.  Include state symbols.
+(1)
+	
+	
+(iii)	Write the expression for Ka for stearic acid.
+(1)
+
+
+--- Page Break ---
+
+24
+*P50788A02428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iv)	Calculate the concentration of a saturated solution of stearic acid at 25 °C and 
+hence calculate its pH.
+(4)
+
+
+--- Page Break ---
+
+25
+*P50788A02528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(v)	 On the axes below, sketch the curve that you would expect when a saturated 
+solution of stearic acid is added to 25 cm3 of sodium hydroxide of the same 
+molar concentration.  Use Kw = 1.0 × 10−14 mol2 dm−6 to calculate the pH of the 
+sodium hydroxide solution.
+(3)
+14 –
+12 –
+10 –
+8 –
+6 –
+4 –
+2 –
+0 –
+–
+–
+–
+–
+–
+0
+10
+40
+30
+20
+Volume of acid / cm3
+pH
+
+
+--- Page Break ---
+
+26
+*P50788A02628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+ *(d)	 One of the main advantages of detergents over soaps is that the calcium salts of 
+alkylbenzene sulfonates are much more soluble in water than calcium stearate. 
+When soaps are used in ‘hard’ water, which contains calcium ions, calcium stearate 
+precipitates out as an insoluble ‘scum’.
+	
+	
+Complete the energy cycle below by inserting the names or symbols of the three 
+energy changes, and then use the cycle to explain why calcium stearate is much less 
+soluble than the calcium salt of an alkylbenzene sulfonate.  No calculation is required.
+(4)
+CaX2(s)
+Ca2+(g)  +  2X−(g)
+Ca2+(aq)  +  2X−(aq)
+(I) .............................................................................
+(II) .............................................................................
+(III) .............................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+
+
+--- Page Break ---
+
+27
+*P50788A02728*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+28
+*P50788A02828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA

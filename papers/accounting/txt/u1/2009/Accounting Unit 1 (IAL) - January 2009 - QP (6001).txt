@@ -1,0 +1,1030 @@
+Turn over
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 – The Accounting System and Costing
+Monday 12 January 2009 – Afternoon
+Source booklet for use with Questions  
+1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+H33191A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2009 Edexcel Limited.
+W850/6001/57570  4/4/4/
+*H33191A*
+
+
+--- Page Break ---
+
+H33191A	
+	
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1.	 Kehly is in business installing computer networks for two customers: TB Internet and Super 
+Broadband. The following balances were extracted from Kehly’s books on 31 December 2008.
+	
+	
+	
+£
+	
+Sales	 	
+300 000
+	
+Purchases of materials	
+62 500
+	
+Wages of network installers	
+84 000
+	
+Management salaries	
+31 500
+	
+Vehicle running expenses	
+11 250
+	
+Vehicles at cost	
+35 000
+	
+Vehicles provision for depreciation	
+14 000
+	
+Office rent and expenses	
+43 400
+	
+Office equipment at cost	
+18 000
+	
+Office equipment provision for depreciation   	
+  6 000
+	
+Stock of materials at 1 January 2008	
+7 850
+	
+Debtors	
+90 000
+	
+Creditors	
+47 950
+	
+10% Bank loan repayable 31 December 2011	
+30 000
+	
+Interest on bank loan	
+1 500
+	
+Bank overdraft	
+9 150
+	
+Provision for doubtful debts	
+2 500
+	
+Capital	
+25 000
+	
+Drawings	
+49 600
+	
+Additional information:
+	
+(i)	 Stock of materials at 31 December 2008, £10 350.
+	
+(ii)	 Office rent and expenses includes a payment of £7 200 for the 3 months to 31 January 2009.
+	
+(iii)	Depreciation is charged at the rate of 10% on vehicles using the straight line method and 20% 
+on office equipment using the reducing balance method.
+	
+(iv)	Kehly has the credit control policy of issuing invoices immediately after jobs are completed; 
+submitting monthly statements to debtors; and telephoning debtors when debts are 3 months 
+old. A schedule of outstanding debts is as follows: 
+	
+	
+	
+Age of debt	
+0 – 3 months	
+3 – 6 months	
+Over 6 months
+	
+	
+	
+TB Internet	
+£22 000	
+£18 000	
+£17 000
+	
+	
+	
+Super Broadband	
+£27 000	
+£6 000	
+£ Nil
+	
+(v)	 A provision for doubtful debts is to be maintained at 31 December 2008 at the following rate:
+	
+	
+	
+Age of debt	
+0 – 3 months	
+3 – 6 months	
+Over 6 months
+	
+	
+	
+Rate	
+3%	
+6%	
+10%
+
+
+--- Page Break ---
+
+H33191A	
+
+
+Turn over
+	
+Required:
+	
+(a)	 Prepare for Kehly the: 
+	
+	
+l	
+trading and profit and loss account for the year ended 31 December 2008
+	
+	
+l 	balance sheet as at 31 December 2008.
+(28)
+	
+Kehly remunerates the network installers by paying an hourly rate. To save money, Kehly is 
+considering changing the remuneration method to a piecework system.
+	
+(b)	 Explain two disadvantages to Kehly of changing the remuneration system to piecework.
+(8)
+	
+(c)	 Calculate for Kehly at 31 December 2008 the:
+	
+	
+l	
+debtors collection period in days
+	
+	
+l 	liquid (acid test) ratio.
+	
+	
+	
+(Calculations should be made to the nearest one decimal place.)
+(8)
+	
+(d)	 Evaluate the credit control policy of Kehly. 
+	
+	
+	
+(8)
+ 
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+H33191A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.	 The following information relates to the machinery owned by Keaton Manufacturing, for the year 
+ended 31 December 2008.
+	
+(i)	 Balances 1 January 2008:
+	
+	
+l	
+Machinery account	
+£110 000
+	
+	
+l	
+Provision for depreciation on machinery account	
+£42 000
+	
+(ii)	 Disposal of machinery:
+	
+	
+Low Speed Printer (machine number 108)
+	
+	
+l	
+Purchased on 20 December 2005 for £30 000
+	
+	
+l	
+Estimated economic life 10 years
+	
+	
+l	
+Residual value £5 000
+	
+	
+l	
+Depreciation has been charged using the straight line method
+	
+	
+l	
+Sold on 30 November 2008 for £13 000.
+	
+(iii)	Purchase of machinery:
+	
+	
+High Speed Printer (machine number 515)
+	
+	
+l	
+Purchased on 31 December 2008 for £60 000 plus £4 000 installation cost
+	
+	
+l	
+Estimated economic life 8 years
+	
+	
+l	
+Residual value £8 000
+	
+	
+l	
+Depreciation is to be charged using the straight line method.
+	
+(iv)	The machinery depreciation policy of Keaton Manufacturing is to charge a full year’s 
+depreciation in the year of sale and to charge no depreciation in the year of purchase. 
+	
+(v)	 The total depreciation on machinery for the year ended 31 December 2008 was £20 500.
+	
+Required:
+	
+(a)	 Explain
+	
+	
+l	
+the term depreciation
+	
+	
+l	
+why depreciation is an application of the going concern concept.
+(8)
+	
+(b)	 Prepare, for the year ended 31 December 2008, the
+	
+	
+l	
+machinery account
+	
+	
+l	
+provision for depreciation account
+	
+	
+l	
+asset disposal account.
+(12)
+
+
+--- Page Break ---
+
+H33191A	
+5
+
+Turn over
+	
+A director of Keaton Manufacturing has requested that the calculation for depreciation on machinery 
+be changed from the present straight line method to the reducing balance method. The reducing 
+balance method would be calculated at the rate of 25% per annum.
+	
+(c)	 (i)	 Calculate, for the High Speed Printer (machine number 515), the annual depreciation for 
+the first three years of ownership, 2009, 2010 and 2011, using the:
+	
+	
+	
+l	
+straight line method
+	
+	
+	
+l	
+reducing balance method.
+	
+	
+(ii)	 Explain two advantages to Keaton Manufacturing of changing to the reducing balance 
+method of depreciation.
+(12)
+	
+(d)	 (i)	 Distinguish between capital and revenue expenditure.
+	
+	
+(ii)	 Advise, stating clearly your reasons, whether each of the following are capital or revenue 
+expenditure:
+	
+	
+	
+l	
+machinery installation costs
+	
+	
+	
+l	
+staff training costs. 
+(12)
+	
+(e)	 Evaluate whether, by charging annual depreciation, Keaton Manufacturing will have sufficient 
+cash to replace the High Speed Printer (machine number 515) with a new machine at the end 
+of its economic life.
+(8)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 13 of the question paper.
+
+
+--- Page Break ---
+
+H33191A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.	 The treasurer of the Gateway Social Club prepares yearly accounts on 31 December. The following 
+information was available for the year ended 31 December 2008.
+	
+(i)	 Receipts and Payments Account (extract) 
+	
+	
+	
+	
+£	
+	
+	
+£
+	
+	
+Sales receipts:	
+	
+Payments to suppliers:
+	
+	
+	
+Food	
+47 500	
+	
+Food	
+17 800
+	
+	
+	
+Drinks	
+27 000	
+	
+Drinks	
+19 150
+	
+	
+Subscriptions	
+23 800	
+Wages:	Catering staff	
+17 950 
+	
+	
+	
+	
+	
+	
+Bar steward	
+10 650
+	
+	
+	
+	
+	
+	
+Club manager	
+15 000
+	
+	
+	
+	
+	
+Newspapers and journals	
+1 600
+	
+	
+	
+	
+	
+General running expenses	
+9 250
+	
+	
+	
+	
+	
+Expenditure – fixtures 	
+ 
+	
+	
+	
+	
+	
+and fittings	
+ 3 500
+	
+	
+	
+	
+	
+Loan interest	
+ 2 700
+	
+(ii)	 Stock at 1 January 2008: 
+	
+	
+	
+Food	
+Nil
+	
+	
+	
+Drinks	
+80 boxes @ £6.50
+	
+(iii)	Receipts and issues for boxes of drinks for the year were:
+	
+	
+	
+	
+Receipts	
+Issues
+	
+	
+	
+	
+(boxes)	
+(boxes)
+	
+	
+	
+January – March	
+480 @ £7.00 per box	
+460 
+	
+ 	
+	
+April – June	
+560 @ £7.50 per box 	
+480 
+	
+	
+	
+July – September	
+700 @ £8.00 per box	
+750
+	
+	
+	
+October – December	
+600 @ £8.50 per box	
+614
+	
+(iv)	The club uses the Last In First Out (L.I.F.O) perpetual inventory method for valuing all 
+stock.
+	
+(v)	 There were no stocks of food on 31 December 2008.
+	
+(vi)	Other balances:
+   	 	
+	
+1 January 2008	
+31 December 2008 
+	
+	
+	
+ £	
+  £
+	
+	
+Fixtures and fittings (book value)	
+40 000	
+37 500
+	
+	
+Creditors –	Food	
+1 900	
+3 100
+	
+	
+    	
+Drink	
+5 070	
+4 180
+	
+	
+Subscriptions in advance	
+5 320	
+4 120
+	
+	
+Subscriptions in arrears	
+660	
+  480
+	
+	
+8 % Loan	
+	
+35 000	
+35 000
+	
+(vii)	During the year subscriptions of £180 had to be written off as irrecoverable.
+
+
+--- Page Break ---
+
+H33191A	
+
+
+Turn over
+	
+(viii)	The expenditure on fixtures and fittings which is shown in the Receipts and Payments Account 
+includes an amount of £2 000 which was spent during the year on additional fixtures and 
+fittings. The remainder of the total spent was for repairs, which the Club considers to be 
+revenue expenditure.
+	
+Required:
+	
+(a)	 Calculate the value of the stock of drinks at 31 December 2008.
+(8)
+	
+(b)	 Prepare for the year ended 31 December 2008, the: 
+	
+	
+l	
+subscriptions account
+	
+	
+l	
+bar trading account, in columnar format, showing the profit or loss on the sale of food and 
+the sale of drinks (a total column is not required)
+	
+	
+l	
+income and expenditure account.
+(32)
+	
+The cost of membership of the Gateway Social Club is £50 per year. On 1 January 2007, the Club 
+offered a 5 year membership for a single discounted payment of £150.
+	
+(c)	 Explain the accounting treatment of a 5 year membership fee in both the income and 
+expenditure account and the balance sheet for the year ended 31 December 2008. 
+(4)
+	
+(d)	 Evaluate, from the view of the Gateway Social Club, the offer of a 5 year membership for 
+£150. 
+(8)
+(Total 52 marks)
+Answer space for question 3 is on pages 14 to 19 of the question paper.
+
+
+--- Page Break ---
+
+H33191A	
+	
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. 	 Maisha and Shiban are partners in a business but they have no partnership agreement. The partners 
+decided to dissolve the partnership on 30 November 2008.
+	
+After the preparation of the final accounts for the year ended 30 November 2008, the following 
+balances remained in the books:
+	
+	
+	
+	
+£	
+£
+	
+	
+Fixed assets
+	
+	
+Premises	
+	
+65 000
+	
+	
+Vehicle	
+	
+8 700
+	
+	
+Fixtures	
+	
+2 000
+	
+	
+	
+	
+75 700
+	
+	
+Current assets
+	
+	
+Stock	
+	
+15 000
+	
+	
+Debtors	
+	
+9 400
+	
+	
+	
+	
+24 400
+	
+	
+	
+	
+	
+100 100
+	
+	
+Current liabilities	
+	
+	
+	
+Creditors	
+	
+(28 300)
+	
+	
+Bank overdraft	
+(1 800)
+	
+	
+	
+	
+	
+(30 100)
+	
+	
+	
+	
+	
+70 000
+	
+	
+Financed by:
+	
+	
+Capital	
+Maisha	
+40 000	
+         
+	
+ 	
+	
+Shiban	
+30 000	
+70 000
+	
+The details of the dissolution were as follows:
+	
+(i)	 As part of the settlement, Maisha would take the vehicle at an agreed valuation of £6 500.
+	
+(ii)	 A cheque for sale of the premises, £100 000, was received from City Developments.
+	
+(iii)	 A cheque was received for £25 000 for all other assets.
+	
+(iv)	 Creditors were paid £27 000 in full settlement.
+	
+(v)	 Dissolution expenses were £700.
+
+
+--- Page Break ---
+
+H33191A	
+
+
+Turn over
+	
+Required:
+	
+(a)	 State the provisions of the Partnership Act which would apply in the absence of a partnership 
+agreement.
+(6)
+	
+(b)	 Prepare for the dissolution of the partnership, the:
+	
+	
+l	
+realisation account
+	
+	
+l	
+bank account
+	
+	
+l	
+capital accounts of Maisha and Shiban.
+(22)
+	
+(c)	 Evaluate the need for a Partnership Agreement when trading as a partnership. 
+(4)
+(Total 32 marks)
+Answer space for question 4 is on pages 20 to 23 of the question paper.
+
+
+--- Page Break ---
+
+H33191A	
+10	
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. 	 Faraz manufactures two products: the Standard and the Classic. The following information relates 
+to the manufacture and sale of the Standard for December 2008.
+	
+(i)	 Raw materials used:
+	
+	
+l	
+400 kilos @ £9.60 per kilo list price
+	
+	
+l	
+Trade discount received 12.5% 
+	
+(ii)	 Labour costs:
+	
+	
+l	
+280 hours @ £7 per hour
+	
+	
+l	
+30 hours @ time and a half
+	
+	
+l	
+Bonus payment of £215
+	
+(iii)	Overheads:
+	
+	
+	
+£
+	
+	
+Premises rent	
+4 000
+	
+	
+Supervision and management	
+1 800
+	
+	
+Electricity	
+800
+	
+	
+Depreciation	
+1 600
+	
+	
+Additional information:
+	
+	
+	
+Standard	
+Classic	
+Administration
+	
+	
+Employees (Number)	
+2	
+4	
+2
+	
+	
+Area occupied (Sq m)	
+400	
+200	
+200
+	
+	
+Value of equipment (£)	
+ 1 000	
+2 000	
+5 000
+	
+	
+Capacity (Kwh)	
+ 20	
+30	
+30
+	
+	
+	Total administration costs are re-allocated on the basis of 60% Standard and 40% Classic.
+	
+(iv)	All units of Standard manufactured in December were sold in the month.
+	
+(v)	 1 150 units of Standard were sold in December at a price of £12 per unit.
+	
+Required:
+	
+(a)	 l	
+Distinguish between allocation and apportionment of overheads.
+	
+	
+l	
+State two reasons why overheads are fixed costs or have a large fixed cost element.
+(8)
+	
+(b)	 Calculate, for the month of December 2008:
+	
+	
+l	
+Overhead cost of manufacturing the Standard.
+	
+	
+l	
+Total cost of manufacturing one unit of Standard.
+	
+	
+l	
+Percentage profit margin on one unit of Standard.
+(20)
+	
+(c)	 Evaluate the use of apportionment of overheads in product costing.
+(4)
+(Total 32 marks)
+Answer space for question 5 is on pages 24 to 27 of the question paper.
+
+
+--- Page Break ---
+
+H33191A	
+11
+
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. 	 The following information relating to the month of December 2008 was extracted from the books 
+of Mafruda:
+	
+	
+	
+£
+	
+	Debtors at 1 December	
+9 240
+	
+Creditors at 1 December	
+10 450
+	
+Stock at 1 December	
+22 600
+	
+Sales on credit	
+89 710
+	
+Sales for cash	
+15 390
+	
+Sales returns	
+1 400
+	
+Cheques received from debtors	
+78 580
+	
+Discount allowed	
+2 450
+	
+Discount received	
+1 100
+	
+Bad debts written off	
+3 200
+	
+Cheques paid to creditors	
+64 500
+	
+Debtors at 31 December	
+?
+	
+Creditors at 31 December	
+11 900
+	
+Stock at 31 December	
+20 850
+	
+Required:
+	
+(a)	 State three reasons why a business might offer cash discount to customers. 
+(6)
+ 	
+(b)	 Calculate the purchases for the month of December 2008. 
+(6)
+	
+(c)	 Prepare, for the month of December 2008, the:
+	
+	
+l	
+sales ledger control account
+	
+	
+l	
+trading account.
+(16)
+	
+Mafruda recently stated that control accounts ensure that the ledgers are always correct and without 
+errors.
+	
+(d)	 Evaluate this statement. 
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 28 to 32 of the question paper.
+
+
+--- Page Break ---
+
+H33191A	
+12	
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.	 On 1 January 2008 the following balances remained in the books of Gibbs Wholesalers: 
+	
+	
+	
+	
+	
+	
+ £
+	
+	
+Electricity	
+164 Cr
+	
+	
+Buildings insurance	
+160 Dr
+	
+	
+Rent receivable	
+200 Cr
+	
+During the year ended 31 December 2008 the following bank transactions were recorded:
+	
+(i)	 Electricity
+	
+	
+	
+	2 April	
+Payment	
+£462
+	
+	
+	
+	1 May	
+Receipt for refund	
+£38
+	
+	
+	
+	9 October	 Payment	
+£365
+	
+On 31 December 2008 it was estimated that £175 was due for electricity used.
+	
+(ii)	 On 1 April 2008 a payment of £360 was made for 12 months buildings insurance to 31 March 
+2009.
+	
+(iii)	Ten monthly payments of £200 were received from the tenant. The rent of the premises is £200 
+per month. 
+	
+Required:
+	
+(a)	 Distinguish between an error of commission and an error of principle, giving an example of 
+each type.
+(8)
+	
+(b)	 Prepare the following ledger accounts for the year ended 31 December 2008, showing the 
+transfers to the profit and loss account and the balances brought down. 
+	
+	
+l	
+Electricity account.
+	
+	
+l	
+Buildings insurance account.
+	
+	
+l	
+Rent receivable account.
+(20)
+	
+(c)	 Evaluate the role of the accruals (matching) concept in calculating the profitability of a 
+business. 
+(4)
+(Total 32 marks)
+Answer space for question 7 is on pages 33 to 36 of the question paper.

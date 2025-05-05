@@ -1,0 +1,790 @@
+Turn over
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 2 – Corporate and Management Accounting
+Tuesday 20 January 2009 – Morning
+Source booklet for use with Questions  
+1 to 7.
+Do not return the insert with the 
+question paper.
+Printer’s Log. No.
+M33192B
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2009 Edexcel Limited.
+W850/6002/57570   4/4/4/4/
+*M33192B*
+
+
+--- Page Break ---
+
+M33192B	
+	
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1.	 Standard Bicycles plc produces bicycles at its factory. The bicycles are then delivered to Standard 
+Bicycles plc shops, where they are sold to customers. 
+	
+At 31 December 2008, the following were some of the balances in the books.
+Debit
+£
+Credit
+£
+Bad debts 
+2 250
+Corporation tax provision
+210 000
+11% Debentures 2014
+500 000
+Direct labour
+724 000
+Direct materials
+520 000
+Directors’ salaries
+196 000
+Factory buildings at cost
+6 420 000
+Factory canteen sales
+75 000
+Factory overheads
+375 000
+Interest on bank balance
+3 850
+Motor lorries at cost
+475 000
+Rent for shop premises
+295 000
+Rent received
+22 770
+Sales
+4 255 000
+Sales promotions and advertising
+58 000
+Stock of finished goods at 1 January 2008
+115 000
+Wages
+686 000
+Warehouse expenses
+188 000
+	
+Additional information at 31 December 2008
+	
+l	
+Stock of finished goods £99 000.
+	
+l	
+Directors’ salaries are broken down as follows:
+Finance director
+ £65 000
+Sales director
+ £68 000
+Production director
+ £63 000
+	
+l	
+Rent for shop premises includes £4 200 paid in advance.
+	
+l	
+The Rent received account has £2 070 owing on rented office space.
+ 
+l	
+Wages include:
+Office staff
+ £222 000
+Transport staff
+ £176 000
+Shop staff
+ £288 000
+
+
+--- Page Break ---
+
+M33192B	
+
+
+Turn over
+ 
+l	
+Assuming a nil residual value in each case and using the straight line method: 
+the factory building is to be depreciated over a 30 year life; 
+motor lorries are to be depreciated over a 5 year life.
+	
+Required:
+	
+(a)	 Prepare the profit and loss account for Standard Bicycles plc for the year ended 31 December 
+2008, using format 1 as required by the Companies Act 1985.
+	
+	
+You must show all workings clearly labelled in arriving at your figures to be shown in the 
+published profit and loss account.
+	
+	
+Note:
+ 
+ 
+l	
+It is not necessary to show any of the notes required by the Companies Act 1985.
+ 
+ 
+l	
+Ignore any exemptions permitted for small and medium sized companies.
+(40)
+	
+As part of their business plan, the directors of Standard Bicycles plc intend to reorganise and 
+restructure its workforce in the next financial year, ending 31 December 2009. The reorganising 
+and restructuring of the workforce will be treated in the accounts for the year ending 31 December 
+2009 as an Exceptional Item.
+	
+(b)	 Evaluate the usefulness of this treatment to the users of the published accounts of Standard 
+Bicycles plc.
+(12)
+ 
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 6 of the question paper.
+
+
+--- Page Break ---
+
+M33192B	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.	 The balance sheets of Sunset plc as at 1 January 2008 and 31 December 2008 were as follows:
+1 January 2008
+£
+31 December 2008
+£
+Fixed assets
+ 
+Buildings
+2 300 000 
+2 160 000
+Machinery
+400 000
+390 000
+Furniture
+100 000
+80 000
+Investments
+200 000
+200 000
+3 000 000
+2 830 000
+Current assets
+Stock
+85 000
+97 000
+Debtors
+66 000
+81 000
+Bank
+---------
+27 000
+Cash
+12 000
+18 000 
+ 
+163 000
+223 000
+Current liabilities
+Creditors
+(74 000)
+(54 000)
+Taxation due
+(26 000)
+----------
+Proposed dividends
+(35 000) 
+(15 000)
+Bank overdraft
+(11 000)
+---------- 
+(146 000)
+(69 000)
+Long term liabilities
+15% Bank Loan
+(750 000)
+(850 000)
+_______
+_______
+Net assets
+2 267 000
+2 134 000
+Share capital and reserves
+Ordinary shares of £1 each
+1 750 000
+1 850 000
+10% Preference shares of £1 
+each
+250 000
+250 000
+General reserve
+30 000
+30 000
+Profit and loss reserve
+237 000
+4 000
+Total capital and reserves
+2 267 000
+2 134 000
+
+
+--- Page Break ---
+
+M33192B	
+5
+
+Turn over
+	
+The profit and loss appropriation account for the year ended 31 December 2008 was as follows.
+£
+Net operating profit/(loss)
+(178 000)
+Taxation
+-----------
+Loss after tax
+(178 000)
+Dividends
+(55 000)
+Retained earnings for year
+(233 000)
+Retained earnings brought forward
+237 000
+Retained earnings carried forward
+4 000
+	
+Additional information
+	
+(i)	 At 1 January 2008, dividends of £35 000 were owed to ordinary shareholders.
+	
+(ii)	 An issue of 100 000 £1 Ordinary shares was made on 30 June 2008. 
+On the same date, an additional £100 000 was borrowed from the bank.
+	
+(iii)	An interim dividend was paid to ordinary shareholders during July 2008.
+	
+(iv)	Preference shareholders have been paid in full for the year ended 31 December 2008.
+	
+(v)	 Interest on the overdraft for the year was £1 000.
+	
+(vi)	Included in the Net operating profit/(loss) figure are Dividends Received worth £20 000 from 
+an Investment in another company.
+	
+(vii)	On 27 December 2008, furniture costing £40 000 was purchased. No depreciation is to be 
+provided on this new furniture for the year ended 31 December 2008.
+	
+Required:
+	
+(a)	 A statement reconciling the Net operating profit/(loss) to the net cash flow from operating 
+activities for the year ended 31 December 2008.
+(14)
+	
+(b)	 A cash flow statement for the year ended 31 December 2008 in accordance with Financial 
+Reporting Standard (FRS) 1 Cash Flow Statements (revised).
+ (20)
+	
+(c)	 An analysis of the changes in bank and cash balances for the year ended 31 December 2008. 
+(6)
+	
+When the Cash Flow Statement is presented to the Board Meeting, the Marketing Director comments “We 
+should not be worried. Liquidity, not profitability, is important for the short term survival of the business”. 
+	
+(d)	 Evaluate this comment, with reference to Sunset plc.
+(12)
+(Total 52 marks)
+Answer space for question 2 is on pages 7 to 11 of the question paper.
+
+
+--- Page Break ---
+
+M33192B	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.	 Mrs Yeungs Cakes Limited (Ltd) will start production on 1 February 2009. The company will use 
+four machine types. Production involves each cake being processed by each of the four machine 
+types: 
+mixer,  oven,  decorator,  wrapper. 
+	
+The production capacity and the cost of each machine type is shown below.
+Machine
+Production Capacity
+(Cakes per hour)
+Cost per machine
+Mixer
+60
+£2 450
+Oven
+90
+£1 880
+Decorator
+30
+£1 630
+Wrapper
+120
+£2 740
+ 
+	
+The directors plan to have ALL the machines operating continuously for 24 hours a day, five days 
+a week.
+	
+Required:
+	
+(a)	 Calculate the minimum number of each machine type required to ensure continuous operation, 
+once production is underway. 
+(6)
+	
+The directors of Mrs Yeungs Cakes Ltd have a budget of £100 000, ALL of which they plan to 
+spend on the machinery.
+	
+Required:
+	
+(b)	 Calculate 
+	
+	
+(i)	 the number of each machine type to be purchased by the company.
+	
+	
+(ii)	 the amount to be spent on each machine type by the company. 
+(10)
+	
+The cakes are wrapped into packs of six.
+	
+Required:
+	
+(c)	 Prepare a production budget for Mrs Yeungs Cakes Ltd for the four weeks in February 2009. 
+The production budget should show:
+ 
+ 
+l	
+the number of packs of six cakes produced each week
+ 
+ 
+l	
+total production figure of packs of six cakes for the four week period.
+(10)
+ 
+
+
+--- Page Break ---
+
+M33192B	
+
+
+Turn over
+	
+The packs are delivered and all are sold to stores immediately for £0.90 per pack.
+	
+Required:
+	
+(d)	 Prepare a sales budget for Mrs Yeungs Cakes Ltd for the four weeks in February 2009. The 
+sales budget should show:
+ 
+ 
+l	
+the value of sales in pounds (£) for each of the four weeks
+ 
+ 
+l	
+a total sales figure in pounds (£) for the four week period.
+(6)
+	
+It is estimated that 75% of customers will buy on credit, and take 30 days or more to pay the amount 
+due. 
+	
+Required:
+	
+(e)	 Prepare a debtors budget for Mrs Yeungs Cakes Ltd for the four weeks in February 2009. The 
+debtors budget should show:
+ 
+ 
+l	
+the value of debtors in pounds (£) generated for each of the four weeks
+ 
+ 
+l	
+a total debtors figure for each week of the four week period.
+(8)
+	
+(f)	 Evaluate whether it would be useful for Mrs Yeungs Cakes Ltd also to prepare a cash budget 
+for the first four weeks of trading. 
+(12)
+ 
+(Total 52 marks)
+Answer space for question 3 is on pages 12 to 17 of the question paper.
+
+
+--- Page Break ---
+
+M33192B	
+	
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. 	 CoolShades Ltd produces curtains. A standard costing system is used to prepare the production 
+budget for the following month. The budget and actual figures for production for December 2008 
+are given below.
+Budget
+Actual
+Production (units)
+2 400
+2 400
+Direct Materials
+£79 200
+£85 800 
+Direct Labour
+£54 600
+£59 160
+ 
+ 
+l	
+Each curtain was budgeted to use 12 metres of material. 
+ 
+l	
+The budgeted price of material of £2.75 per metre was achieved.
+ 
+l	
+Each curtain was budgeted to use 3.5 hours of labour.
+ 
+l	
+The budgeted labour wage rate was £6.50 per hour, but an actual rate of £5.80 per hour was 
+paid.
+	
+Required:
+	
+(a)	 Calculate for the production of one curtain: 
+	
+	
+(i)	 the actual amount of material used
+	
+	
+(ii)	 the actual time taken. 
+(8) 
+	
+(b)	 Calculate for the month of December 2008:
+	
+	
+(i)	 the materials usage variance 
+	
+	
+(ii)	 the total material cost variance
+	
+	
+(iii)	the labour rate variance 
+	
+	
+(iv)	the labour efficiency variance
+ 	
+	
+(v)	 the total labour cost variance.
+(16)
+	
+The Production Manager of CoolShades Ltd has said, “If you decide to pay a low wage rate, the 
+business does not always benefit”.
+	
+(c)	 Evaluate this statement.
+(8)
+(Total 32 marks)
+Answer space for question 4 is on pages 18 to 21 of the question paper.
+
+
+--- Page Break ---
+
+M33192B	
+
+
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. 	 Himalaya Ltd produces cables for the telecommunications industry. It has been normal practice by 
+senior management to ask the accountant to value stock using both the marginal costing method 
+and the absorption costing method.
+	
+The following information is available for the year ended 31 December 2008.
+	
+Opening Stock	
+1 900 units  
+	
+Opening stock value	
+Marginal costing £41 800
+	
+	
+Absorption costing £60 800
+	
+Production	
+70 000 units per year
+	
+Semi-Variable costs	
+£325 000 fixed element per year plus £1.50 per unit 
+	
+Fixed overheads	
+£28 000 per month
+	
+Direct materials	
+£13 per unit 
+	
+Direct labour	
+2 hours work per unit at a wage rate of £4.75 per hour
+	
+Sales price	
+£45 per unit
+	
+Closing stock	
+2 150 units
+	
+Required:
+	
+(a)	 Prepare for management, two profit and loss statements for the year ended 31 December 2008, 
+using:
+	
+	
+(i)	 marginal costing stock valuation.
+	
+	
+(ii)	 absorption costing stock valuation. 
+(20)
+	
+A potential new customer is interested in buying the product, but is only prepared to offer £30 per 
+unit.
+	
+Required:
+	
+(b)	 Advise the management of Himalaya Ltd whether this offer should be accepted. 
+(4)
+	
+(c)	 Evaluate on behalf of the management of Himalaya Ltd which method of stock valuation, 
+marginal costing or absorption costing, should be used.
+(8)
+(Total 32 marks)
+Answer space for question 5 is on pages 22 to 25 of the question paper.
+
+
+--- Page Break ---
+
+M33192B	
+10	
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. 	 Multinational fast food chain Uncle Jacks plc agreed to purchase the smaller fast food chain Whistle 
+Stopz plc, on 5 January 2009. The directors of Uncle Jacks plc have agreed to take over all of 
+the assets and liabilities except debtors, cash and bank overdraft. The purchase price, including 
+goodwill, was agreed and for every Ordinary £2 share held in Whistle Stopz plc, each shareholder 
+would receive: 
+ 
+l	
+one £1 share in Uncle Jacks plc at a premium of £0.45 (the trading price is £1.45 a share).
+ 
+l	
+£0.65 cash. 
+	
+The balance sheet of Whistle Stopz plc as at 31 December 2008 is shown below:
+Fixed Assets
+£
+£
+£
+Buildings
+8 270 000
+Machinery
+700 000
+Fixtures and Fittings
+1 800 000
+Furniture
+400 000
+11 170 000
+Current Assets
+ 
+Stock
+135 000
+Debtors
+3 000
+Cash
+16 000
+154 000
+Current Liabilities
+Creditors
+(64 000)
+Overdraft
+(82 000)
+(146 000)
+Working capital
+8 000
+Long Term Loan
+(1 000 000)
+________ 
+Net Assets
+10 178 000
+Ordinary Shares of £2 each
+10 000 000
+Profit & Loss Reserve
+178 000
+Capital Employed
+10 178 000
+	
+Additional information: 
+	
+The assets of Whistle Stopz plc were revalued as follows before the takeover:
+ 
+l	
+Buildings to a current market value of £8 500 000
+ 
+l	
+Machinery to a value of £500 000
+ 
+l	
+Fixtures and fittings to a value of £1 600 000
+ 
+l	
+Furniture to a value of £300 000
+ 
+l	
+Stock to a net realisable value of £75 000.
+
+
+--- Page Break ---
+
+M33192B	
+11
+
+Turn over
+	
+Required:
+	
+(a)	 Prepare the Journal entries to close the following accounts in the books of Whistle Stopz plc, 
+after any revaluations have taken place.
+	
+	
+(i)	 Machinery.
+	
+	
+(ii)	 Creditors.
+	
+	
+(iii)	Ordinary Shares of £2. 
+ (6)
+	
+(b)	 Calculate the purchase price paid by Uncle Jacks plc for Whistle Stopz plc.
+(8)
+	
+(c)	 Calculate the goodwill paid by Uncle Jacks plc in the purchase of Whistle Stopz plc.
+ (10)
+	
+KC Jones bought three hundred (300) £2 shares in Whistle Stopz plc in the stock market for £2.50 
+each, one year ago. The shares are now trading on the stock market at £2.03.
+	
+(d)	 Evaluate the merger on behalf of KC Jones.  
+ (8)
+(Total 32 marks)
+Answer space for question 6 is on pages 26 to 29 of the question paper.
+
+
+--- Page Break ---
+
+M33192B	
+12	
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.	 As the Finance Director of Arachne Airlines plc, you addressed a shareholders’ meeting one year 
+ago, hoping to raise finance for a proposed route to a new destination. To persuade the shareholders 
+to invest further funds, a budget break-even chart was used (see graph) in the presentation. The 
+budget predicted passenger numbers of 120 000 for the year.
+0	
+10	
+20	
+30	
+40	
+50	
+60	
+70	
+80	
+90	
+100	 110	 120	 130
+Passengers (thousands)
+8
+7
+6
+5
+4
+3
+2
+1
+£
+Sales
+Revenue
+(£ million)
+Sales 
+Revenue
+Total Costs
+Fixed Costs
+	
+After one year of operation, the actual figures were as follows:
+Fixed Costs
+£1 400 000
+Variable costs per passenger
+£40
+Selling price per passenger
+£55
+Number of passengers
+130 000
+
+
+--- Page Break ---
+
+M33192B	
+13
+	
+Required:
+	
+(a)	 Draw the actual figures on the blank break-even chart in the answer booklet, for passenger 
+numbers between 0 and 130 000:
+ 	
+	
+l	
+fixed costs
+	
+	
+l	
+total costs
+	
+	
+l	
+sales revenue. 
+(4)
+	
+	
+Indicate the following on your break-even chart in the answer booklet for the actual figures:
+ 	
+	
+l	
+break even point, in pounds (£) and in passenger numbers
+	
+	
+l	
+margin of safety in passenger numbers 
+	
+	
+l	
+angle of incidence.
+(8)
+	
+	
+Shade in the actual area of profit. 
+(2)
+	
+(b)	 Calculate, showing all workings, the
+ 	
+	
+l	
+actual profit
+	
+	
+l	
+actual number of passengers required to break even.
+  (10)
+	
+(c)	 Evaluate the financial success of the route to the new destination by comparing the actual and 
+budget figures.
+(8)
+(Total 32 marks)
+Answer space for question 7 is on pages 30 to 33 of the question paper.
+
+
+
+--- Page Break ---
+
+M33192B	
+14	
+BLANK PAGE

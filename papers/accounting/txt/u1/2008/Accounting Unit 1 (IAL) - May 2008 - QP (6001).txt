@@ -1,0 +1,987 @@
+Turn over
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 – The Accounting System and Costing
+Monday 2 June 2008 – Afternoon
+Source booklet for use with Questions 
+1 to 7.
+Printer’s Log. No.
+N30584A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2008 Edexcel Limited.
+W850/6001/57570   4/4/4/4
+*N30584A*
+Do not return the insert with the 
+question paper.
+
+
+--- Page Break ---
+
+N30584A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Speedy Cycles sells and repairs motor cycles. The business has three departments: motor cycle 
+sales, parts sales and motor cycle repairs. The following balances were extracted from the accounts 
+on 30 April 2008:
+ 
+Sales:  
+£
+ 
+ 
+Motor cycle sales 
+311 000
+ 
+ 
+Parts sales 
+160 000
+ 
+ 
+Motor cycle repairs 
+68 400
+ 
+Purchases: 
+ 
+ 
+Motor cycles 
+223 500
+ 
+ 
+Parts  
+170 500
+ 
+ 
+Motor cycle repair 
+8 900
+ 
+Stock at 1 May 2007:
+ 
+ 
+Motor cycles 
+64 000
+ 
+ 
+Parts  
+65 200
+ 
+Wages and commission:
+ 
+ 
+Motor cycle sales commission 
+32 000
+ 
+ 
+Parts wages 
+17 050
+ 
+ 
+Motor cycle repairs  
+21 200
+ 
+Management salaries 
+15 400
+ 
+Lease on premises (10 year) 
+30 000
+ 
+Heat and light 
+6 700
+ 
+Debtors:
+ 
+ 
+Motor cycle sales 
+50 000
+ 
+ 
+Motor cycle repairs 
+6 000
+ 
+Creditors 
+58 350
+ 
+Bank overdraft 
+37 100
+ 
+Capital 
+125 000
+ 
+Drawings 
+19 500
+ 
+Fixtures and equipment (at cost) 
+40 000
+ 
+Fixtures and equipment– provision for depreciation 
+12 000
+ 
+Repair department: loose tools (at cost) 
+5 900
+ 
+Repair department: loose tools – provision for depreciation 
+4 000
+ 
+Additional information:
+ 
+(i) The stock of parts on 1 May 2007 included obsolete parts which cost £9 000. On 1 May 2007 
+these were revalued to a net realisable value of £800.
+ 
+(ii) During the year parts costing £14 500 were transferred from the parts sales department to the 
+motor cycle repairs department for the repair of customers’ motor cycles.
+ 
+(iii) Stock at 30 April 2008: motor cycles £61 500: parts £63 000.
+ 
+(iv) Parts department wages owing on 30 April 2008 were £450.
+
+
+--- Page Break ---
+
+N30584A 
+3
+ 
+Turn over
+ 
+(v) Depreciation is charged on fixtures and equipment at the rate of 15% on cost using the straight 
+line method.
+ 
+(vi) Repair department: loose tools were valued at £1 500 on 30 April 2008.
+ 
+(vii) A provision for doubtful debts is to be created at the rate of 5% of debtors.
+ 
+(viii) All costs which cannot be allocated to departments are to be apportioned on the most appropriate 
+basis.
+ 
+Further information:
+ 
+ 
+ 
+Motor cycle sales 
+Parts sales 
+  Motor cycle repairs
+ 
+Staff (number) 
+3 
+2 
+2
+ 
+Area occupied (sq m) 
+300 
+300 
+400
+ 
+Fixtures and equipment (£000)  
+ 10 
+12 
+18
+ 
+Required:
+ 
+(a) Prepare the: 
+ 
+ 
+z 
+departmental trading and profit and loss account of Speedy Cycles for the year ended
+30 April 2008, showing clearly the net profit or net loss of each department. (You are 
+advised to use columnar format. A total column is not required.)
+ 
+ 
+z  balance sheet of Speedy Cycles as at 30 April 2008.
+(32)
+ 
+(b) Calculate for the Parts sales department the:
+ 
+ 
+z 
+‘mark up’ on cost
+ 
+ 
+z 
+rate of stock turnover.
+(8)
+ 
+You are advised that the averages for this type of business are:
+ 
+z 
+‘mark up’ on cost 
+25%
+ 
+z 
+rate of stock turnover 8 times
+ 
+(c) Comment upon the two ratios calculated in (b).
+(4)
+ 
+The owners of Speedy Cycles have been considering closing the Parts sales department of the 
+business.
+ 
+(d) Evaluate whether the Parts sales department should be closed. 
+ 
+ 
+ 
+(8)
+ 
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+N30584A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. Aneesa is in business as a sole trader retailing satellite navigation units for cars. Aneesa has not kept 
+a full set of double entry accounts.
+ 
+Additional information for the year ended 30 April 2008:
+ 
+(i) Most of the sales are for cash. Where sales have been made on credit, these have been invoiced 
+to customers.
+ 
+(ii) On 1 May 2007 Aneesa had a stock of 80 satellite navigation units in her shop which had 
+cost £100 each. During the year she purchased stocks of navigation units on 1 May, 1 August, 
+1 November and 1 February on credit. Aneesa calculates the value of her stock on the Last In 
+First Out (L.I.F.O.) basis. The following information is available:
+      
+ 
+Purchases 
+Sales
+ 
+ 
+1 May–31 July  
+  90 units @ £110 
+120 units
+ 
+ 
+1 August–31 October 
+270 units @ £120 
+150 units
+ 
+ 
+1 November–31 January 
+150 units @ £130 
+180 units
+ 
+ 
+1 February–30 April 
+120 units @ £140 
+150 units
+ 
+(iii) Sales are made at the rate of £200 per satellite navigation unit sold.
+ 
+(iv) During the year Aneesa was given a £1 200 discount from suppliers for prompt payment.
+ 
+(v) The following payments were made in cash in each of the 52 weeks of the year from the cash 
+till.
+  
+ 
+ 
+£
+ 
+ 
+Rent of shop 
+100
+ 
+ 
+Sales assistant’s wages 
+250 plus bonus of 2% of sales
+ 
+ 
+Drawings 
+  80
+ 
+(vi) After deducting the cash expenditure in (v) above, all cash takings had been paid into the bank. 
+The following analysis of the bank account is available:
+  
+ 
+ 
+£
+ 
+ 
+Receipts
+ 
+ 
+Cash sales 
+75 000
+ 
+ 
+Credit sales banked 
+19 640
+ 
+ 
+Payments
+ 
+ 
+Telephone and internet 
+890
+ 
+ 
+Electricity 
+315
+ 
+ 
+Sundry expenses 
+3 720
+ 
+ 
+Suppliers of goods 
+69 850 
+ 
+ 
+Shop fixtures  
+900
+
+
+--- Page Break ---
+
+N30584A 
+5
+ 
+Turn over
+ 
+(vii) Other assets and liabilities were valued as follows:
+ 
+ 
+ 
+1 May 2007 
+30 April 2008
+ 
+ 
+ 
+£ 
+£
+ 
+ 
+Shop fixtures 
+11 000 
+10 500
+ 
+ 
+Telephone and internet due 
+     130 
+     210
+ 
+ 
+Electricity prepaid 
+       80 
+       95
+ 
+ 
+Sundry expenses due 
+     450 
+     630
+ 
+ 
+Sundry expenses prepaid 
+       – 
+     160
+ 
+ 
+Trade debtors 
+  3 400 
+       ?
+ 
+ 
+Trade creditors 
+  5 350 
+       ?
+ 
+Required:
+ 
+(a) Calculate the value of the closing stock at 30 April 2008 using the Last In First Out (L.I.F.O.) 
+perpetual valuation method.
+(10)
+ 
+(b) Prepare for Aneesa the trading and profit and loss account for the year ended 30 April 2008.
+(18)
+ 
+(c) Calculate at 30 April 2008 the value of the:
+ 
+ 
+z 
+trade debtors
+ 
+ 
+z 
+trade creditors.
+(8)
+ 
+Aneesa depreciates her shop fixtures by the revaluation method each year.
+ 
+(d)  Discuss the alternative methods of depreciation available to Aneesa when calculating the value 
+of her shop fixtures at the end of each year.
+(8)
+ 
+(e) Evaluate the decision of Aneesa not to keep a full set of double entry accounts.
+(8)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 13 of the question paper.
+
+
+--- Page Break ---
+
+N30584A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. Tofel owns a manufacturing business producing a single product. The following balances were 
+extracted from the accounts on 30 April 2008.
+ 
+ 
+ 
+ 
+£
+ 
+ 
+Purchases of raw material 
+311 000
+ 
+ 
+Stock at 1 May 2007: raw material 
+  39 000
+ 
+ 
+ 
+work in progress 
+  85 000
+ 
+ 
+Manufacturing wages  
+296 000
+ 
+ 
+Manufacturing salaries 
+247 000
+ 
+ 
+Rent, rates and power  
+  48 000
+ 
+ 
+Plant at cost 
+ 
+200 000
+ 
+ 
+Provision for depreciation on plant 
+  60 000
+ 
+ 
+Sundry manufacturing overheads 
+  73 000
+ 
+ 
+Direct expenses 
+ 
+  54 000
+ 
+Additional information:
+ 
+(i) Stocks at 30 April 2008 were: raw material £42 500, work in progress £91 500.
+ 
+(ii) Plant and equipment is depreciated at the rate of 25% per annum using the diminishing balance 
+method.
+ 
+(iii) The factory has two production departments: machining and assembly. At the start of the 
+year the manufacturing overheads were to be recovered on the basis of direct labour hours, 
+at the rate of £15 per hour for the machining department and £10 per hour for the assembly 
+department. The number of hours worked in the two departments during the year were forecast 
+as follows.
+ 
+ 
+ 
+Machining  
+Assembly
+ 
+ 
+ 
+department 
+ department
+ 
+ 
+Direct labour hours 
+    12 000 
+26 000   
+ 
+ 
+Machining hours 
+     8 000 
+–
+ 
+Required:
+ 
+(a) Distinguish between direct expenses and overhead costs.
+(8)
+ 
+(b) Prepare the manufacturing account of Tofel for the year ended 30 April 2008.
+(12)
+ 
+(c) Calculate the total over-recovery or under-recovery of overheads for the year ended
+30 April 2008. 
+(10)
+
+
+--- Page Break ---
+
+N30584A 
+7
+ 
+Turn over
+ 
+During the year, Tofel had prepared the following quotation for a customer, Jaz Ltd:
+ 
+ 
+ 
+ 
+£
+ 
+Raw materials  
+ 
+ 7 500
+ 
+Direct labour: machining 
+750 hours @ £5 per hour 
+ 3 750
+ 
+ 
+assembly 
+500 hours @ £9 per hour 
+ 4 500
+ 
+Manufacturing overheads:
+ 
+ 
+machining 
+750 hours @ £15 per hour 
+11 250
+ 
+ 
+assembly 
+500 hours @ £10 per hour 
+  5 000
+ 
+ 
+ 
+ 
+32 000
+ 
+Profit margin  
+ 
+  8 000
+ 
+Fixed price to customer 
+ 
+40 000
+ 
+The quotation was accepted by Jaz Ltd and the order was manufactured and delivered during the 
+year. The following were the actual costs incurred by Tofel in completing the order to Jaz Ltd:
+ 
+Raw materials  
+£11 950
+ 
+Direct labour: machining 
+550 hours
+ 
+ 
+assembly 
+700 hours  
+ 
+Required:
+ 
+(d) Calculate, for the order completed for Jaz Ltd, the: 
+ 
+ 
+z 
+total cost to Tofel of completing the order
+ 
+ 
+z 
+actual profit margin on the order.
+(14)
+ 
+Tofel currently uses overhead recovery rates based upon direct labour hours.
+ 
+(e) Evaluate the replacement of direct labour hours by machine hours as a more appropriate basis 
+for the recovery of overheads.
+(8)
+(Total 52 marks)
+Answer space for question 3 is on pages 14 to 18 of the question paper.
+
+
+--- Page Break ---
+
+N30584A 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4.  The International Friendship Club prepares final accounts on 30 April each year. 
+ 
+The following information is available for the year ended 30 April 2008:
+ 
+z 
+During the year the club had 200 senior members paying subscriptions of £150 per year each 
+and 50 junior members paying £50 per year each.
+ 
+z 
+On 1 May 2007 subscriptions in arrears were £150 and in advance were £1 200.
+ 
+z 
+On 30 April 2008 10 senior members and 2 junior members had paid in advance for the 
+following year but 2 senior members were in arrears for the current year.
+ 
+z 
+There were no bad debts during the year.
+ 
+z 
+The club runs a bar for which the accounts record
+ 
+ 
+ 
+Sales 
+£14 700
+ 
+ 
+ 
+Purchases 
+£11 850
+ 
+ 
+ 
+Stock 1 May 2007  
+  £3 100
+ 
+ 
+ 
+Wages 
+  £5 020
+ 
+z 
+The club ‘marks up’ stock for resale by 20%.
+ 
+z 
+The club does not carry out a stocktake at the end of the year but calculates the closing stock 
+value from the trading account.
+ 
+Required:
+ 
+The club has been considering offering five-year membership for senior members costing £500.
+ 
+(a) Explain the accounting treatment of five-year membership in the income and expenditure 
+account and the balance sheet of the club.
+(8)
+ 
+(b) Prepare for the year ended 30 April 2008 the:
+ 
+ 
+(i) subscriptions account showing clearly the subscriptions banked and the value transferred 
+to the income and expenditure account.
+(12)
+ 
+ 
+(ii) bar trading account showing the profit or loss on the bar.
+(8)
+ 
+(c) Evaluate the practice of the club not to carry out a stock take at the end of each year but to 
+calculate the closing stock value from the trading account. 
+(4)
+(Total 32 marks)
+Answer space for question 4 is on pages 19 to 22 of the question paper.
+
+
+--- Page Break ---
+
+N30584A 
+9
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5.  Ramiz is in business as an electrician carrying out electrical installations in customers’ homes.
+ 
+The following information is available for the year ended 30 April 2008:
+ 
+z 
+He charges £20 per hour for work carried out in customers’ homes.
+ 
+z 
+He works 50 hours per week for 50 weeks per year.
+ 
+z 
+It is estimated that he spends 60% of his working time doing work that can be charged to 
+customers.
+ 
+z 
+The overheads of the business are the operating costs of a vehicle at £2 500 per year and 
+insurance at £800 per year.
+ 
+Required:
+ 
+(a) Explain two characteristics of job costing.
+(8)
+ 
+(b) Calculate the profit for Ramiz’s business for the year ended 30 April 2008.
+ 
+(8)
+ 
+Ramiz is considering a new approach to operating his electrical installation business. 
+ 
+z 
+Ramiz would manage the business and would prepare customer quotations. None of his 
+working time would be charged to customers.
+ 
+z 
+He would employ two electricians at £1 000 per month each, plus a 10% government 
+employment tax.
+ 
+z 
+Each electrician would work 40 hours per week for 50 weeks per year. It is estimated that 80% 
+of this time would be charged to customers at a rate of £20 per hour.
+ 
+z 
+In addition to the vehicle used by Ramiz, each of the two electricians would be supplied with 
+a vehicle costing £2 500 per year.
+ 
+z 
+It is estimated that the cost of insurance would rise to a total of £2 000.
+ 
+(c) Calculate what the profit for Ramiz’s business would be if he were to use this new approach.
+(12)
+ 
+(d) Evaluate whether Ramiz should use this new approach in his electrical installation business.
+(4)
+(Total 32 marks)
+Answer space for question 5 is on pages 23 to 26 of the question paper.
+ 
+Turn over
+
+
+--- Page Break ---
+
+N30584A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6.  Sadia is a general trader buying and selling goods on credit. During the year ended 31 March 2008 
+the business was expanded by Sadia with the following three business changes:
+ 
+z 
+The existing showroom was redecorated and repaired at a cost of £12 000.
+ 
+z 
+The building next to the showroom was purchased by Sadia at a cost of £80 000 and a further 
+£8 000 was spent on changes to make it into a warehouse.
+ 
+z 
+The business computer system was repaired and replacement microchips were installed in each 
+computer at a total cost of £5 000.
+ 
+The above expansion was financed by Sadia from her business bank balance.
+ 
+One of Sadia’s major stock suppliers has just advised her that he will not supply further goods until 
+his account is paid. Sadia is finding it increasingly difficult to pay her creditors on time. 
+ 
+The following balances were available from the accounts on 31 March 2007 and 31 March 
+2008
+ 
+ 
+ 
+31 March 2007 
+31 March 2008
+ 
+ 
+ 
+£ 
+£
+ 
+Net profit for the year 
+10 000 
+50 000
+ 
+Debtors 
+ 
+60 000 
+42 000
+ 
+Capital 
+ 
+100 000 
+100 000
+ 
+Bank 
+ 
+45 000 
+     –
+ 
+Bank overdraft 
+ – 
+30 000
+ 
+Creditors 
+ 
+90 000 
+75 000
+ 
+Stock 
+ 
+84 000 
+84 000
+ 
+Long term loan 
+30 000 
+20 000
+ 
+Required:
+ 
+(a) (i) Distinguish between capital expenditure and revenue expenditure. 
+(4)
+ 
+ 
+(ii) Explain, giving your reasons, whether each of the three business changes is capital 
+expenditure or revenue expenditure.
+(6)
+  
+(b) (i) Calculate for Sadia the following ratios for both 31 March 2007 and 31 March 2008. 
+ 
+ 
+ 
+z 
+Return on capital employed.
+ 
+ 
+ 
+z 
+Current ratio.
+ 
+ 
+ 
+z 
+Liquid (acid test) ratio.
+(12)
+ 
+ 
+(ii) Comment upon the sufficiency of the above ratios.
+(6)
+
+
+--- Page Break ---
+
+N30584A 
+11
+ 
+(c) Evaluate the decision taken by Sadia to pay for the business expansion from her bank 
+balance.
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 27 to 29 of the question paper.
+ 
+Turn over
+
+
+--- Page Break ---
+
+N30584A 
+12 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. Farha is in business trading in goods on credit. Coldstream Traders, a debtor, has received the 
+following statement from Farha.  
+ 
+ 
+Coldstream Traders
+ 
+ 
+ 
+£ 
+£
+ 
+ 
+Balance b/d 
+2 500 
+Bank 
+2 450
+ 
+ 
+Discount allowed 
+     50
+ 
+ 
+Office expenses  
+   600
+ 
+ 
+Sales 
+4 300 
+Balance c/d 
+5 000
+ 
+ 
+ 
+7 450 
+ 
+7 450
+ 
+The following errors were discovered in the books of Farha.
+ 
+(i) A payment by Coldstream Traders of £2 450 with £50 discount allowed had been correctly 
+recorded in the cash book of Farha, but incorrectly recorded in Coldstream Traders account.
+ 
+(ii) A cash payment for office expenses by Farha had been entered into the account of Coldstream 
+Traders.
+ 
+(iii) Sales of £3 400 had been correctly entered in the sales account of Farha. This transaction had 
+been recorded as £4 300 in the account of Coldstream Traders.
+ 
+(iv) The sale of £450 worth of goods to Coldstream Traders had been entered in error into the 
+account of R. Crossland.
+ 
+(v) A further sale of goods to Coldstream Traders of £1 750 had not been recorded in the books of 
+Farha.
+ 
+Required:
+ 
+(a) Prepare for Farha the:
+ 
+ 
+(i) journal entries correcting the errors
+(10)
+ 
+ 
+(ii) corrected ledger account of Coldstream Traders.
+(10)
+ 
+(b) (i) Distinguish between errors of commission and errors of principle.
+(4)
+ 
+ 
+(ii) From the ledger account of Coldstream Traders, identify one example of an error of 
+commission and one example of an error of principle.
+(4)
+
+
+--- Page Break ---
+
+N30584A 
+13
+ 
+(c) Evaluate the role of the trial balance in ensuring the accuracy of the books of account. 
+(4)
+(Total 32 marks)
+Answer space for question 7 is on pages 30 to 33 of the question paper.
+ 
+
+
+--- Page Break ---
+
+N30584A 
+14 
+BLANK PAGE
+
+
+--- Page Break ---
+
+N30584A 
+15
+BLANK PAGE
+ 
+
+
+--- Page Break ---
+
+N30584A 
+16 
+BLANK PAGE

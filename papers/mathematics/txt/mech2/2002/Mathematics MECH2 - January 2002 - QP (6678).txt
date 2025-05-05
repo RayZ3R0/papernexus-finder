@@ -1,0 +1,405 @@
+Paper Reference(s) 
+6678 
+Edexcel GCE 
+Mechanics M2 
+(New Syllabus) 
+Advanced/Advanced Subsidiary 
+Friday 25 January 2002 −  Morning 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae (Lilac) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M2), the paper reference (6678), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. Pages 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+N6989 
+83019/R6678 3/3/3/3/3/8100 
+ 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2001 Edexcel 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 1. 
+A particle of mass 4 kg is moving in a straight horizontal line. There is a constant 
+resistive force of magnitude R newtons. The speed of the particle is reduced from 
+25 m s−1 to rest over a distance of 200 m.  
+ 
+Use the work-energy principle to calculate the value of R. 
+(4)       
+ 
+2. 
+A van of mass 1500 kg is driving up a straight road inclined at an angle α to the 
+horizontal, where sin α = 12
+1 . The resistance to motion due to non-gravitational 
+forces is modelled as a constant force of magnitude 1000 N. 
+ 
+Given that initially the speed of the van is 30 m s−1 and that the van’s engine is 
+working at a rate of 60 kW, 
+ 
+ (a) calculate the magnitude of the initial decleration of the van. 
+(4) 
+When travelling up the same hill, the rate of working of the van’s engine is 
+increased to 80 kW. Using the same model for the resistance due to non-
+gravitational forces, 
+ 
+(b) calculate in m s−1 the constant speed which can be sustained by the van at this 
+rate of working. 
+(4) 
+(c) Give one reason why the use of this model for resistance may mean that your 
+answer to part (b) is too high. 
+ (1) 
+ 
+ 
+3.  
+A particle P of mass 0.3 kg is moving under the action of a single force 
+F newtons. At time t seconds the velocity of P, v m s−1, is given by 
+ 
+v = 3t2i + (6t – 4)j. 
+ 
+(a) Calculate, to 3 significant figures, the magnitude of F when t = 2.  
+(5) 
+When t = 0, P is at the point A. The position vector of A with respect to a fixed 
+origin O is (3i – 4j) m. When t = 4, P is at the point B.  
+ 
+(b) Find the position vector of B. 
+(5) 
+  
+ 
+N6993 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N6993 
+3 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+W 
+ 
+Z 
+ 
+ 
+ 
+ 
+ 
+2a 
+       12a         N  • 
+ 
+•   O 
+ 
+ 
+ 
+ 
+C 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+Y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8a 
+ 
+ 
+Figure 1 shows a template made by removing a square WXYZ from a uniform 
+triangular lamina ABC. The lamina is isosceles with CA = CB and AB = 12a. The 
+mid-point of AB is N and NC = 8a. The centre O of the square lies on NC and 
+ON = 2a. The sides WX and ZY are parallel to AB and WZ = 2a. The centre of 
+mass of the template is at G.  
+ 
+(a) Show that NG = 
+a
+11
+30
+. 
+(7) 
+ 
+The template has mass M. A small metal stud of mass kM is attached to the 
+template at C. The centre of mass of the combined template and stud lies on YZ. 
+By modelling the stud as a particle, 
+ 
+(b) calculate the value of k.  
+(4) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+5. 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+ 
+ 
+D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C 
+ 
+θ 
+ 
+A 
+ 
+ 
+ 
+ 
+• 
+ 
+ 
+        B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        x 
+ 
+ 
+ 
+ 
+ 
+2a 
+ 
+ 
+Figure 2 shows a horizontal uniform pole AB, of weight W and length 2a. The 
+end A of the pole rests against a rough vertical wall. One end of a light 
+inextensible string BD is attached to the pole at B and the other end is attached to 
+the wall at D. A particle of weight 2W is attached to the pole at C, where BC = x. 
+The pole is in equilibrium in a vertical plane perpendicular to the wall. The string 
+BD is inclined at an angle θ to the horizontal, where sin θ = 5
+3 . The pole is 
+modelled as a uniform rod. 
+ 
+(a) Show that the tension in BD is 
+W
+a
+x
+a
+6
+)
+2
+5
+(
+5
+−
+. 
+(5) 
+The vertical component of the force exerted by the wall on the pole is 6
+7 W. Find 
+ 
+(b) x in terms of a, 
+(3) 
+(c) the horizontal component, in terms of W, of the force exerted by the wall on 
+the pole. 
+(4) 
+ 
+N6891 
+4 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N6993 
+5 
+ 
+6. 
+A smooth sphere P of mass m is moving in a straight line with speed u on a 
+smooth horizontal table. Another smooth sphere Q of mass 2m is at rest on the 
+table. The sphere P collides directly with Q. After the collision the direction of 
+motion of P is unchanged. The spheres have the same radii and the coefficient of 
+restitution between P and Q is e. By modelling the spheres as particles, 
+ 
+(a) show that the speed of Q immediately after the collision is 3
+1 (1 + e)u, 
+(5) 
+(b) find the range of possible values of e.  
+(4) 
+Given that e = 4
+1 ,  
+ 
+(c) find the loss of kinetic energy in the collision. 
+(4) 
+(d) Give one possible form of energy into which the lost kinetic energy has been 
+transformed. 
+(1) 
+ 
+ 
+TURN OVER FOR QUESTION 7 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+ 
+ 
+ 
+ 
+      Figure 3 
+ 
+ 
+ 
+N6891 
+6 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B 
+P 
+   80 m s−1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q 
+ 
+ 
+ 
+ 
+60° 
+A            
+20 m 
+               O 
+ 
+ 
+   C 
+ 
+A rocket R of mass 100 kg is projected from a point A with speed 80 m s−1 at an 
+angle of elevation of 60°, as shown in Fig. 3. The point A is 20 m vertically above 
+a point O which is on horizontal ground. The rocket R moves freely under 
+gravity. At B the velocity of R is horizontal. By modelling R as a particle, find 
+ 
+(a) the height in m of B above the ground,  
+(4) 
+(b) the time taken for R to reach B from A.   
+(2) 
+When R is at B, there is an internal explosion and R breaks into two parts P and Q 
+of masses 60 kg and 40 kg respectively. Immediately after the explosion the 
+velocity of P is 80 m s−1 horizontally away from A. After the explosion the paths 
+of P and Q remain in the plane OAB. Part Q strikes the ground at C. By 
+modelling P and Q as particles,  
+ 
+(c) show that the speed of Q immediately after the explosion is 20 m s−1, 
+(3) 
+(d) find the distance OC.  
+(6) 
+ 
+END 
+PMT
+PMT

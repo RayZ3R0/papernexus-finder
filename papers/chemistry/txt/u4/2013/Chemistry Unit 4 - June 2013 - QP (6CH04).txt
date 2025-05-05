@@ -1,0 +1,1173 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P41572A
+©2013 Pearson Education Ltd.
+6/5/7/7/7/7/
+*P41572A0124*
+Edexcel GCE
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+Wednesday 12 June 2013 – Afternoon
+Time: 1 hour 40 minutes
+6CH04/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*P41572A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box . 
+If you change your mind, put a line through the box 
+ and then mark your new answer with 
+a cross .
+1 The overall equation for a reaction between two chemicals, M and N, is
+M  +  2N   P + Q
+ 
+(a) This reaction occurs spontaneously at room temperature.  Which of the following 
+must be true?
+(1)
+ 
+ 
+A H
+
+reaction is positive. 
+ 
+ 
+B  H
+
+reaction is negative. 
+ 
+ 
+C S
+
+total is positive. 
+ 
+ 
+D S
+
+total is negative.
+ 
+(b) The reaction above occurs in two stages via an intermediate, T.
+M + N  T 
+slow
+N + T  P + Q 
+fast
+ 
+ 
+From this it can be deduced that the rate equation for the reaction between 
+M and N is
+(1)
+ 
+ 
+A rate = k[M][N]
+ 
+ 
+B  rate = k[M][N]2
+ 
+ 
+C rate = k[M][T]
+ 
+ 
+D rate = k[N][T]
+(Total for Question 1 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P41572A0324*
+Turn over    
+2 Calcium carbonate decomposes at high temperature to form calcium oxide and 
+carbon dioxide:
+CaCO3(s)    CaO(s)   +   CO2(g)
+ 
+Calcium carbonate is thermodynamically stable at room temperature because for 
+this reaction
+ 
+ 
+A the activation energy is high.
+ 
+ 
+B  the enthalpy change, H, is positive.
+ 
+ 
+C entropy change of the system (Ssystem) is positive.
+ 
+ 
+D entropy change of the system (Ssystem) is negative.
+(Total for Question 2 = 1 mark)
+3 2-methylpropane has a smaller standard molar entropy at 298 K than butane.  The best 
+explanation for this is that 2-methylpropane has 
+ 
+ 
+A a lower boiling temperature.
+ 
+ 
+B  a higher standard molar enthalpy change of formation.
+ 
+ 
+C fewer ways of distributing energy quanta.
+ 
+ 
+D more ways of distributing energy quanta.
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P41572A0424*
+4 (a) For the equilibrium reaction between hydrogen and iodine
+H2(g)   +   I2(g)      2HI(g)
+ 
+ 
+increasing the pressure of the system
+(1)
+ 
+ 
+A has no effect on the rate or the position of equilibrium.
+ 
+ 
+B  increases the rate but does not affect the position of equilibrium.
+ 
+ 
+C increases the rate and shifts the equilibrium to the right.
+ 
+ 
+D increases the rate and shifts the equilibrium to the left.
+ 
+(b) The equation for the equilibrium reaction between hydrogen and iodine may also 
+be written as
+½H2(g)   +   ½I2(g)      HI(g)
+ 
+ 
+This change to the equation, compared to that in part (a),
+(1)
+ 
+ 
+A has no effect on the value of the equilibrium constant.
+ 
+ 
+B  halves the value of the equilibrium constant.
+ 
+ 
+C doubles the value of the equilibrium constant.
+ 
+ 
+D square roots the value of the equilibrium constant. 
+(Total for Question 4 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P41572A0524*
+Turn over    
+5 The first stage in the manufacture of nitric acid is the oxidation of ammonia:
+4NH3(g)   +   5O2(g)      4NO(g)   +   6H2O(g)    H = –906 kJ mol–1
+ 
+(a) In modern industrial plants this reaction is carried out at a pressure of around 
+3 atm.  Which of the following statements is incorrect?  The raised pressure
+(1)
+ 
+ 
+A helps push the reactants through the reactor.
+ 
+ 
+B  shifts the position of equilibrium to the right.
+ 
+ 
+C increases the cost of the reactor.
+ 
+ 
+D increases the energy cost of this part of the process.
+ 
+(b) A platinum-rhodium alloy catalyst is used in this reaction.  Which of the following 
+statements is incorrect?  The catalyst
+(1)
+ 
+ 
+A lowers the activation energy of the reaction.
+ 
+ 
+B  has no effect on the equilibrium constant for the reaction.
+ 
+ 
+C alters the enthalpy change of the reaction.
+ 
+ 
+D reduces the energy cost of this part of the process.
+ 
+(c) The operating temperature of this reaction is about 900C.  The use of a high 
+temperature
+(1)
+ 
+ 
+A increases the rate of the reaction and the equilibrium yield.
+ 
+ 
+B  increases the rate of the reaction and decreases the equilibrium yield.
+ 
+ 
+C decreases the rate of the reaction and the equilibrium yield.
+ 
+ 
+D decreases the rate of the reaction and increases the equilibrium yield.
+(Total for Question 5 = 3 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P41572A0624*
+6 Ammonium chloride decomposes on heating:
+NH4Cl(s)      NH3(g)   +   HCl(g)
+ 
+The equilibrium constant, Kp, for this reaction equals
+ 
+ 
+A 
+P
+P
+NH
+HCl
+3 ×
+ 
+ 
+B  
+1
+3
+P
+P
+NH
+HCl
+×
+ 
+ 
+C 
+P
+P
+P
+NH
+HCl
+NH Cl
+3
+4
+×
+ 
+ 
+D 
+P
+P
+P
+NH Cl
+NH
+HCl
+4
+3 ×
+(Total for Question 6 = 1 mark)
+7 The dissociation constant of water, Kw, increases with increasing temperature.  When 
+the temperature increases, water
+ 
+ 
+A remains neutral.
+ 
+ 
+B  dissociates less.
+ 
+ 
+C becomes acidic.
+ 
+ 
+D becomes alkaline.
+(Total for Question 7 = 1 mark)
+8 The reaction between concentrated sulfuric acid and pure ethanoic acid is
+CH3COOH   +   H2SO4      CH3COOH2
++   +   HSO4¯
+ 
+The Brønsted-Lowry acids in this equilibrium are
+ 
+ 
+A CH3COOH and H2SO4
+ 
+ 
+B  CH3COOH2
++ and HSO4
+–
+ 
+ 
+C H2SO4 and CH3COOH2
++
+ 
+ 
+D CH3COOH and HSO4
+–
+(Total for Question 8 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P41572A0724*
+Turn over    
+9 An aqueous solution of ethanoic acid is gradually diluted.  Which of the following 
+statements is incorrect?
+ 
+ 
+A The pH decreases.
+ 
+ 
+B  The value of Ka is unchanged.
+ 
+ 
+C The concentration of ethanoic acid molecules decreases.
+ 
+ 
+D The proportion of ethanoic acid molecules which dissociates increases.
+(Total for Question 9 = 1 mark)
+10 Methyl orange and phenolphthalein are both acid-base indicators.  In the titration of 
+a strong acid against a weak alkali
+ 
+ 
+A methyl orange is a suitable indicator but phenolphthalein is not.
+ 
+ 
+B  phenolphthalein is a suitable indicator but methyl orange is not.
+ 
+ 
+C both phenolphthalein and methyl orange are suitable indicators.
+ 
+ 
+D neither phenolphthalein nor methyl orange is a suitable indicator.
+(Total for Question 10 = 1 mark)
+11 Select the word that best describes the effect of a chiral molecule on the plane of 
+plane-polarized light.  The plane of polarization of light is
+ 
+ 
+A reflected.
+ 
+ 
+B  refracted.
+ 
+ 
+C resolved.
+ 
+ 
+D rotated.
+(Total for Question 11 = 1 mark)
+12 An organic compound reacts with both acidified potassium dichromate(VI) and 
+lithium tetrahydridoaluminate (lithium aluminium hydride).  The organic compound 
+could be
+ 
+ 
+A a primary alcohol.
+ 
+ 
+B  an aldehyde.
+ 
+ 
+C a ketone.
+ 
+ 
+D a carboxylic acid.
+(Total for Question 12 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P41572A0824*
+13 Ketones react with
+ 
+ 
+A both 2,4-dinitrophenylhydrazine solution and Tollens’ reagent.
+ 
+ 
+B  2,4-dinitrophenylhydrazine solution but not with Tollens’ reagent.
+ 
+ 
+C Tollens’ reagent but not with 2,4-dinitrophenylhydrazine solution.
+ 
+ 
+D neither Tollens’ reagent nor 2,4-dinitrophenylhydrazine solution.
+(Total for Question 13 = 1 mark)
+14 Ethanoic acid, CH3COOH, may be prepared from ethanenitrile, CH3CN.  This reaction is 
+best described as
+ 
+ 
+A reduction.
+ 
+ 
+B  oxidation.
+ 
+ 
+C hydrolysis.
+ 
+ 
+D condensation.
+(Total for Question 14 = 1 mark)
+15 Propanoic acid reacts with methanol to form an ester.  The structure of the ester is
+ 
+ 
+A H
+O
+C
+C
+C
+C
+H
+O
+H
+H
+H
+H
+H
+H
+ 
+ 
+B 
+ 
+C
+C
+C
+H
+H
+H
+H
+H
+O
+O
+H
+C
+H
+H
+ 
+ 
+C H
+C
+C
+O
+C
+C
+H
+O
+H
+H
+H
+H
+H
+H
+ 
+ 
+D H
+C
+C
+C
+O
+C
+H
+O
+H
+H
+H
+H
+H
+H
+(Total for Question 15 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P41572A0924*
+Turn over    
+16 The boiling temperature of ethanoic acid is very much higher than that of butane 
+although these molecules have similar numbers of electrons.  This is because 
+ethanoic acid has
+ 
+ 
+A stronger covalent bonds.
+ 
+ 
+B  stronger ionic bonds.
+ 
+ 
+C greater London forces.
+ 
+ 
+D hydrogen bonding.
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P41572A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17 The equation for the combustion of hydrogen is
+H2(g)    +    ½O2(g)        H2O(l)
+ 
+(a) Use the standard molar entropies on page 2 and page 25 of the data booklet to 
+calculate the standard entropy change of the system (S
+
+system) for this reaction. 
+ 
+ 
+Note that the standard molar entropies of the elements are given per atom so 
+that the standard molar entropy of oxygen,  S[½O2(g)] = +102.5 J mol–1 K–1.
+(3)
+ 
+(b) The standard enthalpy change for the combustion of hydrogen is –285.8 kJ mol–1.   
+Use this value to calculate the entropy change of the surroundings for the 
+combustion of hydrogen at 298 K.  Give your answer to 3 significant figures and 
+include a sign and units.
+(3)
+PMT
+
+
+--- Page Break ---
+
+11
+*P41572A01124*
+Turn over    
+ 
+(c) Use your answers to (a) and (b) to calculate the total entropy change (S
+
+total) for 
+the combustion of 1 mol of hydrogen.  Include a sign and units in your answer.
+(2)
+ 
+*(d) By considering both the thermodynamic stability and the kinetic inertness of 
+a mixture of hydrogen and oxygen, explain why hydrogen does not react with 
+oxygen unless ignited. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 17 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P41572A01224*
+18 Ethanedioic acid, H2C2O4, is a dicarboxylic acid which occurs in many plants, for 
+example in rhubarb leaves, and is used as a rust remover and strong descaler.  The 
+structure of ethanedioic acid is shown below.
+H
+O
+C
+C
+O
+H
+O
+O
+ 
+Ethanedioic acid is a much stronger acid than carboxylic acids such as ethanoic acid, 
+having a pKa of 1.38.  The hydrogenethanedioate ion, HC2O4
+−, is a weaker acid than 
+ethanedioic acid, having a pKa of 4.28, although slightly stronger than ethanoic acid.
+ 
+(a) (i) Write an equation for the reaction of the hydrogenethanedioate ion with 
+water to form an acidic solution.  Include state symbols in your equation.
+(2)
+ 
+ 
+(ii) Write the expression for the acid dissociation constant, Ka, of the weak acid, 
+HC2O4
+−.
+(1)
+PMT
+
+
+--- Page Break ---
+
+13
+*P41572A01324*
+Turn over    
+ 
+ 
+(iii) A solution containing hydrogenethanedioate ions behaves as a typical weak 
+acid.  Use your answer to (a)(ii) and the pKa of the hydrogenethanedioate ion  
+to calculate the pH of a 0.050 mol dm−3 solution of 
+sodium hydrogenethanedioate, NaHC2O4.
+(3)
+ 
+(b) (i) State two approximations used in the calculation of pH in (a)(iii).
+(2)
+1. ...............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+2. ...............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) Explain why the calculation of the pH of a solution of 
+sodium hydrogenethanedioate gives a more accurate value than a similar 
+calculation for ethanedioic acid.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P41572A01424*
+ 
+(c) 25 cm3 of a 0.050 mol dm–3 solution of sodium hydrogenethanedioate was titrated 
+with a sodium hydroxide solution of the same concentration.
+ 
+ 
+(i) On the axis below, sketch the curve for this titration.
+ (3)
+ 
+ 
+*(ii) When 25 cm3 of a 0.050 mol dm–3 solution of ethanedioic acid is titrated with 
+sodium hydroxide solution of the same concentration using phenolphthalein 
+as the indicator, the end point is 50 cm3. 
+ 
+ 
+ 
+When methyl yellow indicator is used, the colour changes at around 25 cm3.
+ 
+ 
+ 
+Using the information given at the start of the question and quoting data 
+from page 19 of your data booklet, suggest why these volumes are different.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 15 marks)
+14
+12
+10
+8
+6
+4
+2
+pH
+20
+Volume of NaOH / cm3
+0
+40
+60
+PMT
+
+
+--- Page Break ---
+
+15
+*P41572A01524*
+Turn over    
+19 2-hydroxypropanoic acid, lactic acid, is a chiral molecule which is found in muscles 
+and in sour milk.  The 2-hydroxypropanoic acid formed in muscles is optically active 
+but that in sour milk is not.
+H
+C
+C
+C
+OH
+H
+H
+OH
+H
+O
+2-hydroxypropanoic acid
+ 
+(a) (i) Explain the term chiral, stating the feature of 2-hydroxypropanoic acid that 
+makes it chiral.  Label this feature on the formula above.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What is the difference between the 2-hydroxypropanoic acid formed in 
+muscles and that found in sour milk which gives rise to the difference in 
+optical activity?
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P41572A01624*
+ 
+(b) 2-hydroxypropanoic acid may be prepared in the laboratory from propanoic 
+acid in a two-stage sequence in which 2-bromopropanoic acid is formed as an 
+intermediate:
+ 
+ 
+ (i) Stage 2 of this sequence was carried out in two steps.  Identify the reagent 
+required for each step in Stage 2. 
+(2)
+First step  .........................................................................................................................................................................................................................................................
+Second step  .................................................................................................................................................................................................................................................
+ 
+ 
+(ii) When an optically active isomer of 2-bromopropanoic acid is used in Stage 2, 
+the resulting 2-hydroxypropanoic acid is also optically active.  State and explain 
+what this indicates about the mechanism of the first reaction in Stage 2.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+H
+C
+C
+C
+OH
+H
+H
+H
+H
+O
+H
+C
+C
+C
+OH
+H
+H
+Br
+H
+O
+H
+C
+C
+C
+OH
+H
+H
+OH
+H
+O
+Br2 / Red P
+Stage 1
+Stage 2
+PMT
+
+
+--- Page Break ---
+
+17
+*P41572A01724*
+Turn over    
+ 
+(c) 2-hydroxypropanoic acid may also be prepared from ethanal in the following 
+sequence:
+ 
+ 
+(i) Name the mechanism and type of reaction occurring in Reaction 1.
+(2)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Identify the attacking species in Reaction 1. 
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Give the first step of the mechanism of Reaction 1, showing the formation of 
+the intermediate.
+(2)
+ 
+ 
+*(iv) Explain, by referring to the mechanism in (c)(iii), why the 2-hydroxypropanoic 
+acid formed from ethanal shows no optical activity.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+H
+C
+C
+H
+H
+H
+O
+H
+C
+C
+C
+OH
+H
+H
+OH
+H
+O
+Reaction 1
+H
+C
+C
+CN
+H
+H
+OH
+H
+Reaction 2
+PMT
+
+
+--- Page Break ---
+
+18
+*P41572A01824*
+ 
+(d) The infrared spectrum of 2-hydroxypropanoic acid is shown below. 
+ 
+ 
+(i) Give the wavenumber of the peak that is present in the infrared spectrum of 
+2-hydroxypropanoic acid but will not be present in the infrared spectrum of 
+ethanal, identifying the group most likely to be responsible for this peak.  Use 
+the data on pages 5 and 6 of the data booklet.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) Identify the bond responsible for absorption peak Q in the spectrum.  By 
+considering the wavenumber of this peak, and the data on pages 5 and 6 of 
+the data booklet, explain whether this peak alone can be used to distinguish 
+between ethanal and 2-hydroxypropanoic acid.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Wavenumber / cm–1
+4000
+3000
+2000
+Q
+1500
+1000
+500
+100
+50
+0
+Transmittance / %
+PMT
+
+
+--- Page Break ---
+
+19
+*P41572A01924*
+Turn over    
+ 
+(e) Ethanal and 2-hydroxypropanoic acid can be distinguished by the use of chemical 
+tests.  Give two suitable tests not involving indicators.  For each test, state the 
+observation associated with a positive result.
+(4)
+Test which is positive for ethanal but not for 2-hydroxypropanoic acid.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Test which is positive for 2-hydroxypropanoic acid but not for ethanal.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 26 marks)
+TOTAL FOR SECTION B = 51 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P41572A02024*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 The ionic equation for the reaction of ammonium peroxodisulfate (persulfate), 
+(NH4)2S2O8, with potassium iodide, KI, is
+S2O8
+2–(aq)    +    2I–(aq)        2SO4
+2–(aq)    +    I2(aq)
+ 
+(a) In a series of experiments to determine the rate equation for this reaction, 10 cm3 
+of 0.0050 mol dm–3 sodium thiosulfate was mixed with 20 cm3 of (NH4)2S2O8 
+solution and 5 drops of starch solution.  20 cm3 of KI solution was added with 
+mixing and the time taken for the solution to darken was noted.  The initial 
+concentrations of the (NH4)2S2O8 and KI solutions and the times for the mixture to 
+darken are shown below.
+Experiment 
+Number
+Initial concentration / mol dm–3
+Time for solution to 
+darken / s
+S2O8
+2–
+I–
+1
+0.10
+0.20
+35
+2
+0.05
+0.20
+69
+3
+0.10
+0.10
+70
+ 
+ 
+ (i) Explain the purpose of the sodium thiosulfate solution.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Use the data in the table to deduce the rate equation for the reaction 
+between S2O8
+2– and I– ions.  Explain, by referring to the data, how you arrived 
+at your answer.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P41572A02124*
+Turn over    
+ 
+(b) A further experiment was carried out to confirm the order of the reaction with 
+respect to iodide ions. (NH4)2S2O8 was mixed with KI to form a solution in which 
+the initial concentration of (NH4)2S2O8 was 2.0 mol dm–3 and that of KI was 
+0.025 mol dm–3. The concentration of iodine was measured at various times until 
+the reaction was complete.
+ 
+ 
+(i) Outline a method, not involving sampling the mixture, which would 
+be suitable for measuring the iodine concentrations in this experiment. 
+Experimental details are not required but you should state how you would use 
+your measurements to obtain iodine concentrations. 
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why the initial concentration of (NH4)2S2O8 is much higher than that 
+of KI.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State how the initial rate of reaction may be obtained from the results of this 
+type of experiment.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*P41572A02224*
+ 
+ 
+(iv) In such an experiment a student calculated the initial rate of reaction to be 
+8.75 × 10–5 mol dm–3 s–1.  Use this value, the initial concentrations in (b) and 
+the rate equation that you obtained in (a)(ii), to calculate the rate constant for 
+this reaction.  Include units in your answer.
+(2)
+ 
+(c) Using the method outlined in (b), the rate constant for this reaction was 
+determined at various temperatures.  The data from these experiments are shown 
+in the table below.  Note that none of the temperatures corresponds to that used 
+in (b) and that the rate constant is given in appropriate units.
+Temperature 
+T / K
+Rate constant
+k
+ln k
+1/T
+/ K–1
+300
+0.00513
+–5.27
+0.00333
+310
+0.00833
+–4.79
+0.00323
+320
+0.0128
+–4.36
+0.00313
+330
+0.0201
+–3.91
+0.00303
+340
+0.0301
+–3.50
+0.00294
+PMT
+
+
+--- Page Break ---
+
+23
+*P41572A02324*
+ 
+ 
+(i) Use the data in the table to plot a graph of ln k (on the y axis) against 1/T (on 
+the x axis) and draw a best fit line through the points.
+(2)
+ 
+ 
+(ii) Determine the gradient of the best fit line in (c)(i) and use this value to 
+calculate the activation energy, Ea, of the reaction, stating the units.
+(4)
+ 
+ 
+ 
+The rate constant of a reaction, k, is related to the temperature, T, by the expression
+ln 
+R
+T
+constant
+a
+k
+E
+=
+×
++
+−
+1
+        R = 8.31 J K–1 mol–1
+(Total for Question 20 = 19 marks)
+TOTAL FOR SECTION C = 19 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+0.0029
+1/T / K–1
+0.0030
+0.0031
+0.0032
+0.0033
+0.0034
+ln k 
+–3.50
+–4.00
+–4.50
+–5.00
+–5.50
+PMT
+
+
+--- Page Break ---
+
+24
+*P41572A02424*
+PMT

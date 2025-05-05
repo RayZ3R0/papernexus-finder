@@ -1,0 +1,1161 @@
+*P54457A0124*
+P54457A
+©2019 Pearson Education Ltd.
+2/2/2/2/
+Turn over    
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 80. 
+• The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed  
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Show all your working in calculations and include units where appropriate.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+Centre Number
+Candidate Number
+Total Marks
+Candidates must have:  Scientific calculator 
+Ruler
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Morning (Time: 1 hour 30 minutes)
+Paper Reference WCH01/01
+Wednesday 9 January 2019
+Candidate surname
+Please check the examination details below before entering your candidate information
+Other names
+
+
+--- Page Break ---
+
+2
+*P54457A0224*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 The European Union limit for nitrogen dioxide in the atmosphere is 0.0209 cm3 in 1 m3. 
+In units of parts per million (ppm) this is
+ 
+ 
+A 2.09 × 10−5
+ 
+ 
+B 2.09 × 10−2
+ 
+ 
+C 20.9
+ 
+ 
+D 2.09 × 104
+ (Total for Question 1 = 1 mark)
+2 A sample of blood plasma contains 3.10 mg of sodium ions in 1 cm3. 
+The concentration, in mol dm−3, of sodium ions in the plasma is 
+ 
+ 
+A 1.35 × 10−1
+ 
+ 
+B 2.82 × 10−1
+ 
+ 
+C 1.35 × 10−4
+ 
+ 
+D 2.82 × 10−4
+(Total for Question 2 = 1 mark)
+3 Dilute sulfuric acid is mixed with a solution of barium chloride.  
+The reaction that occurs is 
+ 
+ 
+A displacement.
+ 
+ 
+B neutralisation.
+ 
+ 
+C precipitation.
+ 
+ 
+D redox.
+(Total for Question 3 = 1 mark)
+
+
+--- Page Break ---
+
+3
+*P54457A0324*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 How many atoms are there in 120 cm3 of ammonia gas at room temperature and 
+pressure (r.t.p.)? 
+ 
+[Molar volume of gas at r.t.p.  = 24 000 cm3 mol−1   Avogadro constant = 6.0 × 1023 mol−1]
+ 
+ 
+A 3.0 × 1021
+ 
+ 
+B 1.2 × 1022
+ 
+ 
+C 1.5 × 1022
+ 
+ 
+D 1.2 × 1025
+(Total for Question 4 = 1 mark)
+5 The reaction of magnesium chloride with silver nitrate gives a precipitate of silver chloride.
+ 
+MgCl2(aq)  +  2AgNO3(aq)  o  Mg(NO3)2(aq)  +  2AgCl(s)
+ 
+A solution containing 0.001 mol of magnesium chloride reacts with excess silver nitrate.  
+What is the mass of the precipitate formed?
+ 
+[Molar mass / g mol−1:  AgCl = 143.4]
+ 
+ 
+A 0.072 g
+ 
+ 
+B 0.143 g
+ 
+ 
+C 0.287 g
+ 
+ 
+D 0.574 g
+(Total for Question 5 = 1 mark)
+6 When 0.127 g of copper is added to excess silver nitrate solution, the following 
+reaction occurs.
+ 
+Cu(s)  +  2AgNO3(aq)  o  Cu(NO3)2(aq)  +  2Ag(s)
+ 
+What mass of silver is formed?
+ 
+[Molar masses / g mol−1:  Cu = 63.5   Ag = 107.9]
+ 
+ 
+A 0.216 g
+ 
+ 
+B 0.254 g
+ 
+ 
+C 0.432 g
+ 
+ 
+D 0.863 g
+(Total for Question 6 = 1 mark)
+
+
+--- Page Break ---
+
+4
+*P54457A0424*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+7 The molecular formula of phosphorus(V) oxide is P4O10.   
+What is the percentage by mass of phosphorus in this oxide?
+ 
+[Molar masses / g mol−1: O = 16.0  P = 31.0]
+ 
+ 
+A 28.6%
+ 
+ 
+B 42.9%
+ 
+ 
+C 43.7%
+ 
+ 
+D 56.3%
+(Total for Question 7 = 1 mark)
+8 Aluminium reacts with hydrochloric acid.
+ 
+2Al(s)  +  6HCl(aq)  o  2AlCl3(aq)  +  3H2(g)
+ 
+What is the maximum volume of hydrogen at room temperature and pressure (r.t.p.) 
+that can be formed from 0.135 g of aluminium?
+ 
+[Molar volume of gas at r.t.p.  = 24 000 cm3 mol−1   Molar mass Al = 27.0 g mol−1]
+  
+ 
+A 60 cm3
+ 
+ 
+B 80 cm3
+ 
+ 
+C 120 cm3
+ 
+ 
+D 180 cm3
+(Total for Question 8 = 1 mark)
+9 150 cm3 of ethane is mixed with 700 cm3 of oxygen.  The equation for the reaction is
+ 
+C2H6(g)  +  3½O2(g)  o  2CO2(g)  +  3H2O(l)
+ 
+What is the total volume of gas when the reaction is complete? 
+All gas volumes are measured at the same temperature and pressure.
+ 
+ 
+A 150 cm3
+ 
+ 
+B 300 cm3
+ 
+ 
+C 325 cm3
+ 
+ 
+D 475 cm3
+(Total for Question 9 = 1 mark)
+
+
+--- Page Break ---
+
+5
+*P54457A0524*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 In an experiment to determine the enthalpy change for the reaction between zinc 
+and copper(II) sulfate, a cooling curve was used to estimate the temperature change.  
+The zinc was added to the copper(II) sulfate solution at 3½ minutes and the results 
+were plotted on a graph.
+80 –
+70 –
+60 –
+50 –
+40 –
+30 –
+20 –
+10 –
+0 –
+Temperature / °C
+0
+–
+2
+–
+4
+–
+6
+–
+8
+–
+10
+–
+12
+–
+14
+–
+Time / min
+ 
+What is the temperature change?
+ 
+ 
+A 45°C
+ 
+ 
+B 48°C 
+ 
+ 
+C 65°C
+ 
+ 
+D 68°C
+(Total for Question 10 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+6
+*P54457A0624*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+11 The enthalpy changes of two reactions are
+ 
+2Fe(s) 
++ 
+1½O2(g) o Fe2O3(s) 
+¨H
+9 = −824 kJ mol−1
+ 
+C(s) 
++ 
+½O2(g) 
+o CO(g) 
+¨H
+9 = −110 kJ mol−1
+ 
+For the reaction
+ 
+Fe2O3(s)  +  3C(s)  o  2Fe(s)  +  3CO(g)
+ 
+the enthalpy change is
+ 
+ 
+A −494 kJ mol−1
+ 
+ 
+B +494 kJ mol−1
+ 
+ 
+C −714 kJ mol−1
+ 
+ 
+D +714 kJ mol−1
+(Total for Question 11 = 1 mark)
+12 Which change would have a negative ¨H value?
+ 
+ 
+A Cl(g)  +  e−   o  Cl−(g)
+ 
+ 
+B 
+Cl2(g)  o  2Cl(g)
+ 
+ 
+C 
+Na(s)   o  Na(l)
+ 
+ 
+D 
+Na(g)  o  Na+(g)  +  e−
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+7
+*P54457A0724*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 The combustion of magnesium may be represented by two equations.
+ 
+Mg(s) + 
+½O2(g) 
+o 
+MgO(s) 
+(1)
+ 
+2Mg(s) + 
+O2(g) 
+o 
+2MgO(s) 
+(2)
+ 
+The units of ¨H for equation (1) are kJ mol−1.  The units of ¨H for equation (2) are
+ 
+ 
+A kJ mol−1
+ 
+ 
+B (kJ mol−1) ÷ 2
+ 
+ 
+C (kJ mol−1) × 2
+ 
+ 
+D (kJ mol−1)2
+(Total for Question 13 = 1 mark)
+14 Which of the species, Ne, F− and Na+, have the electronic structure 1s2 2s2 2p6?
+ 
+ 
+A Ne only
+ 
+ 
+B Ne and F− only
+ 
+ 
+C Ne and Na+ only
+ 
+ 
+D Ne, F− and Na+
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+8
+*P54457A0824*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+15 The graph shows the variation of first ionisation energy with atomic number for 
+successive elements in the Periodic Table.
+X
+First ionisation energy / kJ mol–1
+Atomic number
+Y
+Z
+ 
+The elements X, Y and Z are
+ 
+ 
+A alkali metals.
+ 
+ 
+B alkaline earth metals.
+ 
+ 
+C halogens.
+ 
+ 
+D noble gases.
+ (Total for Question 15 = 1 mark)
+16 The electrostatic interactions involved in a covalent bond are electron-electron, 
+nucleus-nucleus and electron-nucleus. 
+What types of interaction occur?
+electron-electron
+nucleus-nucleus
+electron-nucleus
+A
+attraction
+attraction
+repulsion
+B
+repulsion
+repulsion
+attraction
+C
+attraction
+repulsion
+attraction
+D
+repulsion
+attraction
+attraction
+(Total for Question 16 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+9
+*P54457A0924*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+17 What is the name of the organic compound with the structure shown?
+Cl
+ 
+ 
+A 2-chloro-1,1-dimethylpropane
+ 
+ 
+B 2-chloro-3,3-dimethylpropane
+ 
+ 
+C 2-chloro-3-methylbutane
+ 
+ 
+D 1-chloro-2,3-dimethylbutane
+(Total for Question 17 = 1 mark)
+18 Methane is considered a better fossil fuel than coal because methane
+ 
+ 
+A is not a greenhouse gas.
+ 
+ 
+B is mainly obtained from renewable sources.
+ 
+ 
+C produces less carbon dioxide per kWh of power generated.
+ 
+ 
+D has no effect on the ozone layer.
+(Total for Question 18 = 1 mark)
+19 How many ı bonds are there in the organic compound with the skeletal structure shown?
+ 
+ 
+A 2
+ 
+ 
+B 3
+ 
+ 
+C 10
+ 
+ 
+D 11
+(Total for Question 19 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+10
+*P54457A01024*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+20 But-2-ene reacts with acidified potassium manganate(VII) at room temperature. 
+The organic product of this reaction is
+ 
+ 
+A butane-1,2-diol.
+ 
+ 
+B butane-1,3-diol.
+ 
+ 
+C butane-1,4-diol.
+ 
+ 
+D butane-2,3-diol.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+11
+*P54457A01124*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Mass spectrometry is used to determine the relative atomic masses of elements. 
+The diagram shows the main features of a mass spectrometer.
+R
+vaporised 
+sample
+S
+T
+to vacuum 
+pump
+detector
++
+ 
+(a) After vaporisation, the sample passes through three stages before reaching the detector.
+ 
+ 
+(i) The first stage is ionisation, which occurs at R.  Describe fully the ionisation 
+process for the element nickel, Ni, writing an equation to illustrate it.
+ 
+ 
+ 
+State symbols are not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Describe the processes occurring at S and T.
+(2)
+S  ...............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+T  ...............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+12
+*P54457A01224*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Explain why the sample needs to be ionised.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The tallest peak in a mass spectrum (called the base peak) is given a height of 100 and the 
+heights of all the other peaks are given relative to the base peak.  A sample of the element 
+nickel is analysed in a mass spectrometer and found to have two significant peaks.
+m / e
+Relative peak height
+58
+100
+60
+39.8
+ 
+ 
+(i) Calculate the relative atomic mass of nickel in this sample. 
+Give your answer to one decimal place.
+(2)
+
+
+--- Page Break ---
+
+13
+*P54457A01324*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Use the relative peak heights to calculate the percentage abundance of the 
+two isotopes in the sample.
+(2)
+ 
+ 
+(iii) The mass spectrum of this sample of nickel had a very small peak at m / e = 29.  
+Identify the species responsible for this peak. 
+Write an equation to show how it is formed.
+ 
+ 
+ 
+State symbols are not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Mass spectrometry is also used to identify chemical compounds. 
+State one application for this use of the technique.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 12 marks)
+
+
+--- Page Break ---
+
+14
+*P54457A01424*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+22 Enthalpy changes of combustion are very important in thermochemistry because 
+they can be used to determine enthalpy changes that cannot be measured directly.
+ 
+(a) Define standard enthalpy change of combustion.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) A class of students used the apparatus below to determine the enthalpy change 
+of combustion for some alcohols.
+thermometer
+water
+alcohol
+ 
+ 
+One student obtained the following results for ethanol.
+Measurement
+Value
+Mass of water / g
+250.00
+Mass of ethanol used / g
+  0.55
+Temperature rise / °C
+ 9.5
+
+
+--- Page Break ---
+
+15
+*P54457A01524*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(i) Calculate the energy transferred in the student’s experiment.
+(1)
+ 
+ 
+ 
+Use the expression
+ 
+ 
+ 
+Energy transferred (J) = mass of water × 4.18 × temperature change
+ 
+ 
+(ii) Calculate the enthalpy change of combustion of ethanol. 
+Give a sign and units with your answer.
+(3)
+ 
+(c) Most of the students obtained similar results for the enthalpy change of 
+combustion of ethanol.  The class mean was −840 kJ mol−1 compared with the 
+Data Book value of −1367 kJ mol−1.
+ 
+ 
+(i) Calculate the percentage error in the mean value obtained by the class 
+compared to the Data Book value.
+(1)
+
+
+--- Page Break ---
+
+16
+*P54457A01624*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(ii) One student suggested that the difference between the students’ values and the 
+Data Book value was due to the uncertainties in measuring the masses and temperatures. 
+Explain why this suggestion is incorrect.  
+ 
+ 
+ 
+No calculation is required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+ *(iii) Suggest one factor that could have caused the difference between the 
+students’ values and the Data Book value.  Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+17
+*P54457A01724*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) The standard enthalpy change of formation of propan-1-ol cannot be measured directly.
+ 
+ 
+(i) Complete the Hess cycle below, which may be used to calculate the standard 
+enthalpy change of formation of propan-1-ol.  Add missing enthalpy changes, 
+arrows and species.  Include state symbols.
+(3)
+ ..........................(   )    +    ..........................(   )    +    ..........................(   )
+¨Hc
+9 {propan-1-ol}
+3  ×  ¨Hc
+9 {C(s)}
+C3H8O(l)      +      4½O2(g)  
+  3CO2(g)      +      4H2O(l)
+ 
+ 
+(ii) Use your completed cycle in (d)(i) and the data in the table, to calculate the 
+standard enthalpy change of formation of propan-1-ol.
+(2)
+Substance
+¨Hc
+9 / kJ mol−1
+carbon
+−394
+hydrogen
+−286
+propan-1-ol
+−2021
+(Total for Question 22 = 16 marks)
+
+
+--- Page Break ---
+
+18
+*P54457A01824*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+23 This question is about the bonds that chlorine forms in its chemical compounds.
+ 
+(a) Chlorine forms a covalent bond in its compound with hydrogen.
+ 
+ 
+(i) Give the electronic configuration of chlorine using the s p d notation.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw a dot-and-cross diagram of hydrogen chloride, showing outer electrons only.
+(1)
+ 
+ 
+(iii) Describe fully the formation of the covalent bond in hydrogen chloride in 
+terms of orbital overlap.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+19
+*P54457A01924*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+(b) Chlorine forms ionic bonds with metals such as sodium and silver.  The lattice 
+energies of ionic compounds provide information about their bonds.  The table 
+below shows the experimental and calculated values for the lattice energy of 
+sodium chloride and silver chloride.
+Compound
+Lattice energy / kJ mol−1
+Experimental
+Calculated
+sodium chloride
+−780
+−770
+silver chloride
+−905
+−833
+ 
+ 
+(i) Draw a dot-and-cross diagram of sodium chloride, showing outer electrons only.
+(1)
+ 
+ 
+ *(ii) Explain why the experimental and calculated values for the lattice energy of 
+sodium chloride are similar whereas those for silver chloride differ significantly.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 9 marks)
+
+
+--- Page Break ---
+
+20
+*P54457A02024*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+24 The diagram summarises some of the processes involved in the production of alkanes 
+from crude oil, and their uses.
+cyclooctane
+Crude oil   
+   naphtha fraction   
+   octane         +         ethene
+poly(ethene)
+A
+B
+C
+D
+ 
+(a) Name the processes shown in the diagram.
+(4)
+ 
+ 
+A.....................................................................................................
+ 
+ 
+B.....................................................................................................
+ 
+ 
+C.....................................................................................................
+ 
+ 
+D.....................................................................................................
+ 
+(b) State what happens to the compounds present in crude oil during process A.  
+Identify the property of the compounds which allows this process to work.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The naphtha fraction comprises alkanes with a minimum of four and a maximum 
+of ten carbon atoms.  Write an equation for the formation of octane and ethene in 
+process B.  State symbols are not required.
+(2)
+
+
+--- Page Break ---
+
+21
+*P54457A02124*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) (i) Write an equation for the reaction occurring in process C. 
+State symbols are not required.
+(1)
+ 
+ 
+(ii) Octane is converted into cyclooctane on a large scale.   
+Explain why cyclooctane is added to petrol.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Using displayed formulae, write a balanced equation for process D.   
+State symbols are not required.
+(2)
+(Total for Question 24 = 13 marks)
+Turn over    
+
+
+--- Page Break ---
+
+22
+*P54457A02224*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+25 Alkanes and alkenes react with halogens.
+ 
+(a) The reaction of methane with chlorine is a free radical substitution.
+CH4   +   Cl2   o   CH3Cl   +   HCl
+ 
+ 
+(i) State the essential condition for this reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The first stage in the mechanism of this reaction is the formation of the 
+chlorine free radical.
+Cl 
+ Cl 
+  2Clx
+ 
+ 
+ 
+Explain fully what a curly half-arrow represents in this equation.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Write the two equations of the propagation stage of the reaction. 
+Curly half-arrows are not required.
+(2)
+
+
+--- Page Break ---
+
+23
+*P54457A02324*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) Chloromethane is also formed in the termination stage of the reaction.  
+Explain why the amount of chloromethane formed in the propagation stage is 
+very much greater than the amount formed in the termination stage.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Bromine reacts with propene in normal laboratory conditions.
+ 
+ 
+(i) State the type and mechanism of this reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the structure of the product of this reaction.
+(1)
+(Total for Question 25 = 10 marks)
+TOTAL FOR SECTION B = 60 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+
+
+--- Page Break ---
+
+24
+*P54457A02424*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA

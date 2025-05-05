@@ -1,0 +1,1288 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P50708A
+©2016 Pearson Education Ltd.
+1/1/1/1/1/1/1/
+*P50708A0128*
+Physics
+Advanced Subsidiary
+Unit 2: Physics at Work
+Monday 31 October 2016 – Morning
+Time: 1 hour 30 minutes
+WPH02/01
+You do not need any other materials
+Instructions
+•	Use black ink or ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+	
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+	
+– there may be more space than you need.
+Information
+•	 The total mark for this paper is 80. 
+•	 The marks for each question are shown in brackets
+	
+– use this as a guide as to how much time to spend on each question.
+•	 Questions labelled with an asterisk (*) are ones where the quality of your  
+	
+written communication will be assessed 
+	
+– you should take particular care with your spelling, punctuation and grammar,  
+	
+as well as the clarity of expression, on these questions.
+•	 The list of data, formulae and relationships is printed at the end of this booklet.
+•	 Candidates may use a scientific calculator.
+Advice
+•	 Read each question carefully before you start to answer it.
+•	 Try to answer every question.
+•	 Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P50708A0228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL questions.
+For questions 1–10, in Section A, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then  
+mark your new answer with a cross 
+.
+1	 A voltmeter is used to measure the potential difference of a cell which is being used to 
+light a bulb.
+	
+Choose the row that correctly describes the voltmeter’s connection and resistance.
+Connected in
+Resistance
+A
+series with the cell
+very low
+B
+series with the cell
+very high
+C
+parallel with the cell
+very low
+D
+parallel with the cell
+very high
+(Total for Question 1 = 1 mark)
+2	 A current I flows through a wire of cross-sectional area A.  The drift velocity of the 
+charge carriers is vx.
+	
+The wire is replaced by one of the same material but with cross-sectional area A
+2  and the
+	
+circuit is adjusted to keep the current unchanged.  The drift velocity is now vy.
+	
+The ratio vx : vy is
+	
+	
+A	 1 : 1
+	
+	
+B	 1 : 2
+	
+	
+C	 2 : 1
+	
+	
+D	 1 : 4
+(Total for Question 2 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P50708A0328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+3	 A wave has a wavelength of 24 cm.  Two points on the wave are 2
+π radians out of phase.
+	
+The distance between these two points could be
+	
+	
+A	 3 cm
+	
+	
+B	 12 cm
+	
+	
+C	 30 cm
+	
+	
+D	 36 cm
+(Total for Question 3 = 1 mark)
+4	 The graph shows the current-voltage characteristic for a filament lamp.
+I
+V
+	
+Choose the graph that best shows how the resistance R of the lamp changes with 
+temperature θ in °C.
+R
+θ
+0
+A
+       
+R
+θ
+0
+B
+       
+R
+θ
+0
+C
+       
+R
+θ
+0
+D
+ 	
+	
+A  
+	
+	
+B  
+	
+	
+C  
+	
+	
+D  
+(Total for Question 4 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P50708A0428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+5	 The SI unit for charge may be expressed as
+	
+	
+A	 A Ω
+	
+	
+B	 A s–1
+	
+	
+C	 J V–1 
+	
+	
+D	 V Ω–1
+(Total for Question 5 = 1 mark)
+6	 The photograph shows water waves in a ripple tank, as they travel from deep water to 
+shallow water.
+                                                                                                       
+shallow water
+deep water
+direction of wave travel
+	
+It is observed that the waves are closer together as they move through the shallow water. 
+This is because the waves in the shallow water
+	
+	
+A	 travel more slowly.
+	
+	
+B	 travel more quickly.
+	
+	
+C	 have a lower frequency.
+	
+	
+D	 have a higher frequency.
+(Total for Question 6 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P50708A0528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+7	 A sound wave has a time period T.  The diagram shows the positions at time t of air layers which 
+have been displaced by the passage of the wave.  At this time there is a rarefaction at position X.
+X
+	
+At time t + Δt there is a compression at position X.
+	
+Δt may be equal to
+	
+	
+A	 T
+4
+	
+	
+B	 T
+2
+	
+	
+C	 3
+4
+T
+	
+	
+D	 T
+(Total for Question 7 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P50708A0628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+8	 A source of sound is moving at a constant speed away from an observer.
+	
+Select the row of the table which correctly describes the amplitude and frequency of the 
+sound heard by the observer compared to the emitted sound.
+Amplitude
+Frequency
+A
+smaller
+smaller
+B
+smaller
+greater
+C
+greater
+smaller
+D
+greater
+greater
+(Total for Question 8 = 1 mark)
+9 	 Diffraction is the spreading of a wave after passing through a gap or around an obstacle.
+	
+Which of the following statements is correct?
+	
+	
+A	 Diffraction can be used to demonstrate the wave property of electrons.
+	
+	
+B	 Diffraction only occurs when the size of the gap is equal to the wavelength.
+	
+	
+C	 Microwaves show more significant diffraction around hills than radio waves.
+	
+	
+D	 Sound waves cannot be diffracted.
+(Total for Question 9 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P50708A0728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+10	 A student carries out an investigation to determine the e.m.f. ɛ and internal resistance r of 
+a cell.  The potential difference V across the cell and the current I in the cell are measured 
+as the load resistance is increased.  The results are plotted on a graph.
+V
+I
+	
+Select the row of the table that correctly identifies how ɛ and r are determined from the graph.
+ɛ  determined from
+r determined from
+A
+area under graph
+1
+magnitude of gradient
+B
+y-intercept
+1
+magnitude of gradient
+C
+area under graph
+magnitude of gradient
+D
+y-intercept
+magnitude of gradient
+(Total for Question 10 = 1 mark)
+TOTAL FOR SECTION A = 10 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P50708A0828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL questions in the spaces provided.
+11	 A technician uses a length of constantan wire to make a resistor of resistance 6.0 Ω.  The 
+wire has a diameter of 0.23 mm.
+	
+Calculate the length of the wire.
+	
+resistivity of constantan = 4.9 × 10–7 Ω m
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+Length = .......................................................
+(Total for Question 11 = 3 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P50708A0928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+12	 Polarising sunglasses are designed to reduce glare.
+	
+(a)	 State what is meant by polarised light.
+(2)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+	
+(b)	A student is viewing the screen of an electronic device through polarising sunglasses.  
+When viewing the screen in landscape mode the screen looks bright.  He gradually 
+rotates the device through 90° into portrait mode.  He notices that the screen becomes 
+gradually darker until, in portrait mode, the screen is completely dark.
+	
+	
+Explain these observations.
+(4)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+(Total for Question 12 = 6 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P50708A01028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+ *13	 A hydrogen discharge tube contains hydrogen gas at a low pressure.
+	
+A high potential difference is applied across the tube and a spectrometer can be used to 
+produce a visible line spectrum, as shown below.
+	
+Explain how line spectra are formed.
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+(Total for Question 13 = 5 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P50708A01128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+14	 During a demonstration ultraviolet radiation is shone onto a zinc plate.  When the 
+frequency of the radiation is greater than a certain value f 0 the zinc plate becomes 
+positively charged.
+	
+(a)	 Explain why the zinc plate becomes positively charged when the frequency of the 
+radiation is greater than f 0.
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+	
+(b)	Ultraviolet radiation of a frequency greater than f0 is shone onto the zinc plate.  The 
+intensity of the radiation is increased and the magnitude of the positive charge on the 
+plate increases at a greater rate.
+	
+	
+Explain why.
+(2)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+	
+(c)	 Suggest a potential risk with performing this demonstration in a school laboratory.
+(1)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+(Total for Question 14 = 6 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P50708A01228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+15	 The circuit shows how two bulbs, X and Y, may be connected in parallel with a 6 V battery.
+6 V
+X
+Y
+0.9 A
+The resistance of bulb X is RX and the resistance of bulb Y is RY where
+RX = 2RY
+	
+(a)	 Calculate RX and RY .
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+RX = ....................................................................
+RY = ....................................................................
+	
+(b)	X and Y may be connected in series as shown below.
+6 V
+X
+Y
+	
+	
+Calculate the current in the series circuit if the resistances of the lamps are the same 
+as in part (a).
+(2)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+Current = ....................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P50708A01328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 In the parallel circuit it is observed that one bulb is brighter than the other.
+	
+	
+A student suggests “bulb X will be brighter because it has a higher resistance and so 
+more energy is dissipated”.
+	
+	
+Explain why the student’s suggestion is incorrect.
+(2)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+(Total for Question 15 = 7 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P50708A01428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+16	 Solar lights can be used to illuminate garden pathways during the night.  The lights 
+use solar cells that generate electricity during the day to charge a battery.  At night the 
+charged battery is used to power a bulb consisting of a light emitting diode (LED).
+	
+A solar cell is made up of a semiconductor that produces an electric current when light is 
+incident on it.
+	
+(a)	 Radiation from the Sun is incident on a solar cell.  In order for the solar cell to 
+generate electricity photons with a minimum energy of 2.2 eV are required.
+	
+	
+Calculate the maximum wavelength of light required.
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+Maximum wavelength = ....................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P50708A01528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	The solar cell has an efficiency of 25%. With the battery initially uncharged, the solar cell 
+is illuminated for 8.0 hours with an average radiation flux of 1300 W m–2.  The following 
+night the battery is used to operate the LED bulb.
+	
+	
+Calculate the maximum time in hours for which the LED bulb can be operated.
+	
+	
+power of LED bulb = 1.5 W
+	
+	
+area of solar cell = 3.6 × 10–3 m2
+(4)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+Maximum time = ......................................... hours
+(Total for Question 16 = 7 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P50708A01628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+17	 Ultrasound may be used to scan organs of the body and to determine the speed of the blood.
+	
+(a)	 An ultrasound pulse is used to measure the size of the heart.  Two reflected pulses are 
+received at the ultrasound transducer, one from the front surface of the heart and one 
+from the rear surface.  An oscilloscope trace of these pulses is shown.
+signal 
+strength
+time
+0.02 ms
+(i)	 Calculate the distance from the front surface of the heart to the rear surface of the heart.
+	
+	
+	 speed of ultrasound in the heart = 1500 m s–1
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+Distance = .................................................
+	
+	
+(ii)	 State two reasons why the amplitude of the second pulse is less than the 
+amplitude of the first pulse.
+(2)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P50708A01728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	Ultrasound can also be used to measure the speed of the blood using the Doppler effect.
+	
+	
+State the measurements that need to be made to determine the speed of the blood.
+(1)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+(Total for Question 17 = 6 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P50708A01828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+18	 Optical fibres are used in communication systems.
+	
+A typical fibre consists of a glass core surrounded by glass of a different refractive index 
+as a cladding.  The diagram shows a light ray being transmitted along the fibre.
+cladding
+core
+θ
+cladding
+	
+(a)	 State why the refractive index of the cladding must be less than the refractive index 
+of the core in an optical fibre.
+(1)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+	
+(b)	Calculate the maximum value for the angle labelled θ to ensure maximum energy 
+transfer of a light ray along the fibre.
+	
+	
+refractive index for light travelling from core to cladding = 0.99
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+θ = ............................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P50708A01928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 A laser or a light emitting diode (LED) may both be used to produce pulses of light 
+to transmit along the fibre.  The graph shows the intensity of light over a range of 
+wavelengths produced by a laser and by an LED.
+intensity 
+of light
+laser
+LED
+wavelength
+2 nm
+20 nm
+	
+	
+Light of different wavelengths will travel at different speeds along the fibre.
+	
+	
+Use the graph to compare lasers and LEDs as light sources for a communication system.
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+(Total for Question 18 = 7 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P50708A02028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+19	 A tuning fork is used to produce a sound of a single frequency.  The tuning fork consists 
+of two metal prongs joined at one end.  When the fork is struck against a surface the 
+prongs vibrate and a note is audible when the fork is held close to the ear.
+	
+(a)	 Explain how a sound wave travels through the air.
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P50708A02128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	A student holds a vibrating tuning fork gently against the surface of a bowl of water.  
+A pattern of waves on the water is observed.
+	
+	 *(i)	 Explain the pattern of waves observed.
+(4)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The demonstration is repeated with a different tuning fork.  Its prongs are the 
+same distance apart, but it produces a sound of a lower frequency.
+	
+	
+	 State the difference that would be observed.
+(1)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P50708A02228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 The frequency of the sound produced from a tuning fork can be determined using 
+standing waves.
+	
+	
+A tube, open at both ends, is held vertically and placed with one end in water as shown.
+vibrating 
+fork
+tube
+water
+31.8 cm
+	
+	
+A vibrating fork is held above the other end and the tube is moved slowly upwards 
+in the water.  At a particular position the sound is loudest.  When this occurs, there is 
+one node and one antinode. The node is at the surface of the water and the antinode is 
+at the top of the tube.
+	
+	
+(i)	 The distance from the top of the tube to the surface of the water is measured to be 
+31.8 cm.
+	
+	
+	 Determine a value for the frequency of the vibrations of the tuning fork.
+	
+	
+	 speed of sound in air = 330 m s–1
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+Frequency = ....................................................................
+	
+	
+(ii)	 Suggest why the calculated value for frequency in this procedure may be greater 
+than the true value.
+(1)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+(Total for Question 19 = 12 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P50708A02328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+20	 A student is investigating how the resistance of a thermistor varies with temperature.
+	
+The student heats distilled water in a beaker and puts the thermistor in the hot water.  She 
+connects a multimeter directly across the thermistor and uses it to measure resistance.  
+She uses a thermometer to measure the temperature of the water.
+	
+The student records corresponding values of temperature and resistance as the water cools.
+Temperature of 
+water / °C
+Resistance of 
+thermistor / Ω
+80.0
+118
+70.0
+145
+60.0
+180
+50.0
+235
+40.0
+317
+30.0
+457
+20.0
+603
+	
+(a)	 (i)	 The student suggests that the resistance of the leads to the multimeter will cause 
+an error in the results.  She measures the total resistance of the leads to be 1.8 Ω.
+	
+	
+	 Discuss her suggestion.
+(2)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P50708A02428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 State two advantages of using a data logger with suitable probes to measure the 
+resistance and temperature.
+(2)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+	
+(b)	The student plots the results on a graph.
+700 –
+600 –
+500 –
+400 –
+300 –
+200 –
+100 –
+0 –
+0
+–
+20
+–
+40
+–
+60
+–
+80
+–
+100
+–
+Resistance / Ω
+Temperature / °C
+	
+	
+(i)	 Explain, in terms of charge carriers, why these results are obtained.
+(3)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+25
+*P50708A02528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 The student designs the circuit shown, that uses this thermistor to switch on a fan 
+when the temperature is above 24 °C.  The fan switches on when the potential 
+difference across the fan circuit is at least 4.5 V.
+12 V
+resistor
+thermistor
+to fan 
+circuit
+Calculate the resistance of the resistor.
+(4)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+Resistance of the resistor = ....................................................................
+(Total for Question 20 = 11 marks)
+TOTAL FOR SECTION B = 70 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+26
+*P50708A02628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+List of data, formulae and relationships
+Acceleration of free fall	
+ g = 9.81 m s–2	
+(close to Earth’s surface)
+Electron charge	
+ e = –1.60 × 10–19C
+Electron mass                                            me = 9.11 × 10–31kg
+Electronvolt                                              1 eV = 1.60 × 10–19J
+Gravitational field strength                        g = 9.81 N kg–1	
+(close to Earth’s surface)
+Planck constant                                      h = 6.63 × 10–34J s
+Speed of light in a vacuum	
+ c = 3.00 × 108m s–1
+Unit 1
+Mechanics
+	
+Kinematic equations of motion	
+ v = u + at
+	
+	
+ s = ut + ½at2
+	
+	
+ v2 = u2 + 2as
+	
+Forces	
+ΣF = ma
+	
+	
+ g = F/m
+	
+	
+ W = mg
+	
+Work and energy	
+ΔW = FΔs
+	
+	
+Ek = ½mv2
+	
+	
+ΔEgrav = mgΔh
+Materials
+	
+Stokes’ law	
+F = 6ηrv
+	
+Hooke’s law	
+F = kΔx
+	
+Density	
+ ρ = m/V
+	
+Pressure	
+ p = F/A
+	
+Young modulus	
+E = σ/ε where
+	
+	
+Stress σ = F/A
+	
+	
+Strain ε = Δx/x
+	
+Elastic strain energy	
+Eel = ½FΔx
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+27
+*P50708A02728*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Unit 2 
+Waves
+	
+Wave speed	
+v = fλ
+	
+Refractive index	
+1μ2 = sin i/sin r = v1/v2
+Electricity
+	
+Potential difference	
+V = W/Q
+	
+Resistance	
+R = V/I
+	
+Electrical power, energy and 	
+P = VI
+	
+efficiency	
+P = I 2R
+	
+	
+P = V 2/R
+	
+	
+W = VIt
+	
+	
+	
+	
+% efficiency =
+useful energy output
+× 100
+total energy input
+% efficiency =
+useful power output
+× 100
+total power input
+	
+Resistivity	
+R = ρl/A
+	
+Current	
+I = ΔQ/Δt
+	
+	
+I = nqvA
+	
+Resistors in series	
+R = R1 + R2 + R3
+	
+Resistors in parallel	
+1
+1
+1
+1
+1
+2
+3
+R
+R
+R
+R
+=
++
++
+Quantum physics
+	
+Photon model	
+E = hf
+	
+Einstein’s photoelectric 	
+hf = o/ + ½mv2
+max
+	
+equation
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+28
+*P50708A02828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com

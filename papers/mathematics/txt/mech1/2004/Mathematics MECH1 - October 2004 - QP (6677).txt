@@ -1,0 +1,365 @@
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+Advanced/Advanced Subsidiary 
+Tuesday 2 November 2004 −  Morning 
+Time:  1 hour 30 minutes 
+  
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use 
+calculators such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, 
+Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has eight questions. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+1. 
+A man is driving a car on a straight horizontal road. He sees a junction S ahead, at which he 
+must stop. When the car is at the point P, 300 m from S, its speed is 30 m s–1. The car 
+continues at this constant speed for 2 s after passing P. The man then applies the brakes so 
+that the car has constant deceleration and comes to rest at S. 
+ 
+ 
+(a) Sketch, in the space below, a speed-time graph to illustrate the motion of the car in 
+moving from P to S. 
+(2) 
+ 
+(b) Find the time taken by the car to travel from P to S. 
+(3) 
+      
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+    Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   3 kg  
+ 
+m kg 
+ 
+ 
+ 
+The particles have mass 3 kg and m kg, where m < 3. They are attached to the ends of a light 
+inextensible string. The string passes over a smooth fixed pulley. The particles are held in 
+position with the string taut and the hanging parts of the string vertical, as shown in Figure 1. 
+The particles are then released from rest. The initial acceleration of each particle has 
+magnitude 7
+3 g. Find 
+ 
+ 
+(a) the tension in the string immediately after the particles are released, 
+(3) 
+ 
+(b) the value of m. 
+(4) 
+ 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+ 
+                                   
+                           A  
+ 
+ 
+ 
+ 
+ 
+       C  
+         B 
+ 
+     0.4 m 
+4 m 
+ 
+ 
+ 
+A plank of wood AB has mass 10 kg and length 4 m. It rests in a horizontal position on two 
+smooth supports. One support is at the end A. The other is at the point C, 0.4 m from B, as 
+shown in Figure 2. A girl of mass 30 kg stands at B with the plank in equilibrium. By 
+modelling the plank as a uniform rod and the girl as a particle, 
+ 
+ 
+(a) find the reaction on the plank at A. 
+(4) 
+ 
+ 
+The girl gets off the plank. A boulder of mass m kg is placed on the plank at A and a man of 
+mass 80 kg stands on the plank at B. The plank remains in equilibrium and is on the point of 
+tilting about C. By modelling the plank again as a uniform rod, and the man and the boulder 
+as particles, 
+ 
+ 
+(b) find the value of m. 
+(4) 
+ 
+ 
+4. 
+A tent peg is driven into soft ground by a blow from a hammer. The tent peg has mass 0.2 kg 
+and the hammer has mass 3 kg. The hammer strikes the peg vertically. 
+ 
+ 
+Immediately before the impact, the speed of the hammer is 16 m s–1. It is assumed that, 
+immediately after the impact, the hammer and the peg move together vertically downwards. 
+ 
+ 
+(a) Find the common speed of the peg and the hammer immediately after the impact. 
+(3) 
+ 
+ 
+Until the peg and hammer come to rest, the resistance exerted by the ground is assumed to be 
+constant and of magnitude R newtons. The hammer and peg are brought to rest 0.05 s after the 
+impact. 
+ 
+ 
+(b) Find, to 3 significant figures, the value of R. 
+(5) 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+5. 
+A particle P moves in a horizontal plane. The acceleration of P is (–i + 2j) m s–2. At time 
+t = 0, the velocity of P is (2i – 3j) m s–1. 
+ 
+ 
+(a) Find, to the nearest degree, the angle between the vector j and the direction of motion 
+of P when t = 0. 
+(3) 
+ 
+ 
+At time t seconds, the velocity of P is v m s–1. Find 
+ 
+ 
+(b) an expression for v in terms of t, in the form ai + bj, 
+(2) 
+ 
+(c) the speed of P when t = 3, 
+(3) 
+ 
+(d) the time when P is moving parallel to i. 
+(2) 
+ 
+ 
+6. 
+Two cars A and B are moving in the same direction along a straight horizontal road. At time 
+t = 0, they are side by side, passing a point O on the road. Car A travels at a constant speed 
+of 30 m s–1. Car B passes O with a speed of 20 m s–1, and has constant acceleration of 4 m s–2. 
+ 
+ 
+Find 
+ 
+ 
+(a) the speed of B when it has travelled 78 m from O, 
+(2) 
+ 
+(b) the distance from O of A when B is 78 m from O, 
+(4) 
+ 
+(c) the time when B overtakes A. 
+(5) 
+ 
+ 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+     Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          20° 
+ 
+ 
+ 
+ 
+ 
+A sledge has mass 30 kg. The sledge is pulled in a straight line along horizontal ground by 
+means of a rope. The rope makes an angle 20° with the horizontal, as shown in Figure 3. The 
+coefficient of friction between the sledge and the ground is 0.2. The sledge is modelled as a 
+particle and the rope as a light inextensible string. The tension in the rope is 150 N. Find, to 3 
+significant figures, 
+ 
+ 
+(a) the normal reaction of the ground on the sledge, 
+(3) 
+ 
+(b) the acceleration of the sledge. 
+(3) 
+ 
+ 
+When the sledge is moving at 12 m s–1, the rope is released from the sledge. 
+ 
+ 
+(c) Find, to 3 significant figures, the distance travelled by the sledge from the moment when 
+the rope is released to the moment when the sledge comes to rest. 
+(6) 
+ 
+PMT
+
+
+--- Page Break ---
+
+ 
+6 
+8. 
+ 
+ 
+ 
+ 
+ 
+ 
+    Figure 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           60° 
+ 
+ 
+ 
+ 
+A heavy package is held in equilibrium on a slope by a rope. The package is attached to one 
+end of the rope, the other end being held by a man standing at the top of the slope. The 
+package is modelled as a particle of mass 20 kg. The slope is modelled as a rough plane 
+inclined at 60° to the horizontal and the rope as a light inextensible string. The string is 
+assumed to be parallel to a line of greatest slope of the plane, as shown in Figure 4. At the 
+contact between the package and the slope, the coefficient of friction is 0.4. 
+ 
+ 
+(a) Find the minimum tension in the rope for the package to stay in equilibrium on the slope. 
+(8) 
+ 
+ 
+The man now pulls the package up the slope. Given that the package moves at constant speed, 
+ 
+ 
+(b) find the tension in the rope. 
+(4) 
+ 
+ 
+(c) State how you have used, in your answer to part (b), the fact that the package moves 
+ 
+ 
+ 
+(i) 
+up the slope, 
+ 
+ 
+ 
+(ii) at constant speed. 
+(2) 
+ 
+END 
+PMT

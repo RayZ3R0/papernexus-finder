@@ -1,0 +1,344 @@
+Edexcel C1 Specimen Paper    
+ 
+Answer all questions.  Time : 1 hour 30 minutes  
+ 
+ 
+1.  
+Calculate ∑
+=
++
+20
+1
+2
+5
+r
+r  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) 
+ 
+2.  
+Find  ∫
++
+dx
+x
+x
+3
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+ 
+ 
+3.  
+(a) Express √80 in the form a√5, where a is an integer.  
+ 
+ 
+(1) 
+ 
+(b) Express (4 − √5)
+2 in the form b + c√5, where b and c are integers. 
+ 
+(3) 
+ 
+ 
+ 
+4.  
+The points A and B have coordinates (3, 4) and (7, −6) respectively. The straight line 
+l passes through A and is perpendicular to AB. Find an equation for l, giving your 
+answer in the form ax + by + c = 0, where a, b and c are integers. (5) 
+ 
+ 
+ 
+ 
+Figure 1 shows a sketch of the curve with equation y = f(x). 
+ 
+The curve crosses the coordinate axes at the points (0, 1) and (3, 0). The maximum point 
+on the curve is (1, 2). 
+ 
+On separate diagrams, sketch the curve with equation 
+ 
+(a) y = f(x + 1),  
+ 
+ 
+ 
+ 
+ 
+ 
+(3) 
+ 
+(b) y = f(2x). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) 
+ 
+On each diagram, show clearly the coordinates of the maximum point, and of each point 
+at which the curve crosses the coordinate axes. 
+ 
+ 
+6.  
+(a) Solve the simultaneous equations 
+(0, 1) 
+(3, 0) 
+(1, 2) 
+        y 
+x 
+Figure 1 
+ 5.  
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ y + 2x = 5, 
+16
+3
+2
+2
+=
+−
+−
+y
+x
+x
+. 
+ 
+ 
+ 
+ 
+(6) 
+ 
+(b) Hence, or otherwise, find the set of values of x for which 
+ 
+    
+16
+3
+2
+2
+−
+−x
+x
+ > 
+x
+2
+5 −
+ 
+ 
+ 
+ 
+ 
+(3) 
+ 
+ 
+ 
+7.  
+Ahmed plans to save £250 in the year 2001, £300 in 2002, £350 in 2003, and so on until 
+the year 2020. His planned savings form an arithmetic sequence with common difference 
+£50. 
+ 
+(a) Find the amount he plans to save in the year 2011. 
+ 
+ 
+ 
+(2) 
+ 
+(b) Calculate his total planned savings over the 20 year period from 2001 to 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) 
+ 
+Ben also plans to save money over the same 20 year period. He saves £A in the year 2001 
+and his planned yearly savings form an arithmetic sequence with common difference £60. 
+ 
+Given that Ben’s total planned savings over the 20 year period are equal to Ahmed’s total 
+planned savings over the same period, 
+ 
+(c) calculate the value of A. 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+ 
+ 
+8.  
+Given that 
+b
+a
+x
+x
+x
++
++
+=
++
++
+2
+2
+)
+(
+36
+10
+ 
+where a and b are constants, 
+ 
+(a) find the value of a and the value of b.  
+ 
+ 
+ 
+(3) 
+ 
+(b) Hence show that the equation 
+0
+36
+10
+2
+=
++
++
+x
+x
+ has no real roots. 
+ 
+(2) 
+ 
+The equation 
+0
+10
+2
+=
++
++
+k
+x
+x
+has equal roots. 
+ 
+(c) Find the value of k.  
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+ 
+(d) For this value of k, sketch the graph of y =
+k
+x
+x
++
++10
+2
+, showing the coordinates of 
+any points at which the graph meets the coordinate axes.  
+ 
+(4) 
+ 
+ 
+ 
+9.  
+The curve C has equation y = f(x) and the point P(3, 5) lies on C. 
+ 
+Given that 
+f (x) = 3x2 − 8x + 6, 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+(a) find f(x). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+ 
+(b) Verify that the point (2, 0) lies on C.  
+ 
+ 
+ 
+(2) 
+ 
+The point Q also lies on C, and the tangent to C at Q is parallel to the tangent to C at P. 
+ 
+(c) Find the x-coordinate of Q.  
+ 
+ 
+ 
+ 
+ 
+(5) 
+ 
+10.  
+The curve C has equation y = 
+x
+x
+x
+2
+5
+3
++
+−
+, x ≠ 0. 
+ 
+The points A and B both lie on C and have coordinates (1, −2) and (−1, 2) respectively. 
+ 
+(a) Show that the gradient of C at A is equal to the gradient of C at B. 
+ 
+(5) 
+ 
+(b) Show that an equation for the normal to C at A is 4y = x – 9.  
+(4) 
+ 
+The normal to C at A meets the y-axis at the point P. The normal to C at B meets the 
+y-axis at the point Q. 
+ 
+(c) Find the length of PQ. 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+ 
+ 
+END 
+PMT
+PMT

@@ -1,0 +1,852 @@
+Paper Reference
+Turn over    
+Do not return this source booklet with the question paper.
+*P48340A*
+P48340A
+©2017 Pearson Education Ltd.
+1/1/1/1/1
+WAC11/01
+Monday 9 January 2017 – Morning
+Source Booklet
+Accounting
+Paper 1: The Accounting System and Costing
+Pearson Edexcel 
+International Advanced Level
+Turn over    
+
+
+--- Page Break ---
+
+2
+P48340A
+SECTION A
+Answer BOTH questions in this section.
+1 Elodie and Harsha are partners in a transport delivery business. Their partnership 
+agreement states that:
+ 
+• 
+profits and losses will be shared equally 
+• 
+salaries will be paid £8 000 per annum to Elodie and £12 000 per annum to Harsha 
+• 
+interest on capital is allowed at the rate of 5% per annum 
+• 
+interest on drawings is charged at the rate of 10% per annum.
+ 
+The following balances were available at 31 December 2016:
+ 
+£
+ 
+Revenue 
+525 000
+ 
+Commission receivable 
+16 500
+ 
+Trade receivables 
+38 000
+ 
+Allowance for doubtful debts 
+1 400
+ 
+Trade payables 
+26 000
+ 
+Bank overdraft 
+9 200
+ 
+Driver’s wages 
+185 000
+ 
+General expenses 
+67 000
+ 
+Management salaries 
+56 000
+ 
+Non-current assets (cost):
+ 
+ 
+Delivery vehicles 
+140 000
+ 
+ 
+Computers and equipment 
+50 000
+ 
+Provisions for depreciation:
+ 
+ 
+Delivery vehicles 
+50 000
+ 
+ 
+Computers and equipment 
+20 000
+ 
+Capital accounts:
+ 
+ 
+Elodie 
+40 000
+ 
+ 
+Harsha 
+50 000
+ 
+Current accounts:
+ 
+ 
+Elodie 
+4 000 Cr
+ 
+ 
+Harsha 
+8 300 Dr
+ 
+Drawings (excluding partners’ salaries):
+ 
+ 
+Elodie 
+23 000
+ 
+ 
+Harsha 
+28 500
+ 
+Rent and insurance 
+15 800
+ 
+Premises repairs 
+24 000
+ 
+Delivery vehicle fuel 
+106 500 
+ 
+Additional information at 31 December 2016
+ 
+(1) Rent £500 was prepaid and insurance £1 250 was owing.
+ 
+(2) Management salaries include the salaries paid in full to both partners.
+
+
+--- Page Break ---
+
+3
+P48340A
+Turn over    
+ 
+(3) On 15 December 2016 Delivery Vehicle B was traded in and replaced by Delivery 
+Vehicle F. The balance of the purchase price for Delivery Vehicle F was on credit 
+from Speed Garage. 
+ 
+ 
+No entries had been made in the books.
+ 
+ 
+The details for Delivery Vehicle B and Delivery Vehicle F were:
+Cost  
+ 
+£
+Accumulated 
+depreciation to 
+1 January 2016
+£
+Total purchase 
+price 
+£
+Trade-in value 
+ 
+£
+Sold 
+Delivery Vehicle B
+14 000
+5 000
+–
+4 000
+Purchased 
+Delivery Vehicle F
+–
+–
+25 000
+–
+ 
+(4) Depreciation is to be charged as follows:
+ 
+ 
+• 
+delivery vehicles at the rate of 20% per annum reducing balance 
+ 
+ 
+• 
+computers and equipment at the rate of 20% per annum straight line 
+ 
+ 
+• 
+no depreciation is charged on non-current assets in the year of purchase 
+ 
+ 
+• 
+a full year’s depreciation is charged on non-current assets in the year of sale.
+ 
+(5) The allowance for doubtful debts is to be maintained at 5% of trade receivables. 
+ 
+Required
+ 
+(a) Prepare for the year ended 31 December 2016 the:
+ 
+ 
+(i) Delivery Vehicles Account
+(4)
+ 
+ 
+(ii) Delivery Vehicles Disposal Account.
+  (4)
+ 
+(b) Prepare for the partnership the:
+ 
+ 
+(i) Statement of Profit or Loss and Other Comprehensive Income (including an 
+appropriation section) for the year ended 31 December 2016 
+(17)
+ 
+ 
+(ii) Current Accounts of the partners for the year ended 31 December 2016
+(6)
+ 
+ 
+(iii) Statement of Financial Position at 31 December 2016. 
+(12)
+ 
+Elodie and Harsha are considering admitting Aja as a partner.
+ 
+(c) Evaluate the possible admission of Aja as a partner. 
+(12)
+(Total for Question 1 = 55 marks)
+
+
+--- Page Break ---
+
+4
+P48340A
+2 Wright Household, a retailer, has three departments:
+ 
+• 
+Furniture
+ 
+• 
+Carpets
+ 
+• 
+Café.
+ 
+The following balances were extracted from the books at 31 December 2016:
+ 
+ 
+£
+ 
+Revenue:
+ 
+ 
+Furniture 
+450 000
+ 
+ 
+Carpets 
+300 000
+  
+ 
+Café 
+50 000
+ 
+Cost of sales:
+ 
+ 
+Furniture 
+190 000
+ 
+ 
+Carpets 
+140 000
+  
+ 
+Café 
+30 000
+ 
+Wages:
+ 
+ 
+Furniture 
+80 000
+ 
+ 
+Carpets 
+ 50 000
+  
+ 
+Café 
+20 000
+ 
+Management salaries 
+65 000
+ 
+Delivery vehicle expenses 
+26 000
+ 
+Heat and light 
+10 800
+ 
+Redecoration of building 
+13 500
+ 
+Rates for building  
+18 900
+ 
+General expenses 
+ 64 000
+ 
+Non-current assets (cost):
+ 
+ 
+Land and building 
+260 000
+ 
+ 
+Delivery vehicle 
+25 000
+ 
+ 
+Fixtures and equipment 
+ 40 000
+ 
+Provisions for depreciation:
+ 
+ 
+Land and building 
+52 000
+ 
+ 
+Delivery vehicle 
+ 5 000
+ 
+ 
+Fixtures and equipment 
+ 21 000 
+
+
+--- Page Break ---
+
+5
+P48340A
+Turn over    
+ 
+Additional information at 31 December 2016
+ 
+(1) A purchase of carpets, £11 000, had been recorded in error as a purchase of 
+furniture for resale.
+ 
+(2) Wages accrued: Furniture £3 000, Carpets £5 000
+ 
+(3) Rates for building of £900 were prepaid.
+ 
+(4) Depreciation is to be charged as follows:
+ 
+ 
+• 
+no depreciation is charged on the land cost of £80 000. Depreciation is 
+charged on the buildings at the rate of 2% straight line
+ 
+ 
+• 
+delivery vehicle at the rate of 25% per annum reducing balance
+ 
+ 
+• 
+fixtures and equipment at the rate of 15% per annum straight line.
+ 
+(5) Provide for a:
+ 
+ 
+• 
+doubtful debt of £4 000 for carpets supplied to a customer
+ 
+ 
+• 
+legal claim of £600 for an injury to a customer in the café.
+ 
+(6) Departmental data:
+Furniture
+Carpets
+Café
+Staff employed (number)
+10
+7
+3
+Delivery vehicle use (%)
+70
+30
+Nil
+Floor area occupied (sq m)
+1 000
+600
+200
+Fixtures and equipment cost (£)
+8 000
+10 000
+22 000
+ 
+Required
+ 
+(a) Prepare the Departmental Statement of Profit or Loss and Other Comprehensive 
+Income, in columnar format, for the year ended 31 December 2016.
+(35)
+ 
+The owner of Wright Household is considering closing the café as he believes that the 
+department makes a loss.
+ 
+(b) Evaluate the closure of the café.
+(12)
+
+
+--- Page Break ---
+
+6
+P48340A
+ 
+Wright Household remunerates its staff on a day work basis. It is considering changing 
+this method of remuneration to a group bonus scheme for each department.
+ 
+(c) Explain the terms:
+ 
+ 
+(i) day work
+(2)
+ 
+ 
+(ii) group bonus scheme.
+(2)
+ 
+(d) State two advantages for Wright Household of remunerating staff by day work.
+(2)
+ 
+(e) Advise whether a group bonus scheme would be appropriate for the café staff.
+(2)
+(Total for Question 2 = 55 marks)
+TOTAL FOR SECTION A = 110 MARKS
+
+
+--- Page Break ---
+
+7
+P48340A
+Turn over    
+BLANK PAGE
+QUESTION 3 BEGINS ON THE NEXT PAGE.
+
+
+--- Page Break ---
+
+8
+P48340A
+SECTION B
+Answer THREE questions from this section.
+3 Protea Venture Capital is considering the purchase of Zollar Power. The following 
+information is available:
+Zollar Power 
+Summary Statement of Profit or Loss and Other Comprehensive Income 
+for the year ended 30 November 2016
+£
+£
+Revenue
+750 000
+Cost of sales
+300 000
+Wages and salaries
+240 000
+Bank loan interest
+25 000
+Marketing
+40 000
+Depreciation
+40 000
+Rent
+15 000
+General expenses
+75 000
+735 000
+Profit for the year
+15 000
+ 
+Additional information at 30 November 2016
+ 
+(1) Bank loan £250 000
+ 
+(2) Capital £550 000 
+ 
+Required
+ 
+(a) Calculate for Zollar Power the:
+ 
+ 
+(i) gross profit as a percentage of revenue 
+(2)
+ 
+ 
+(ii) profit for the year as a percentage of revenue
+(2)
+ 
+ 
+(iii) percentage return on capital employed.
+(2)
+
+
+--- Page Break ---
+
+9
+P48340A
+Turn over    
+ 
+If Protea Venture Capital purchased Zollar Power it would: 
+ 
+• 
+invest an additional £250 000 in the business at the start of the year and repay the 
+bank loan in full
+ 
+• 
+increase marketing expenditure by £31 000 per annum, which will increase sales 
+volume by 20%
+ 
+• 
+increase the volume of purchases in line with sales, however lower quality goods 
+will be purchased for resale, saving 10% on all purchases made
+ 
+• 
+make 15 staff redundant saving £90 000
+ 
+• 
+reduce general expenses by £15 000
+ 
+ 
+Required
+ 
+(b) Prepare the Projected Statement of Profit or Loss and Other Comprehensive 
+Income for the year ended 30 November 2017.
+(10)
+ 
+(c) Calculate for the year ended 30 November 2017 the projected:
+ 
+ 
+(i) profit for the year as a percentage of revenue
+(2)
+ 
+ 
+(ii) percentage return on capital employed.
+(2)
+ 
+(d) Explain the term social and ethical accounting.
+(4)
+ 
+(e) Evaluate the proposal of Protea Venture Capital for the purchase of Zollar Power. 
+(6)
+(Total for Question 3 = 30 marks)
+
+
+--- Page Break ---
+
+10
+P48340A
+4 Sanith prepared a trial balance on 30 November 2016 that failed to agree. In checking 
+his transactions for the month of November, he found that the account of one of his 
+suppliers, Kamila, contained errors. The account was recorded as follows:
+Kamila Account
+2016
+£
+2016
+£
+8   November
+Purchases
+1 400
+1   November
+Balance b/d
+8 000
+15 November
+Bank
+5 600
+15 November
+Discount
+400
+30 November
+Balance c/d
+1 930
+20 November
+Returns
+530
+8 930
+8 930
+1   December
+Balance b/d
+1 930
+ 
+On inspection of the books Sanith found the following errors:
+ 
+(1) Purchases of £1 400 had been correctly entered in the Purchases Account but 
+debited to the account of Kamila.
+ 
+(2) Discount received of £400 on 15 November had been credited to the account of 
+Kamila. Other entries for this transaction were correct.
+ 
+(3) A credit purchase of goods from Kamila on 18 November, £2 100, had been 
+posted to the account of Robson.
+ 
+(4) A return of goods, £350, to Kamila on 20 November had been correctly recorded 
+in the book of prime entry. This had been recorded in Kamila’s account as £530
+ 
+(5) A payment of £1 500 made by cheque to Kamila on 25 November was omitted 
+from the books. 
+ 
+Required
+ 
+(a) Prepare the journal entries to correct the errors (1) to (5) in the books.  
+Narratives are not required.
+(10)
+ 
+(b) Complete the account of Kamila in your question paper, showing the additional 
+entries required to correct the errors.
+(10)
+ 
+(c) Explain the difference between an:
+ 
+ 
+(i) error of compensation and an error of reversal 
+ (2)
+ 
+ 
+(ii) error of principle and an error of commission. 
+(2)
+ 
+(d) Evaluate the use of the trial balance.
+ (6)
+(Total for Question 4 = 30 marks)
+
+
+--- Page Break ---
+
+11
+P48340A
+Turn over    
+5 Falgu commenced business as a builder on 1 December 2015. The following 
+information is available for the year ended 30 November 2016:
+ 
+• 
+raw materials costing £80 000 were purchased and used 
+ 
+• 
+Falgu marks up all raw materials by 15% 
+ 
+• 
+Falgu worked 50 hours per week for 50 weeks of the year
+ 
+• 
+80% of the hours worked by Falgu were charged to customers
+ 
+• 
+overhead costs were:
+ 
+ 
+Rent of premises 
+£1 000  per month
+ 
+ 
+General expenses 
+£13 500  per year
+ 
+ 
+Motor vehicle running costs 
+£8 500 per year
+ 
+• 
+Falgu charged a rate to customers of £25 per hour to cover his labour 
+and overheads.
+ 
+Required
+ 
+(a) Explain the difference between mark-up and margin.
+(2)
+ 
+(b) State whether the following costs would be fixed, semi-fixed, semi-variable or 
+variable, giving your reason for each:
+ 
+ 
+(i) raw materials 
+(2)
+ 
+ 
+(ii) rent of premises
+(2)
+ 
+ 
+(iii) telephone costs (included in general expenses).
+(2)
+ 
+(c) Calculate Falgu’s profit or loss for the year ended 30 November 2016.
+(8)
+ 
+Falgu has decided to charge a rate to customers in the future that will provide him 
+with a profit for the year of £40 000.
+ 
+(d) Calculate the hourly rate that Falgu would need to charge to customers.
+(4)
+ 
+(e) Prepare a quotation for a customer where:
+ 
+ 
+Raw materials purchase price 
+£1 100
+ 
+ 
+Falgu’s hours worked 
+35 hours
+ (4)
+ 
+Falgu is considering the use of information and communications technology (ICT) to 
+operate his business.
+ 
+(f) Evaluate the use of information and communications technology (ICT) to operate 
+Falgu’s business.
+ (6)
+(Total for Question 5 = 30 marks)
+
+
+--- Page Break ---
+
+12
+P48340A
+6 Raegan buys and sells clothing on credit. She does not maintain a full set of books 
+but the following information is available for the year ended 31 December 2016.
+ 
+(1)  
+Cash Book (summary)
+£
+£
+Receipts from credit customers
+47 200
+Balance b/d
+750
+Cash sales banked
+8 300
+Payments to credit suppliers
+35 000
+Commission receivable
+5 000
+Purchase of computers
+7 400
+Balance c/d
+280
+Wages by cheque
+9 000
+General expenses
+8 630
+60 780
+60 780
+Balance b/d
+280
+ 
+(2) Balances at: 
+1 January 2016
+31 December 2016
+£
+£
+Trade receivables
+5 750
+4 400
+Trade payables
+2 750
+6 100
+Inventory
+10 920
+9 350
+Computers and fixtures (carrying value)
+15 000
+17 500
+General expenses
+450 Accrued
+920 Prepaid
+Commission receivable
+–
+600 Accrued
+ 
+(3) Cash sales were banked after payment of the following:
+£
+Wages
+10 350
+Drawings
+10 500
+Purchase of fixtures
+6 000
+Purchase of goods
+2 000
+ 
+(4) Fixtures were sold, on credit, in December for £1 300 at carrying value.
+
+
+--- Page Break ---
+
+13
+P48340A
+ 
+Required
+ 
+(a) Explain the difference between:
+ 
+ 
+(i) capital expenditure and revenue expenditure 
+(2)
+ 
+ 
+(ii) capital and capital employed. 
+(2)
+ 
+(b) Calculate for the year ended 31 December 2016 the:
+ 
+ 
+(i) revenue
+(4)
+ 
+ 
+(ii) purchases
+(3)
+ 
+ 
+(iii) depreciation on computers and fixtures.
+(4)
+ 
+(c) Prepare the Statement of Profit or Loss and Other Comprehensive Income for the  
+year ended 31 December 2016. 
+(9)
+ 
+(d) Evaluate the need to maintain double entry records in a business.
+(6)
+(Total for Question 6 = 30 marks)
+TOTAL FOR SECTION B = 90 MARKS 
+TOTAL FOR PAPER = 200 MARKS
+
+
+--- Page Break ---
+
+14
+P48340A
+BLANK PAGE
+
+
+--- Page Break ---
+
+15
+P48340A
+BLANK PAGE
+
+
+--- Page Break ---
+
+16
+P48340A
+BLANK PAGE

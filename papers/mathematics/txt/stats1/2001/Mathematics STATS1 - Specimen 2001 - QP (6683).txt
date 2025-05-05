@@ -1,0 +1,186 @@
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy.
+Edexcel Foundation is a registered charity. © 2003 London Qualifications Limited
+Paper Reference(s)
+6683
+Edexcel GCE
+Statistics S1
+Advanced Subsidiary
+Specimen Paper
+Time: 1 hour 30 minutes
+Materials required for examination                       Items included with question papers
+Answer Book (AB16)                                                Nil
+Mathematical Formulae (Lilac)
+Graph Paper (ASG2)
+Candidates may use any calculator EXCEPT those with the facility for
+symbolic algebra, differentiation and/or integration. Thus candidates may
+NOT use calculators such as the Texas Instruments TI 89, TI 92, Casio
+CFX 9970G, Hewlett Packard HP 48G.
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your
+centre number, candidate number, the unit title (Statistics S1), the paper reference (6683),
+your surname, other name and signature.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has eight questions.
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers
+without working may gain no credit.
+PMT
+
+
+--- Page Break ---
+
+2
+1.
+(a) Explain what you understand by a statistical model.
+(2)
+(b) Write down a random variable which could be modelled by
+(i) a discrete uniform distribution,
+(ii) a normal distribution.
+(2)
+2.
+A group of students believes that the time taken to travel to college, T minutes, can be assumed
+to be normally distributed. Within the college 5% of students take at least 55 minutes to travel to
+college and 0.1% take less than 10 minutes.
+Find the mean and standard deviation of T.
+(9)
+3.
+The discrete random variable X has probability function
+
+
+
+
+
+
+
+
+otherwise.
+,0
+,5 
+4,
+ 
+3,
+ ,2
+,1
+,
+P
+x
+kx
+x
+X
+(a)  Show that 
+.
+15
+1
+
+k
+(3)
+Find the value of
+(b)  E(2X  + 3),
+(5)
+(c)  Var(2X  4).
+(6)
+PMT
+
+
+--- Page Break ---
+
+3
+4.
+A drilling machine can run at various speeds, but in general the higher the speed the sooner
+the drill needs to be replaced. Over several months, 15 pairs of observations relating to speed,
+s revolutions per minute, and life of drill, h hours, are collected.
+For convenience the data are coded so that x = s – 20 and y = h – 100 and the following
+summations obtained.
+.
+484
+;
+22441
+;
+2413
+;
+391
+;
+143
+2
+2
+
+
+
+
+
+
+
+
+
+
+xy
+y
+x
+y
+x
+(a) Find the equation of the regression line of h on s.
+(10)
+(b) Interpret the slope of your regression line.
+(2)
+Estimate the life of a drill revolving at 30 revolutions per minute.
+(2)
+PMT
+
+
+--- Page Break ---
+
+Q
+5.
+(a) Explain briefly the advantages and disadvantages of using the quartiles to summarise a
+set of data.
+(4)
+(b) Describe the main features and uses of a box plot.
+(3)
+The distances, in kilometres, travelled to school by the teachers in two schools, A and B, in
+the same town were recorded. The data for School A are summarised in Diagram 1.
+Diagram 1
+        0                10               20               30               40               50              60
+Distance in kilometres
+For School B, the least distance travelled was 3 km and the longest distance travelled was
+55 km. The three quartiles were 17, 24 and 31 respectively.
+An outlier is an observation that falls either 1.5  (interquartile range) above the upper
+quartile or 1.5  (interquartile range) below the lower quartile.
+(c) Draw a box plot for School B.
+(5)
+(d) Compare and contrast the two box plots.
+(4)
+School A
+PMT
+
+
+--- Page Break ---
+
+5
+6.
+For any married couple who are members of a tennis club, the probability that the husband has
+a degree is 5
+3  and the probability that the wife has a degree is 2
+1 . The probability that the
+husband has a degree, given that the wife has a degree, is 12
+11 .
+A married couple is chosen at random.
+(a) Show that the probability that both of them have degrees is 24
+11 .
+(2)
+(b) Draw a Venn diagram to represent these data.
+(5)
+Find the probability that
+(c) only one of them has a degree,
+(2)
+(d) neither of them has a degree.
+(3)
+Two married couples are chosen at random.
+(e) Find the probability that only one of the two husbands and only one of the two wives have
+degrees.
+(6)
+END
+PMT

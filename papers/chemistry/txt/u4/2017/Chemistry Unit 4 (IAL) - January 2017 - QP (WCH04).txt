@@ -1,0 +1,1211 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P48372RA
+©2017 Pearson Education Ltd.
+6/6/5/5/1/1/
+*P48372RA0128*
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, Equilibria and 
+Further Organic Chemistry  
+(including synoptic assessment)
+Thursday 12 January 2017 – Afternoon
+Time: 1 hour 40 minutes
+WCH04/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+•  Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90.
+•  The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•  Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P48372RA0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 The rate equation for the reaction in which carbon disulfide, CS2, decomposes is
+rate = k[CS2]
+ 
+The units of the rate constant, k, are
+ 
+ 
+A s
+ 
+ 
+B s–1
+ 
+ 
+C mol dm–3 s–1
+ 
+ 
+D dm3 mol–1 s–1 
+(Total for Question 1 = 1 mark)
+2 The chemical equation and the rate equation for the reaction between nitrogen monoxide 
+and bromine are
+2NO(g) + Br2(g) o 2NOBr
+rate = k[NO]2[Br2]
+ 
+When the concentration of nitrogen monoxide is halved and the concentration of bromine 
+is doubled, the rate is
+ 
+ 
+A unchanged.
+ 
+ 
+B doubled.
+ 
+ 
+C halved.
+ 
+ 
+D quartered.
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P48372RA0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 Which graph shows how the rate constant of a reaction, k, changes with temperature?
+ 
+ 
+A 
+Temperature
+k
+ 
+ 
+B 
+Temperature
+k
+ 
+ 
+C 
+Temperature
+k
+ 
+ 
+D 
+Temperature
+k
+(Total for Question 3 = 1 mark)
+4 When solid sodium hydrogencarbonate is added to dilute hydrochloric acid, the mixture 
+starts fizzing and the temperature drops.
+NaHCO3(s) + HCl(aq) o NaCl(aq) + CO2(g) + H2O(l)
+ 
+Which statement about this reaction is not true?
+ 
+ 
+A ǻH is positive.
+ 
+ 
+B ǻSsurroundings is positive.
+ 
+ 
+C ǻSsystem  is positive.
+ 
+ 
+D ǻStotal  is positive.
+(Total for Question 4 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P48372RA0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+5 There is a decrease in the entropy of the system when 
+ 
+ 
+A a gaseous molecule decomposes into two smaller gaseous molecules.
+ 
+ 
+B a solid decomposes to form a gas.
+ 
+ 
+C a vapour condenses.
+ 
+ 
+D a solid melts.
+(Total for Question 5 = 1 mark)
+6 What is the enthalpy change for dissolving sodium chloride in water?
+NaCl(s)  +  aq  o  Na+(aq)  +  Cl– (aq)
+ǻHsol  =  ǻHsolution            ǻHhyd  =  ǻHhydration
+ 
+ 
+A ǻHsol  =  +  Lattice energy of NaCl     +   ǻHhyd Na+    +   ǻHhyd Cl–
+ 
+ 
+B ǻHsol  =  +  Lattice energy of NaCl     −   ǻHhyd Na+    −   ǻHhyd Cl–
+ 
+ 
+C ǻHsol  =  −  Lattice energy  of NaCl    −   ǻHhyd Na+    −   ǻHhyd Cl–
+ 
+ 
+D ǻHsol  =  −  Lattice energy of NaCl     +   ǻHhyd Na+    +   ǻHhyd Cl–
+(Total for Question 6 = 1 mark)
+7 Energy is given out when one mole of gaseous sodium ions is hydrated.
+Na+(g)  +  aq  o  Na+(aq)
+ 
+This reaction is more exothermic than the corresponding reaction for 
+potassium ions, K+(g), because
+ 
+ 
+A sodium compounds are more soluble than potassium compounds.
+ 
+ 
+B the first ionisation energy of sodium is greater than the first ionisation energy 
+of potassium.
+ 
+ 
+C the lattice energies of sodium compounds are more exothermic than the 
+lattice energies of corresponding potassium compounds.
+ 
+ 
+D the radius of the Na+ ion is less than the radius of the K+ ion.
+(Total for Question 7 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P48372RA0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+8 Silver oxide decomposes on heating.
+Ag2O(s) o 2Ag(s) + ½O2(g)
+ 
+What is the expression for the equilibrium constant, Kp, for this reaction?
+ 
+ 
+A 
+2
+½
+2
+p
+2
+( Ag)
+( O )
+( Ag O)
+p
+p
+K
+p
+×
+=
+ 
+ 
+B 
+2
+p
+2
+½
+2
+( Ag O)
+( Ag)
+( O )
+p
+K
+p
+p
+=
+×
+ 
+ 
+C 
+½
+p
+2
+( O )
+K
+p
+=
+ 
+ 
+D 
+p
+½
+2
+1
+( O )
+K
+p
+=
+(Total for Question 8 = 1 mark)
+9 The dissociation of methanoic acid in aqueous solution is endothermic.  When a 
+sample of aqueous methanoic acid is warmed
+ 
+ 
+A the pH will decrease.
+ 
+ 
+B the pH does not change.
+ 
+ 
+C the concentration of undissociated HCOOH will increase.
+ 
+ 
+D the concentration of methanoate ions will decrease.
+(Total for Question 9 = 1 mark)
+10 Which solution has the highest pH?
+ 
+ 
+A 0.010 mol dm–3  sodium hydroxide solution
+ 
+ 
+B 0.100 mol dm–3  sodium hydroxide solution
+ 
+ 
+C 0.010 mol dm–3  aqueous ammonia
+ 
+ 
+D 0.100 mol dm–3  aqueous ammonia
+(Total for Question 10 = 1 mark)
+11 An indicator with a pH range 3.8 to 5.4 is suitable for the titration of
+ 
+ 
+A nitric acid with ammonia.
+ 
+ 
+B ethanoic acid with sodium hydroxide.
+ 
+ 
+C ethanoic acid with ammonia.
+ 
+ 
+D sodium thiosulfate with iodine.
+(Total for Question 11 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P48372RA0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+12 The reaction between concentrated nitric acid and concentrated sulfuric acid is
+HNO3  +  H2SO4  `
+_  H2NO3
++   +  HSO4
+–
+ 
+The Brønsted-Lowry acids in this equilibrium are 
+ 
+ 
+A HNO3 and H2SO4
+ 
+ 
+B H2NO33
++ and HSO4
+–
+ 
+ 
+C HNO3 and HSO4
+–
+ 
+ 
+D H2NO33
++ and H2SO4
+(Total for Question 12 = 1 mark)
+13 When one of the optical isomers of 2-bromobutane reacts with aqueous hydroxide ions 
+by an SN2 mechanism, butan-2-ol is formed.
+ 
+Which of the following is correct?
+ 
+ 
+A There are two steps in the reaction.
+ 
+ 
+B The butan-2-ol which forms is optically active.
+ 
+ 
+C A racemic mixture forms.
+ 
+ 
+D A planar intermediate forms.
+(Total for Question 13 = 1 mark)
+14 Ethanamide, CH3CONH2 , is formed in one step by the reaction of
+ 
+ 
+A ethanoic acid with ammonia.
+ 
+ 
+B ethanoyl chloride with ammonia.
+ 
+ 
+C ethanal with hydrogen cyanide.
+ 
+ 
+D methanol with methylamine.
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P48372RA0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+15 The ester 
+O
+O
+ 
+can be made by reacting 
+ 
+ 
+A ethanoic acid with 2-methylbutan-2-ol.
+ 
+ 
+B propanoic acid with 2-methylbutan-2-ol.
+ 
+ 
+C ethanoic acid with 3-methylbutan-2-ol.
+ 
+ 
+D propanoic acid with 3-methylbutan-2-ol.
+(Total for Question 15 = 1 mark)
+16 Propanoic acid can be obtained by the
+ 
+ 
+A oxidation of propanone with potassium dichromate(VI) and sulfuric acid.
+ 
+ 
+B reduction of propanal with lithium tetrahydridoaluminate(III).
+ 
+ 
+C hydrolysis of methyl propanoate with hydrochloric acid.
+ 
+ 
+D hydrolysis of propyl methanoate with hydrochloric acid.
+(Total for Question 16 = 1 mark)
+17 Which pair of compounds can be easily distinguished by their infrared spectra 
+outside the fingerprint region?
+ 
+ 
+A C2H4 from C2H6
+ 
+ 
+B C4H10 from C5H12
+ 
+ 
+C CH3CH2CH2OH from CH3CH(OH)CH3
+ 
+ 
+D CH3COOC2H5  from C2H5COOCH3
+(Total for Question 17 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P48372RA0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+18 Which of the following statements about gas chromatography (GC) is true?
+ 
+ 
+A It is only carried out at room temperature.
+ 
+ 
+B It can be used for samples which decompose when they are vaporised.
+ 
+ 
+C It can be used for non-volatile substances.
+ 
+ 
+D It can be used to measure the amount of each component in a mixture.
+(Total for Question 18 = 1 mark)
+19 The mass spectrum of dichloroethene, C2H2Cl2, has large peaks at m / e values of 61 and 63 
+due to fragmentation when a C
+Cl bond breaks. 
+ 
+The only isotopes present in the fragment forming the peak at m / e = 63 are
+ 
+ 
+A 
+12C, 1H and 35Cl.
+ 
+ 
+B 
+14C, 1H and 35Cl.
+ 
+ 
+C 
+12C, 2H and 37Cl.
+ 
+ 
+D 
+12C, 1H and 37Cl.
+(Total for Question 19 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P48372RA0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+20 The infrared spectrum of a compound is shown.
+       
+Relative 
+transmittance
+Wavenumber/cm–1
+1
+0.8
+0.6
+0.4
+0.2
+3000
+2000
+1000
+ 
+Use the information on pages 5 and 6 of your Data Booklet to identify which 
+compound produced this spectrum.
+ 
+ 
+A C3H7CHO
+ 
+ 
+B CH3COC2H5
+ 
+ 
+C CH3CH
+CHCH2OH
+ 
+ 
+D C5H12
+(Total for Question 20 = 1 mark)
+                                                                           TOTAL FOR SECTION A = 20 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P48372RA01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Crystal violet is an indicator which is coloured in solutions of acids, and colourless in alkalis.
+ 
+The kinetics of the reaction of crystal violet with sodium hydroxide were investigated.  
+Using the abbreviation CV+ for the formula of crystal violet, a simplified equation for 
+the reaction is 
+CV+(aq)  +  OH–(aq)  o  CVOH(aq)
+                                                              violet                              colourless
+ 
+(a) Equal volumes of 0.100 mol dm–3 sodium hydroxide and 5.00 × 10–5 mol dm–3 
+crystal violet were mixed.
+ 
+ 
+(i) Explain why very different concentrations of sodium hydroxide and crystal violet 
+were used in the experiment to find the order with respect to crystal violet.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+   
+ 
+(ii) Suggest a method which could be used in this experiment to continuously 
+monitor the change in concentration of crystal violet with time.
+(1)
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P48372RA01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) The graph shows how the concentration of crystal violet changes with time.
+[CV+(aq)] / 
+10–5mol dm–3
+Time / min
+2.5 –
+2.0 –
+1.5 –
+1.0 –
+0.5 –
+ 0–
+0
+–
+5
+–
+10
+–
+15
+–
+20
+–
+25
+–
+30
+–
+ 
+ 
+ 
+Measure two half-lives for this reaction showing your working on the graph. 
+Give the half-lives below.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Use your half-lives to deduce the order with respect to CV+.
+ 
+ 
+ 
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P48372RA01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) In another series of experiments the rate constant was determined at  
+different temperatures.
+ 
+ 
+The table shows the values of the rate constant, k, at different temperatures. 
+Some of the corresponding values for the reciprocal of temperature and ln k are also shown.
+ 
+ 
+(i) Complete the table by calculating the missing values.
+(1)
+T/K
+k
+1
+1
+T / K −
+ln k
+285
+3.35 × 10–3
+3.51 × 10–3
+−5.70
+288
+4.30 × 10–3
+3.47 × 10–3
+−5.45
+291
+5.19 × 10–3
+3.44 × 10–3
+−5.26
+294
+6.67 × 10–3
+3.40 × 10–3
+−5.01
+297
+7.91 × 10–3
+ 
+ 
+(ii) Plot a graph of ln k on the vertical axis against 1/T on the horizontal axis and 
+calculate the gradient.
+(5)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P48372RA01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Gradient  ..........................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Use your value of the gradient in (b)(ii) to calculate the activation energy, Ea , 
+of the reaction.  
+ 
+ 
+ 
+Remember to include units with your answer, which should be given to 
+two significant figures.
+ 
+ 
+ 
+ The Arrhenius equation is 
+ln
+[
+.
+]
+k
+E
+R
+T
+R
+a
+= −
+×
+=
+−
+−
+1
+8 3
+1
+1
+ +   constant
+1 J mol  K
+(2)
+(Total for Question 21 = 14 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P48372RA01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P48372RA01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+22 This question is about the isomers P and Q.
+CH3COCH(CH3)2                      CH3CH2COCH2CH3
+                                                                  P                                                  Q
+ 
+(a) Identify the reagent used in a test to show that P and Q are both carbonyl compounds.
+ 
+ 
+Give the positive result of the test.
+(2)
+Reagent  ...........................................................................................................................................................................................................................................................
+Result  .................................................................................................................................................................................................................................................................
+ 
+(b) Identify the reagents used in a test which gives a positive result with P but 
+not with Q.
+ 
+ 
+Give the positive result of the test and identify the organic product which is observed.
+(3)
+Reagents  .........................................................................................................................................................................................................................................................
+Result  .................................................................................................................................................................................................................................................................
+Identity of organic product  .........................................................................................................................................................................................................
+ 
+(c) Name the organic product formed when P reacts under suitable conditions with 
+lithium tetrahydridoaluminate(III).
+(1)
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P48372RA01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) The proton nmr spectra of P and Q were compared.  Complete the table.
+(4)
+P 
+ CH3COCH(CH3)2
+Q 
+CH3CH2COCH2CH3
+Number of peaks in the 
+low resolution nmr spectrum
+Number of H atoms producing 
+peak with the greatest area in 
+low resolution nmr spectrum
+Splitting pattern of the peak 
+with greatest area in the 
+high resolution nmr spectrum
+ 
+(e) A sequence of reactions was carried out with Q.
+CH3CH2COCH2CH3
+Compound R
+   OH
+CH3CH2CCH2CH3
+        COOH
+Compound S
+Polymer T
+HCN in the presence of NaCN
+reagent A
+heat with an acid catalyst
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P48372RA01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(i) Complete the mechanism for the reaction of Q with HCN in the presence of 
+NaCN, showing relevant curly arrows, lone pairs, charges and dipoles.
+(4)
+                     
+CH3CH2CCH2CH3
+O
+C
+N–
+ 
+ 
+(ii) Identify the reagent A used to convert compound R to compound S.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Draw the displayed formula of two repeat units of polymer T.
+(2)
+(Total for Question 22 = 17 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P48372RA01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+23 This question is about lactic acid, CH3CH(OH)COOH
+ 
+(a) Give the IUPAC name for lactic acid.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Write the equation for the reaction of lactic acid with excess 
+phosphorus(V) chloride, PCl5, showing the structural formula of the organic product.
+ 
+ 
+State symbols are not required.
+(3)
+ 
+(c) The acid dissociation constant, Ka, of lactic acid is 1.38 × 10–4 mol dm–3.
+ 
+ 
+(i) Write the expression for the acid dissociation constant of lactic acid.
+(1)
+   
+ 
+(ii) State whether lactic acid is a stronger or weaker acid than ethanoic acid.
+ 
+ 
+ 
+Quote data from page 18 of your Data Booklet to justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P48372RA01928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Calculate the pH of a 0.150 mol dm–3 solution of lactic acid, giving your answer 
+to two decimal places.  State two assumptions you have made.
+(4)
+Assumptions
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+ 
+ 
+(iv) A buffer solution with a pH of 4.00 is prepared using lactic acid and 
+sodium lactate, CH3CH(OH)COONa.
+ 
+ 
+ 
+Calculate the mass of sodium lactate that should be dissolved in 1.00 dm3 of 
+0.150 mol dm–3 solution of lactic acid to make a buffer solution of pH 4.00.
+ 
+ 
+ 
+Sodium lactate has molar mass of 112 g mol–1.
+(4)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P48372RA02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(v) A small volume of hydrochloric acid is added to the buffer solution made in (c) (iv).
+ 
+ 
+ 
+Explain why the pH of the solution does not change significantly.   
+Include an equation when you refer to any reaction which occurs.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 17 marks)
+                                                                           TOTAL FOR SECTION B = 48 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P48372RA02128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24 Nitrosyl chloride, NOCl, is a yellow gas which decomposes on heating.
+2NOCl(g)  `
+_  2NO(g)  +  Cl2(g)
+ 
+(a) A sample of 2.00 mol of NOCl was heated in a sealed vessel to a certain temperature, T.  
+The volume of the vessel was 5.00 dm3.  When equilibrium was reached, 0.220 mol of NO 
+had been formed.
+ 
+ 
+(i) Write the expression for the equilibrium constant, Kc, for this reaction.
+(1)
+ 
+ 
+ *(ii) Calculate the value of Kc under these conditions.  Include units in your answer.
+(4)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P48372RA02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(iii) The volume of the vessel containing the equilibrium mixture in (a) was 
+doubled to 10 dm3, keeping the temperature constant.
+ 
+ 
+ 
+State the effect of this change in volume on the value of Kc and on the 
+number of moles of NO at equilibrium.  A calculation is not required but justify 
+your answers.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b)  (i) Some data about nitrosyl chloride is given in the table.
+ 
+ 
+ 
+Complete the table with the data for nitrogen(II) oxide and chlorine, using the 
+Data Booklet where appropriate.
+(2)
+Substance
+Standard enthalpy change 
+of formation, ǻHf
+9
+298
+/kJ mol–1
+Standard molar entropy, 
+S
+9
+298
+/ J mol–1 K–1
+NOCl(g)
++51.7
+261.7
+NO(g)
+Cl2(g)
+165.0
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P48372RA02328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Calculate the standard enthalpy change of the reaction, ǻH
+9, at 298 K.
+2NOCl(g)  `
+o  2NO(g)  +  Cl2(g)
+(2)
+ 
+ 
+(iii) Use your answer to (b)(ii) to explain why ¨Stotal becomes less negative as 
+temperature increases.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Give the expression relating the equilibrium constant to the total entropy 
+change and hence explain how the equilibrium constant changes as the 
+temperature increases.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P48372RA02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+  
+(c) (i) The standard molar entropies of the substances, S9, in the reaction are given 
+at 800 K.
+Substance
+Standard molar entropy, S
+9
+800
+/ J mol–1 K–1
+NOCl(g)
+305.5
+NO(g)
+231.2
+Cl2(g)
+189.3
+ 
+ 
+ 
+Explain why the value for the standard molar entropy of all these substances is 
+greater at 800 K than at 298 K.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Calculate the standard entropy change of the system, ǻS
+9
+system, at 800 K.
+ 
+ 
+ 
+Include a sign and units with your answer.
+(2)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+25
+*P48372RA02528*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) The standard enthalpy change of the reaction, ǻH
+9 at 800 K is +53.2 kJ mol–1.
+ 
+ 
+ 
+Show by calculation whether or not the reaction is thermodynamically 
+spontaneous at 800 K.
+(3)
+(Total for Question 24 = 22 marks)
+TOTAL FOR SECTION C = 22 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+26
+*P48372RA02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+27
+*P48372RA02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+28
+*P48372RA02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

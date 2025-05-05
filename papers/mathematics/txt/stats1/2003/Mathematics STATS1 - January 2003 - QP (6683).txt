@@ -1,0 +1,233 @@
+Paper Reference(s)
+6683
+Edexcel GCE
+Statistics S1
+Advanced/Advanced Subsidiary
+Wednesday 15 January 2003 −  Morning
+Time:  1 hour 30 minutes
+Materials required for examination                       Items included with question papers
+Answer Book (AB16)                                                Nil
+Graph Paper (ASG2)
+Mathematical Formulae (Lilac)
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G.
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Statistics S1), the paper reference (6683), 
+your surname, other name and signature.
+Values from the statistical tables should be quoted in full. When a calculator is used, the 
+answer should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has seven questions. Pages 6, 7 and 8 are blank.
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers
+without working may gain no credit.
+N10623A
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+Edexcel Foundation is a registered charity. ©2003 Edexcel
+PMT
+
+
+--- Page Break ---
+
+ 1.
+The total amount of time a secretary spent on the telephone in a working day was 
+recorded to the nearest minute. The data collected over 40 days are summarised in the 
+table below.
+Time (mins)
+90–139
+140–149
+150–159
+160–169
+170–179
+180–229
+No. of days
+8
+10
+10
+4
+4
+4
+                                                                                         
+Draw a histogram to illustrate these data
+(4)           
+2.
+A car dealer offers purchasers a three year warranty on a new car. He sells two 
+models, the Zippy and the Nifty. For the first 50 cars sold of each model the number 
+of claims under the warranty is shown in the table below.
+Claim
+No claim
+Zippy
+35
+15
+Nifty
+40
+10
+One of the purchasers is chosen at random. Let A be the event that no claim is made 
+by the purchaser under the warranty and B the event that the car purchased is a Nifty.
+(a) Find P(A ∩ B).
+(2)
+(b) Find P( A′ ).
+(2)
+Given that the purchaser chosen does not make a claim under the warranty,
+(c) find the probability that the car purchased is a Zippy.
+(2)
+(d) Show that making a claim is not independent of the make of the car purchased.
+ Comment on this result.
+(3)
+N6894
+2
+PMT
+
+
+--- Page Break ---
+
+3.
+A drinks machine dispenses coffee into cups. A sign on the machine indicates that each cup 
+contains 50 ml of coffee. The machine actually dispenses a mean amount of 55 ml per cup 
+and 10% of the cups contain less than the amount stated on the sign. Assuming that the 
+amount of coffee dispensed into each cup is normally distributed find
+(a) the standard deviation of the amount of coffee dispensed per cup in ml,
+ (4)
+(b) the percentage of cups that contain more than 61 ml. 
+(3)
+Following complaints, the owners of the machine make adjustments. Only 2.5% of 
+cups now contain less than 50 ml. The standard deviation of the amount dispensed is 
+reduced to 3 ml.
+Assuming that the amount of coffee dispensed is still normally distributed, 
+(c) find the new mean amount of coffee per cup.
+(4)
+4.
+A restaurant owner is concerned about the amount of time customers have to wait 
+before being served. He collects data on the waiting times, to the nearest minute, of 
+20 customers. These data are listed below. 
+(a) Find the median and inter-quartile range of the waiting times.
+(5)
+ 
+An outlier is an observation that falls either 1.5  × (inter-quartile range) above the 
+upper quartile or 1.5 × (inter-quartile range) below the lower quartile.
+(b) Draw a boxplot to represent these data, clearly indicating any outliers.
+(7)
+(c) Find the mean of these data. 
+(2)
+(d) Comment on the skewness of these data.  Justify your answer.
+(2)
+N10623A
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+Edexcel Foundation is a registered charity. ©2003 Edexcel
+15,
+14,
+16,
+15,
+17,
+16,
+15,
+14,
+15,
+16,
+17,
+16,
+15,
+14,
+16,
+17,
+15,
+25,
+18,
+16
+PMT
+
+
+--- Page Break ---
+
+5. 
+The discrete random variable X has probability function
+where k is a positive constant.
+(a) Show that k = 0.25.
+      (2)
+(b) Find E(X) and show that E(X 2) = 2.5. 
+(4)
+(c) Find Var(3X – 2). 
+(3)
+Two independent observations X1 and X2 are made of X. 
+(d) Show that P(X1 + X2 = 5) = 0. 
+                                                                                                                              (1)
+(e) Find the complete probability function for X1 + X2.
+                                                                                                                              (3)
+(f)
+Find  P(1.3 ≤ X1 + X2 ≤ 3.2). 
+                                                                                                                              (3)
+N6894
+4
+k(2 – x),   x = 0, 1, 2,
+k(x – 2),   x = 3,
+0,              otherwise,
+P(X = x) ={
+PMT
+
+
+--- Page Break ---
+
+6.
+The chief executive of Rex cars wants to investigate the relationship between the number 
+of new car sales and the amount of money spent on advertising. She collects data from 
+company records on the number of new car sales, c, and the cost of advertising each year, 
+p (£000). The data are shown in the table below.
+     
+Year
+Number of new car sale, 
+c
+Cost of advertising (£000), 
+p
+1990
+4240
+120
+1991
+4380
+126
+1992
+4420
+132
+1993
+4440
+134
+1994
+4430
+137
+1995
+4520
+144
+1996
+4590
+148
+1997
+4660
+150
+1998
+4700
+153
+1999
+4790
+158
+(a) Using the coding  x = (p – 100) and  y = 10
+1 (c – 4000),  draw a scatter diagram to 
+represent these data. Explain why x is the explanatory variable.
+(5)
+(b) Find the equation of the least squares regression line of y on x.
+[Use Σx = 402, Σy = 517, Σx2 = 17 538 and Σxy = 22 611.]
+(7)
+(c) Deduce the equation of the least squares regression line of  c on  p in the form 
+c = a + bp.
+(3)
+(d) Interpret the value of a.
+                                                                                                                              (2)
+(e) Predict the number of extra new cars sales for an increase of £2000 in advertising 
+budget. Comment on the validity of your answer.
+                                                                                                                              (2)
+END
+PMT

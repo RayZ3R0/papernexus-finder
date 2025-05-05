@@ -1,0 +1,1200 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+P48082A
+©2017 Pearson Education Ltd.
+5/5/6/6/6/1/
+*P48082A0128*
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+Tuesday 13 June 2017 – Afternoon
+Time: 1 hour 40 minutes
+6CH04/01
+You must have: Data Booklet
+ 
+Scientific calculator
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+Turn over    
+
+
+--- Page Break ---
+
+2
+*P48082A0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes  
+on this section.  For each question, select one answer from A to D and put a cross in the box 
+.     
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Bromate(V) ions react with bromide ions in the presence of a dilute acid.
+BrO3
+−(aq) + 5Br−(aq) + 6H+(aq) l 3Br2(aq) + 3H2O(l)
+ 
+The rate of this reaction can be determined by measuring the change in colour intensity 
+or the change in conductivity of the solution.
+ 
+Which changes will occur?
+Change in colour intensity
+Change in conductivity
+A
+decreases
+decreases
+B
+decreases
+increases
+C
+increases
+decreases
+D
+increases
+increases
+(Total for Question 1 = 1 mark)
+2 Substance A decomposes in a first order reaction.
+ 
+The half-life for this reaction is 48 s.
+ 
+In an experiment, the initial amount of A is 1.00 mol.
+ 
+The amount, in moles, of A remaining at 144 s is
+ 
+ A 0.500
+ 
+ B 0.333
+ 
+ C 0.250
+ 
+ D 0.125
+(Total for Question 2 = 1 mark)
+
+
+--- Page Break ---
+
+3
+*P48082A0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 Nitrogen dioxide, NO2, reacts with carbon monoxide, CO.
+NO2 + CO l NO + CO2
+ 
+The rate equation is rate = k[NO2]2.
+ 
+(a) The concentration of nitrogen dioxide was doubled and the concentration of 
+carbon monoxide was halved, while the temperature remained constant.
+ 
+ 
+The rate constant, k, will
+(1)
+ 
+A stay the same.
+ 
+B double.
+ 
+C triple.
+ 
+D quadruple.
+ 
+(b) Which is a possible mechanism for the reaction that is consistent with the rate equation?
+(1)
+ 
+ A 2NO2 + 2CO l N2 + O2 + 2CO2  
+fast
+ 
+ 
+ 
+N2 + O2 l 2NO  
+ 
+ 
+slow
+ 
+ B 2NO2 + 2CO l N2 + O2 + 2CO2  
+slow
+ 
+ 
+ 
+N2 + O2 l 2NO  
+ 
+ 
+fast
+ 
+ C 2NO2 l 2NO + O2 
+ 
+ 
+fast
+ 
+ 
+ 
+2CO + O2 l 2CO2 
+ 
+ 
+slow
+ 
+ D 2NO2 l 2NO + O2 
+ 
+ 
+slow
+ 
+ 
+ 
+2CO + O2 l 2CO2 
+ 
+ 
+fast
+(Total for Question 3 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+4
+*P48082A0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 The decomposition of a concentrated solution of hydrogen peroxide is slow 
+at room temperature.
+ 
+What does this indicate about the values for the activation energy and the rate constant 
+for this decomposition?
+Activation energy
+Rate constant
+A
+high
+high
+B
+high
+low
+C
+low
+high
+D
+low
+low
+(Total for Question 4 = 1 mark)
+5 Which process produces a decrease in the entropy of the system?
+ 
+ A Mg(s) + H2SO4(aq) l MgSO4(aq) + H2(g)
+ 
+ B H2O(s) l H2O(l)
+ 
+ C 2H2(g) + O2(g) l 2H2O(g)
+ 
+ D CaCO3(s) l CaO(s) + CO2(g)
+(Total for Question 5 = 1 mark)
+6 Methane hydrate, CH4.6H2O, decomposes to form methane and water.
+CH4.6H2O(s) U CH4(g) + 6H2O(l)  ΔH is positive
+ 
+Which conditions of temperature and pressure will give the highest equilibrium yield 
+of methane?
+Temperature
+Pressure
+A
+high
+high
+B
+high
+low
+C
+low
+high
+D
+low
+low
+(Total for Question 6 = 1 mark)
+
+
+--- Page Break ---
+
+5
+*P48082A0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+7 Ethanoic acid, CH3COOH, can react with methanoic acid, HCOOH.
+ 
+pKa of ethanoic acid 
+= 4.8
+ 
+pKa of methanoic acid = 3.8
+ 
+Which is a correct conjugate pair in the reaction between ethanoic acid and 
+methanoic acid?
+Acid
+Conjugate base
+A
+HCOOH
+HCOO−
+B
+HCOOH
+HCOOH2
++
+C
+CH3COOH
+CH3COO−
+D
+CH3COOH
+CH3COOH2
++
+(Total for Question 7 = 1 mark)
+8 What is the pH of water at 313 K?
+ 
+Kw = 2.92 × 10−14 mol2 dm−6 at 313 K
+ 
+ 
+A  6.8
+ 
+ 
+B  7.0
+ 
+ 
+C  7.2
+ 
+ 
+D 13.5
+(Total for Question 8 = 1 mark)
+9 What is the pH of 0.1 mol dm−3 propanoic acid at 298 K?
+ 
+Ka = 1.3 × 10−5 mol dm−3 at 298 K
+ 
+ 
+A 2.4
+ 
+ 
+B 2.9
+ 
+ 
+C 4.9
+ 
+ 
+D 5.9
+(Total for Question 9 = 1 mark)
+
+
+--- Page Break ---
+
+6
+*P48082A0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 The titration curve shows the change in pH when 0.100 mol dm−3 sodium hydroxide 
+solution is added to 25.0 cm3 of a weak acid, HA.
+14 –
+12 –
+10 –
+8 –
+6 –
+4 –
+2 –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Volume of NaOH(aq) / cm3
+pH
+ 
+(a) What is the pKa value of the weak acid?
+(1)
+ 
+ A  2.9
+ 
+ B  4.8
+ 
+ C  7.0
+ 
+ D 11.0
+ 
+(b) What is the concentration, in mol dm−3, of the weak acid?
+(1)
+ 
+ A 0.040
+ 
+ B 0.080
+ 
+ C 0.100
+ 
+ D 0.125
+
+
+--- Page Break ---
+
+7
+*P48082A0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Which is the best indicator to use in a titration between the weak acid and the 
+sodium hydroxide solution?
+(1)
+ 
+ 
+A methyl orange (pKin = 3.7)
+ 
+ 
+B methyl red (pKin = 5.1)
+ 
+ 
+C bromothymol blue (pKin = 7.0)
+ 
+ 
+D phenol red (pKin = 7.9)
+ 
+(d) The following volumes of 0.100 mol dm−3 sodium hydroxide solution were added 
+to separate 25.0 cm3 portions of the weak acid.
+ 
+ 
+Which added volume, in cm3, will result in the best buffer solution?
+(1)
+ 
+ 
+A 2
+ 
+ 
+B 10
+ 
+ 
+C 20
+ 
+ 
+D 30
+(Total for Question 10 = 4 marks)
+11 Which compound has the highest boiling temperature?
+ 
+ 
+A CH3CH2CHO  
+Mr = 58
+ 
+ 
+B CH3COCH3  
+Mr = 58
+ 
+ 
+C CH3CH2CH2OH  
+Mr = 60
+ 
+ 
+D CH3COOH   
+Mr = 60
+(Total for Question 11 = 1 mark)
+12 Which compound reacts with iodine in an alkali to give a pale yellow precipitate with 
+an antiseptic smell?
+ 
+ 
+A CH3COCH3
+ 
+ 
+B CH3CH2CHO
+ 
+ 
+C CH3CH2COCH2CH3
+ 
+ 
+D CH3CH2CH2CH2CHO
+(Total for Question 12 = 1 mark)
+
+
+--- Page Break ---
+
+8
+*P48082A0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 The reaction that produces propanoic acid is
+ 
+ A heating CH3CH2CH3 with acidified potassium dichromate(VI).
+ 
+ B heating CH3COCH3 with acidified potassium dichromate(VI).
+ 
+ C refluxing CH3CH2CN with dilute hydrochloric acid.
+ 
+ D refluxing CH3CH2CH2CN with dilute hydrochloric acid.
+(Total for Question 13 = 1 mark)
+14 Some reactions are shown in the scheme below.
+N
+O
+OH
+O
+Cl
+O
+OH
+reaction 1
+reaction 2
+reaction 3
+ 
+(a) Which of these reagents is needed for reaction 1?
+(1)
+ 
+ 
+A Lithium tetrahydridoaluminate(III) in dry ether
+ 
+ 
+B Hydrogen with a nickel catalyst 
+ 
+ 
+C Sodium in ethanol
+ 
+ 
+D Zinc in dilute acid
+
+
+--- Page Break ---
+
+9
+*P48082A0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Which reagent is needed in reaction 2?
+(1)
+ 
+ 
+A Aluminium chloride
+ 
+ 
+B Chlorine
+ 
+ 
+C Phosphorus(V) chloride
+ 
+ 
+D Sodium chloride
+ 
+(c) Which reagent is needed in reaction 3?
+(1)
+ 
+ 
+A CH3CH2CH2CH2NH2
+ 
+ 
+B (CH3)2CHCH2NH2
+ 
+ 
+C CH3NHCH(CH3)2
+ 
+ 
+D CH3CH2N(CH3)2
+(Total for Question 14 = 3 marks)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+10
+*P48082A01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions. Write your answers in the spaces provided.
+15 This question is about carbonyl compounds.
+ 
+(a) Carvone exists as two optical isomers.
+O
+ 
+ 
+(i) Label the chiral carbon atom with an asterisk (*).
+(1)
+ 
+ 
+(ii) Give the molecular formula of carvone.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Complete the skeletal formula of the organic product formed when carvone 
+reacts with excess bromine.
+(2)
+
+
+--- Page Break ---
+
+11
+*P48082A01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Dihydrocarvone has the structure shown.
+O
+ 
+ 
+(i) State why dihydrocarvone does not exhibit geometric isomerism.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Complete the skeletal formula of the organic product formed when dihydrocarvone 
+reacts with hydrogen cyanide in the presence of potassium cyanide.
+(1)
+ 
+ 
+(iii) State the number of different proton environments in a molecule of dihydrocarvone.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest one of the main absorbance ranges in the infrared spectrum of 
+dihydrocarvone in the region 2500 to 1500 cm−1 and identify the bond 
+responsible.
+(1)
+ 
+ 
+ 
+Bond ..............................................................
+ 
+ 
+ 
+Range ............................................................................................. cm−1
+
+
+--- Page Break ---
+
+12
+*P48082A01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Sodium tetrahydridoborate, NaBH4, acts as a source of H− ions and is a reducing agent.
+ 
+ 
+Complete the mechanism for the reduction of propanone to propan-2-ol.
+ 
+ 
+(i) In Step 1, add the relevant dipole, a lone pair of electrons and curly arrows. 
+(2)
+ 
+Step 1
+C
+CH3
+H3C
+O
+H−
+C
+CH3
+H3C
+O−
+H
+ 
+ 
+(ii) In Step 2, add a relevant lone pair of electrons and curly arrows. 
+(1)
+ 
+Step 2
+C
+CH3
+H3C
+OH
+H
+C
+CH3
+H3C
+O−
+H
+H
+H
+O
++
+OH−
+
+
+--- Page Break ---
+
+13
+*P48082A01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) When propene, C3H6, reacts with ozone, O3, an ozonide is formed.  The ozonide is 
+then hydrolysed with water and zinc to form two carbonyl compounds.
+C 
+ C
+H
+H3C
+H
+H
++
+O3
+O
+C
+C
+O
+O
+H3C
+H
+H
+H
+Zn, H2O
++
+C 
+ O
+H
+H3C
+O 
+ C
+H
+H
+                                                                                 ozonide
+ 
+ 
+(i) Show how the reaction with ozone and subsequent hydrolysis can be used to 
+distinguish between but-1-ene and but-2-ene, by giving the structures of the 
+carbonyl products formed in each case.
+(2)
+But-1-ene
+ 
+But-2-ene
+ 
+ 
+ 
+(ii) Give the structure of an alkene that produces ethanal and butanone when it 
+reacts with ozone, and the product is hydrolysed with water and zinc.
+(1)
+(Total for Question 15 = 14 marks)
+
+
+--- Page Break ---
+
+14
+*P48082A01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+16 Hydrogen iodide partially decomposes into hydrogen and iodine.
+2HI(g) UH2(g) + I2(g)
+ 
+(a) A graph of the initial rate of reaction against the square of the initial concentration 
+of hydrogen iodide is shown.
+0.12 –
+0.10 –
+0.08 –
+0.06 –
+0.04 –
+0.02 –
+0.00 –
+–
+–
+–
+–
+–
+–
+50
+40
+30
+20
+10
+0
+Initial rate 
+/ mol dm−3 s−1
+[HI]2 / mol2 dm−6
+ 
+ 
+(i) Deduce the order of reaction with respect to hydrogen iodide. 
+Explain your reasoning.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the rate equation for the reaction.
+(1)
+
+
+--- Page Break ---
+
+15
+*P48082A01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) In one of the experiments, the initial concentration of hydrogen iodide was 
+1.00 mol dm−3 and the initial rate of reaction was 0.00620 mol dm−3 s−1.
+ 
+ 
+ 
+Use the data to calculate the number of molecules decomposing in the first minute 
+in 1.00 dm3 of hydrogen iodide.
+ 
+ 
+ 
+Assume that the rate of reaction remains constant for the first minute.
+ 
+ 
+ 
+[Avogadro constant = 6.02 × 1023 mol−1]
+(2)
+
+
+--- Page Break ---
+
+16
+*P48082A01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ *(b) The activation energy for the forward reaction is 184 kJ mol−1.
+2HI(g) UH2(g) + I2(g)
+ 
+ 
+At 700 K, the rate constant is 2.32 × 10−3 dm3 mol−1 s−1.
+ 
+ 
+Calculate the rate constant at 800 K and give your answer to three significant figures.
+ 
+ 
+You should not attempt to use any graphical method to answer this question.
+ 
+ 
+The Arrhenius equation is
+In k = −E
+R
+a  × 1
+T  + A
+ 
+ 
+[Gas constant, R = 8.31 J mol−1 K−1 and A is a constant]
+(5)
+
+
+--- Page Break ---
+
+17
+*P48082A01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) (i) Write the expression for the equilibrium constant, Kc , for the reaction.
+2HI(g) UH2(g) + I2(g)
+(1)
+ 
+ 
+(ii) Explain why Kc for this reaction has no units.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+18
+*P48082A01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) In an experiment to determine Kc , 0.192 g of hydrogen iodide, in a 1 dm3 vessel, 
+was heated at 700 K until equilibrium was established.
+ 
+ 
+ 
+0.00019 mol of iodine was present in the equilibrium mixture.
+ 
+ 
+ 
+Calculate the value of Kc at 700 K.
+(4)
+
+
+--- Page Break ---
+
+19
+*P48082A01928*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+ 
+ *(iv) The enthalpy change for the forward reaction is +9.5 kJ mol−1.
+ 
+ 
+ 
+State and explain the effect of an increase in temperature on the 
+ 
+ 
+ 
+entropy change of surroundings, ǻSsurroundings , and hence on the value of Kc .
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 16 = 19 marks)
+
+
+--- Page Break ---
+
+20
+*P48082A02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+17 Ethanol reacts with a carboxylic acid, P, to produce an ester, Q. 
+ 
+(a) Carboxylic acid P contains 58.8 % carbon and 9.8 % hydrogen by mass.   
+The mass spectrum of compound P has the molecular ion peak at m / e = 102.
+ 
+ 
+Use all these data to confirm that the molecular formula of P is C5H10O2 .
+(3)
+ 
+(b) Draw the displayed formulae of the four possible structures of carboxylic acid P.
+(2)
+Carboxylic acid 1
+Carboxylic acid 2
+Carboxylic acid 3
+Carboxylic acid 4
+
+
+--- Page Break ---
+
+21
+*P48082A02128*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) The mass spectrum of carboxylic acid P has a major peak at m / e = 43.
+ 
+ 
+Draw the structures of two species that could give this peak.
+(2)
+ 
+(d) Use your answers to (b) and (c) to identify which two of the carboxylic acids you 
+have drawn in (b) could be carboxylic acid P.
+(1)
+ 
+(e) Draw the displayed formulae of the two possible ethyl esters that could be Q.
+(2)
+Turn over    
+
+
+--- Page Break ---
+
+22
+*P48082A02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(f) Information from the high resolution proton nmr spectrum of ester Q is given.
+Peak
+Chemical shift, δ 
+/ ppm for TMS
+Splitting pattern
+Relative area 
+below peak
+A
+0.96
+doublet
+6
+B
+1.26
+triplet
+3
+C
+2.10
+split into 9
+1
+D
+2.20
+doublet
+2
+E
+4.13
+quartet
+2
+ 
+ 
+Use the data from the table to determine the displayed formula of ester Q.
+ 
+ 
+Draw the formula below and on it label the protons responsible for the peaks A to E.
+ 
+ 
+Explain the splitting pattern in peak B.
+(5)
+Displayed formula of Q
+Explanation of splitting pattern in peak B
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 17 = 15 marks)
+TOTAL FOR SECTION B = 48 MARKS
+
+
+--- Page Break ---
+
+23
+*P48082A02328*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions. Write your answers in the spaces provided.
+18 This question is about solutions, enthalpy changes and entropy changes.
+ 
+(a) (i) Draw a labelled Hess cycle and use it to calculate the enthalpy change of solution 
+of barium chloride.
+ 
+ 
+ 
+Show all of your working.
+Hydration enthalpy of Ba2+
+−1360 kJ mol−1
+Hydration enthalpy of Cl−
+−364 kJ mol−1
+Lattice energy of BaCl2
+−2056 kJ mol−1
+(4)
+Turn over    
+
+
+--- Page Break ---
+
+24
+*P48082A02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Explain how you would expect the value of the enthalpy change of hydration 
+of calcium ions to compare with that of barium ions.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Barium sulfate, BaSO4, dissolves to a very small extent in water and reaches equilibrium 
+as shown in the equation.
+BaSO4(s) + aq U Ba2+(aq) + SO4
+2−(aq)
+ 
+ 
+The equilibrium constant for this reaction is
+Kc = [Ba2+(aq)][SO4
+2−(aq)]
+ 
+ 
+(i) Suggest why the concentration of solid barium sulfate, [BaSO4(s)], is not included 
+in the expression for Kc.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The value for Kc is 1.00 × 10−10 mol2 dm−6 at 298 K.
+ 
+ 
+ 
+Calculate the maximum mass, in g, of barium sulfate that will dissolve in 
+50.0 cm3 of water at 298 K.
+(3)
+
+
+--- Page Break ---
+
+25
+*P48082A02528*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Hydrated barium hydroxide reacts with ammonium chloride as shown.
+Ba(OH)2.8H2O(s) + 2NH4Cl(s) l 2NH3(g) + BaCl2(s) + 10H2O(l)
+ 
+ 
+(i) Use the Data Booklet to complete the table below.
+(2)
+Ba(OH)2.8H2O(s)
+NH4Cl(s)
+NH3(g)
+BaCl2(s)
+H2O(l)
+¨H f
+/ kJ mol−1
+−3345
+−314.4
+−46.1
+S 
+/ J mol−1 K−1
+427
+94.6
+192.3
+ 
+ 
+(ii) Use data from the table to calculate the standard enthalpy change, in kJ mol−1, 
+for this reaction.
+Ba(OH)2.8H2O(s) + 2NH4Cl(s) l 2NH3(g) + BaCl2(s) + 10H2O(l)
+(2)
+ 
+ 
+(iii) Use data from the table to calculate the standard entropy change of the system, 
+in J mol−1 K−1, for the same reaction.
+Ba(OH)2.8H2O(s) + 2NH4Cl(s) l 2NH3(g) + BaCl2(s) + 10H2O(l)
+(2)
+Turn over    
+
+
+--- Page Break ---
+
+26
+*P48082A02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) Use your answers to (c)(ii) and (c)(iii) to calculate ¨Stotal for the reaction at 298 K.
+(3)
+ 
+ 
+ *(v) It is possible that hydrated barium chloride, BaCl2.2H2O, forms instead of 
+anhydrous barium chloride, BaCl2, in this reaction.
+ 
+ 
+ 
+Predict any effect on ¨Ssystem if hydrated barium chloride forms instead of 
+anhydrous barium chloride.  
+ 
+ 
+ 
+Hence explain whether it is possible to predict the effect on the total entropy change 
+of the reaction if hydrated barium chloride forms instead of anhydrous barium chloride.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+TOTAL FOR SECTION C = 22 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+
+
+--- Page Break ---
+
+27
+*P48082A02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+28
+*P48082A02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA

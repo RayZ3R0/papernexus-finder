@@ -1,0 +1,991 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+Edexcel GCE
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+6CH04/01
+Wednesday 26 January 2011 – Morning
+Time: 1 hour 40 minutes
+N37949A
+©2011 Edexcel Limited.
+7/7/5/5/
+*N37949A0124*
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your 
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*N37949A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.
+If you change your mind, put a line through the box 
+ and then mark your new answer with
+a cross 
+.
+1
+Methods for investigating reaction rates include
+A
+colorimetry.
+ 
+B 
+measurement of change in volume.
+C
+measurement of change of mass.
+ 
+D 
+quenching followed by titrating with acid.
+Which method would be most suitable to investigate the rate of the following reactions?
+ 
+(a) HCOOCH3(aq) + NaOH(aq) o  HCOONa(aq) + CH3OH(aq)
+(1)
+A
+B
+C
+D
+ 
+(b) (CH3)2C=CH2(g) + HI(g) o (CH3)3CI(g)
+(1)
+A
+B
+C
+D
+ 
+(c) BrO3–(aq) + 5Br–(aq) + 6H+(aq) o  3Br2(aq) + 3H2O(l)
+(1)
+A
+B
+C
+D
+(Total for Question 1 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+3
+*N37949A0324*
+Turn over  
+2
+2H2(g) + 2NO(g) o  2H2O(g) + N2(g)
+ 
+This reaction is first order with respect to hydrogen and second order with respect to 
+nitrogen(II) oxide.
+ 
+By what factor will the initial rate increase if the concentration of hydrogen and 
+nitrogen(II) oxide are both tripled?
+A
+3
+ 
+B 9
+ 
+C 12
+ 
+D 27
+(Total for Question 2 = 1 mark)
+3
+Which reaction has the most positive entropy change for the system, 'Ssystem?
+ 
+A NaOH(aq) + HCl(aq) oNaCl(aq) + H2O(l)
+ 
+B AgNO3(aq) + NaCl(aq) o  AgCl(s) + NaNO3(aq)
+ 
+C C2H4(g) + HCl(g) o  C2H5Cl(l)
+ 
+D C4H10(g) o  C2H4(g) + C2H6(g)
+(Total for Question 3 = 1 mark)
+4
+Barium carbonate decomposes in an endothermic reaction when heated to 1500 K.
+BaCO3(s) o  BaO(s) + CO2(g)
+ 
+What are the signs of the entropy changes at 1500 K?
+'Ssystem
+'Ssurroundings
+A
++
++
+B
++
+–
+C
+–
++
+D
+–
+–
+(Total for Question 4 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*N37949A0424*
+5
+What are the units of Kc for the following equilibrium?
+2SO2(g) + O2(g) U  2SO3(g)
+ 
+A 
+atm
+ 
+B 
+atm–1
+ 
+C 
+dm3 mol–1
+ 
+D 
+mol dm–3
+(Total for Question 5 = 1 mark)
+6
+The graph below shows the yield of product in a gaseous equilibrium at different 
+temperatures and pressures.
+ 
+The forward reaction in the equilibrium is
+A
+exothermic, and the number of moles of gas is increasing.
+ 
+B 
+endothermic, and the number of moles of gas is increasing.
+ 
+C 
+exothermic, and the number of moles of gas is decreasing.
+ 
+D 
+endothermic, and the number of moles of gas is decreasing.
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+% product at
+equilibrium
+300 atm
+200 atm
+Temperature/qC
+PMT
+
+
+--- Page Break ---
+
+5
+*N37949A0524*
+Turn over  
+7
+Hydrogen cyanide, HCN, reacts with propanal, CH3CH2CHO, in the presence of 
+potassium cyanide, KCN. 
+(a) The mechanism for this reaction is
+(1)
+ 
+A nucleophilic addition.
+ 
+B nucleophilic substitution.
+ 
+C electrophilic addition.
+ 
+D electrophilic substitution.
+ 
+(b) The first stage of the mechanism of this reaction is 
+(1)
+A
+the lone pair of electrons on carbon in CN– attacking CG+ of propanal.
+ 
+B the lone pair of electrons on nitrogen in CN– attacking CG+ of propanal.
+ 
+C the lone pair of electrons on oxygen in propanal attacking CG+ of HCN.
+ 
+D the lone pair of electrons on oxygen in propanal attacking HG+ in HCN.
+(c) The product of the reaction is
+(1)
+ 
+A 1-hydroxypropanenitrile.
+ 
+B 2-hydroxypropanenitrile.
+ 
+C 1-hydroxybutanenitrile.
+ 
+D 2-hydroxybutanenitrile.
+(Total for Question 7 = 3 marks)
+8
+Which of the following does not have hydrogen bonding in a pure sample, but forms 
+hydrogen bonds with water when it dissolves?
+A
+Propane
+ 
+B Propanal
+ 
+C Propanol
+D Propanoic acid
+(Total for Question 8 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*N37949A0624*
+9
+Which of the following has both optical and E-Z isomers?
+A
+ClCH2CHClCH=CH2
+ 
+B 
+CH2=CClCH2CH2Cl
+ 
+C 
+ClCH2CH=CHCH2Cl
+D 
+CHCl=CHCHClCH3
+(Total for Question 9 = 1 mark)
+10 One optically active isomer of 2-chlorobutane reacts with hydroxide ions to form
+butan-2-ol.
+ 
+C2H5CHClCH3 + OH– o  C2H5CH(OH)CH3 + Cl–
+ 
+The organic product is a mixture of enantiomers because
+A
+butan-2-ol contains a chiral carbon atom.
+B 
+the reaction is a nucleophilic substitution.
+ 
+C 
+2-chlorobutane forms a carbocation intermediate.
+ 
+D 
+2-chlorobutane forms a five-bonded transition state.
+(Total for Question 10 = 1 mark)
+11 The organic product of the reaction between ethanoyl chloride and methylamine has the formula 
+A
+CH3NHCH2C
+O
+Cl
+B
+CH3CH(NH2)C
+O
+Cl
+C
+CH3C
+O
+NH2
+D
+CH3C
+O
+NHCH3
+(Total for Question 11 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*N37949A0724*
+Turn over  
+12 A section of a polymer is shown below. Which of the following monomers would form 
+this polymer?
+OCH2CH2COCH2CH2C
+O
+O
+A
+HOCH2CH2OH and ClCOCH2CH2COCl
+ 
+B HOCH2CH2OH and HOOCCH2CH2COOH
+ 
+C ClCH2CH2COCl alone
+ 
+D HOCH2CH2COOH alone
+(Total for Question 12 = 1 mark)
+13 Which of the following is not a reaction of a BrØnsted-Lowry acid and base?
+A
+CH3Cl + OH– o  CH3OH + Cl–
+B NH3 + HCl      oNH4+ + Cl–
+ 
+C H2O + HSO4– o  H2SO4 + OH–
+ 
+D HCO3– + H2O o  CO32– + H3O+
+(Total for Question 13 = 1 mark)
+14 A buffer solution is made from ammonia and ammonium chloride. When a small 
+amount of acid is added to this buffer
+A
+hydrogen ions in the acid combine with chloride ions to make HCl.
+B hydrogen ions in the acid combine with NH3 to make NH4+.
+ 
+C NH4
++ ions dissociate to make more NH3.
+ 
+D the hydrogen ions in the acid prevent dissociation of the NH4Cl.
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+*N37949A0824*
+15 Information about four samples of acid is shown below.
+Sample 1:  1.0 mol dm–3 HCl
+Sample 2:  1.0 mol dm–3 H2SO4
+ 
+Sample 3:  0.1 mol dm–3 HCl
+ 
+Sample 4:  0.1 mol dm–3 CH3COOH
+ 
+Which of the following lists shows the samples in order of increasing pH?
+A
+1, 2, 3, 4
+ 
+B 
+4, 3, 2, 1
+ 
+C 
+2, 1, 3, 4
+D 
+4, 3, 1, 2
+(Total for Question 15 = 1 mark)
+16 Which reaction has an enthalpy change equal to the enthalpy of hydration of the sodium 
+ion?
+A
+Na+(g) + excess H2O(l)    o  Na+(aq)
+ 
+B 
+Na+(g) + 1 mol of H2O(l) o  Na+(aq)
+ 
+C 
+Na+(s) + excess H2O(l)    o  Na+(aq)
+D 
+Na+(s) + 1 mol of H2O(l) o  Na+(aq)
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*N37949A0924*
+Turn over  
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17 Hydrogen can be manufactured by reacting methane with steam, as shown in the 
+equation below.
+                     CH4(g) + H2O(g) U  CO(g) + 3H2(g)                  'H
+9
+298 = +206.1kJ mol–1
+ 
+Use these values: 
+ 
+ 
+the standard entropy of 1 mol of H2(g) is (2 u 65.3) = 130.6 J mol–1 K–1
+ 
+ 
+the standard entropy of 1 mol of H2O(g) is 188.7 J mol–1K–1
+ 
+You will also need to refer to the data booklet in the calculations which follow. 
+ 
+(a) Calculate the standard entropy change of the system, 'S
+9
+system, for this
+reaction at 298 K.
+(2)
+ 
+(b) Calculate the standard entropy change of the surroundings, 'S
+9
+surroundings , for this 
+reaction at 298 K.  Include a sign and units in your answer.
+(2)
+ 
+(c) Calculate the total entropy change, 'S
+9
+total, for this reaction at 298 K. 
+ 
+ 
+Explain why this value shows that the reaction is not spontaneous at this temperature.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*N37949A01024*
+ 
+(d) The composition of an equilibrium mixture produced at 2.0 atmospheres pressure 
+and at a much higher temperature is shown below.
+CH4(g) + H2O(g) U  CO(g) + 3H2(g)
+ 
+ 
+Amount in equilibrium      0.80        0.80            1.20       3.60
+ 
+ 
+mixture / mol
+ 
+ *(i) Write the expression for the equilibrium constant, Kp, of the reaction and calculate 
+its value.  Include units in your answer.
+(6)
+ 
+ 
+(ii) The total entropy change in J mol–1 K–1 is related to the equilibrium constant by 
+the equation
+'S
+9
+total = RlnKp     or     'S
+9
+total = 2.3RlogKp
+ 
+ 
+ 
+Calculate the total entropy change at the temperature of the reaction. 
+ 
+ 
+ 
+[R = 8.31 J mol–1 K–1]
+(1)
+PMT
+
+
+--- Page Break ---
+
+11
+*N37949A01124*
+Turn over  
+ 
+ 
+(iii) Calculate the temperature at which this equilibrium is reached using your 
+answer to (ii) for 'S
+9
+total.  Assume that 'H is still +206.1 kJ mol–1 and that
+'S
+9
+system  = +225 J K–1 mol–1.  (This is not the same as the value for 'S
+9
+system
+calculated in (a) which is at 298 K.)
+(2)
+ *(e) Use the magnitude and signs of the entropy changes to explain the effect of a 
+temperature increase on the equilibrium constant of this endothermic reaction. 
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 17 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*N37949A01224*
+18 (a) Calculate the pH of 0.25 mol dm–3 hydrochloric acid.
+(1)
+ 
+(b) Propanoic acid, CH3CH2COOH, is a weak acid with Ka = 1.3 u 10–5 mol dm–3
+at 25qC.
+ 
+ 
+(i) Write the expression for Ka for propanoic acid.
+(1)
+ 
+ 
+(ii) Calculate the pH of 0.25 mol dm–3 propanoic acid at 25qC.
+(2)
+ 
+(c) During a titration, 10 cm3 0.10 mol dm–3 sodium hydroxide was added to 10 cm3
+of 0.25 mol dm–3 propanoic acid.
+ 
+ 
+(i) Write an equation for the reaction which occurs.  State symbols are not required.
+(1)
+ 
+ 
+(ii) At this point the titration mixture contains 1.5 u 10–3 moles of propanoic acid 
+and 1.0 u 10–3 moles of propanoate ion.
+ 
+ 
+ 
+Use your expression for Ka for propanoic acid to calculate the pH of the mixture.
+(2)
+PMT
+
+
+--- Page Break ---
+
+13
+*N37949A01324*
+Turn over  
+ 
+ *(iii) When a further small amount of 0.10 mol dm–3 sodium hydroxide is added in 
+the titration, the pH changes very little.  Explain why the pH change is small.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Draw the titration curve showing the change in pH when 0.10 mol dm–3 sodium 
+hydroxide is added to 10 cm3 of 0.25 mol dm–3 propanoic acid until present in 
+excess.  The equivalence point is 25 cm3.
+(3)
+Volume of sodium hydroxide solution/cm3
+pH
+14
+12
+10
+8
+6
+4
+2
+0
+0
+10
+20
+30
+40
+50
+PMT
+
+
+--- Page Break ---
+
+14
+*N37949A01424*
+ 
+ 
+(v) Explain, referring to your data booklet, whether bromocresol green would be a 
+suitable indicator for this titration.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(d) Propanoic acid is produced in the reactions shown below.
+ 
+ 
+(i) Suggest a reagent which could be used to carry out reaction 1.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write an equation for reaction 2.  State symbols are not required.
+(1)
+ 
+ 
+(iii) What would be observed if reaction 3 was carried out using potassium 
+dichromate(VI) and sulfuric acid?
+(1)
+................................................................................................................................................................................................................................................
+Reaction 1
+Reaction 2
+Reaction 3
+CH3CH2COOH
+CH3CH2CN
+CH3CH2COCl
+CH3CH2CHO
+PMT
+
+
+--- Page Break ---
+
+15
+*N37949A01524*
+Turn over  
+ 
+(e) What type of reagent would be used to convert propanoic acid to propan-1-ol? 
+Identify a suitable reagent for this reaction.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 18 = 20 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*N37949A01624*
+19 A student investigated the reaction between iodine and propanone in acidic conditions.
+CH3COCH3(aq) + I2(aq) o  CH3COCH2I(aq) + HI(aq)
+
+x 50 cm3 of 0.020 mol dm–3 iodine solution was measured into a flask.
+
+x 25 cm3 of propanone and 25 cm3 of 1.0 mol dm–3 sulfuric acid were measured into a 
+second flask.
+
+x Several 10 cm3 samples of 0.5 mol dm–3 sodium hydrogencarbonate solution were 
+placed in separate conical flasks.
+
+x The mixture of propanone and sulfuric acid was added to the iodine, and a clock 
+started.
+
+x At two minute intervals, 10 cm3 of the reaction mixture was removed and added to 
+one of the flasks containing sodium hydrogencarbonate solution.
+
+x The contents of this flask were then titrated with 0.01 mol dm–3 sodium thiosulfate.
+ 
+(a) Explain the purpose of adding the reaction mixture to the sodium hydrogencarbonate.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) What indicator should be used in the titration?
+(1)
+................................................................................................................................................................................................................................................
+ *(c) In this experiment the concentration of the iodine was 0.020 mol dm–3 and the 
+concentrations of propanone and sulfuric acid were both 1.00 mol dm–3.  Why was 
+the iodine solution used much less concentrated than the propanone and sulfuric 
+acid?
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*N37949A01724*
+Turn over  
+ 
+(d) The shape of the graph obtained from the results of the experiment is shown below.
+ 
+ 
+Use the graph to deduce the order of reaction with respect to iodine, explaining your 
+reasoning.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(e) The solutions used in this experiment could be measured using either measuring 
+cylinders or pipettes.
+ 
+ 
+Give one advantage of using a measuring cylinder and one advantage of using a 
+pipette.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Volume of
+sodium thiosulfate 
+used in titration/cm3
+Time/s
+PMT
+
+
+--- Page Break ---
+
+18
+*N37949A01824*
+ 
+(f) In a further investigation, different volumes of sulfuric acid, propanone, iodine and 
+water were mixed.  The time taken for the mixture to go colourless was measured.
+ 
+ 
+The experiments were repeated and the results below show average values for the 
+rate of the reaction.
+Expt
+2 mol dm–3
+H2SO4
+/cm3
+2 mol dm–3
+propanone
+/cm3
+Water
+/cm3
+0.01 mol dm–3
+iodine
+/cm3
+Rate
+/mol dm–3 s–1
+1
+20.0
+8.0
+0
+4.0
+8 u 10–5
+2
+10.0
+8.0
+10.0
+4.0
+4 u 10–5
+3
+20.0
+4.0
+4.0
+4.0
+4 u 10–5
+ 
+ 
+(i) Explain why water is added in experiments 2 and 3.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Show how you would use the data in the table to deduce the order of reaction 
+with respect to propanone and hydrogen ions.  Write the rate equation for the 
+reaction.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 19 = 13 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+19
+*N37949A01924*
+Turn over  
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 An organic compound X is an ester found in orange peel and has the molecular formula 
+C5H10O3.
+ 
+(a) Identify the bonds responsible for the peaks labelled Q and R in the infrared 
+spectrum of X shown below, referring to your data booklet.
+(2)
+Q ...........................................................................................................................................................................................................................................
+R  ...........................................................................................................................................................................................................................................
+100
+50
+0
+4000
+3000
+2000
+1500
+1000
+Wavenumber/cm–1
+Transmittance/%
+Q
+R
+PMT
+
+
+--- Page Break ---
+
+20
+*N37949A02024*
+ 
+(b) X was heated under reflux with dilute sulfuric acid.  The resulting mixture was 
+distilled and a liquid Y was collected. The mass spectrum of Y is shown below. 
+ 
+ 
+(i) Identify Y, by name or formula, using the information available. Use two
+pieces of data from the mass spectrum to support your answer.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The identity of Y could be confirmed using nmr spectroscopy.  Predict the 
+number of peaks in the low resolution proton nmr spectrum of Y.  Give the 
+chemical shift range for each peak, referring to your data booklet.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+100
+10
+Mass/charge ratio
+Relative
+abundance
+/%
+15
+20
+25
+30
+80
+60
+40
+20
+0
+PMT
+
+
+--- Page Break ---
+
+21
+*N37949A02124*
+Turn over  
+ 
+(c) A second product from the reaction of X with hydrochloric acid is Z, which has the 
+molecular formula C4H8O3.
+ 
+ 
+What can you deduce about Z from the results of the following tests?
+ 
+ 
+(i) One mole of Z reacts with two moles of phosphorus(V) chloride, PCl5.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) When sodium carbonate solution is added to Z, effervescence is seen.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Z is warmed gently with potassium dichromate(VI) and sulfuric acid.  The organic 
+product of the reaction gives a yellow precipitate with 2,4-dinitrophenylhydrazine 
+(Brady’s reagent) but does not react with Tollens’ reagent.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Z reacts with a solution of iodine in sodium hydroxide to produce a yellow 
+precipitate with an antiseptic smell.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(d) Use the results of these tests to deduce the structural formula of Z and hence the 
+structural formula of X.
+(2)
+(Total for Question 20 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+22
+*N37949A02224*
+21 The equation below shows the type of reaction which can be used in the production of 
+biodiesel from vegetable oils.
+ 
+(a) (i) Name this type of reaction.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest why water must not be present when this reaction with ethanol is 
+carried out.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) Give one reason why biodiesel is considered a “greener” fuel than diesel produced 
+from crude oil.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+CH2OOCR1 + 3C2H5OH o  CH2OH + R1COOC2H5 + R2COOC2H5 + R3COOC2H5
+CHOOCR2                            CHOH
+CH2OOCR3                           CH2OH
+PMT
+
+
+--- Page Break ---
+
+23
+*N37949A02324*
+ *(c) The products of the type of reaction shown with ethanol can be separated and 
+identified using gas chromatography (GC).
+ 
+ 
+In chromatography, compounds are separated because of the difference in 
+distribution between a mobile phase and a stationary phase.
+ 
+ 
+Explain why this difference in distribution occurs, and contrast the phases used in 
+gas chromatography (GC) and high performance liquid chromatography (HPLC).
+(5)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 21 = 8 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*N37949A02424*
+PMT

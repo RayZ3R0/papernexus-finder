@@ -1,0 +1,354 @@
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+Advanced/Advanced Subsidiary 
+Monday 24 May 2004 − Morning 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+2 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+         A  
+ 
+ 
+ 
+ 
+              B 
+ 
+ 
+ 
+ 
+          30°    
+ 
+60° 
+ 
+C 
+ 
+A particle of weight W newtons is attached at C to the ends of two light inextensible strings AC 
+and BC.  The other ends of the strings are attached to two fixed points A and B on a horizontal 
+ceiling. The particle hangs in equilibrium with AC and BC inclined to the horizontal at 30° and 
+60° respectively, as shown in Fig.1. Given the tension in AC is 50 N, calculate 
+ 
+(a) the tension in BC, to 3 significant figures, 
+(3) 
+(b) the value of W. 
+(3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+2. 
+A particle P is moving with constant acceleration along a straight horizontal line ABC, where 
+AC = 24 m. Initially P is at A and is moving with speed 5 m s−1 in the direction AB. After 1.5 s, 
+the direction of motion of P is unchanged and P is at B with speed 9.5 m s−1.  
+ 
+ 
+(a) Show that the speed of P at C is 13 m s−1.  
+(4) 
+ 
+The mass of P is 2 kg. When P reaches C, an impulse of magnitude 30 Ns is applied to P in the 
+direction CB. 
+ 
+(b) Find the velocity of P immediately after the impulse has been applied, stating clearly the 
+direction of motion of P at this instant. 
+ (3) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+3.  
+A particle P of mass 2 kg is moving with speed u m s−1 in a straight line on a smooth horizontal 
+plane. The particle P collides directly with a particle Q of mass 4 kg which is at rest on the same 
+horizontal plane. Immediately after the collision, P and Q are moving in opposite directions and 
+the speed of P is one-third the speed of Q. 
+ 
+ 
+(a) Show that the speed of P immediately after the collision is 5
+1 u m s−1. 
+(4) 
+ 
+ 
+After the collision P continues to move in the same straight line and is brought to rest by a 
+constant resistive force of magnitude 10 N. The distance between the point of collision and the 
+point where P comes to rest is 1.6 m.  
+ 
+ 
+(b) Calculate the value of u. 
+(5) 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+A  
+B 
+ 
+ 
+ 
+ 
+ 
+D 
+ 
+      E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C 
+ 
+ 
+      1 m  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    6m 
+ 
+ 
+ 
+ 
+A plank AE, of length 6 m and mass 10 kg, rests in a horizontal position on supports at B and D, 
+where AB = 1 m and DE = 2 m. A child of mass 20 kg stands at C, the mid-point of BD, as shown 
+in Fig. 2. The child is modelled as a particle and the plank as a uniform rod. The child and the 
+plank are in equilibrium. Calculate 
+ 
+ 
+(a) the magnitude of the force exerted by the support on the plank at B, 
+ 
+(4) 
+ 
+(b) the magnitude of the force exerted by the support on the plank at D.  
+(3) 
+ 
+ 
+The child now stands at a point F on the plank. The plank is in equilibrium and on the point of 
+tilting about D. 
+ 
+ 
+ 
+(c) Calculate the distance DF. 
+ 
+(4) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+4 
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+ 
+ 
+   B 
+ 
+  
+ 
+ 
+ 
+    50 m 
+ 
+ 
+ 
+15° 
+ 
+ 
+Figure 3 shows a boat B of mass 400 kg held at rest on a slipway by a rope. The boat is modelled 
+as a particle and the slipway as a rough plane inclined at 15° to the horizontal. The coefficient of 
+friction between B and the slipway is 0.2. The rope is modelled as a light, inextensible string, 
+parallel to a line of greatest slope of the plane. The boat is in equilibrium and on the point of 
+sliding down the slipway. 
+ 
+(a) Calculate the tension in the rope. 
+(6) 
+ 
+The boat is 50 m from the bottom of the slipway. The rope is detached from the boat and the boat 
+slides down the slipway. 
+ 
+(b) Calculate the time taken for the boat to slide to the bottom of the slipway.  
+(6) 
+ 
+ 
+6. 
+A small boat S, drifting in the sea, is modelled as a particle moving in a straight line at constant 
+speed. When first sighted at 0900, S is at a point with position vector (4i – 6j) km relative to a 
+fixed origin O, where i and j are unit vectors due east and due north respectively. At 0945, S is at 
+the point with position vector (7i – 7.5j) km. At time t hours after 0900, S is at the point with 
+position vector s km.  
+ 
+ 
+(a) Calculate the bearing on which S is drifting. 
+(4) 
+ 
+(b) Find an expression for s in terms of t. 
+(3) 
+ 
+ 
+At 1000 a motor boat M leaves O and travels with constant velocity (pi + qj) km h−1. Given that 
+M intercepts S at 1015, 
+ 
+ 
+(c) calculate the value of p and the value of q. 
+(6) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+7. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+         P (4 kg)    
+ 
+    Q(6 kg)    
+ 
+   40 N 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Two particles P and Q, of mass 4 kg and 6 kg respectively, are joined by a light inextensible 
+string. Initially the particles are at rest on a rough horizontal plane with the string taut. The 
+coefficient of friction between each particle and the plane is 7
+2 . A constant force of magnitude 
+40 N is then applied to Q in the direction PQ, as shown in Fig. 4. 
+ 
+ 
+(a) Show that the acceleration of Q is 1.2 m s−2.   
+(4) 
+ 
+(b) Calculate the tension in the string when the system is moving. 
+(3) 
+ 
+(c) State how you have used the information that the string is inextensible. 
+(1) 
+ 
+ 
+After the particles have been moving for 7 s, the string breaks. The particle Q remains under the 
+action of the force of magnitude 40 N. 
+ 
+(d) Show that P continues to move for a further 3 seconds. 
+(5) 
+ 
+(e) Calculate the speed of Q at the instant when P comes to rest. 
+(4) 
+ 
+END 
+PMT
+PMT

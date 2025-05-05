@@ -1,0 +1,487 @@
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• You will be assessed on your ability to organise and present information, ideas,
+ 
+descriptions and arguments clearly and logically, including your use of
+ 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+     Turn over
+P38481A
+©2011 Edexcel Limited.
+7/7/5/2/
+*P38481A0112*
+Edexcel GCE
+Chemistry
+Advanced
+Unit 6B:  Chemistry Laboratory Skills II 
+Alternative
+Candidates may use a calculator.
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+6CH08/01
+Paper Reference
+Tuesday 7 June 2011 – Morning
+Time: 1 hour 15 minutes
+PMT
+
+
+--- Page Break ---
+
+2
+*P38481A0212*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1  Solid W is a blue salt containing a transition metal complex cation and one anion.
+ 
+(a)  Give the formulae of two different transition metal ions which can form blue 
+complex cations.
+(2)
+................................................................................................................................................................................................................................................
+ 
+(b) Complete the following table.
+Test
+Observation
+Inference(s)
+(i)
+Heat compound W.
+...................................................
+Water
+(1)
+(ii)
+Test any gas evolved with 
+moist red litmus paper.
+Red litmus paper 
+turns blue
+...................................................
+(1)
+ 
+ 
+(iii) Suggest two sources of the water which was given off when a pure dry sample 
+of W was heated. 
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c)  The following tests are carried out on separate portions of an aqueous solution of W.
+ 
+ 
+Complete the table. 
+ 
+ 
+Note: in the third column, the formula of the ion, molecule or compound giving rise 
+to the observation is required.
+Test
+Observation
+Formula
+(i)
+Add concentrated 
+hydrochloric acid slowly,
+......................... -coloured
+precipitate
+Cu(OH)2
+(1)
+until in excess.
+green-yellow solution
+...................................................
+(1)
+(ii)
+Acidify with dilute 
+hydrochloric acid and then 
+add barium chloride solution.
+white precipitate
+...................................................
+(1)
+(iii)
+Add dilute sulfuric acid until 
+the solution is pale blue; then 
+add potassium iodide solution.
+white precipitate
+in a brown solution
+...................................................
+...................................................
+(1)
+(1)
+PMT
+
+
+--- Page Break ---
+
+3
+*P38481A0312*
+Turn over  
+ 
+(d)  Suggest the formula of the complex cation in an aqueous solution of compound W.
+(1)
+................................................................................................................................................................................................................................................
+(Total for Question 1 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P38481A0412*
+2 The tertiary halogenoalkane 2-chloro-2-methylpropane reacts with hydroxide ions in 
+solution as follows:
+(CH3)3CCl  +  OHì o  (CH3)3COH  +  Clì
+The progress of the reaction can be followed by titrating the reaction mixture with a 
+solution of hydrochloric acid of known concentration.
+ 
+In an experiment designed to determine the order of the reaction, the following 
+procedure was used.
+ 
+1. 250 cm3 of an ethanolic solution of 2-chloro-2-methylpropane, of concentration 
+0.100 mol dmí3, was placed in a flask in a water bath at 25°C. 250 cm3 of aqueous 
+sodium hydroxide solution, also of concentration 0.100 mol dmí3, was placed in a 
+similar flask in the same water bath.  The temperature of the solutions was allowed 
+to reach 25°C.
+ 
+2. A series of conical flasks were prepared, each containing about 40 cm3 of propanone. 
+ 
+3. The reaction was started by mixing the halogenoalkane solution and the sodium 
+hydroxide solution in a large flask in the water bath.  A clock was started as the 
+solutions were mixed.
+ 
+4. At intervals, a 25 cm3 pipette was used to withdraw samples of the reaction mixture.  
+Each sample was added to a flask containing propanone and the time was noted. 
+The propanone slows but does not completely stop the reaction.
+ 
+5. Each sample was titrated immediately with a solution of hydrochloric acid of 
+concentration 0.0500 mol dmí3, using methyl orange as the indicator.
+ 
+(a) (i) What colour change would you see at the end point of the titration?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why it is necessary to titrate the samples immediately after they have 
+been withdrawn from the reaction mixture.  State the effect, if any, on the titre if 
+this were not done.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+5
+*P38481A0512*
+Turn over  
+ 
+(b) Suggest why it is necessary to use a solvent of aqueous ethanol rather than water 
+alone for this reaction.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) In an experiment which was carried out as described above, the following data were 
+obtained.
+Time/min
+1
+5
+12
+20
+32
+49
+65
+Volume of HCl/cm3
+25.5
+22.5
+18.5
+15.5
+11.5
+8.0
+5.5
+ 
+ 
+(i) Using the axes below, plot a suitable graph of these data. 
+(2)
+Time/min
+Volume of 
+HCl/cm3
+PMT
+
+
+--- Page Break ---
+
+6
+*P38481A0612*
+ 
+ 
+(ii) Show two successive half-life measurements on your graph and write their 
+values below.
+(2)
+First half-life  ............................................................................................................................................................................................................................................
+Second half-life  .....................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain how your answers to (ii) show that this reaction is first order.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Give the units of the rate constant for this reaction.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(v) Because the initial concentrations of the reactants are the same, it is not  
+possible to tell whether the rate equation is of the form
+ 
+ 
+ 
+                                     rate  =  k[(CH3)3CCl]
+ 
+ 
+ 
+or of the form                rate  =  k[OHì]
+ 
+ 
+ 
+Suggest a further experiment which could be carried out to show that it is in fact 
+first order with respect to the halogenoalkane.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(d) In a further experiment to investigate the hydrolysis, a solution of
+2-chloro-2-methylpropane in aqueous ethanol was prepared at room temperature.
+The pH of this solution was measured at intervals using narrow-range pH paper.
+The reaction occurring is
+(CH3)3CCl  +  H2O o  (CH3)3COH  +  H+  +  Clì
+ 
+ 
+(i) Suggest what the initial pH of the mixture would be.  Justify your answer.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+7
+*P38481A0712*
+Turn over  
+ 
+ 
+(ii) The pH rapidly falls to 2 or lower.  Explain why this confirms that the rate of 
+the hydrolysis of 2-chloro-2-methylpropane is independent of the hydroxide ion 
+concentration in the reaction
+(CH3)3CCl  +  OHì o  (CH3)3COH  +  Clì
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Assuming that the reaction rate follows the rate equation
+rate  =  k[(CH3)3CCl]
+ 
+ 
+ 
+write the equation for the rate-determining step.
+(2)
+(Total for Question 2 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+8
+*P38481A0812*
+3
+Propyl ethanoate is an ester which has a smell similar to that of bananas or pears.  It 
+can be made in the laboratory from propan-1-ol and ethanoic acid.  The equation for the 
+reaction is
+CH3COOH  +  CH3CH2CH2OH U  CH3COOCH2CH2CH3  +  H2O
+Procedure
+ 
+1. Propan-1-ol (50 cm3) and ethanoic acid (50 cm3) are mixed thoroughly in a 250 cm3
+round-bottomed flask.
+ 
+2. Concentrated sulfuric acid (10 cm3) is added drop by drop to the mixture, keeping 
+the contents of the flask well-shaken and cooled in an ice-water bath.
+ 
+3. When the acid has all been added, a reflux condenser is fitted to the flask and the 
+mixture gently boiled over an electric heating mantle for about 30 minutes.
+ 
+4. The mixture is cooled, and the apparatus rearranged for distillation.  The crude ester 
+(about 60 cm3) is distilled off.
+ 
+5. The distillate is placed in a separating funnel and shaken with about half its volume 
+of 30% sodium carbonate solution, with the pressure being released at intervals.  The 
+lower aqueous layer is then discarded.
+ 
+6. The crude ester is shaken in a separating funnel with about half its volume of 50% 
+calcium chloride solution, which removes unreacted alcohol.  The lower layer is 
+discarded.
+ 
+7. The ester is run into a clean, dry flask containing some anhydrous calcium chloride 
+and swirled.
+ 
+8. The ester is filtered into a clean, dry flask, with a few anti-bumping granules, and 
+distilled.  The fraction boiling between 100°C and 103°C is collected.
+ 
+(a) (i) Explain why the concentrated sulfuric acid is added slowly with cooling.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why the mixture is heated under reflux for about 30 minutes.
+(2)
+Under reflux ................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+For about 30 minutes ...........................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P38481A0912*
+Turn over  
+ 
+ 
+(iii) What is the main function of the sulfuric acid in this reaction?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest the identity of two impurities that might be present in the crude 
+distillate from step 4.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(v) What data would you need about propyl ethanoate to be sure that the instruction 
+in step 5 to discard the lower layer is correct?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Step 5 requires that you release the pressure at intervals.  Explain why the 
+pressure in the funnel increases.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(vii) Explain why anhydrous calcium chloride is added in step 8 and state how the 
+appearance of the liquid changes when this stage is complete.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(viii) What is the reason for adding anti-bumping granules in step 8?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*P38481A01012*
+ 
+(b) (i) Use the data in the table below to show, by calculating the numbers of moles, 
+which reactant is in excess.
+(2)
+Substance
+Density/g cm–3
+Molar mass/g mol–1
+Ethanoic acid
+1.05
+60.1
+Propan-1-ol
+ 0.804
+60.1
+ 
+ 
+(ii) The mass of the ester collected was 35.0 g.  Calculate the percentage yield of 
+the ester propyl ethanoate.
+ 
+ 
+ 
+Assume the molar mass of propyl ethanoate is 102 g mol–1.
+(2)
+PMT
+
+
+--- Page Break ---
+
+11
+*P38481A01112*
+ 
+(c) A student who carried out this experiment, according to the instructions, obtained 
+a product that boiled at 95°C.  The student suspected that the alcohol originally 
+provided was not propan-1-ol, but was 2-methylpropan-2-ol, since that would have 
+given an ester with this boiling temperature.
+ 
+ 
+(i) Draw the structural formula for the ester that is formed from the reaction of 
+ethanoic acid with 2-methylpropan-2-ol.
+(1)
+ 
+ 
+(ii) Suggest a simple test-tube experiment that the student could carry out on the 
+original alcohol to see if the suspicion could be correct.  Give the reagents used 
+and the expected result for both propan-1-ol and 2-methylpropan-2-ol.  Explain 
+why the results are different.
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 3 = 21 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+12
+*P38481A01212*
+PMT

@@ -1,0 +1,324 @@
+N13422A 
+ 
+ 
+This publication may only be reproduced in accordance with Edexcel copyright policy. 
+ 
+Edexcel Foundation is a registered charity. ©2003 Edexcel 
+ 
+Paper Reference(s) 
+6678 
+Edexcel GCE 
+Mechanics M2 
+Advanced/Advanced Subsidiary 
+Thursday 19 June 2003 −−−− Morning 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M2), the paper reference (6678), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  Pages 6,7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+N13422A 
+2 
+1. 
+A particle P moves on the x-axis. At time t seconds the velocity of P is v m s−1 in the direction of 
+x increasing, where v = 6t – 2t2. When 
+0
+t =
+, P is at the origin O. Find the distance of P from O 
+when P comes to instantaneous rest after leaving O. 
+(5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+2. 
+A tennis ball of mass 0.2 kg is moving with velocity ( 10 )
+−
+i
+1
+m s− when it is struck by a tennis 
+racket. Immediately after being struck, the ball has velocity (15i+ 15j) m s−1. Find 
+ 
+(a) the magnitude of the impulse exerted by the racket on the ball, 
+ (4) 
+ 
+(b) the angle, to the nearest degree, between the vector i and the impulse exerted by the racket, 
+(2) 
+ 
+(c) the kinetic energy gained by the ball as a result of being struck. 
+(2) 
+ 
+ 
+3.  
+                                                                     Figure 1 
+ 
+a
+A
+B
+C
+E
+D
+2a
+3a
+ 
+ 
+ 
+         A uniform lamina ABCD is made by taking a uniform sheet of metal in the form of a rectangle 
+ABED, with 
+3
+AB
+a
+=
+ and 
+2
+AD
+a
+=
+, and removing the triangle BCE, where C lies on DE and 
+CE = a, as shown in Fig. 1. 
+ 
+ 
+(a) Find the distance of the centre of mass of the lamina from AD. 
+(5) 
+ 
+The lamina has mass M. A particle of mass m is attached to the lamina at B. When the loaded 
+lamina is freely suspended from the mid-point of AB, it hangs in equilibrium with AB horizontal. 
+ 
+ 
+(b) Find m in terms of M. 
+(4) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N13422A 
+                                   3                                                                   
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+ 
+A
+D
+B
+α
+2 m
+3 m
+C
+ 
+ 
+ 
+A uniform steel girder AB, of mass 40 kg and length 3 m, is freely hinged at A to a vertical wall.  
+The girder is supported in a horizontal position by a steel cable attached to the girder at B.  The 
+other end of the cable is attached to the point C vertically above A on the wall, with 
+ABC
+α
+∠
+=
+, 
+where 
+3
+4
+tanα =
+.  A load of mass 60 kg is suspended by another cable from the girder at the point 
+D, where 
+2 m
+AD =
+, as shown in Fig. 2.  The girder remains horizontal and in equilibrium. The 
+girder is modelled as a rod, and the cables as light inextensible strings. 
+ 
+(a) Show that the tension in the cable BC is 980 N. 
+ 
+(5) 
+(b) Find the magnitude of the reaction on the girder at A. 
+(6) 
+ 
+(c) Explain how you have used the modelling assumption that the cable at D is light. 
+ 
+(1) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+N13422A 
+4 
+ 
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+α
+1
+ m s
+u
+−
+4 m
+8 m
+ 
+ 
+ 
+A ball is thrown from a point 4 m above horizontal ground.  The ball is projected at an angle α  
+above the horizontal, where 
+3
+4
+tanα =
+. The ball hits the ground at a point which is a horizontal 
+distance 8 m from its point of projection, as shown in Fig. 3. The initial speed of the ball is 
+1
+m s
+u
+− and the time of flight is T seconds. 
+ 
+ 
+(a) Prove that 
+10
+uT =
+. 
+(2) 
+(b) Find the value of u. 
+(5) 
+ 
+As the ball hits the ground, its direction of motion makes an angle φ  with the horizontal. 
+ 
+ 
+(c) Find tanφ . 
+(5)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+N13422A 
+                                   5                                                                   
+6. 
+A girl and her bicycle have a combined mass of 64 kg. She cycles up a straight stretch of road 
+which is inclined at an angle α to the horizontal, where 
+1
+14
+sinα =
+. She cycles at a constant speed 
+of 5 m s−1. When she is cycling at this speed, the resistance to motion from non-gravitational 
+forces has magnitude 20 N. 
+ 
+(a) Find the rate at which the cyclist is working. 
+(4) 
+ 
+She now turns round and comes down the same road. Her initial speed is 
+1
+5 m s−, and the 
+resistance to motion is modelled as remaining constant with magnitude 20 N. She free-wheels 
+down the road for a distance of 80 m. Using this model, 
+ 
+(b) find the speed of the cyclist when she has travelled a distance of 80 m. 
+(5) 
+ 
+The cyclist again moves down the same road, but this time she pedals down the road. The 
+resistance is now modelled as having magnitude proportional to the speed of the cyclist. Her 
+initial speed is again 5 m s−1 when the resistance to motion has magnitude 20 N. 
+ 
+(c) Find the magnitude of the resistance to motion when the speed of the cyclist is 
+1
+8 m s−. 
+ 
+(1) 
+ 
+The cyclist works at a constant rate of 200 W. 
+ 
+(d) Find the magnitude of her acceleration when her speed is 
+1
+8 m s−. 
+(4) 
+ 
+ 
+7. 
+A uniform sphere A of mass m is moving with speed u on a smooth horizontal table when it 
+collides directly with another uniform sphere B of mass 2m which is at rest on the table. The 
+spheres are of equal radius and the coefficient of restitution between them is e. The direction of 
+motion of A is unchanged by the collision. 
+ 
+(a) Find the speeds of A and B immediately after the collision. 
+(7) 
+(b) Find the range of possible values of e. 
+(2) 
+ 
+After being struck by A, the sphere B collides directly with another sphere C, of mass 4m  and of 
+the same size as B. The sphere C is at rest on the table immediately before being struck by B. The 
+coefficient of restitution between B and C is also e. 
+ 
+(c) Show that, after B has struck C, there will be a further collision between A and B. 
+ 
+(6) 
+ 
+ 
+END 
+PMT
+PMT

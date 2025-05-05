@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-50;
+}
+
+.highlight {
+  @apply bg-yellow-200 font-medium rounded px-1;
+}

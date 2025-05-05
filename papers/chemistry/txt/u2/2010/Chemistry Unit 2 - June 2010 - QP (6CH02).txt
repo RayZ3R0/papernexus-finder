@@ -1,0 +1,990 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+Chemistry
+Advanced Subsidiary
+Unit 2: Application of Core Principles of Chemistry
+Edexcel GCE
+N36390A
+©2010 Edexcel Limited.
+7/7/7/2/
+*N36390A0124*
+Monday 7 June 2010 – Morning
+Time: 1 hour 30 minutes
+Candidates may use a calculator.
+6CH02/01
+Instructions
+• Use black ink or ball-point pen.
+•  Fill in the boxes at the top of this page with your name, 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 80. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your 
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, 
+as well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*N36390A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 This question is about bond angles.
+ 
+A 90°
+ 
+B 104°
+ 
+C 107°
+ 
+D 109.5°
+ 
+Select, from A to D above, the most likely value for the bond angle of
+ 
+(a) HCH in methane, CH4.
+(1)
+ 
+ A
+ 
+ B
+ 
+ C
+ 
+ D
+ 
+(b) FSF in sulfur hexafluoride, SF6.
+(1)
+ 
+ A
+ 
+ B
+ 
+ C
+ 
+ D
+ 
+(c) FOF in oxygen difluoride, OF2.
+(1)
+ 
+ A
+ 
+ B
+ 
+ C
+ 
+ D
+(Total for Question 1 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+3
+*N36390A0324*
+Turn over  
+2 Consider the following compounds, P, Q, R and S.
+ 
+CH3CH2CH2CH3
+ 
+Compound P 
+Compound Q
+ 
+CH3CH2CH2CH2Br
+ 
+Compound R 
+Compound S
+ 
+The boiling temperatures of compounds P, Q, R and S increase in the order
+ 
+A P Q R S
+ 
+B R S P Q
+ 
+C Q S P R
+ 
+D Q P S R
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+CH3
+H3C
+C
+CH3
+H
+CH3
+H3C
+C
+Br
+CH3
+PMT
+
+
+--- Page Break ---
+
+4
+*N36390A0424*
+3 Buckminsterfullerene has the formula C60.  Its structure is shown below.
+ 
+The bonding in buckminsterfullerene is similar to the bonding in graphite. 
+ 
+Which of the following is true?
+ 
+ A 
+All the bond angles in buckminsterfullerene are 120°.
+ 
+ B 
+The melting temperature of buckminsterfullerene is higher than that of graphite.
+ 
+ C 
+There are delocalized electrons in buckminsterfullerene.
+ 
+ D 
+On complete combustion, buckminsterfullerene forms carbon dioxide and water.
+(Total for Question 3 = 1 mark)
+4 When concentrated sulfuric acid is added to solid sodium bromide, bromine is produced. 
+ 
+When concentrated sulfuric acid is added to solid sodium chloride, no chlorine is 
+produced.
+ 
+The reason for this difference is
+ 
+ A 
+sulfuric acid is a strong acid.
+ 
+ B 
+hydrogen chloride is a weak acid.
+ 
+ C 
+the chloride ion is a weaker reducing agent than the bromide ion.
+ 
+ D 
+bromine is less volatile than chlorine.
+(Total for Question 4 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*N36390A0524*
+Turn over  
+5 Compound X is a white solid.  On heating this compound, a colourless, acidic gas is 
+the only gaseous product.  A flame test is carried out on the solid residue and a reddish 
+flame is observed.
+ 
+Compound X is
+ 
+A calcium nitrate.
+ 
+B calcium carbonate.
+ 
+C magnesium carbonate.
+ 
+D strontium nitrate.
+(Total for Question 5 = 1 mark)
+6 Which of the following does not apply to the elements Mg, Ca, Sr and Ba in Group 2 of 
+the Periodic Table?
+ 
+A Their oxides, MO, are all basic.
+ 
+B Their metal hydroxides, M(OH)2, become more soluble down the group.
+ 
+C Their oxides, MO, react with water to form the metal hydroxide, M(OH)2.
+ 
+D Their carbonates, MCO3, all decompose on gentle heating.
+(Total for Question 6 = 1 mark)
+7 Which of the following compounds shows hydrogen bonding in the liquid state?
+ 
+A Hydrogen bromide, HBr
+ 
+B Hydrogen sulfide, H2S
+ 
+C Silane, SiH4
+ 
+D Ammonia, NH3
+(Total for Question 7 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*N36390A0624*
+8 For the reversible reaction 
+X U Y
+ 
+which of the following could represent the change in the concentrations of X and Y with 
+time, starting with a mixture of both X and Y?  Equilibrium is reached at time teqm.
+(Total for Question 8 = 1 mark)
+9 Which of the following molecules is polar?
+ 
+ A 
+Carbon dioxide, CO2
+ 
+ B 
+Beryllium chloride, BeCl2
+ 
+ C 
+Ammonia, NH3
+ 
+ D 
+Boron trifluoride, BF3
+(Total for Question 9 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Concentration
+X
+Y
+teqm
+Time
+Concentration
+X
+Y
+teqm
+Time
+Concentration
+X
+Y
+teqm
+Time
+A
+C
+B
+Concentration
+X
+Y
+teqm
+Time
+D
+PMT
+
+
+--- Page Break ---
+
+7
+*N36390A0724*
+Turn over  
+10 The electronegativities of four pairs of elements are given below.  Which pair would 
+form the compound with the greatest ionic character?
+ 
+A 0.7  and  4.0
+ 
+B 0.7  and  3.5
+ 
+C 1.0  and  4.0
+ 
+D 0.8  and  2.8
+(Total for Question 10 = 1 mark)
+11 Which of the following statements about the elements in Group 7 is incorrect?
+ 
+A They all show variable oxidation states in their compounds.
+ 
+B They all form acidic hydrides.
+ 
+C Electronegativity decreases as the group is descended.
+ 
+D They all exist as diatomic molecules.
+(Total for Question 11 = 1 mark)
+12 What are the products, other than water, when chlorine is passed through cold, dilute 
+aqueous sodium hydroxide solution?
+ 
+A NaCl  and  NaClO
+ 
+B NaClO  and  NaClO3
+ 
+C NaCl  and  NaClO3
+ 
+D NaClO  and  NaClO4
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+*N36390A0824*
+13 When solutions of iodine are titrated with aqueous sodium thiosulfate solution, Na2S2O3(aq), 
+the thiosulfate ions are oxidized to
+ 
+ A 
+S2O42–
+ 
+ B 
+S2O62–
+ 
+ C 
+S2O82–
+ 
+ D 
+S4O62–
+(Total for Question 13 = 1 mark)
+14 The best method of converting ethanol, C2H5OH, into iodoethane, C2H5I, is to
+ 
+ A 
+heat iodine and ethanol under reflux.
+ 
+ B 
+react ethanol and potassium iodide in the presence of dilute acid.
+ 
+ C 
+heat potassium iodide and ethanol with concentrated sulfuric acid.
+ 
+ D 
+heat red phosphorus, ethanol and iodine under reflux.
+(Total for Question 14 = 1 mark)
+15 The use of poly(ethene) packaging has been criticised mainly because
+ 
+ A 
+the complete combustion of poly(ethene) produces dangerous fumes.
+ 
+ B 
+large amounts of oil are consumed in producing the monomer, ethene.
+ 
+ C 
+poly(ethene) degrades to form toxic products.
+ 
+ D 
+the catalyst used in the polymerization of ethene is expensive.
+(Total for Question 15 = 1 mark)
+16 Which of the following is essential if a species is to act as a nucleophile?
+ 
+ A 
+A lone pair of electrons.
+ 
+ B 
+A negative charge.
+ 
+ C 
+An unpaired electron.
+ 
+ D 
+A strongly polar bond.
+(Total for Question 16 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*N36390A0924*
+Turn over  
+17 Calculate the volume of dilute sulfuric acid, concentration 0.500 mol dm–3, required to 
+neutralize 20.0 cm3 aqueous sodium hydroxide, concentration 0.100 mol dm–3.
+H2SO4  +  2NaOH  →  Na2SO4  +  2H2O
+ 
+A 2.0 cm3
+ 
+B 4.0 cm3
+ 
+C 8.0 cm3
+ 
+D 20.0 cm3
+(Total for Question 17 = 1 mark)
+18 Which of the following features is shown by the mass spectra of propanone and 
+propanal?
+ 
+propanone 
+propanal
+m/e of the molecular ion
+Fragmentation pattern
+A
+same
+same
+B
+same
+different
+C
+different
+same
+D
+different
+different
+(Total for Question 18 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+O
+CH3CCH3
+O
+CH3CH2C
+H
+PMT
+
+
+--- Page Break ---
+
+10
+*N36390A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+19  A student carried out an experiment to determine the concentration of ethanoic acid in a 
+solution of vinegar.
+ 
+• 
+The student used a measuring cylinder to measure out 25.0 cm3 of the vinegar 
+solution.
+ 
+• 
+This solution was then transferred to a 250 cm3 volumetric flask and the liquid level 
+was carefully made up to the mark with distilled water.
+ 
+• 
+A pipette was used to transfer 25.0 cm3 portions of the acidic solution to conical 
+flasks.
+ 
+• 
+The solution was then titrated with sodium hydroxide solution, concentration         
+0.100 mol dm–3, using phenolphthalein as the indicator.
+CH3COOH(aq)  +  NaOH(aq)  →  CH3COONa(aq)  +  H2O(l)
+ 
+Results
+Titration number
+1
+2
+3
+4
+Burette reading (ﬁ nal) / cm3
+28.55
+28.00
+40.35
+28.05
+Burette reading (initial) / cm3
+ 0.00
+ 0.05
+12.30
+  0.05
+Volume of NaOH used / cm3
+28.55
+27.95
+28.05
+28.00
+ 
+(a) In this titration, what is the colour change of the phenolphthalein indicator?
+(2)
+From ..................................................................................................................................... to ....................................................................................................................................
+ 
+(b) Explain why the mean titre should be based only on titrations 2, 3 and 4.
+ (1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*N36390A01124*
+Turn over  
+ 
+(c) Calculate the mean titre in cm3.
+(1)
+ 
+(d) (i) Using your answer to (c), calculate the number of moles of sodium hydroxide in 
+the mean titre.
+(1)
+ 
+ 
+(ii) Hence state the number of moles of ethanoic acid, CH3COOH, in 25.0 cm3 of 
+the diluted solution used in the titration.
+(1)
+ 
+ 
+(iii) Calculate the concentration of the diluted acid solution in mol dm–3.
+(1)
+PMT
+
+
+--- Page Break ---
+
+12
+*N36390A01224*
+ 
+ 
+(iv) Hence calculate the concentration of the ethanoic acid in the original vinegar 
+solution in mol dm–3.
+(1)
+ 
+ 
+(v) Use your answer from (d)(iv) to state the concentration of the ethanoic acid in 
+the original vinegar solution in units of g dm–3.
+ 
+ 
+ 
+[The molar mass of the ethanoic acid is 60 g mol–1.]
+(1)
+ 
+(e) Suggest, with a reason, how the student’s method of preparing the diluted solution 
+could be improved.
+(2)
+Improvement
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Reason
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*N36390A01324*
+Turn over  
+ 
+(f) The burette used in the titration had an uncertainty for each reading of +–0.05 cm3.
+ 
+ 
+(i) Identify, by letter, which ONE of the following should be regarded as the true 
+value of the titre in titration number 2?
+ 
+ 
+X 
+Between 27.90 and 28.00 cm3
+ 
+ 
+Y 
+Between 27.925 and 27.975 cm3
+ 
+ 
+Z 
+Between 27.85 and 28.05 cm3
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest ONE reason why a student may obtain volumes outside the uncertainty 
+of the burette when performing a titration.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 19 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*N36390A01424*
+20 (a) Propene, C3H6, reacts with hydrogen bromide, HBr, in an electrophilic addition 
+reaction.
+ 
+ 
+2-bromopropane is formed as the major product.
+H3CCH=CH2  +  HBr  →  H3CCH(Br)CH3
+ 
+ 
+(i) Complete the mechanism for the reaction, using ‘curly arrows’ where 
+appropriate.  Show clearly the structure of the intermediate carbocation formed.
+(3)
+ 
+ 
+ 
+Mechanism
+H3C
+H
+C
+C
+H
+H
+Br
+H
+PMT
+
+
+--- Page Break ---
+
+15
+*N36390A01524*
+Turn over  
+ 
+ 
+(ii) Draw the structure of the alternative carbocation that can be formed in the 
+reaction between propene and hydrogen bromide.
+(1)
+ 
+(b) Four isomers, each with the molecular formula C4H10O, are shown below.
+ 
+ 
+Isomer A: 
+CH3CH2CH2CH2OH
+ 
+ 
+Isomer B: 
+CH3CH2CH(OH)CH3
+ 
+ 
+Isomer C: 
+(CH3)3COH
+ 
+ 
+Isomer D: 
+CH3CH(CH3)CH2OH
+ 
+ 
+(i) Which isomer is a secondary alcohol?  Justify your answer.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Which isomer is resistant to oxidation when heated with acidified potassium 
+dichromate(VI)?  Justify your answer in terms of the structure of the isomer.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*N36390A01624*
+ 
+ 
+(iii) Which isomer can be oxidized to a ketone?  Draw the displayed formula of the 
+ketone produced.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Which isomers can be oxidized to an aldehyde?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(v) Phosphorus(V) chloride (phosphorus pentachloride), PCl5, is used to test for the 
+presence of an –OH group.
+ 
+ 
+ 
+What would you expect to see when any of the above four isomers, A, B, C or D, 
+are reacted with phosphorus(V) chloride?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Complete the equation for the reaction shown below.  State symbols are not 
+required.
+(2)
+ 
+ 
+ 
+C4H9OH  +  PCl5  →
+(Total for Question 20 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*N36390A01724*
+Turn over  
+21 (a) In the catalytic converter of a car engine’s exhaust system, the following reaction 
+occurs.
+ 
+ 
+2NO(g)  +  2CO(g)  U  N2(g)  +  2CO2(g)                                ΔH  = –745 kJ mol–1
+ 
+ 
+The temperature in a catalytic converter is high.
+ 
+ 
+(i) State the effect, if any, on the position of equilibrium if the temperature is 
+lowered.  Give a reason for your answer.
+(2)
+Effect ..................................................................................................................................................................................................................................
+Reason ...............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The gases from the engine are not cooled before entering the converter.  
+Explain why this is so.
+ (2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State the effect, if any, on the position of equilibrium if the pressure on the 
+reacting gases is increased.  Give a reason for your answer.
+ (2)
+Effect ..................................................................................................................................................................................................................................
+Reason ...............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*N36390A01824*
+ 
+(b) Nitrogen monoxide, NO, is formed when nitrate ions, NO3
+–, in acidic solution are 
+reduced by silver metal.
+ 
+ 
+(i) Calculate the oxidation number of nitrogen in NO and in NO3
+–.
+(2)
+In  NO  .............................................................................................................................................................................................................................
+In  NO3
+–  ...........................................................................................................................................................................................................................
+ 
+ 
+(ii) Balance the half-equation for the reduction of nitrate ions, NO3
+–, in acidic 
+solution.
+(1)
+NO3
+–  +  ………………H+  +  …………e–    →     NO  +  …………H2O
+ 
+ 
+(iii) Write the half-equation for the oxidation of silver metal, Ag, to silver ions, Ag+.
+(1)
+ 
+ 
+(iv) Hence deduce the full ionic equation for the reaction between silver metal and 
+nitrate ions in acidic solution.  State symbols are not required.
+(2)
+(Total for Question 21 = 12 marks)
+TOTAL FOR SECTION B = 38 MARKS
+PMT
+
+
+--- Page Break ---
+
+19
+*N36390A01924*
+Turn over  
+SECTION C 
+Answer ALL the questions.  Write your answers in the spaces provided.
+22  This question is about the chemistry of some halogenoalkanes.
+ 
+(a) (i) Give the systematic name of halothane.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest the types of intermolecular force present between molecules of 
+liquid halothane.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Halothane is a colourless and sweet-smelling liquid.  It has a boiling temperature of       
+50°C.  Halothane vapour was used as a general anaesthetic in hospitals during the mid 
+to late 20th Century.  Patients inhaled the halothane vapour under medical supervision.  
+However, halothane was found to have some adverse side-effects and was therefore 
+replaced by other halogenoalkane anaesthetics.
+Halothane has the structure
+Cl
+C
+H
+F
+C
+F
+Br
+F
+In an experiment, halothane was heated in a test tube with aqueous silver nitrate 
+and ethanol, using a water bath.  Compound X and bromide ions were formed.  The 
+structure of compound X is shown below.
+Cl
+C
+H
+F
+C
+F
+OH F
+Compound X
+PMT
+
+
+--- Page Break ---
+
+20
+*N36390A02024*
+ 
+ 
+(iii) In the above experiment, suggest ONE reason why a water bath was used rather 
+than heating the test tube containing the reaction mixture directly over a Bunsen 
+flame.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest why ethanol was used in this experiment.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(v) What would be seen in the test tube as the reaction progressed?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Write an ionic equation to show the reaction between aqueous silver ions and 
+aqueous bromide ions.  Include state symbols in your equation.
+(1)
+ 
+(b) Chloroethane, C2H5Cl, can also be used as an anaesthetic.  In an experiment,  
+chloroethane was hydrolysed by aqueous sodium hydroxide, NaOH.
+ 
+ 
+(i) Name, and give the structural formula of, the organic product of the hydrolysis 
+of chloroethane.
+(2)
+Name ..................................................................................................................................................................................................................................
+Structural formula .....................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*N36390A02124*
+Turn over  
+ 
+ 
+(ii) The hydrolysis of chloroethane is an exothermic reaction which takes place in a 
+single step.
+ 
+ 
+ 
+On the diagram below, draw the energy profile for the reaction.  Label clearly 
+the activation energy for the reaction.
+(3)
+ 
+(c) In the early 1900s, the CFC with formula CCl2F2, was identified as a refrigerant 
+which was both non-flammable and non-toxic. 
+ 
+ 
+(i) What does the term CFC stand for?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest ONE use for CFCs other than as a refrigerant.
+(1)
+................................................................................................................................................................................................................................................
+Energy
+Progress of reaction
+PMT
+
+
+--- Page Break ---
+
+22
+*N36390A02224*
+ 
+ 
+*(iii) In the stratosphere, CFCs are broken down by absorption of UV radiation to 
+form chlorine free radicals.
+ 
+ 
+ 
+ The following two reactions occur. 
+Cl•  +  O3   →  ClO•  +  O2
+ClO•  +  O  →  Cl•  +  O2
+ 
+ 
+ 
+Combine these two equations to give the overall equation for the reaction of 
+ozone in the stratosphere.  State the role played by the chlorine free radical in 
+the overall reaction.  Hence explain why many scientists consider the effect of 
+CFCs on ozone to be harmful.
+(5)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*N36390A02324*
+ 
+(d) The compound of formula CH2F2 has replaced several CFCs for commercial use.  
+If molecules of CH2F2 reach the stratosphere, they do not break down to produce 
+fluorine free radicals.
+ 
+ 
+(i) Suggest why C–F bonds are not broken in the stratosphere.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) The compound CH2F2 acts as a greenhouse gas when it absorbs a particular type 
+of radiation. 
+ 
+ 
+ 
+Name the type of radiation and explain why a molecule of CH2F2 is able to 
+absorb this radiation.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 22 = 22 marks)
+TOTAL FOR SECTION C = 22 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*N36390A02424*
+PMT

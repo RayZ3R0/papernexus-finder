@@ -1,0 +1,1055 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P44451A
+©2014 Pearson Education Ltd.
+6/6/6/6/2/
+*P44451A0124*
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, Equilibria 
+and Further Organic Chemistry (including synoptic 
+assessment)
+Monday 13 January 2014 – Afternoon
+Time: 1 hour 40 minutes
+WCH04/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P44451A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer  
+with a cross 
+.
+1 Select the correct states for the stationary and mobile phases in HPLC.
+Stationary phase
+Mobile phase
+A
+liquid
+gas
+B
+gas
+liquid
+C
+solid
+liquid
+D
+solid
+gas
+(Total for Question 1 = 1 mark)
+2 This question is about low resolution proton nuclear magnetic resonance 
+spectroscopy, NMR.
+ 
+(a) NMR involves the interaction of hydrogen nuclei, 1H, in the presence of a powerful 
+magnetic field with
+(1)
+ 
+ 
+A microwaves.
+ 
+ 
+B radio waves.
+ 
+ 
+C ultraviolet radiation.
+ 
+ 
+D X-rays.
+ 
+(b) Which of the following has two peaks in its low resolution NMR spectrum?
+(1)
+ 
+ 
+A Dichloromethane, CH2Cl2
+ 
+ 
+B Ethane, CH3CH3
+ 
+ 
+C Methanal, HCHO
+ 
+ 
+D Methanol, CH3OH
+PMT
+
+
+--- Page Break ---
+
+3
+*P44451A0324*
+Turn over    
+ 
+(c) NMR spectra depend on the number of different hydrogen environments in a 
+molecule.
+ 
+ 
+How many different hydrogen environments are there in a molecule of 
+2,3-dimethylpentane, the skeletal formula of which is shown below?
+(1)
+ 
+ 
+A Seven
+ 
+ 
+B Six
+ 
+ 
+C Five
+ 
+ 
+D Four
+(Total for Question 2 = 3 marks)
+3 Energy is given out when one mole of gaseous strontium ions is hydrated.
+Sr2+(g)  +  aq  o  Sr2+(aq)
+ 
+This reaction is less exothermic than the corresponding reaction for magnesium ions, 
+Mg2+(g), because
+ 
+ 
+A the sum of the first two ionization energies of magnesium is more than that of 
+strontium.
+ 
+ 
+B the lattice energies of magnesium compounds are more exothermic than the 
+lattice energies of corresponding strontium compounds.
+ 
+ 
+C the solubility of magnesium hydroxide is less than the solubility of     
+strontium hydroxide.
+ 
+ 
+D the ionic radius of Mg2+ is less than the ionic radius of Sr2+.
+(Total for Question 3 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P44451A0424*
+4 Use the data below to calculate the enthalpy change of solution of magnesium 
+chloride.
+Lattice energy of magnesium chloride
+−2526 kJ mol–1
+Enthalpy of hydration of Mg2+(g)
+−2003 kJ mol–1
+Enthalpy of hydration of Cl−(g)
+−340 kJ mol–1
+ 
+The enthalpy change of solution of magnesium chloride, in kJ mol–1, is
+ 
+ 
+A +183
+ 
+ 
+B +157
+ 
+ 
+C –157
+ 
+ 
+D –183
+(Total for Question 4 = 1 mark)
+5 In kinetics, the progress of a reaction can be followed by
+ 
+A colorimetry.
+ 
+B measurement of optical activity.
+ 
+C measurement of change in mass.
+ 
+D quenching with ice-cold water followed by titration with acid.
+ 
+Which method would be most suitable to investigate the rates of the following 
+reactions?
+ 
+(a) CH3CH2Br(l)  +  OH−(aq)  o  CH3CH2OH(l)  +  Br−(aq)
+(1)
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+ 
+(b) I2(aq)  +  CH3COCH3(aq)  o  CH3COCH2I(aq)  +  HI(aq)
+(1)
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+(Total for Question 5 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+5
+*P44451A0524*
+Turn over    
+6 A halogenoalkane reacts with hydroxide ions to form an alcohol.
+ 
+Which of the following statements is true if the reaction is first order?
+ 
+ 
+A Increasing the concentration of hydroxide ions increases the rate of the 
+reaction.
+ 
+ 
+B The rate equation for the reaction is rate = [halogenoalkane].
+ 
+ 
+C The reaction mechanism is SN1.
+ 
+ 
+D The reaction involves the formation of a transition state.
+(Total for Question 6 = 1 mark)
+7 The rate equation for the oxidation of bromide ions by bromate(V) ions in acid 
+solution is shown below.
+Rate  =  k[BrO3
+−(aq)][Br−(aq)][H+(aq)]2
+ 
+If the concentrations of all three reactants double, the rate will increase by a factor of
+ 
+ 
+A  2
+ 
+ 
+B  4
+ 
+ 
+C  8
+ 
+ 
+D 16
+(Total for Question 7 = 1 mark)
+8 The gaseous first order reaction, A  o  B  +  C, was found to have a half-life of 20 s 
+when the initial pressure of A was 2 atm.
+ 
+When the initial pressure of A is increased to 4 atm, the half-life is
+ 
+ 
+A  10 s
+ 
+ 
+B  20 s
+ 
+ 
+C  40 s
+ 
+ 
+D 400 s
+(Total for Question 8 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P44451A0624*
+9 The equation for the equilibrium between nitrogen and oxygen may be written in 
+two ways.
+ 
+  N2(g)  +   O2(g)  U  2NO(g) 
+Equilibrium constant   K1
+ 
+½N2(g)  +  ½O2(g)  U  NO(g) 
+Equilibrium constant   K2
+ 
+The standard enthalpy change, ǻH
+9, for the reaction as shown in the first equation is 
++180 kJ mol–1.
+ 
+(a) What is the standard enthalpy change for the reaction as shown in the second 
+equation?
+(1)
+ 
+ 
+A +45 kJ mol–1
+ 
+ 
+B +90 kJ mol–1
+ 
+ 
+C +180 kJ mol–1
+ 
+ 
+D +360 kJ mol–1
+ 
+(b) The equilibrium mole fraction of NO is increased by
+(1)
+ 
+ 
+A increasing the temperature.
+ 
+ 
+B decreasing the temperature.
+ 
+ 
+C increasing the total pressure.
+ 
+ 
+D decreasing the total pressure.
+ 
+(c) Which of the following expressions is correct?
+(1)
+ 
+ 
+A K1 = K2
+ 
+ 
+B K1 = 2K2
+ 
+ 
+C K1 = K2
+2
+ 
+ 
+D K1 = K2
+½
+(Total for Question 9 = 3 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+*P44451A0724*
+Turn over    
+10 Which of the following solutions, when mixed, would make a buffer with pH greater 
+than 7?
+ 
+ 
+A Ethanoic acid and sodium ethanoate.
+ 
+ 
+B Sodium hydroxide and sodium chloride.
+ 
+ 
+C Ammonia and sodium chloride.
+ 
+ 
+D Ammonia and ammonium chloride.
+(Total for Question 10 = 1 mark)
+11 In acid solution, methyl orange is red.  When an alkali is added, the solution turns 
+yellow because the indicator
+ 
+ 
+A gains OH− ions to form cations.
+ 
+ 
+B loses H+ ions to form cations.
+ 
+ 
+C gains OH− ions to form anions.
+ 
+ 
+D loses H+ ions to form anions.
+(Total for Question 11 = 1 mark)
+12 Which method may be used to make a carboxylic acid in a single reaction?
+ 
+ 
+A Hydrolysis of an ester with sodium hydroxide.
+ 
+ 
+B Hydrolysis of an ester with hydrochloric acid.
+ 
+ 
+C Reaction of acidified potassium manganate(VII) with an alkene.
+ 
+ 
+D Reaction of an acyl chloride with ammonia.
+(Total for Question 12 = 1 mark)
+13 Which of the following pairs of compounds would react to form a polyester?
+ 
+ 
+A Ethanol and benzoic acid.
+ 
+ 
+B Ethane-1,2-diol and benzoic acid.
+ 
+ 
+C Ethanol and benzene-1,4-dicarboxylic acid.
+ 
+ 
+D Ethane-1,2-diol and benzene-1,4-dicarboxylic acid.
+(Total for Question 13 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P44451A0824*
+14 Which of the following compounds has both optical and E-Z isomers?
+ 
+ 
+A CH3CH
+CHCH2CH3
+ 
+ 
+B CH3CHBrCH
+C(CH3)2
+ 
+ 
+C CHBr
+CHCHBrCH3
+ 
+ 
+D CH2
+CHCHBrCH3
+(Total for Question 14 = 1 mark)
+15 At which of the following m/e values would you not expect to find a peak in the mass 
+spectrum of ethanoyl chloride?
+ 
+ 
+A 35.5
+ 
+ 
+B 37
+ 
+ 
+C 43
+ 
+ 
+D 78
+(Total for Question 15 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*P44451A0924*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+16 This question is about the reaction scheme below which may be used to convert 
+propanoic acid to ethyl butanoate in five steps.
+ 
+(a) Give the structural formula for butanenitrile, showing any multiple bonds.
+(1)
+....................................................................................................................................................................................................................................................................................
+CH3CH2COOH
+Step 1
+CH3CH2CH2OH
+Step 2
+CH3CH2CH2Cl
+Step 3
+Butanenitrile
+Step 4
+CH3CH2CH2COOH
+Step 5
+CH3CH2CH2COOCH2CH3
+PMT
+
+
+--- Page Break ---
+
+10
+*P44451A01024*
+ 
+(b) Give the formula of the reagent needed for each of the Steps 1, 2, 4 and 5.  The 
+reagent for Step 3 has been given.
+ 
+ 
+Conditions and solvents are not required.
+(4)
+Step 1  .................................................................................................................................................................................................................................................................
+Step 2  .................................................................................................................................................................................................................................................................
+            KCN
+Step 3  .................................................................................................................................................................................................................................................................
+Step 4  .................................................................................................................................................................................................................................................................
+Step 5  .................................................................................................................................................................................................................................................................
+ 
+(c) Write the equation for the neutralization of sodium carbonate by butanoic acid.  
+State symbols are not required.
+(2)
+ 
+(d) State two differences between the low resolution proton nuclear magnetic 
+resonance spectra of butan-1-ol and butanoic acid.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Give two differences between the infrared spectra of butan-1-ol and butanoic 
+acid, mentioning any bonds involved with their wavenumber ranges.
+ 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*P44451A01124*
+Turn over    
+ 
+(f) Give the skeletal formula of ethyl butanoate, CH3CH2CH2COOCH2CH3.
+(1)
+ 
+(g) Suggest the reagents required for a different, two-step method which could be 
+used instead of the single step method you have given for Step 5 in part (b), to 
+obtain ethyl butanoate from butanoic acid.
+ 
+ 
+What is the advantage of using this alternative method?
+(3)
+Reagent for first step  ..........................................................................................................................................................................................................................
+Reagent for second step  ................................................................................................................................................................................................................
+Advantage  .....................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 16 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P44451A01224*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+13
+*P44451A01324*
+Turn over    
+17 The decomposition of dinitrogen pentoxide in a suitable solvent produces nitrogen 
+dioxide, which remains in solution, and oxygen gas which is given off.
+ 
+The overall equation for the reaction is:
+N2O5  o  2NO2  +  ½O2
+ 
+(a) Draw a diagram of the apparatus you would use to follow the rate of this reaction 
+and give the measurements you would make.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) (i) The rate equation for this reaction is:
+Rate  =  k[N2O5]
+ 
+ 
+ 
+What are the units of the rate constant, k?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) A suggested mechanism for the reaction is:
+ 
+ 
+ 
+1st Step            N2O5  o  NO2  +  NO3        ........................................
+ 
+ 
+ 
+2nd Step    NO2  +  NO3   o  NO  +  O2  +  NO2   ........................................
+ 
+ 
+ 
+3rd Step    NO   +  N2O5   o  3NO2             ........................................
+ 
+ 
+ 
+Label these reactions, fast or slow, and explain how your labelling is consistent 
+with the rate equation for the reaction.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P44451A01424*
+ 
+(c) The rate constant, k, was calculated at different temperatures.
+ 
+ 
+(i) Suggest a practical method for keeping the temperature constant.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The table shows the measurements of the rate constant, k, at different 
+temperatures.  Some of the corresponding values for reciprocal of 
+temperature and ln k are also shown.
+ 
+ 
+ 
+Complete the table by calculating the missing values.
+(2)
+T/K
+k
+1
+1
+T
+K
+/
+−
+ln k
+280
+3.80 × 10−6
+3.57 × 10−3
+−12.5
+290
+1.65 × 10−5
+3.45 × 10−3
+−11.0
+300
+6.87 × 10−5
+3.33 × 10−3
+−9.6
+310
+2.48 × 10−4
+3.23 × 10−3
+−8.3
+320
+8.65 × 10−4
+ 
+ 
+*(iii) Plot a graph of ln k on the vertical axis against 1/T on the horizontal axis.
+ 
+ 
+ 
+Calculate the gradient of your graph and use this to calculate the activation 
+energy, Ea.  Remember to include units with your answer, which should be 
+given to three significant figures.
+ 
+ 
+ 
+The Arrhenius equation can be expressed as
+ 
+ 
+ 
+lnk
+E
+R
+= −
+×
+a
+T
+1  + a constant
+ 
+ 
+ 
+[Gas constant , R = 8.31 J K–1 mol–1]
+(7)
+PMT
+
+
+--- Page Break ---
+
+15
+*P44451A01524*
+Turn over    
+(Total for Question 17 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P44451A01624*
+18 (a) Ammonia is a weak alkali.  Consider the following equilibrium that exists in an 
+aqueous solution of ammonia.
+NH3(aq)  +  H2O(l)  U  NH4
++(aq)  +  OH–(aq)   Kb = 1.8  ×  10–5 mol dm–3
+ 
+ 
+The base dissociation constant, Kb, for this reaction is
+Kb
+3
+ = [NH
+aq ][OH
+aq)]
+[NH (aq)]
+4
++
+−
+(
+)
+(
+ 
+ 
+(i) Calculate the concentration of hydroxide ions at equilibrium in a 4.0 mol dm–3 
+aqueous solution of ammonia.
+ 
+ 
+ 
+Assume that the concentration of ammonia at equilibrium is 4.0 mol dm–3 
+and that the equilibrium concentration of hydroxide ions is equal to the 
+equilibrium concentration of ammonium ions.
+(2)
+ 
+ 
+(ii) Calculate the pH of 4.0 mol dm–3 ammonia solution.
+ 
+ 
+ 
+[Kw = 1.0 × 10–14 mol2 dm–6 at 298 K]
+(2)
+PMT
+
+
+--- Page Break ---
+
+17
+*P44451A01724*
+Turn over    
+ 
+(b) (i) Calculate the pH of 4.0 mol dm–3 hydrochloric acid, assuming it is fully ionized.
+(1)
+ 
+ 
+(ii) Draw the titration curve, showing the change in pH when 4.0 mol dm–3 
+hydrochloric acid is added to 25 cm3 of 4.0 mol dm–3 ammonia solution, until 
+30 cm3 of the acid have been added.
+(4)
+pH
+12 –
+11 –
+10 –
+9 –
+8 –
+7 –
+6 –
+5 –
+4 –
+3 –
+2 –
+1 –
+0 –
+–1 –
+Volume of HCl(aq)/cm3
+0
+–
+5
+–
+10
+–
+15
+–
+20
+–
+25
+–
+30
+–
+PMT
+
+
+--- Page Break ---
+
+18
+*P44451A01824*
+ 
+ 
+*(iii) Select a suitable indicator for this titration, giving the colour change you 
+would expect to see.
+ 
+ 
+ 
+Justify your selection.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The titration above can be used to determine the concentration of ammonia 
+solution when ammonia is distributed between the two immiscible solvents, 
+trichloromethane and water.
+ 
+ 
+An experiment is carried out to find the equilibrium constant for the reaction:
+NH3(CHCl3)  U  NH3(aq)
+ 
+ 
+75 cm3 of 4.0 mol dm–3 aqueous ammonia solution and 75 cm3 of the 
+trichloromethane are shaken together.  The two liquids are allowed to separate 
+and 25.0 cm3 of the aqueous layer is taken and titrated with 4.0 mol dm–3 
+hydrochloric acid.  The whole procedure is repeated.
+ 
+ 
+The average titre is 24.0 cm3.
+ 
+ 
+(i) Calculate the number of moles of ammonia, and hence the concentration of 
+ammonia, in mol dm–3, in the aqueous layer.
+(3)
+PMT
+
+
+--- Page Break ---
+
+19
+*P44451A01924*
+Turn over    
+ 
+ 
+(ii) The initial volumes of the two solvents are the same.
+ 
+ 
+ 
+Hence deduce the concentration of ammonia in the trichloromethane layer in 
+mol dm–3.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Write the expression for the equilibrium constant, Kc, for this reaction and 
+calculate its value.
+(1)
+ 
+ 
+(iv) Suggest why ammonia is much more soluble in water than in trichloromethane.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 18 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P44451A02024*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+21
+*P44451A02124*
+Turn over    
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+19 This question is about sucrose, the chemical commonly known as sugar.  Some 
+thermochemical data for sucrose and oxygen are given in the table below.
+Standard entropy of sucrose, S
+9 [C12H22O11(s)]
++392.4 J mol–1 K–1
+Standard enthalpy change of combustion of sucrose, ǻH
+9
+c
+–5639.7 kJ mol–1
+Standard entropy of oxygen, S
+9 [½O2(g)]
++102.5 J mol–1 K–1
+ 
+The equation for the complete combustion of sucrose, C12H22O11, is
+C12H22O11(s)  +  12O2(g)  o  12CO2(g)  +  11H2O(l)
+ 
+(a) (i) Calculate the standard entropy change of the system, ǻS
+9
+system, for this 
+combustion, using the data given in the table and your Data Booklet.  Include 
+a sign and units in your answer.
+(3)
+ 
+ 
+(ii) Calculate the standard entropy change of the surroundings, ǻS
+9
+surroundings, for 
+this combustion at 298 K.  Include a sign and units in your answer.
+(2)
+PMT
+
+
+--- Page Break ---
+
+22
+*P44451A02224*
+ 
+ 
+(iii) Calculate the total standard entropy change for the combustion,  ǻS
+9
+total, at 
+298 K.
+ 
+ 
+ 
+State the significance of your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) State and explain the effect, if any, of increasing the temperature on  
+ǻS
+9
+surroundings, ǻS
+9
+total and the extent of the reaction.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Icing sugar can be hazardous when it is being finely powdered in a factory.
+ 
+ 
+ 
+Explain why sucrose is stable at room temperature, in spite of your answer to 
+part (iii), but its manufacture is hazardous.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Suggest two risks associated with high levels of sucrose in the diet.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*P44451A02324*
+ 
+(b) Sucrose can be hydrolysed by warming with dilute hydrochloric acid to form 
+glucose and fructose.
+ 
+ 
+In aqueous solution, a structure of glucose is
+ 
+ 
+(i) Circle or mark with an asterisk (*) all the chiral centres on the structure of 
+glucose.
+(2)
+ 
+ 
+(ii) State the physical property associated with molecules which have chiral 
+centres.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State what change you would expect to see when glucose is boiled with 
+Benedict’s or Fehling’s solutions.
+ 
+ 
+ 
+Explain the chemistry involved in this reaction.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+CHO
+H
+C
+OH
+HO
+C
+H
+H
+C
+OH
+H
+C
+OH
+CH2OH
+PMT
+
+
+--- Page Break ---
+
+24
+*P44451A02424*
+PMT

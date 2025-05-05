@@ -1,0 +1,1385 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+P48373A
+©2017 Pearson Education Ltd.
+6/6/5/1/1/
+*P48373A0132*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition Metals 
+and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Friday 20 January 2017 – Morning
+Time: 1 hour 40 minutes
+WCH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+•  Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+•  The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•  Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P48373A0232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 Which set of successive ionisation energies, in kJ mol–1, could not be for a transition element?
+ 
+ 
+A 653   1 592    2 987    4 740
+ 
+ 
+B 658   1 310    2 653    4 175
+ 
+ 
+C 759   1 561    2 958    5 290
+ 
+ 
+D 900   1 757   14 849   21 007
+(Total for Question 1 = 1 mark)
+2 The bonding within the complex ion, [Cu(H2O)6]2+ is
+ 
+ 
+A covalent and dative covalent only.
+ 
+ 
+B covalent, dative covalent and ionic.
+ 
+ 
+C covalent only.
+ 
+ 
+D dative covalent only.
+(Total for Question 2 = 1 mark)
+3 An aqueous solution of a transition metal ion formed a green precipitate with both 
+ammonia and sodium hydroxide solutions.
+ 
+The green precipitate dissolved to form a blue solution with excess ammonia, but was 
+insoluble in excess sodium hydroxide.
+ 
+Which of these is the transition metal ion?
+ 
+ 
+A Cr3+
+ 
+ 
+B Cu2+
+ 
+ 
+C Fe2+
+ 
+ 
+D Ni2+
+(Total for Question 3 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P48373A0332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 When aqueous sodium hydroxide is added to a solution containing manganese(II) ions,  
+an off-white precipitate of manganese(II) hydroxide forms.  The precipitate then  
+gradually turns brown.
+ 
+What type of reaction causes this precipitate to change colour?
+ 
+ 
+A Deprotonation
+ 
+ 
+B Disproportionation 
+ 
+ 
+C Ligand exchange
+ 
+ 
+D Oxidation
+(Total for Question 4 = 1 mark)
+5 Aluminium oxide reacts as shown in the equations.
+              Al2O3  +  6H+  o  2Al3+  +  3H2O
+Al2O3  +  2OH–  +  3H2O  o  2Al(OH)4
+–
+ 
+These two reactions show that aluminium oxide is
+ 
+ 
+A acidic.
+ 
+ 
+B amphoteric.
+ 
+ 
+C basic.
+ 
+ 
+D an oxidising agent.
+(Total for Question 5 = 1 mark)
+6 What is the molecular formula of the compound below?
+OH
+ 
+ 
+A C9H9O
+ 
+ 
+B C9H10O
+ 
+ 
+C C9H11O
+ 
+ 
+D C9H12O
+(Total for Question 6 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P48373A0432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+7 When excess bromine reacts with benzene in the presence of ultraviolet radiation, 
+the product below is formed.
+Br
+Br
+Br
+Br
+Br
+Br
+ 
+The type of reaction occurring is
+ 
+ 
+A free radical addition.
+ 
+ 
+B free radical substitution.
+ 
+ 
+C electrophilic addition.
+ 
+ 
+D electrophilic substitution. 
+(Total for Question 7 = 1 mark)
+8 Phenol, C6H5OH, has a Ka value of 1.28 u 10−10 mol dm−3.
+ 
+What is the pH of a 0.10 mol dm−3 solution of phenol?
+ 
+ 
+A 4.94
+ 
+ 
+B 5.45
+ 
+ 
+C 9.89
+ 
+ 
+D 10.89
+(Total for Question 8 = 1 mark)
+9 Phenylamine, C6H5NH2, is a weak base.
+C6H5NH2(aq)  +  H2O(l)  U  C6H5NH3
++(aq) +  OH−(aq)
+ 
+The equilibrium constant for this reaction is 5.0 u 10−10 mol dm−3.
+ 
+What is the concentration of OH− ions, in mol dm−3, in a 0.10 mol dm–3 solution of phenylamine?
+ 
+ 
+A 2.2 u 10−5
+ 
+ 
+B 7.1 u 10−6
+ 
+ 
+C 5.0 u 10−10
+ 
+ 
+D 5.0 u 10−11
+(Total for Question 9 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P48373A0532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 An organic compound X reacted with bromine water to give a white precipitate. 
+X gave a deep blue solution with an aqueous solution containing Cu2+ ions.
+ 
+Which of the following could be the structure of X? 
+(Total for Question 10 = 1 mark)
+11 Which of these compounds cannot form an amide in a reaction with ethanoyl chloride?
+ 
+ 
+A NH3
+ 
+ 
+B CH3NH2
+ 
+ 
+C CH3CH2NHCH3
+ 
+ 
+D CH3CH2N(CH3)2
+(Total for Question 11 = 1 mark)
+12 What is the minimum volume, in cm3, of oxygen needed for the complete combustion  
+of 10 cm3 of hexane gas, C6H14(g)?
+ 
+All gas volumes are measured at the same temperature and pressure.
+ 
+ 
+A 90
+ 
+ 
+B 95
+ 
+ 
+C 180
+ 
+ 
+D 190
+(Total for Question 12 = 1 mark)
+A
+OH
+NH2
+OH
+NH2
+OH
+NO2
+OH
+NO2
+C
+B
+D
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P48373A0632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 What mass of water in g is produced during the complete combustion of 
+0.002 mol of octane, C8H18?
+ 
+ 
+A 0.036
+ 
+ 
+B 0.072
+ 
+ 
+C 0.324
+ 
+ 
+D 0.648
+(Total for Question 13 = 1 mark)
+14 Which is the most important advantage of combinatorial chemistry over traditional 
+methods for developing pharmaceuticals?
+ 
+ 
+A Many more compounds can be made in a given time.
+ 
+ 
+B Only stereo-specific compounds are formed.
+ 
+ 
+C The compounds formed have fewer impurities.
+ 
+ 
+D The compounds formed have fewer side effects.
+(Total for Question 14 = 1 mark)
+15 Linalool is an organic liquid that is immiscible with water and can decompose below 
+its boiling temperature.  It is extracted from lavender flowers and stalks.
+ 
+The lavender flowers and stalks are crushed and mixed with water.
+ 
+Which is the correct order of practical techniques to extract linalool from this mixture?
+ 
+ 
+A refluxing, distilling, drying, decanting
+ 
+ 
+B steam distilling, purifying by washing, drying, decanting
+ 
+ 
+C steam distilling, using a separating funnel, drying, decanting
+ 
+ 
+D using a separating funnel, drying, decanting, distilling
+(Total for Question 15 = 1 mark)
+16 In a methanol-oxygen fuel cell, methanol is
+ 
+ 
+A oxidised at the anode.
+ 
+ 
+B oxidised at the cathode.
+ 
+ 
+C reduced at the anode.
+ 
+ 
+D reduced at the cathode.
+(Total for Question 16 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P48373A0732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+17 Copper(II) ions oxidise titanium(II) ions. 
+ 
+The relevant half-equations are
+ 
+Half-equation 1 
+Ti3+ + e−  U  Ti2+
+ 
+Half-equation 2 
+Cu2+  +  2e−  U  Cu  
+E
+9 = +0.34 V
+ 
+E
+9
+cell for the reaction = + 0.71 V.
+ 
+The standard electrode potential for half-equation 1 is
+ 
+ 
+A −0.37 V
+ 
+ 
+B −1.05 V
+ 
+ 
+C +0.37 V
+ 
+ 
+D +1.05 V
+(Total for Question 17 = 1 mark)
+18 This question is about the following reactions.
+ 
+P 
+2Fe2+(aq) + Br2(aq) 
+o 
+2Fe3+(aq) 
++ 2Br–(aq)
+ 
+Q 
+2Fe2+(aq) + I2(aq) 
+o 
+2Fe3+(aq) 
++ 2I–(aq)
+ 
+R 
+2Fe3+(aq) + 2Br–(aq) o 
+2Fe2+(aq) 
++ Br2(aq)
+ 
+S 
+2Fe3+(aq) + 2I–(aq) 
+o 
+2Fe2+(aq) 
++ I2(aq)
+ 
+Relevant standard electrode potentials are shown in the table.
+Electrode reaction
+E
+9/V
+I2(aq)  +  2e–  U  2I–(aq)
++0.54
+2Fe3+(aq)  +  2e– U2Fe2+(aq) 
++0.77
+Br2(aq)  +  2e–  U  2Br–(aq)
++1.09
+ 
+Which reactions are thermodynamically feasible under standard conditions?
+ 
+ 
+A P and Q
+ 
+ 
+B P and S
+ 
+ 
+C Q and R
+ 
+ 
+D Q and S
+(Total for Question 18 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P48373A0832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+19 A titration experiment was used to find the percentage of iron in iron tablets.  The volumes 
+used and measurement uncertainty for each reading of the burette and pipette are shown.
+Apparatus
+Volume used 
+/cm3
+Measurement uncertainty 
+/ cm3
+burette
+21.80
+±0.05
+pipette
+25.0
+±0.06
+ 
+What are the total percentage uncertainties, to 2 decimal places?
+Total percentage 
+uncertainty on volume 
+measured by burette 
+Total percentage 
+uncertainty on volume 
+measured by pipette
+A
+0.23
+0.24
+B
+0.23
+0.48
+C
+0.46
+0.24
+D
+0.46
+0.48
+(Total for Question 19 = 1 mark)
+20 Sulfuryl chloride, SO2Cl2, reacts with water to give a mixture of sulfuric acid, H2SO4, and 
+hydrochloric acid, HCl.
+ 
+How many moles of sodium hydroxide, NaOH, are needed to neutralise the solution 
+formed by adding 1 mol of sulfuryl chloride to excess water?
+ 
+ 
+A 1
+ 
+ 
+B 2
+ 
+ 
+C 3
+ 
+ 
+D 4
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P48373A0932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P48373A01032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Compounds derived from benzene have many uses, including as dyes and drugs.
+ 
+(a) Sudan I is an intense orange-red azo dye that is used to colour waxes, oils  
+and polishes.
+ 
+ 
+It can be prepared from benzene using the reaction scheme shown.
+Step 1
+Step 2
+Step 4
+nitrobenzene
+phenylamine
+Sudan I
+benzenediazonium 
+chloride
+conc. HNO3
+conc. H2SO4
+55°C
+NaNO2
+HCl(aq)
+0–10°C
+NO2
+NH2
+HO
+N
+N
+Step 3
+ 
+ 
+(i) Give the mechanism of the reaction taking place in Step 1, including an 
+equation for the formation of the electrophile.
+(4)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P48373A01132*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Identify the reagents needed in Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain why, in Step 3, the temperature should not be higher than 10°C.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Draw the structure of benzenediazonium chloride, showing all the bonds in 
+the side-chain and any charges.
+(1)
+ 
+ 
+(v) Draw the structure of the organic compound needed to produce Sudan I from 
+benzenediazonium chloride in Step 4.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P48373A01232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Sudan IV is another azo dye.
+ 
+ 
+The first step of a suggested synthesis of Sudan IV involved the preparation of 
+methylbenzene from benzene.
+ 
+ 
+Give the reagent and conditions to prepare methylbenzene from benzene.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P48373A01332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ *(c) Benzyl benzoate is present in many asthma drugs.
+O
+O
+benzyl benzoate
+ 
+ 
+Outline how a chemist could synthesise a sample of benzyl benzoate in three or 
+four steps, using benzaldehyde, C6H5CHO, as the only organic compound.
+ 
+ 
+Include the reagents and conditions for the steps in the synthesis and draw the 
+structures of the intermediates.
+(5)
+(Total for Question 21 = 15 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P48373A01432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+22 The elements from scandium to zinc belong to the d-block.  Most of these elements 
+are transition elements.
+ 
+(a) (i) Complete the electronic configurations of a scandium atom, a manganese(III) ion 
+and an iron(II) ion.
+(2)
+ 
+3d 
+4s
+Sc     [Ar]
+Mn3+  [Ar]
+Fe2+  [Ar]
+ 
+ 
+(ii) Scandium, iron and manganese are d-block elements, but only iron and 
+manganese are transition elements.
+ 
+ 
+ 
+Explain the meaning of these terms.
+(2)
+ 
+d-block elements
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+transition elements
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P48373A01532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Explain, in terms of electronic configurations, why Fe2+ ions are readily 
+oxidised to Fe3+ ions but Mn2+ ions are not readily oxidised to Mn3+ ions.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Explain why the Fe2+ and Fe3+ ions have different colours in aqueous solution.
+ 
+ 
+ 
+A detailed explanation of why transition metal ions are coloured is not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The concentration of a solution of potassium manganate(VII), KMnO4, can be 
+found by titration with arsenic(III) oxide, As2O3.
+ 
+ 
+In this reaction, arsenic(III) oxide is oxidised to arsenic(V) oxide, As2O5, and the 
+mole ratio of As2O3 to MnO4
+− is 5:4.
+ 
+ 
+Deduce the final oxidation number of the manganese.  Explain your reasoning.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P48373A01632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Oxaliplatin is a drug used for the treatment of cancer.  It consists of a platinum ion 
+linked to two different bidentate ligands.  The complex can be represented by the 
+structure shown.
+O
+O
+O
+Pt
+NH2
+NH2 O
+ 
+ 
+(i) State the meaning of the term bidentate ligand.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the structures of the two bidentate ligands in oxaliplatin.
+(2)
+ 
+ 
+(iii) State the oxidation number of platinum in this complex.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 15 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P48373A01732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+23 Amino acids contain both amine and carboxylic acid functional groups.
+ 
+(a) The amino acid alanine can be synthesised from ammonia and ethanal in three steps.
+ 
+ 
+(i) Suggest the reagent for Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Identify, by name or formula, the reagent for Step 3.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Use your knowledge of amine chemistry to suggest the displayed formula of 
+the organic product formed when alanine reacts with chloroethane.
+(1)
+Step 1
+Step 3
+Step 2
+O
+CH3
+C
+H
+HN
+CH3
+C
+H
+NH3
++
+H2O
++
+C
+H
+C
+H2N
+CH3
+N
+OH
+C
+H
+C
+H2N
+CH3
+O
+alanine
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P48373A01832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Tyrosine and serine are amino acids that contain an additional OH group.
+OH
+tyrosine
+H
+OH
+C
+C
+H2N
+CH2
+O
+OH
+serine
+H
+OH
+C
+C
+H2N
+CH2
+O
+ 
+ 
+(i) Draw the structure of the zwitterion of tyrosine.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P48373A01932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Complete the diagrams to show the two optical isomers of serine.
+(2)
+OH
+H
+OH
+C
+C
+H2N
+CH2
+O
+C
+C
+- - - - -
+- - - - -
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P48373A02032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Tyrosine and serine can form different types of condensation polymers.
+ 
+ 
+ 
+Draw two repeat units of the polyamide formed from tyrosine only and two 
+repeat units of the polyester formed from serine only.
+ 
+ 
+ 
+The polymer linkages must be displayed.
+(4)
+OH
+tyrosine
+H
+OH
+C
+C
+H2N
+CH2
+O
+OH
+serine
+H
+OH
+C
+C
+H2N
+CH2
+O
+Polyamide formed from tyrosine only
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P48373A02132*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Polyester formed from serine only
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P48373A02232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Amino acids are detected using ninhydrin.
+OH
+O
+O
+OH
+ninhydrin
+ 
+ 
+Ninhydrin reacts with most amino acids to give a purple colour.  The reaction can 
+be summarised as
++  RCHO  +  CO2  +  3H2O
+OH
+O
+O
+OH
++  NH2CHCOOH  
+  
+R
+2
+N
+O
+O
+O
+O
+ 
+ 
+(i) Draw the structure of the aldehyde formed when tyrosine reacts with ninhydrin.
+(1)
+OH
+H
+OH
+C
+C
+H2N
+CH2
+O
+tyrosine
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P48373A02332*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+ 
+(ii) Draw the structure of the amino acid that reacts with ninhydrin to form 
+2-methylpropanal, (CH3)2CHCHO.
+(1)
+ 
+(d) Explain whether or not tyrosine and serine can be distinguished by their infrared 
+absorbance in the 4000 to 2000 cm–1 range.  Justify your answer by quoting 
+information from the Data Booklet.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P48373A02432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(e) This question is about the high resolution proton nmr spectrum of the amino acid valine.
+H
+OH
+C
+C
+H3C
+O
+CH3
+H
+C
+NH2
+ 
+ 
+(i) State the total number of different proton environments in valine.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Use the Data Booklet, and your knowledge of nmr spectra, to complete the 
+table for the protons in valine shown in bold in the structure.
+(3)
+Protons in valine
+Chemical shift 
+/ ppm from TMS
+Splitting pattern
+CH3
+0.1–1.9
+CH
+0.1–1.9
+OH
+singlet
+(Total for Question 23 = 17 marks)
+TOTAL FOR SECTION B = 47 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+25
+*P48373A02532*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+26
+*P48373A02632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24
+The +6 oxidation state
+There are many compounds that contain an element in the +6 oxidation state, when 
+six of the element’s electrons are used in bonding.
+Similarities exist between sulfur(VI) compounds and chromium(VI) compounds.  
+For example, sulfur forms sulfate(VI) ions, SO4
+2–, and disulfate(VI) ions, S2O7
+2–, while 
+chromium forms chromate(VI) ions, CrO4
+2–, and dichromate(VI) ions, Cr2O7
+2–.  The ions 
+with corresponding formulae have the same shape.
+Other transition metal compounds exist with the metal in oxidation state +6.  
+Potassium manganate(VI), K2MnO4, can be prepared in alkaline solution but it readily 
+disproportionates in neutral or acidic solution.  Potassium ferrate(VI), K2FeO4, is 
+obtained by heating iron filings with potassium nitrate and then pouring the cooled 
+mixture into water.
+ 
+(a) (i) Draw a dot and cross diagram for a sulfate(VI) ion, SO4
+2–.
+(2)
+ 
+ 
+(ii) State the shape of a sulfate(VI) ion, SO4
+2–.
+(1)
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+27
+*P48373A02732*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over   
+ 
+ 
+(iii) Many sulfate(VI) compounds are soluble in water.  However, lead(II) sulfate(VI) 
+is sparingly soluble.
+ 
+ 
+ 
+0.0500 g of lead(II) sulfate(VI), PbSO4, was mixed with 250.0 cm3 of water.
+ 
+ 
+ 
+Calculate the mass of undissolved lead(II) sulfate(VI) in this mixture.
+ 
+ 
+ 
+Data:
+ 
+ 
+ 
+solubility of lead(II) sulfate(VI) = 1.26 x 10–4 mol dm–3
+ 
+ 
+ 
+molar mass of PbSO4 = 303.3 g mol–1
+(2)
+ 
+(b) (i) Sodium disulfate(VI) decomposes on heating to form only two products: 
+sodium sulfate(VI) and an oxide of sulfur in oxidation state +6.
+ 
+ 
+ 
+Write the equation for this decomposition.  State symbols are not required.
+(1)
+ 
+ 
+(ii) Ammonium dichromate(VI) decomposes on heating to form chromium(III) oxide, 
+nitrogen and water.
+ 
+ 
+ 
+Write the equation for this decomposition.  State symbols are not required.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+28
+*P48373A02832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Use these standard electrode potentials to answer the following questions.
+Electrode reaction
+E
+9/V
+SO4
+2–(aq)  +  H2O(l)  +  2e–  USO3
+2–(aq)  +  2OH–(aq)
+–0.93
+CrO4
+2–(aq)  +  
+MnO4
+–(aq)  +  e–  UMnO4
+2–(aq)
++0.56
+MnO4
+2–(aq)  +  2H2O(l)  +  2e–  UMnO2(s)  +  4OH–(aq) 
++0.59
+2H+(aq)  +  O2(g)  +  2e–  UH2O2(aq)
++0.68
+Cr2O7
+2–(aq)  +  14H+(aq)  +  6e–  U  2Cr3+(aq)  +  7H2O(l)
++1.33
+MnO4
+–(aq)  +  8H+(aq)  +  5e–  U  Mn2+(aq)  +  4H2O(l)
++1.51
+H2O2(aq)  +  2H+(aq)  +  2e–  U2H2O(l)
++1.77
+FeO4
+2–(aq)  +  8H+(aq)  +  3e–  UFe3+  +  4H2O(l)
++2.20
+ 
+ 
+(i) Complete the table using information from page 14 of the Data Booklet.
+(1)
+ 
+ 
+(ii) Give the formula of the species which, under standard conditions, is the 
+strongest oxidising agent.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Write the equation for the disproportionation of the manganate(VI) ion.  
+Include state symbols.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+29
+*P48373A02932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) Calculate the standard cell potential, E
+9
+cell, for the following reaction.
+2MnO4
+–(aq)  +  6H+(aq)  +  5H2O2(aq)  o  2Mn2+(aq)  +  5O2(g)  +  8H2O(l)
+(1)
+ 
+ 
+(v) Draw a fully labelled diagram of the apparatus you would use to determine 
+the standard electrode potential of the dichromate(VI) / chromium(III) electrode 
+at 298 K, using a standard hydrogen electrode. 
+(5)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+30
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+*P48373A03032*
+ 
+(d) The mass of ethanol in 5.00 cm3 of white wine is found by oxidising the ethanol 
+to ethanoic acid using acidified potassium dichromate(VI) solution.  The excess 
+acidified potassium dichromate(VI) solution is then determined.
+Step 1  
+5.00 cm3 of white wine was diluted to 100.0 cm3 with distilled water.
+Step 2 
+ 10.0 cm3 of acidified potassium dichromate(VI) solution, of concentration 
+0.0150 mol dm–3, was placed in a conical flask with 1.00 cm3 of the diluted white 
+wine and left until all the ethanol had been completely oxidised.
+Step 3 
+ 10 cm3 (an excess) of potassium iodide solution was added to the flask to react with 
+the remaining potassium dichromate(VI) solution.
+Step 4 
+ The iodine produced was titrated with 0.0300 mol dm–3 sodium thiosulfate solution.
+Step 5 
+ The procedure was repeated twice more.
+The mean titre of sodium thiosulfate solution was 9.20 cm3.
+The equations for the reactions taking place are
+2Cr2O7
+2–  +  16H+  +  3C2H5OH  o  4Cr3+  +  11H2O  +  3CH3COOH
+Cr2O7
+2–  +  14H+   +  6I–  o  2Cr3+  +  3I2  +  7H2O
+2S2O3
+2–  +  I2  o  S4O6
+2–  +  2I–
+ 
+ 
+(i) Use the equations to determine the mole ratio of S2O3
+2– to Cr2O7
+2– in this series 
+of reactions.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+31
+*P48373A03132*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+*(ii) Calculate the mass of ethanol in 5.00 cm3 of the original white wine.
+(6)
+(Total for Question 24 = 23 marks)
+TOTAL FOR SECTION C = 23 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+32
+*P48373A03232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

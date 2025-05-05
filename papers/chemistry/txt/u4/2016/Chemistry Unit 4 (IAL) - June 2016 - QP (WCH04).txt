@@ -1,0 +1,1460 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P46664A
+©2016 Pearson Education Ltd.
+5/6/3/3/1/
+*P46664A0128*
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, Equilibria and 
+Further Organic Chemistry  
+(including synoptic assessment)
+Tuesday 14 June 2016 – Afternoon
+Time: 1 hour 40 minutes
+WCH04/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+•  Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+•  The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•  Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P46664A0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 Consider the reaction
+CH3COOH  +  NaOH  o  CH3COONa  +  H2O
+ 
+This is an example of
+ 
+ 
+A acylation.
+ 
+ 
+B hydrolysis.
+ 
+ 
+C neutralization.
+ 
+ 
+D substitution.
+(Total for Question 1 = 1 mark)
+2 The formula of a compound present in some vegetable oils is shown below.
+CH2
+O
+C
+C13H25
+O
+CH
+O
+C
+C15H29
+O
+CH2
+O
+C
+C17H33
+O
+ 
+Which alcohol is produced when this oil is hydrolysed?
+ 
+ 
+A Methanol
+ 
+ 
+B Ethanol
+ 
+ 
+C Propan-1-ol
+ 
+ 
+D Propane-1,2,3-triol
+(Total for Question 2 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P46664A0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 This question is about the reaction of cyanide ions with a ketone.
+ 
+(a) A student wrote the reaction mechanism shown below.
+ 
+ 
+What is the error in this mechanism?
+(1)
+ 
+ 
+A The direction of the curly arrow from the cyanide ion.
+ 
+ 
+B The direction of the curly arrow from the hydrogen ion.
+ 
+ 
+C The dipole on the atoms in the carbonyl bond.
+ 
+ 
+D The structure of the intermediate ion.
+ 
+(b) The mechanism for the reaction between cyanide ions and ketones has 
+similarities to the mechanism for the reaction between hydroxide ions and 
+primary halogenoalkanes.
+ 
+ 
+Both mechanisms
+(1)
+ 
+ 
+A involve initial attack by a nucleophile.
+ 
+ 
+B result in the formation of optical isomers.
+ 
+ 
+C involve attack from above or below a planar structure.
+ 
+ 
+D produce a racemic mixture.
+(Total for Question 3 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P46664A0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 All of the following molecules have four carbon atoms.
+ 
+(a) Which of these molecules would react with sodium?
+(1)
+ 
+ 
+A Q only
+ 
+ 
+B S only
+ 
+ 
+C Q and S only
+ 
+ 
+D P and R only
+ 
+(b) Which of these molecules would give a positive result for the iodoform test?
+(1)
+ 
+ 
+A P only
+ 
+ 
+B Q only
+ 
+ 
+C P and Q only
+ 
+ 
+D R and S only
+ 
+(c) Which of these molecules would give a positive result when tested with 
+2,4-dinitrophenylhydrazine?
+(1)
+ 
+ 
+A P only
+ 
+ 
+B Q only
+ 
+ 
+C R only
+ 
+ 
+D P and S only
+P
+Q
+R
+S
+CH3
+C
+CH2
+CH3
+O
+CH3
+CH
+CH2
+CH3
+OH
+CH3
+CH
+CH
+CH3
+CH3
+CH2
+CH2
+C
+O
+OH
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P46664A0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Which of these molecules would be oxidized by ammoniacal silver nitrate (Tollen’s reagent)?
+(1)
+ 
+ 
+A P only
+ 
+ 
+B Q only
+ 
+ 
+C R only
+ 
+ 
+D None of P, Q, R or S
+ 
+(e) Which of these molecules would be reduced with lithium tetrahydridoaluminate(III)
+(lithium aluminium hydride) in dry ether to form a primary alcohol?
+(1)
+ 
+ 
+A P
+ 
+ 
+B Q
+ 
+ 
+C R
+ 
+ 
+D S
+(Total for Question 4 = 5 marks)
+5 Which of the following compounds reacts with phosphorus(V) chloride to form 
+propanoyl chloride?
+ 
+ 
+A CH3CH2CH2OH
+ 
+ 
+B CH3CH2CH2CH2OH
+ 
+ 
+C CH3CH2COOH
+ 
+ 
+D CH3CH2CH2COOH
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P46664A0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+6 Chromatography is a chemical technique used to analyse mixtures.
+ 
+(a) A component of a mixture will move more quickly through a gas chromatography 
+column if it has
+(1)
+ 
+ 
+A higher molar mass.
+ 
+ 
+B stronger interactions with the stationary phase.
+ 
+ 
+C lower adsorption to the stationary phase.
+ 
+ 
+D lower volatility.
+ 
+(b) A mixture of four substances was separated using HPLC.  The separation was 
+carried out using a polar stationary phase and a non-polar mobile phase.
+ 
+ 
+The chromatogram produced is shown below.
+ 
+ 
+Which of the four substances is likely to be the least polar?
+(1)
+ 
+ 
+A W
+ 
+ 
+B X
+ 
+ 
+C Y
+ 
+ 
+D Z
+(Total for Question 6 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Detector 
+response
+Time / s
+X
+Y
+Z
+W
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P46664A0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+7 Polyesters are condensation polymers.
+ 
+(a) PET, polyethylene terephthalate, is an example of a polyester. 
+Part of this polymer is shown below.
+⎡
+⎣⎢   C
+C6H4
+C
+O
+C2H4
+O
+C
+C6H4
+C
+O
+C2H4
+O  
+O
+O
+O
+O
+⎤
+⎦⎥
+ 
+ 
+Which of the following could be the monomers of this polymer?
+(1)
+ 
+ 
+A 
+C
+C6H4
+C
+O
+O
+H
+H
+ 
+and  HO
+C2H4
+OH
+ 
+ 
+B 
+C
+C6H4
+C
+O
+O
+HO
+OH
+ 
+and  C2H4
+ 
+ 
+C 
+C
+C6H4
+C
+O
+O
+HO
+OH
+ 
+and  HO
+C2H4
+OH
+ 
+ 
+D HO
+C6H4
+OH 
+and  
+C
+C2H4
+C
+O
+O
+HO
+OH
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P46664A0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) Another polyester, PHB, is made from a single monomer, 3-hydroxybutanoic acid.
+ 
+ 
+Which of the following correctly represents a section of this polymer?
+(1)
+ 
+ 
+A 
+⎡
+⎣⎢   O
+CH2
+CH2
+CH2
+C
+O
+CH2
+CH2
+CH2
+C  
+O
+O ⎤
+⎦⎥
+ 
+ 
+B 
+⎡
+⎣⎢   O
+CH
+CH2
+C
+O
+CH
+CH2
+C  
+O
+O ⎤
+⎦⎥
+CH3
+CH3
+ 
+ 
+C 
+⎡
+⎣⎢   C
+CH2
+CH2
+C
+O
+CH2
+CH2
+CH2
+CH2
+O  
+O
+O
+⎤
+⎦⎥
+ 
+ 
+D 
+⎡
+⎣⎢   O
+CH2
+CH
+C
+O
+CH2
+CH
+C  
+O
+O ⎤
+⎦⎥
+CH3
+CH3
+(Total for Question 7 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P46664A0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+8 Buffers are vital in the maintenance of a relatively stable pH in the human body.
+ 
+One of these is the carbonic acid-hydrogencarbonate buffer.
+H2CO3  U  H+  +  HCO3
+–
+pH  =  pKa  +  log [HCO ]
+[H CO ]
+2
+3
+3
+−
+⎛
+⎝⎜
+⎞
+⎠⎟
+ 
+(a) Given the formula above, calculate the pH of a solution at 38oC when
+pKa = 6.1   [HCO3
+–] = 3.51 × 10–4 mol dm–3   [H2CO3] = 3.15 × 10–5 mol dm–3
+(1)
+ 
+ 
+A 5.05
+ 
+ 
+B 5.14
+ 
+ 
+C 7.05
+ 
+ 
+D 7.15
+ 
+(b) Carbonic acid is formed by dissolving carbon dioxide in water.
+ 
+ 
+This equilibrium is represented by the following equation.
+CO2  +  H2O  U  H2CO3
+ 
+ 
+If carbon dioxide is removed from this equilibrium mixture, the pH will
+(1)
+ 
+ 
+A decrease.
+ 
+ 
+B increase.
+ 
+ 
+C remain approximately constant because the concentration of the hydrogencarbonate ions 
+changes to compensate.
+ 
+ 
+D remain approximately constant because the concentration of the carbonic acid 
+changes to compensate.
+(Total for Question 8 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P46664A01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+9 The Ostwald Process is a method for making nitric acid.  The equation for the first stage 
+of this process is
+4NH3(g)  +  5O2(g)  U  4NO(g)  +  6H2O(g)      ǻH = –905 kJ mol–1
+ 
+(a) Which of the following would both decrease the equilibrium yield of  
+nitrogen monoxide?
+(1)
+ 
+ 
+A Increasing both the pressure and the temperature.
+ 
+ 
+B Decreasing both the pressure and the temperature.
+ 
+ 
+C Decreasing the pressure and increasing the temperature.
+ 
+ 
+D Increasing the pressure and decreasing the temperature.
+ 
+(b) For this stage of the process, the catalyst is an alloy of platinum and rhodium. 
+A pressure of between 4 and 10 atm and a temperature of 1150 K are used.
+Unreacted reactants are recycled.
+ 
+ 
+Which one of the following changes will affect the value of the 
+equilibrium constant, Kp?
+(1)
+ 
+ 
+A Increasing the surface area of the platinum-rhodium catalyst.
+ 
+ 
+B Increasing the pressure above 10 atm.
+ 
+ 
+C Not recycling unreacted reactants.
+ 
+ 
+D Decreasing the temperature below 1150 K.
+(Total for Question 9 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P46664A01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+10 An equilibrium can be established when a solute dissolves in two different solvents 
+which are immiscible.  The equilibrium constant, known as the partition coefficient, 
+indicates the distribution of the solute between the two solvents.
+ 
+This question is about ammonia dissolving in water and in trichloromethane when 
+the equilibrium is
+NH3(trichloromethane)  U  NH3(aq)
+ 
+Ammonia is more soluble in water than in trichloromethane.
+ 
+The density of trichloromethane is 1.48 g cm–3.  The density of water is 1.00 g cm–3.
+ 
+(a) Which of the following diagrams is correct for this system of equilibrium?
+(1)
+ 
+A 
+B
+ 
+C 
+D
+water with  
+low ammonia 
+concentration
+trichloromethane 
+with high ammonia 
+concentration
+water with  
+high ammonia 
+concentration
+trichloromethane 
+with low ammonia 
+concentration
+trichloromethane 
+with low ammonia 
+concentration
+water with  
+high ammonia 
+concentration
+trichloromethane 
+with high ammonia 
+concentration
+water with  
+low ammonia 
+concentration
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P46664A01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) At 25qC when ammonia is dissolved in a mixture of water and trichloromethane, 
+the equilibrium concentration of ammonia in water is 1.02 mol dm–3 and in 
+trichloromethane is 0.045 mol dm–3.
+NH3(trichloromethane)  U  NH3(aq)
+ 
+ 
+What is the value of the equilibrium constant for this system?
+(1) 
+ 
+ 
+A 0.0441
+ 
+ 
+B 0.975
+ 
+ 
+C 1.065
+ 
+ 
+D 22.7
+(Total for Question 10 = 2 marks)
+TOTAL FOR SECTION A = 20 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P46664A01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P46664A01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+11 Carbonic acid is a weak acid which dissociates in two stages.
+ 
+Stage 1    H2CO3(aq)  +  H2O(l)  U  H3O+(aq)  +  HCO3
+–(aq)    Ka1  =  4.17  ×  10–7 mol dm–3
+ 
+Stage 2    HCO3
+–(aq)  +  H2O(l)  U  H3O+ (aq)  +  CO3
+2–(aq)      Ka2  =  4.79  ×  10–11 mol dm–3
+ 
+(a) Write the Ka expressions for
+(2)
+ 
+Stage 1 
+Ka1  =
+ 
+Stage 2 
+Ka2  =
+ 
+(b) A solution of carbonic acid has an initial concentration of 0.100 mol dm–3.
+Ka1 = 4.17 × 10–7 mol dm–3
+ 
+ 
+(i) Use Ka1 to calculate the equilibrium concentration, in mol dm–3, of the 
+hydrogencarbonate ions, HCO3
+–.  Give your answer to three significant figures.
+(2)
+ 
+ 
+(ii) Use your answer to (b)(i) to calculate the pH of this solution.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P46664A01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+*(iii) State the three assumptions you have made in your calculations in (b)(i) and (b)(ii).
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Carbonic acid forms two types of salt: carbonates and hydrogencarbonates.
+ 
+ 
+A solution of sodium carbonate is titrated with hydrochloric acid.
+ 
+ 
+On the grid below, sketch the likely shape of the titration curve during this 
+reaction given that:
+ 
+ 
+• 
+carbonates require two moles of H+ ions per mole of carbonate for complete reaction
+ 
+ 
+• 
+10 cm3 of sodium carbonate  with a concentration of 0.100 mol dm–3 is used
+ 
+ 
+• 
+the sodium carbonate solution has a pH of 11.3
+ 
+ 
+• 
+40 cm3 of hydrochloric acid with a concentration of 0.100 mol dm–3 is added
+ 
+ 
+• 
+pKa1 = 6.4 and pKa2 = 10.3
+ 
+ 
+Clearly label any equivalence points in the sketch.
+(5)
+(Total for Question 11 = 13 marks)
+Volume of hydrochloric acid added /cm3
+10
+20
+30
+40
+pH
+–
+–
+–
+–
+–
+–
+–
+0
+7
+14
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P46664A01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+12 This is a question about entropy changes.
+ 
+(a) Consider the reaction between solid ammonium carbonate and pure ethanoic acid. 
+The equation for this reaction is
+(NH4)2CO3(s)  +  2CH3COOH(l)  o  2CH3COONH4(s)  +  H2O(l)  +  CO2(g)
+ 
+ 
+(i) State what you would observe as this reaction occurs.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) Predict the sign of the entropy change of the system, ǻS
+9
+system.  
+Fully justify your answer.  No calculation is required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P46664A01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The rhombic allotrope of sulfur reacts with fluorine to produce sulfur hexafluoride:
+S(s, rhombic)  +  3F2(g)  o  SF6(g)    ǻHf
+9  = –1209 kJ mol–1
+ 
+ 
+(i) Use the standard molar entropies on pages 2, 3 and 29 of the Data Booklet to 
+calculate the standard molar entropy change of the system (ǻS
+9
+system) for this reaction. 
+Include a sign and units in your answer.
+ 
+ 
+ 
+Note that the standard molar entropies of the elements are given per atom so 
+that the standard molar entropy of fluorine, S
+9[½F2(g)] = +158.6 J mol–1 K–1.
+(2)
+ 
+ 
+(ii) Use the value of the standard enthalpy change of formation (ǻHf
+9 ) given 
+above to calculate the entropy change of surroundings (ǻS
+9
+surroundings) for this 
+reaction at 298 K.  Include a sign and units in your answer.
+(2)
+ 
+ 
+(iii) Use your answers to (b)(i) and (b)(ii) to calculate the total entropy change (ǻS
+9
+total) 
+for the formation of one mole of sulfur hexafluoride.   
+Include a sign and units in your answer.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P46664A01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) What would be the effect, if any, of an increase in temperature on the value of 
+ǻS
+9
+total calculated in (b)(iii)?  Justify your answer and state any assumptions that 
+you have made.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The equations for dissolving two sulfates are shown below.
+ 
+MgSO4(s)  + aq  U  Mg2+(aq)  +  SO4
+2–(aq) 
+ǻS
+9
+total  =  +20 J mol–1 K–1
+ 
+BaSO4(s)  +  aq  U  Ba2+(aq)  +  SO4
+2–(aq) 
+ǻS
+9
+total  =  –190 J mol–1 K–1
+ 
+ 
+(i) Compare the values of the total entropy changes for dissolving these two 
+sulfates and show that they are consistent with the trend in the solubility of  
+Group 2 sulfates.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P46664A01928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) The values of the total entropy change and the equilibrium constant of a 
+reaction are related by the following equation.
+ǻStotal  =  R lnK
+ 
+ 
+ 
+Calculate the value of the equilibrium constant, K, for the dissolving of 
+magnesium sulfate at 298 K.
+R  =  8.31 J mol–1 K–1
+(1)
+(Total for Question 12 = 14 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P46664A02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 This is a question about using the Landolt Iodine Clock to study the reaction kinetics 
+of iodate(V) ions reacting with hydrogensulfate(IV) ions.
+ 
+Reaction 1    IO3
+–(aq)  +  3HSO3
+–(aq)  o  I
+–(aq)  +  3HSO4
+–(aq)
+ 
+One version of this clock involves the iodide ions formed reacting rapidly with the 
+iodate(V) ions in acid solution to form iodine:
+ 
+Reaction 2    IO3
+–(aq)  +  5I
+–(aq)  +  6H
++(aq)  o  3I2(aq)  +  3H2O(l)
+ 
+The iodine is immediately reduced to iodide by the hydrogensulfate(IV) ions:
+ 
+Reaction 3    I2(aq)  +  HSO3
+–(aq)  +  H2O(l)  o  2I
+–(aq)  +  HSO4
+–(aq)  +  2H
++(aq)
+ 
+Once all of the hydrogensulfate(IV) ions have been used up, then the iodine reacts 
+with starch to produce a blue-black complex.
+ 
+(a) What would be the problem if the amount of hydrogensulfate(IV) ions were in excess?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Why is it important that Reaction 2 and Reaction 3 are very much faster 
+than Reaction 1?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) A series of experiments is carried out in which different volumes of the iodate(V) ions 
+solution are used.
+ 
+ 
+(i) Why is it important that the temperature is kept constant?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P46664A02128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) It is assumed that the initial rate of reaction is proportional to 1/time taken for 
+the blue-black complex to form.
+ 
+ 
+ 
+The following results are obtained.
+ 
+ 
+ 
+Complete the table and use the results to plot a graph of 1000/time on the 
+vertical axis, against the volume of iodate(V) ions on the horizontal axis.
+(5)
+Volume of IO3
+–(aq) / cm3
+10.0
+8.0
+6.0
+5.0
+4.0
+2.0
+Time taken, t / s
+180
+200
+300
+357
+444
+900
+1000 t / s–1
+5.56
+5.00
+3.33
+2.80
+2.25
+ 
+ 
+(iii) Suggest a suitable piece of apparatus for measuring the volume of the 
+solution containing iodate(V) ions.
+(1)
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P46664A02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) If the total volume of the reaction mixture is kept constant, the volume of the 
+iodate(V) ion solution may be used instead of the concentration to plot the graph.
+ 
+ 
+ 
+Explain why this is possible
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Deduce the order of the reaction with respect to iodate(V) ions.
+ 
+ 
+ 
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vi) Reaction 1 is first order with respect to hydrogensulfate(IV) ions. 
+ 
+ 
+ 
+Outline how you would show this.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(vii) Write the rate equation for Reaction 1.
+ 
+ 
+ 
+State the units of the rate constant.
+(2)
+Rate equation:
+Units of rate constant  .......................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P46664A02328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) The Landolt Iodine Clock can be used to determine the activation energy of 
+Reaction 1 using the equation:
+ln rate = – E
+R
+T
+a × 1  + constant
+ 
+ 
+(i) State the experimental measurements you would make to provide the 
+numerical data for the calculation of the activation energy.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Describe how you would use your experimental measurements to obtain a 
+value for the activation energy.
+ 
+ 
+ 
+You should include
+ 
+ 
+ 
+• 
+how the data are processed
+ 
+ 
+ 
+• 
+the graph you would plot and its expected shape
+ 
+ 
+ 
+• 
+how the activation energy of the reaction can be calculated from the 
+graph produced.
+(6)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 13 = 22 marks)
+TOTAL FOR SECTION B = 49 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P46664A02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+14 Butanedione has two carbonyl groups.  It is a volatile yellow-green liquid and its 
+colour is due to electron delocalisation.
+ 
+Butanedione can be reduced to butane-2,3-diol which does not have this  
+electron delocalisation.
+ 
+(a) Identify a suitable reagent for this reduction and complete the equation for the reaction.
+(3)
+Reagent  ...................................................................................
+CH3COCOCH3  +    ...............  [H]  o
+butanedione 
+butane-2,3-diol
+ 
+(b) Suggest what you would see when this reaction occurs.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) A mixture of butanedione and butane-2,3-diol can be separated by distillation.
+ 
+ 
+ 
+State which compound will have the higher boiling temperature.  Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why both compounds are soluble in water.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+25
+*P46664A02528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Butane-2,3-diol shows a type of stereoisomerism that butanedione does not.  
+State this type of stereoisomerism and describe how it arises.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Butane-2,3-diol can be esterified using excess propanoic acid.
+ 
+ 
+(i) Suggest an alternative reagent to propanoic acid which would react with 
+butane-2,3-diol to form the same ester.
+ 
+ 
+ 
+State two of the ways in which the esterification reaction will be different with 
+the use of your chosen reagent.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the skeletal formula of the ester produced from butane-2,3-diol and 
+excess propanoic acid.
+(2)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+26
+*P46664A02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(f) Use the Data Booklet to state two differences between the infrared spectra of 
+butanedione and butane-2,3-diol.  Include the wave numbers of the relevant 
+groups or bonds.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(g) Use chemical shift data from the Data Booklet to sketch the high resolution 
+proton nmr spectrum for propanoic acid.  The peaks do not overlap.
+ 
+ 
+Explain the number of peaks, their splitting pattern and the ratio of the areas 
+under each set of peaks.
+(5)
+ 
+13 
+12 
+11 
+10 
+9 
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+0
+Chemical shift, į / ppm
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+27
+*P46664A02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(h) State the type of radiation that is used to create the nmr spectrum.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 14 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+28
+*P46664A02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

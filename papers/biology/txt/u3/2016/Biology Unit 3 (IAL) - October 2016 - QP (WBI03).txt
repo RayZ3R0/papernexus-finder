@@ -1,0 +1,629 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P50703A
+©2016 Pearson Education Ltd.
+2/2/2/2/1/
+*P50703A0116*
+Biology
+Advanced Subsidiary
+Unit 3: Practical Biology and Research Skills
+Tuesday 1 November 2016 – Morning
+Time: 1 hour 30 minutes
+WBI03/01
+You must have:
+Calculator, HB pencil, Ruler
+Instructions
+•	Use black ink or ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+	
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+	
+– there may be more space than you need.
+Information
+•	 The total mark for this paper is 40. 
+•	 The marks for each question are shown in brackets
+	
+– use this as a guide as to how much time to spend on each question.
+Advice
+•	 Read each question carefully before you start to answer it.
+•	 Keep an eye on the time.
+•	 Try to answer every question.
+•	 Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P50703A0216*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P50703A0316*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Answer ALL questions.
+1	 Plant cells can be grown in culture media containing auxin (IAA) to form a mass of 
+undifferentiated cells called a callus.
+	
+A student studied the effects of two different types of auxin, A and B, on the 
+growth of calluses.  Small pieces of tissue (explants) of crested wheatgrass 
+(Agropyron cristatum) were used.
+	
+The calluses were grown on agar containing an auxin, mineral salts, cytokinin and 
+sucrose.
+	
+Working in sterile conditions, the explants were removed from one plant.  These 
+explants were placed on the agar.  This procedure was carried out using agar 
+containing different concentrations of auxin A or auxin B.
+	
+After two weeks, the dry mass of each callus was recorded.
+	
+(a)	 (i)	 State the two independent variables in this investigation.
+(1)
+1.................................................................................................................................................................................................................................................................................
+2.................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Describe how the dry mass of a callus could be determined accurately.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P50703A0416*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Describe how the student could ensure that the culture media contained the 
+same concentration of sucrose.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	  The results of this study are shown in the table below.
+Concentration of auxin 
+/ mg dm–3
+Dry mass of callus / mg 
+auxin type A
+auxin type B
+0
+0.0
+0.0
+2
+0.0
+0.0
+4
+7.2
+0.0
+6
+15.0
+14.7
+8
+23.0
+31.7
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P50703A0516*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(i)	 Using a line graph, plot the data to compare the effects of the two types of 
+auxin on callus growth.  Join the points with ruled, straight lines.
+(5)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P50703A0616*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Compare the effects of these two types of auxin on callus growth in this plant.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Suggest what further information is needed in order to be more confident 
+that any differences are significant.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P50703A0716*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 Auxin and cytokinin are plant growth substances.
+	
+	
+In a further study, two types of cytokinin, called zeatin and kinetin, were compared.
+	
+	
+In this study, explants of crested wheatgrass were grown on media containing 
+different concentrations of the cytokinins.  The concentration of auxin in the 
+medium was kept constant.
+	
+	
+The results are shown in the graph below.
+25
+20
+15
+10
+5
+0
+1
+Concentration of cytokinin / AU
+Mass of callus / g
+2
+3
+4
+Key
+kinetin 
+zeatin
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P50703A0816*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+Using all the information in this question, describe the contents of a culture 
+medium that could be used for the maximum growth of a callus from 
+crested wheatgrass.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 1 = 20 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P50703A0916*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P50703A01016*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+2 	 Read the following extract from a student’s unfinished issue report on the topic 
+of osteoporosis.
+	
+1.	 Osteoporosis is a condition where the bones become thin, weak and break 
+easily.  It frequently goes undiagnosed until a fracture occurs, as there are no 
+warning signs.  The spine, wrist and hips are particularly vulnerable to fracture.  
+Three million people in the UK suffer from osteoporosis and every year about 
+300000 fractures occur because of osteoporosis.  Sixty thousand of these are hip 
+fractures, and 8% of these patients subsequently die from complications.  This 
+is three times the number of women who die annually from breast cancer.  An 
+osteoporosis sufferer cannot live a normal day‑to‑day life.
+	
+2.	 There are two types of treatment, anabolic and antiresorptive.  Antiresorptive 
+treatments include bisphosphonates, hormone replacement therapy, selective 
+oestrogen‑receptor modulators (SERMs) and calcitonin.  Anabolic ones include 
+Teriparatide, fluorides and parathyroid hormones.  Teriparatide is the most 
+common drug used to treat osteoporosis.
+	
+3.	 Teriparatide is an artificial form of a natural hormone, parathyroid hormone (PTH).  
+It increases bone density and strength.  The drug is very effective, widely used by 
+patients and has few side effects compared to other drugs.  Once‑daily injections 
+of Teriparatide have a net effect of stimulating new bone formation, leading to 
+increased bone mineral density.  Kidney stones are a very rare side effect.
+	
+4.	 Teriparatide is delivered by a daily injection.  This can be very painful and scars 
+can be made.  Microchips provide a new and efficient method of delivery.  
+Microchips are cleverly designed to cause minimum discomfort.  They are very 
+small in size, being only the size of a grain of rice.  Their invention is a major 
+breakthrough in the delivery of Teriparatide and other drugs.
+	
+5.	 In a small study of microchip use, eight women had a significant increase in 
+their bone density.  This was a small cohort study of a drug delivery microchip, 
+implanted under the skin.  Human parathyroid hormone (hPTH) fragment was 
+delivered from the device.  hPTH is an approved anabolic osteoporosis treatment, 
+but requires daily injections, making effective treatment difficult for the patients.  
+The trial was carried out on women aged 65 to 70 with osteoporosis.  They were 
+implanted with the microchip and after eight weeks, these microchips released 
+19 daily doses of Teriparatide.  They found that the doses dispensed from the 
+microchip produced responses that were comparable to those produced by  
+the injection.
+	
+6.	 The use of Teriparatide increases bone mineral density (BMD) in men and women 
+and reduces the risk of fractures.  This means that elderly people will have 
+healthier bones and they are more likely to be independent in terms of doing 
+their work.  As they may be independent, they would not need any extra support 
+or care from the health service so this could save money.  As long as older people 
+are healthy, they tend to live alone rather than in care homes.  In this way the 
+government can save money.  However, the implantation of microchips can fail 
+and it is possible for microchips to get lost between the muscles.  The processes 
+of fixing these damages can cost a large sum of money.  These costs will be very 
+high when microchips are newly introduced, due to lack of experience.  Even 
+though the implantation of the microchip costs a lot, money is still saved from the 
+treatment of fractures as the cost of hip fractures alone is £2bn a year.  Microchips 
+also reduce the cost of daily injections.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P50703A01116*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+Turn over    
+	
+7.	 Many do not mind injections but they object to microchips.  This is because 
+they have been introduced very recently and there is only one study to support 
+them.  People are not fully aware of the benefits and safety measures.  Many 
+individuals feel that microchips inserted for treatment purposes could be misused 
+for tracking and spying purposes.  Moreover, many people also think that use of 
+microchips is an unnatural interference with the body’s function.
+	
+8.	 Bisphosphonates are also used against osteoporosis.  Bisphosphonates are 
+antiresorptive medicines, meaning that they slow or stop the natural process 
+that dissolves bone tissue, resulting in maintained or increased bone mineral 
+density.  Bisphosphonates work by binding to hydroxyapatite crystals in the bone, 
+inhibiting bone demineralisation.
+	
+9.	 Bisphosphonates have a lot of side effects and some of them are life threatening, 
+such as oesophageal cancer.  Rare side effects include skin rash, bone pain and 
+skin inflammation, but fever and osteomalacia are more common.
+	
+10.	Calcitonin is a naturally occurring hormone.  It helps regulate calcium levels in the 
+body and is involved in the process of bone building.  When taken by injection or 
+nasal spray, it slows the rate of bone thinning.  It treats osteoporosis by binding 
+to the tissue osteoclasts and inhibiting mineral resorption to the bloodstream.  
+Calcitonin can also relieve pain in patients who have sustained a fracture.  Thus 
+some doctors give calcitonin to osteoporosis patients if pain is a problem.
+	
+11.	In comparison to bisphosphonates and Teriparatide, calcitonin is the least 
+effective in increasing bone mineral density.  Therefore it is only prescribed to 
+sufferers when they experience pain and it is less effective for postmenopausal 
+osteoporosis compared to the other two drugs.  Also, two studies found that 
+calcitonin had no beneficial effect outside the spine, but other studies have 
+shown improvement.  Therefore many people believe that it is not very efficient. 
+Since then, its use has been reduced and the uses of the other two drugs has 
+become more common.
+	
+12.	In conclusion, Teriparatide is better than the alternative solutions.  According to 
+the data above, it is even better when delivered by a microchip.  Going back to 
+the main question, so far technology has enabled us to discover a remarkable 
+treatment for osteoporosis; delivery of Teriparatide using a microchip.  According 
+to the research, the benefits outweigh the risks, being even better than 
+Teriparatide injections.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P50703A01216*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(a)	 (i)	 The report lacks visual material to illustrate some of the points made.  Sketch a 
+visual to illustrate the numerical information given about osteoporosis in 
+paragraph 1.
+(3)
+	
+	
+(ii)	 In addition, the student found the following diagram.
+12
+10
+8
+6
+4
+2
+0
+5.3
+2.7
+5.2
+3.4
+6.3
+11
+% change in BMD from baseline
+BMD at spine
+BMD at hip
+BMD at femoral 
+neck
+Key
+Bisphosphonate
+Teriparatide
+BMD = bone mineral density
+	
+	
+	
+State the paragraph number where this diagram should be included.
+(1)
+	
+	
+	
+Paragraph number .................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P50703A01316*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Write a paragraph to summarise the information in this diagram.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	  Explain two economic implications of osteoporosis identified in this report.
+(4)
+1. ..............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+2. ..............................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P50703A01416*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	  Information about the small study referred to in paragraph 5 is shown below.
+	
+	
+First‑in‑Human Testing of a Wirelessly Controlled Drug Delivery Microchip
+	
+	
+Robert Farra, Norman F. Sheppard, Laura McCabe, Robert M. Neer, James M. 
+Anderson, John T. Santini, Michael J. Cima and Robert Langer
+	
+	
+Published in Science Translational Medicine February 16 2012
+	
+	
+Sci Transl Med 22 February 2012:
+	
+	
+Vol. 4, Issue 122, p. 122
+	
+	
+(i)	 Using the information write a full reference to this paper as it should have 
+been presented in the report.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Suggest why this research paper has so many authors.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P50703A01516*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	  Complete the table below by giving one benefit and one risk of each drug.
+(4)
+Drug
+Benefit
+Risk
+bisphosphonates
+Teriparatide
+(Total for Question 2 = 20 marks)
+TOTAL FOR PAPER = 40 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P50703A01616*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com

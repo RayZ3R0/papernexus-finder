@@ -1,0 +1,1192 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+P48070A
+©2017 Pearson Education Ltd.
+5/6/6/6/1/1/
+*P48070A0128*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Monday 19 June 2017 – Morning
+Time: 1 hour 40 minutes
+6CH05/01
+You must have: Data Booklet
+ 
+Scientific calculator
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+Turn over    
+
+
+--- Page Break ---
+
+2
+*P48070A0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 Which species contains an element with the same oxidation number as vanadium has 
+in NH4VO3? 
+ 
+ 
+A [AlH4]−
+ 
+ 
+B K2MnO4
+ 
+ 
+C NaClO3
+ 
+ 
+D [Fe(CN)6]4−
+(Total for Question 1 = 1 mark)
+2 Which of the following is not a disproportionation reaction?
+ 
+ 
+A 2NaHCO3 o Na2CO3 + CO2 + H2O 
+ 
+ 
+B 6KOH + 3I2 o KIO3 + 5KI + 3H2O
+ 
+ 
+C 2H2O2 o 2H2O + O2
+ 
+ 
+D 2CuI o CuI2 + Cu
+(Total for Question 2 = 1 mark)
+3 The half-equation of a standard half-cell containing Zn2+(aq) | Zn(s) is 
+Zn2+(aq) + 2e− U Zn(s)     E  = −0.76 V
+ 
+This is connected to a standard hydrogen electrode in a circuit and a current flows.  
+At the zinc electrode
+ 
+ 
+A zinc atoms are reduced.
+ 
+ 
+B zinc ions are reduced.
+ 
+ 
+C zinc atoms are oxidized.
+ 
+ 
+D zinc ions are oxidized.
+(Total for Question 3 = 1 mark)
+
+
+--- Page Break ---
+
+3
+*P48070A0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 Use the data provided to deduce the species which reacts with V3+(aq) to form VO2+(aq).  
+Electrode reaction
+Standard electrode potential/ V
+Fe2+(aq) + 2e− U Fe(s)
+−0.44
+VO2+(aq) + 2H+(aq) + e− U V3+(aq) + H2O(l)
++0.34
+Ag+(aq) + e− U Ag(s)
++0.80
+ 
+ 
+A Fe2+(aq)
+ 
+ 
+B Fe(s)
+ 
+ 
+C Ag+(aq)   
+ 
+ 
+D Ag(s) 
+(Total for Question 4 = 1 mark)
+5 In a fuel cell breathalyser, the following reaction occurs at one electrode.
+C2H5OH(g) + H2O(l) o CH3COOH(aq) + 4H+(aq) + 4e−
+ 
+The reaction occurring at the other electrode is
+ 
+ 
+A 4H+(aq) + O2(g) + 4e− o 2H2O(l)
+ 
+ 
+B 2H2(g) + 2O2(g) + 4e− o 4OH−(aq)
+ 
+ 
+C 4OH−(aq) o 2H2(g) + 2O2(g) + 4e−
+ 
+ 
+D 2H2O(l) o 4H+(aq) + O2(g) + 4e−
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+4
+*P48070A0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+6 Dilute aqueous sodium hydroxide and dilute aqueous ammonia are added to 
+separate samples of aqueous nickel(II) chloride.  In each case a green precipitate 
+forms.  What would be observed when excess alkali is added to the green precipitate?
+Addition of excess NaOH(aq)
+Addition of excess NH3(aq)
+A
+Precipitate remains
+Precipitate remains
+B
+Precipitate remains
+Precipitate dissolves to form a 
+blue solution
+C
+Precipitate dissolves to form a 
+green solution
+Precipitate remains
+D
+Precipitate dissolves to form a 
+green solution
+Precipitate dissolves to form a 
+blue solution
+(Total for Question 6 = 1 mark)
+7 In the reaction of sodium thiosulfate solution with iodine, the half-equation for the 
+reaction of the thiosulfate ions is 
+ 
+ 
+A S2O3
+2− + 3H2O o 2SO3
+2− + 6H+ + 4e−
+ 
+ 
+B S2O3
+2− + 3H2O + 4e− o 2SO3
+2− + 6H+  
+ 
+ 
+C 2S2O3
+2− + 2e− o S4O6
+2− 
+ 
+ 
+D 2S2O3
+2− o S4O6
+2− + 2e−
+(Total for Question 7 = 1 mark)
+8 In the titration of sodium thiosulfate solution with iodine, starch indicator is added 
+near the end-point.  This is because 
+ 
+ 
+A there is no warning of the end-point if starch is added at the start. 
+ 
+ 
+B high concentrations of iodine decompose the starch. 
+ 
+ 
+C the blue-black colour showing the presence of iodine would not be seen. 
+ 
+ 
+D an insoluble complex forms between starch and high concentrations of iodine.
+ (Total for Question 8 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+5
+*P48070A0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+9 Evidence that the carbon-carbon bonds in benzene are all the same length is 
+provided by
+ 
+ 
+A X-ray diffraction.
+ 
+ 
+B infrared spectroscopy.
+ 
+ 
+C a comparison of the enthalpy changes for the addition of hydrogen to 
+benzene and the theoretical compound cyclohexa-1,3,5-triene.
+ 
+ 
+D a comparison of the rates of reaction of benzene and alkenes with bromine.
+(Total for Question 9 = 1 mark)
+10 The product of the reaction of benzene with sulfur trioxide dissolved in concentrated 
+sulfuric acid is
+ 
+ 
+A C6H5SO3
+ 
+ 
+B C6H5SO3H
+ 
+ 
+C C6H5SO4
+ 
+ 
+D C6H5HSO4
+(Total for Question 10 = 1 mark)
+11 Benzene reacts with ethanoyl chloride in the presence of aluminium chloride.   
+The equation for the reaction of ethanoyl chloride with aluminium chloride is 
+ 
+ 
+A CH3COCl + AlCl3 o [CH3CO]− + AlCl4
++
+ 
+ 
+B CH3COCl + AlCl3 o [CH3CO]+ + AlCl4
+−
+ 
+ 
+C CH3COOCl + AlCl3 o [CH3COO]− + AlCl4
++
+ 
+ 
+D CH3COOCl + AlCl3 o [CH3COO]+ + AlCl4
+−
+(Total for Question 11 = 1 mark)
+12 In the high resolution proton nmr spectrum of butanone, C2H5COCH3, there will be 
+ 
+ 
+A one doublet and two triplets.
+ 
+ 
+B one quartet and one sextet.
+ 
+ 
+C one singlet, one triplet and one quartet.
+ 
+ 
+D one singlet, one doublet and one triplet.
+(Total for Question 12 = 1 mark)
+
+
+--- Page Break ---
+
+6
+*P48070A0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 The compounds C2H5COOCH3 and CH3COOC2H5 are most easily differentiated by the
+ 
+ 
+A infrared spectra outside the fingerprint region.
+ 
+ 
+B fragmentation patterns in their mass spectra.
+ 
+ 
+C splitting patterns in their high resolution nmr spectra.
+ 
+ 
+D numbers of peaks in their low resolution nmr spectra.
+(Total for Question 13 = 1 mark)
+14 The infrared spectrum of an organic compound with molecular formula C8H8O2 has a 
+strong peak in the range 1700–1680 cm−1 and a broad peak above 3300 cm−1.
+ 
+The compound could be 
+ 
+ 
+A H3CC6H4COOH
+ 
+ 
+B C6H5CH2COOH
+ 
+ 
+C C6H5COOCH3
+ 
+ 
+D HOC6H4COCH3
+(Total for Question 14 = 1 mark)
+15 An organic compound is very soluble in water forming an alkaline solution that reacts 
+with copper(II) ions to give a coloured product.
+ 
+The compound is most likely to be
+ 
+ 
+A C4H9NH2
+ 
+ 
+B C4H9CN
+ 
+ 
+C C6H5NH2
+ 
+ 
+D C6H5NO2
+(Total for Question 15 = 1 mark)
+16 The polymer poly(ethenol), which has the formula –[CH2CH(OH)]–n is used to make 
+capsules for liquid detergents because 
+ 
+ 
+A it is inert.
+ 
+ 
+B it is water-soluble.
+ 
+ 
+C London forces between its molecules are very strong.
+ 
+ 
+D it neutralises acids that could harm fabrics.
+(Total for Question 16 = 1 mark)
+
+
+--- Page Break ---
+
+7
+*P48070A0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+17 The formula of the repeat unit of a polymer is –[OC(CH2)4CONH(CH2)6NH]–.
+ 
+The polymer is formed by the reaction of
+ 
+ 
+A Cl
+O
+O
+Cl
+  and  H2N
+NH2
+ 
+ 
+B HO
+OH
+  and  H2N
+O
+O
+NH2
+ 
+ 
+C 
+O
+O
+Cl
+Cl
+  and  H2N
+NH2
+ 
+ 
+D HO
+OH
+  and  H2N
+NH2
+(Total for Question 17 = 1 mark)
+18 On combustion, 0.50 mol of a primary alcohol produced 45 g of water and 88 g of 
+carbon dioxide.  
+ 
+The alcohol could be
+ 
+ 
+A ethanol
+ 
+ 
+B propan-1-ol
+ 
+ 
+C butan-1-ol
+ 
+ 
+D pentan-1-ol
+(Total for Question 18 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+
+
+--- Page Break ---
+
+8
+*P48070A0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+19 Crystals of methyl 3-nitrobenzoate can be prepared by nitration of methyl benzoate.  
+The reaction is carried out in a flask surrounded by ice, and the product is purified by 
+recrystallization from ethanol.
+O
+O
+CH3
+methyl benzoate
+Molar mass = 136 g mol−1
+O
+O
+CH3
+N
++
+O
+O−
+methyl 3-nitrobenzoate
+Molar mass = 181 g mol−1
+ 
+(a) In this preparation, 2.00 g of methyl benzoate produced 1.50 g of methyl 3-nitrobenzoate.  
+The percentage yield is 
+(1)
+ 
+ 
+A 82.9
+ 
+ 
+B 75.0
+ 
+ 
+C 56.4
+ 
+ 
+D 15.0
+ 
+(b) In the recrystallization step, the highest yield will be obtained when 
+(1)
+ 
+ 
+A using excess ethanol to dissolve the crude solid.
+ 
+ 
+B heating the ethanol to 20 °C below its boiling temperature.
+ 
+ 
+C slowly filtering the hot mixture to remove insoluble impurities. 
+ 
+ 
+D crystallizing the filtrate using an ice bath.
+(Total for Question 19 = 2 marks)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+9
+*P48070A0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+10
+*P48070A01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 Benzenediazonium chloride, C6H5N2
++Cl−, can be prepared from benzene in a series of steps.
+C6H5NO2
+C6H6
+Compound X
+C6H5N2
++Cl−
+Step 1
+Step 2
+Step 3
+ 
+(a) (i) Identify the substances that are used to convert benzene into C6H5NO2 in Step 1.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the mechanism of the reaction taking place in Step 1, including one or 
+more equations for the formation of the electrophile.
+(4)
+
+
+--- Page Break ---
+
+11
+*P48070A01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Identify compound X and state the reagents needed to prepare it in Step 2.
+(2)
+Compound X  ..............................................................................................................................................................................................................................................
+Reagents  .........................................................................................................................................................................................................................................................
+ 
+ 
+(iv) State the reagents and condition needed to convert compound X into 
+benzenediazonium chloride in Step 3.
+(2)
+Reagents  .........................................................................................................................................................................................................................................................
+Condition  .......................................................................................................................................................................................................................................................
+ 
+(b) Benzenediazonium chloride is used to prepare dyes.
+ 
+ 
+Write an equation for a reaction of benzenediazonium chloride with a compound 
+of your choice in which the product is a dye.  Show the structure of the dye in 
+your equation.
+(2)
+ 
+(c) Benzenediazonium chloride can be converted into benzoic acid, C6H5COOH, in 
+two steps.  The first step is a substitution reaction to produce the nitrile, C6H5CN.  
+State the reagent needed for the second step.
+(1)
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+12
+*P48070A01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) An aqueous solution of benzenediazonium chloride decomposes when it 
+is warmed.  The products of decomposition are a colourless unreactive gas, 
+hydrochloric acid and an aryl (aromatic) compound.  A white precipitate forms 
+when bromine water is added to this aryl compound.
+ 
+ 
+(i) Write a balanced equation showing the decomposition of an aqueous 
+solution of benzenediazonium chloride.  State symbols are not required.
+(2)
+ 
+ 
+(ii) Give the formula of the white precipitate.
+(1)
+(Total for Question 20 = 15 marks)
+
+
+--- Page Break ---
+
+13
+*P48070A01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+14
+*P48070A01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+21 This question is about the chemistry of chromium. 
+ 
+(a) The graph below shows the first and second ionization energies of the elements 
+scandium to manganese.
+Sc
+Ti
+V
+Cr
+Mn
+Sc
+Ti
+V
+Cr
+Mn
+1500 –
+1300 –
+1100 –
+900 –
+700 –
+500 –
+ionization energy 
+/ KJ mol−1
+Second
+First
+ 
+ 
+(i) Explain why the values for the first ionization energies are very similar.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+15
+*P48070A01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(ii) The electronic configuration of a chromium atom is [Ar] 3d54s1
+ 
+ 
+ 
+By considering the electronic configurations of the singly charged ions of 
+vanadium, chromium and manganese, suggest why the second ionization 
+energy of chromium is higher than the corresponding values for vanadium 
+and manganese.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+16
+*P48070A01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The table below shows the formulae of ions of chromium which exist in aqueous solution.
+Ion
+Oxidation number of chromium
+Colour in aqueous solution
+Cr(H2O)6
+2+
++2
+Blue
+Cr(H2O)6
+3+
+CrO4
+2−
+Cr2O7
+2−
+ 
+ 
+(i) Complete the table above by adding the missing oxidation numbers and colours.
+(3)
+ 
+ 
+ *(ii) Explain why the Cr(H2O)6
+3+ ion is coloured.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+17
+*P48070A01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) A solution containing aqueous Cr3+ ions reacts with zinc in suitable conditions 
+to form Cr2+ ions and Zn2+ ions.
+ 
+ 
+ 
+Draw a diagram of a cell that can be used to measure E cell for the reaction. 
+State the conditions which are necessary.
+(3)
+ 
+ 
+(iv) Use your Data booklet to calculate E cell.
+(2)
+
+
+--- Page Break ---
+
+18
+*P48070A01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) A solution containing Cr3+(aq) ions is oxidized by hydrogen peroxide in the 
+presence of hydroxide ions to form CrO4
+2− ions.
+  
+ 
+The half-equation for the reduction of hydrogen peroxide is
+H2O2(aq) + 2e− o 2OH−(aq)
+ 
+ 
+(i) Write the half-equation for the oxidation of Cr3+(aq) in the presence of 
+hydroxide ions to form CrO4
+2 − ions.
+(1)
+ 
+ 
+(ii) Hence write the overall equation for this reaction.
+(1)
+ 
+(d) Write the equation for the reaction of chromate(VI) ions with hydrogen ions.
+(1)
+(Total for Question 21 = 20 marks)
+
+
+--- Page Break ---
+
+19
+*P48070A01928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+22 This question is about some naturally occurring amino acids, which have the formula 
+RCH(NH2)COOH.
+ 
+(a) Amino acids can exist as zwitterions.  What is meant by the term zwitterion?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) In the amino acid serine, the formula of the R group is –CH2OH.
+ 
+ 
+The structure of serine varies with pH.  Draw its structure at pH 1.0 and at pH 10.0.
+(2)
+Structure at pH 1.0
+Structure at pH 10.0
+
+
+--- Page Break ---
+
+20
+*P48070A02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) In the amino acid alanine, the formula of the R group is –CH3.  Alanine can 
+polymerize forming a condensation polymer.  Draw a section of this polymer 
+showing two repeat units, displaying the link between them.
+(2)
+ 
+(d) Compound A is the amino acid 2-aminoethanoic acid.  It can be converted in 
+three steps into a cyclic compound, E, called hydantoin.
+Reagent B
++ HCl(g)
+KNCO
+CH2NH2
+COOH
+Compound A
+2-aminoethanoic acid
+CH2NH3
++Cl−
+COOC2H5
+Compound C
+CH2NHCONH2
+COOC2H5
+Compound D
++ Compound F
+O
+C
+CH2
+N
+H
+O
+N
+C
+H
+Compound E
+Hydantoin
+ 
+ 
+(i) State a property shown by all naturally occurring amino acids except for 
+2-aminoethanoic acid.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+21
+*P48070A02128*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+ 
+(ii) Name the two types of reaction which are occurring when  
+2-aminoethanoic acid is converted into compound C.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest the identity of the other organic product, compound F, which forms 
+when compound D is converted into compound E.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) When compound E reacts with hot dilute hydrochloric acid,  
+2-aminoethanoic acid is formed again, along with other products.
+ 
+ 
+ 
+Suggest the type of reaction which is occurring.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Suggest the identity of the two products which also form in the reaction  
+in (d)(iv).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 12 marks)
+TOTAL FOR SECTION B = 47 MARKS
+
+
+--- Page Break ---
+
+22
+*P48070A02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+23 This question is about complex ions. 
+ 
+Complex ions are ions in which a number of molecules or anions are bonded to a 
+central metal cation.
+ 
+Some of the first research on complex ions was carried out about 100 years ago, and 
+demonstrated that there were two isomers with the molecular formula Co(NH3)4Cl3.  
+ 
+In aqueous solution, many transition metal ions are surrounded by six water 
+molecules forming ions such as [Cu(H2O)6]2+.  Complex ions, such as haem, are also 
+found in biological systems.  The haem groups are large organic molecules containing 
+nitrogen atoms, which form complex ions with Fe2+.
+ 
+The shape of a complex ion depends on the number of bonds from the ligands 
+to the central metal ion, and the different shapes can result in different types of 
+stereoisomerism.
+ 
+ *(a) Explain why the formation of complex ions is a characteristic of transition metals, 
+but Group 1 metals, such as sodium, do not show this property in general.
+ 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) (i) State all the types of bonding involving chloride ions in isomers of Co(NH3)4Cl3 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+23
+*P48070A02328*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) The ion [Co(NH3)4Cl2]+ has stereoisomers.  Name the type of stereoisomerism 
+and explain how their structures differ.
+ 
+ 
+ 
+The different structures may be shown on a diagram.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Write the equation for the ligand exchange reaction of [Cu(H2O)6]2+ with excess 
+chloride ions from concentrated hydrochloric acid.  State symbols are not required.
+ 
+ 
+State the shape of the [Cu(H2O)6]2+ ion, and suggest the shape of the copper 
+complex ion produced. 
+(3)
+ 
+ 
+Equation
+Shape of [Cu(H2O)6]2+
+ ...........................................................................................................................................................................................................................
+Shape of complex ion produced  ...........................................................................................................................................................................................
+ 
+(d) (i) Explain the difference between monodentate and hexadentate ligands.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Turn over    
+
+
+--- Page Break ---
+
+24
+*P48070A02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(ii) EDTA4− forms very stable complex ions.  In solution, its reaction with copper ions 
+can be represented as shown.
+[Cu(H2O)6]2+ + EDTA4− U [Cu(EDTA)]2− + 6H2O
+ 
+ 
+ 
+Explain why the equilibrium constant for this reaction is greater than that for 
+the reaction of [Cu(H2O)6]2+ with a monodentate ligand.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Crystals of a hydrated salt were prepared by reacting a solution containing iron(II) ions with 
+a mixture of ethanedioic acid, (COOH)2 and potassium ethanedioate, K2(COO)2 or K2C2O4.
+ethanedioate ion
+O
+O
+O−
+O−
+ethanedioic acid
+O
+O
+OH
+HO
+ 
+ 
+The resulting mixture was reacted with hydrogen peroxide, which oxidized the iron(II) ions 
+and, after a suitable procedure was carried out, coloured crystals were produced.
+ 
+ 
+The crystals contain a complex ion and the formula of the crystals can be written 
+as KxFey(C2O4)z(H2O)n
+ 
+ 
+The crystals were analysed.
+ 
+ 
+(i) The percentage of water in 2.00 g of the crystals was measured by gentle 
+heating until the mass was constant.  The final mass was 1.78 g.  Calculate the 
+percentage by mass of water in the crystals.
+(1)
+
+
+--- Page Break ---
+
+25
+*P48070A02528*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) The percentage by mass of ethanedioate ions in the crystals was found by 
+titrating an acidified solution containing 0.150 g of the crystals with a solution 
+of 0.0100 mol dm−3 potassium manganate(VII).  The titre was 36.60 cm3.
+ 
+ 
+ 
+The ethanedioate ions were oxidized by the manganate(VII) ions.  The 
+reactions which occur are
+C2O4
+2− o 2CO2 + 2e−
+MnO4
+− + 8H+ + 5e− o Mn2+ + 4H2O
+ 
+ 
+ 
+Use the titration results to calculate the percentage by mass of ethanedioate ions 
+in the crystals.
+(4)
+ 
+ 
+(iii) To find the percentage by mass of iron in the crystals, they were first heated 
+with concentrated sulfuric acid to decompose the ethanedioate ions, taking 
+suitable safety precautions. 
+ 
+ 
+ 
+The iron ions in solution were then reduced to iron(II) ions 
+with a suitable metal and these ions were then titrated with 
+0.0100 mol dm−3 potassium manganate(VII) solution.  The iron(II) ions were 
+oxidized to iron(III) ions in the titration.
+ 
+ 
+ 
+Why must the ethanedioate ions be decomposed before determining the 
+concentration of iron(II) ions?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Turn over    
+
+
+--- Page Break ---
+
+26
+*P48070A02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) The percentage by mass of iron was found to be 11.4%.
+ 
+ 
+ 
+Use this value, and the percentages of water and ethanedioate ions you have 
+calculated, to deduce the percentage by mass of potassium in the crystals.
+(1)
+Species
+Percentage by mass
+water
+ethanedioate ions
+iron
+11.4
+potassium
+ 
+ 
+(v) The percentage by mass shows the mass of each species in 100 g.
+ 
+ 
+ 
+Calculate the number of moles of each species in 100 g of the crystals and 
+hence the ratio in moles. 
+(2)
+Species
+Number of moles in 100 g
+Mole ratio
+water
+ethanedioate ions
+iron
+potassium
+ 
+ 
+(vi) Suggest a formula, including the charge, for the complex ion present in the crystals. 
+(1)
+
+
+--- Page Break ---
+
+27
+*P48070A02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ (vii) Draw a diagram showing how one ethanedioate ligand is bonded to the 
+central metal ion.
+(1)
+(Total for Question 23 = 23 marks)
+TOTAL FOR SECTION C = 23 MARKS
+TOTAL FOR PAPER = 90 MARKS
+
+
+--- Page Break ---
+
+28
+*P48070A02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA

@@ -1,0 +1,1088 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42991A
+©2014 Pearson Education Ltd.
+6/6/6/6/
+*P42991A0124*
+Chemistry
+Advanced Subsidiary
+Unit 2: Application of Core Principles of Chemistry
+Tuesday 3 June 2014 – Afternoon
+Time: 1 hour 30 minutes
+6CH02/01R
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PMT
+
+
+--- Page Break ---
+
+2
+*P42991A0224*
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 This question concerns the shapes of the hydrides of Group 5 elements.
+ 
+(a) What is the approximate H
+N
+H bond angle in the ammonium ion, NH4
++?
+(1)
+ 
+ 
+A 90°
+ 
+ 
+B 104.5°
+ 
+ 
+C 107°
+ 
+ 
+D 109.5°
+ 
+(b) Suggest the shape of the phosphine molecule, PH3.
+(1)
+ 
+ 
+A Trigonal planar
+ 
+ 
+B Trigonal pyramidal 
+ 
+ 
+C Trigonal bipyramidal 
+ 
+ 
+D Octahedral
+(Total for Question 1 = 2 marks)
+2 Graphite has a structure containing layers of carbon atoms in hexagonal rings.   
+Why is graphite a good conductor of electricity?  
+ 
+ 
+A It has delocalized ions which can move and carry charge.
+ 
+ 
+B It has delocalized electrons which are mobile.
+ 
+ 
+C There are only weak London forces between the layers.
+ 
+ 
+D Each carbon atom in the layers has only three covalent bonds.
+ 
+(Total for Question 2 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P42991A0324*
+Turn over    
+3 The following system was allowed to reach equilibrium at 300 °C.
+ 
+2HI(g) 
+U 
+H2(g) 
++ 
+I2(g) 
+ǻH = ì53.0 kJ mol–1
+ 
+Colourless 
+Colourless 
+Purple
+ 
+(a) What would you see if the equilibrium mixture was cooled to 250 °C?
+(1)
+ 
+ 
+A No visible change. 
+ 
+ 
+B The colour gets lighter.
+ 
+ 
+C The mixture turns colourless.
+     
+D The mixture goes a darker purple.
+ 
+(b) The equilibrium mixture at 300 °C was compressed in a gas syringe to occupy a 
+smaller volume.  What would be seen immediately?
+(1)
+ 
+ 
+A No visible change.
+ 
+ 
+B The colour gets lighter.
+ 
+ 
+C The mixture turns colourless.
+     
+D The mixture goes a darker purple.
+(Total for Question 3 = 2 marks)
+4 A solution of iodine in aqueous potassium iodide is brown.  The following equilibrium 
+exists in this solution.
+I2(aq)  +  H2O(l)  U  IOì(aq)  +  Iì(aq)  +  2H+(aq)
+ 
+Brown 
+Colourless
+ 
+What would be the effect, if any, on the colour of the solution if five drops of dilute 
+sodium hydroxide solution were added to 5 cm3 of the iodine solution?
+ 
+ 
+A No visible change.
+ 
+ 
+B The colour gets lighter.
+ 
+ C The mixture turns colourless.
+      
+D The mixture goes a darker colour. 
+(Total for Question 4 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42991A0424*
+5 The skeletal formulae of some 6-carbon bromoalkanes are shown below.
+ 
+A 
+B 
+C 
+D
+ 
+(a) Which of the above bromoalkanes is not a structural isomer of the others?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+ 
+(b) Which of the above is not a secondary bromoalkane?
+(1)
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 5 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Br
+Br
+Br
+Br
+PMT
+
+
+--- Page Break ---
+
+5
+*P42991A0524*
+Turn over    
+6
+ 
+The molecule shown above is 3-chloro-3-methylhexane.  It reacts with hot, alcoholic 
+potassium hydroxide to produce a number of different alkenes.  This reaction can be 
+classified as
+ 
+ 
+A elimination.
+ 
+ 
+B oxidation.
+ 
+ 
+C reduction.
+ 
+ 
+D substitution.
+(Total for Question 6 = 1 mark)
+7 A reaction mechanism is shown below.
+ 
+The hydroxide ion is acting as
+ 
+ 
+A an electrophile.
+ 
+ 
+B a catalyst.
+ 
+ 
+C a free radical.
+ 
+ 
+D a nucleophile.
+(Total for Question 7 = 1 mark)
+8 Which of the following reagents gives a positive result with a tertiary alcohol?
+ 
+ 
+A Acidified potassium dichromate(VI) solution
+ 
+ 
+B Phosphorus(V) chloride
+ 
+ 
+C Dilute sulfuric acid
+ 
+ 
+D Bromine water
+(Total for Question 8 = 1 mark)
+Cl
+:OH–
+:Br–
+H3C
+Cį+
+Brį–
+CH3
+CH3
+H3C
+C+
+CH3
+CH3
+H3C
+C
+CH3 + :Br–
+CH3
+OH
+PMT
+
+
+--- Page Break ---
+
+6
+*P42991A0624*
+9 What effect does infrared radiation have on the covalent bonds in water molecules in 
+the atmosphere?
+ 
+ 
+A They are broken to form free radicals.
+ 
+ 
+B They are broken into ions.
+ 
+ 
+C The bonds vibrate more vigorously.
+ 
+ 
+D There is no effect on the bonds.
+(Total for Question 9 = 1 mark)
+10 Alkanes are now being used as aerosol propellants as an alternative to CFCs. 
+Although they have no effect on the ozone layer, they have the disadvantage of 
+ 
+ 
+A having high reactivity.
+ 
+ 
+B being hard to evaporate.
+ 
+ 
+C being greenhouse gases.
+ 
+ 
+D having an unpleasant smell.
+(Total for Question 10 = 1 mark)
+11 One definition of the term ‘carbon footprint’ is 
+ 
+‘the amount of carbon dioxide produced when a fuel is burned.’
+Fuel
+Energy density / MJ l–1
+CO2 produced on combustion / g l–1
+Paraffin
+46
+2580
+ 
+Given the information above, what is the carbon footprint for paraffin in terms of grams of 
+CO2 produced per MJ of energy?
+ 
+ 
+A 46
+ 
+ 
+B 56.09
+ 
+ 
+C 2580
+ 
+ 
+D 118 680
+(Total for Question 11 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42991A0724*
+Turn over    
+12 The diagram below shows the Maxwell-Boltzmann distribution of molecular energies 
+for a catalysed reaction.
+ 
+(a) If the temperature were lowered, what would be the effect on the shape of the 
+curve?
+(1)
+ 
+ 
+A The peak would shift to the left and be higher.
+ 
+ 
+B The peak would shift to the left and be lower.
+ 
+ 
+C The peak would shift to the right and be higher.
+ 
+ 
+D The peak would shift to the right and be lower.
+ 
+(b) Which of the following would shift the activation energy line to the right?
+(1)
+ 
+ 
+A An increase in reactant concentration.
+ 
+ 
+B The removal of the product.
+ 
+ 
+C The removal of the catalyst.
+ 
+ 
+D The use of smaller particles with a larger surface area.
+(Total for Question 12 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Number of 
+molecules with 
+energy, E
+Ea
+Energy, E
+PMT
+
+
+--- Page Break ---
+
+8
+*P42991A0824*
+13 Which of the arrows, A, B, C, D, indicates the activation energy for a catalysed 
+reaction on the reaction profile shown?
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 13 = 1 mark)
+14 Which of the following molecules is polar?
+ 
+ 
+A CO2
+ 
+ 
+B SO2
+ 
+ 
+C SO3
+ 
+ 
+D O2
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Energy
+Reactants
+Products
+A
+B
+C
+D
+Progress of reaction
+PMT
+
+
+--- Page Break ---
+
+9
+*P42991A0924*
+Turn over    
+15 Although they have the same relative molecular mass, the boiling temperatures of hexane 
+(69 °C) and 2,2-dimethylbutane (49 °C) are significantly different.  The reason for this is that
+ 
+ 
+A the intermolecular forces are stronger between hexane molecules because it 
+has more electrons.
+ 
+ 
+B there are significantly stronger permanent dipole forces between hexane 
+molecules.
+ 
+ 
+C the covalent bonds in hexane are stronger and so it requires more energy to 
+break them.
+ 
+ 
+D the molecular shape of hexane molecules allows them to form stronger 
+London forces.
+(Total for Question 15 = 1 mark)
+16 Which of the following reactions is the most likely to occur with chlorine in hot, 
+concentrated sodium hydroxide solution?
+ 
+ 
+A  Cl2 
++ 
+2NaOH 
+ĺ 
+ NaCl 
++ 
+NaClO 
++ 
+ H2O
+ 
+ 
+B 2Cl2 
++ 
+4NaOH 
+ĺ 
+3NaCl 
++ 
+NaClO2 + 
+2H2O
+ 
+ 
+C 3Cl2 
++ 
+6NaOH 
+ĺ 
+5NaCl 
++ 
+NaClO3 + 
+3H2O
+ 
+ 
+D 4Cl2 
++ 
+8NaOH 
+ĺ 
+7NaCl 
++ 
+NaClO4 + 
+4H2O
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P42991A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17 Potassium dichromate(VI), K2Cr2O7, can be used to accurately determine the 
+concentration of other chemicals, such as sodium thiosulfate, Na2S2O3.
+ 
+(a) The dichromate(VI) ion has two chromium atoms sharing one oxygen to give 
+two tetrahedral units.  Each chromium atom uses six electrons in bonding and 
+expands its outer shell to accommodate a total of 12 electrons. 
+ 
+ 
+Complete the dot and cross diagram for this ion below.  Only show outer shell 
+electrons. 
+ 
+ 
+Use x for chromium electrons and for oxygen electrons.  Use the symbol * to 
+represent the extra electrons which give the ion its charge.
+(3)
+ 
+ 
+O 
+ 
+O
+ 
+ 
+Cr 
+ 
+Cr
+ 
+O 
+ 
+O 
+ 
+O
+ 
+ 
+O 
+ 
+O
+2–
+PMT
+
+
+--- Page Break ---
+
+11
+*P42991A01124*
+Turn over    
+ 
+(b) Four chemistry students were given a solution of sodium thiosulfate with a 
+concentration of approximately 0.1 mol dm–3 and asked to determine its exact 
+concentration using potassium dichromate(VI) solution.  They were each given 
+separate tasks to carry out as described below.
+ 
+ 
+(i) The first student was given the task of making up a potassium dichromate(VI) 
+solution.  A mass of 14.71 g of K2Cr2O7 was weighed out, dissolved in deionized 
+water, the volume made up to 250 cm3 in a volumetric flask and the mixture 
+shaken. 
+ 
+ 
+ 
+Calculate the concentration of this potassium dichromate(VI) solution, in 
+mol dm–3.
+ 
+ 
+ 
+Use the Periodic Table as a source of data.
+(2)
+ 
+ 
+(ii)  The second student was asked to calculate the mass of potassium iodide that 
+would be required to add to 0.00250 mol of potassium dichromate(VI) to 
+ensure complete reaction.  The equation for the reaction is
+Cr2O7
+2ì(aq)  +  14H+(aq)  +  6Iì(aq)  ĺ  2Cr3+(aq)  +  3I2(aq)  +  7H2O(l)
+ 
+ 
+ 
+Calculate the minimum mass of potassium iodide, KI, required and hence 
+suggest a suitable mass to use if the potassium iodide is to be in excess.
+ 
+ 
+ 
+You must show your working and your mass should be reasonable.
+(2)
+Minimum mass required ................................... g
+Suitable mass to use ............................................. g
+PMT
+
+
+--- Page Break ---
+
+12
+*P42991A01224*
+ 
+ 
+(iii) The third student was given the following equation.
+I2(aq)  +  2S2O3
+2-(aq)  ĺ  2I
+ì(aq)  +  S4O6
+2ì(aq)
+ 
+ 
+ 
+This student was asked to estimate the titration reading at the end-point if a 
+solution that contained 0.00260 mol of iodine was in the conical flask and the 
+concentration of sodium thiosulfate was about 0.16 mol dm-3.
+ 
+ 
+ 
+Calculate the volume of sodium thiosulfate solution, in cm3, that would have 
+been added at the end-point of the titration.  
+(2)
+PMT
+
+
+--- Page Break ---
+
+13
+*P42991A01324*
+Turn over    
+ 
+ 
+*(iv) The fourth student was given the following experimental information.
+ 
+ 
+ 
+0.1 g of potassium dichromate(VI) was dissolved in a total volume of 25.00 cm3. 
+An excess of potassium iodide and acid was added and then used in a titration 
+with the sodium thiosulfate solution of concentration approximately 0.1 mol dm–3.  
+The titre was 25.15 cm3.
+ 
+ 
+ 
+The student suggested that the greatest uncertainty in the result arose from 
+the mass that was measured and that the procedure was unreliable. 
+ 
+ 
+ 
+Explain why these views were justified.  No calculation is required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) Acidified sodium dichromate(VI) solution is commonly used for the oxidation 
+of alcohols.  It is important not to use hydrochloric acid in this reagent mixture 
+because the chloride ions are oxidized to chlorine. 
+ 
+ 
+ 
+Write the ionic half-equation for the oxidation of chloride ions.  State symbols 
+are not required.
+(1)
+ 
+ 
+(ii) Fumes of hydrogen chloride gas can be identified by bringing the fumes into 
+contact with another gas, X.  Identify gas X and state the observation you 
+would make.
+(2)
+Gas X ...................................................................................................................................................................................................................................................................
+Observation  .................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P42991A01424*
+ 
+(d) Potassium bromide can be distinguished from potassium chloride by its reaction with 
+silver nitrate solution, followed by the addition of aqueous ammonia solution. 
+ 
+ 
+State what you would see on the addition of silver nitrate solution to potassium 
+bromide solution.
+ 
+ 
+How could both dilute and concentrated ammonia be used to confirm that silver 
+bromide is formed, rather than silver chloride?
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 17 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+15
+*P42991A01524*
+Turn over    
+18 This is a question about Group 2 elements and their compounds.
+ 
+*(a) Explain why the first ionization energy of calcium (590 kJ mol–1) is greater than 
+that of strontium (550 kJ mol–1).
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) (i) Describe how you would carry out a flame test on a sample of a Group 2 
+metal salt.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What result of the flame test would confirm the presence of a barium salt?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iii) Explain, in terms of electronic transitions, how the result of the flame test arises.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P42991A01624*
+ 
+(c) Barium reacts with water to form a clear, colourless solution.
+ 
+ 
+(i) Give the name or formula of the barium compound formed.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State another observation that would be made when barium reacts with 
+water.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Barium reacts with chlorine gas to form barium chloride as shown in the equation 
+below.
+Ba(s)  +  Cl2(g)  ĺ  BaCl2(s)
+ 
+ 
+(i) Use the changes in oxidation numbers to show that this is a redox reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the ionic equation for the reaction between barium chloride solution 
+and dilute sulfuric acid.  Include state symbols in the equation.
+(2)
+ 
+ 
+(iii) The reaction in (d)(ii) is used to test for sulfate ions.
+ 
+ 
+ 
+Why is dilute hydrochloric acid added with the barium chloride solution in this 
+test?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P42991A01724*
+Turn over    
+ 
+(e) Magnesium carbonate, MgCO3, readily reacts with hydrochloric acid. 
+ 
+ 
+(i) Write the equation for this reaction.  State symbols are not required.
+(1)
+ 
+ 
+*(ii) The rate of the reaction between powdered magnesium carbonate and dilute 
+hydrochloric acid was monitored using the experimental apparatus shown below.
+ 
+ 
+ 
+State two factors that would decrease the rate of this reaction, other than by 
+changing the reaction temperature.
+ 
+ 
+ 
+Explain how these two factors decrease the reaction rate.
+(4)
+Factor 1  ............................................................................................................................................................................................................................................................
+Explanation 1  .............................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Factor 2  ............................................................................................................................................................................................................................................................
+Explanation 2  .............................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*P42991A01824*
+ 
+(f) Suggest why pressure has little or no effect on the rate of the reaction of 
+magnesium oxide and hydrochloric acid, the equation for which is given below.
+MgO(s)  +  2HCl(aq)  ĺ  MgCl2(aq)  +  H2O(l)
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 21 marks)
+TOTAL FOR SECTION B = 38 MARKS
+PMT
+
+
+--- Page Break ---
+
+19
+*P42991A01924*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+19 Insect-borne diseases, such as malaria, affect the lives of millions of people.  Chemists 
+are constantly finding new compounds to combat the transmission of these diseases.  
+One such compound is the insect repellent commonly called p-menthane-3,8-diol 
+(this is not its systematic name).  It is used to protect both humans and animals. 
+ 
+The structure of p-menthane-3,8-diol is shown below.
+ 
+p-menthane-3,8-diol is found naturally in the leaves of Eucalyptus citriodora, which is 
+native to Australia and is commonly known as ‘Lemon Bush’.  It can be extracted from 
+these leaves but is currently commercially prepared by chemical synthetic pathways. 
+However, the commercially-made chemical has been found by some scientists to be 
+less effective than the natural leaf extract.
+ 
+It is possible that p-menthane-3,8-diol can kill microorganisms and it is this additional 
+potential use and others which are being investigated by the chemical industry.
+ 
+p-menthane-3,8-diol should not be confused with either methane or methanol.
+ 
+(a) p-menthane-3,8-diol has two alcohol functional groups.  Classify the type of 
+alcohol group on the far left of the structure drawn above and explain the 
+meaning of the term ‘functional group’.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Give the molecular formula of p-menthane-3,8-diol.
+(1)
+....................................................................................................................................................................................................................................................................................
+HO
+HO
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+20
+*P42991A02024*
+ 
+(c) p-menthane-3,8-diol is found in the oily extract from the leaves of the ‘Lemon 
+Bush’. 
+ 
+ 
+One method used to extract the oil is described below.
+ 
+ 
+Initially, the leaves are ground up using a pestle and mortar with some sand and 
+an organic solvent, such as cyclohexane. 
+ 
+ 
+(i) Suggest why sand is used.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) The solvent cyclohexane forms intermolecular forces with other organic 
+molecules when they dissolve. 
+ 
+ 
+ 
+Identify these intermolecular forces and explain how they arise.
+(3)
+Type of intermolecular force  ......................................................................................................................................................................................................
+How they arise  ..........................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) How could the sand and other solid residue be removed from the mixture?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) At this stage, either anhydrous magnesium sulfate or calcium chloride is 
+added. Suggest the reason for this.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P42991A02124*
+Turn over    
+ 
+ 
+*(v) A student suggested using the following apparatus to remove the 
+cyclohexane from the mixture. 
+ 
+ 
+ 
+Explain, in terms of the processes that occur in the above apparatus, why this 
+method is unsuitable to remove the cyclohexane. 
+ 
+ 
+ 
+Suggest how this apparatus could be adjusted for a successful separation. 
+ 
+ 
+ 
+DATA
+ 
+ 
+ 
+t 
+Boiling temperatures: p-menthane-3,8-diol 266 °C; cyclohexane 81 °C
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+water out
+pear-shaped 
+flask
+Liebig 
+condenser
+anti-bumping 
+granules
+water in
+HEAT
+open top
+PMT
+
+
+--- Page Break ---
+
+22
+*P42991A02224*
+ 
+(d) Spectroscopic techniques can be used to confirm the presence and identity of 
+organic molecules such as p-menthane-3,8-diol.
+ 
+ 
+(i) Suggest how infrared spectroscopy could be used to confirm the presence of 
+the functional group in a molecule such as p-menthane-3,8-diol.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest the identity of two fragment ions, with a m/e value of more than 
+13 but less than 20, that could be observed in a mass spectrum of 
+p-menthane-3,8-diol.
+(2)
+First fragment ion  ..................................................................................................................................................................................................................................
+Second fragment ion  .........................................................................................................................................................................................................................
+ 
+(e) One reason why the synthetic p-menthane-3,8-diol may be less effective than the 
+natural extract is because there are many isomers of this molecule.
+ 
+ 
+Complete the structures below to show two structural isomers of 
+p-menthane-3,8-diol which have the same number of alcohol functional groups 
+and the same carbon skeleton.
+(2)
+p-menthane-3,8-diol
+HO
+HO
+HO
+HO
+PMT
+
+
+--- Page Break ---
+
+23
+*P42991A02324*
+ 
+*(f) State two key principles of sustainability, and how the chemical industry might 
+achieve these, when mass-producing a molecule such as p-menthane-3,8-diol.
+(4)
+Principle 1 .......................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Principle 2 .......................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 22 marks)
+TOTAL FOR SECTION C = 22 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*P42991A02424*
+PMT

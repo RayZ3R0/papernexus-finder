@@ -1,0 +1,1434 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P46661A
+©2016 Pearson Education Ltd.
+3/6/6/3/5/5/e2
+*P46661A0132*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Wednesday 22 June 2016 – Morning
+Time: 1 hour 40 minutes
+6CH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+2
+*P46661A0232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 Which of the following gives the oxidation states of manganese in the ions shown?
+MnO4
+2−
+MnO3
+–
+A
++7
++6
+B
++6
++5
+C
++7
++5
+D
++6
++6
+(Total for Question 1 = 1 mark)
+2 Which of the following gives the electrodes and electrolyte that are used in an 
+alkaline hydrogen fuel cell?
+Electrodes 
+Electrolyte
+A
+graphite
+potassium hydroxide solution
+B
+graphite
+water with a little salt
+C
+platinum
+potassium hydroxide solution
+D
+platinum
+water with a little salt
+(Total for Question 2 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+3
+*P46661A0332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 Which of the following cannot be used to detect alcohol in a breathalyser test?
+ 
+ 
+A Fractional distillation
+ 
+ 
+B Fuel cell
+ 
+ 
+C Infrared spectroscopy
+ 
+ 
+D Reduction of dichromate(VI) ions
+(Total for Question 3 = 1 mark)
+4 A titration using potassium manganate(VII) in dilute sulfuric acid can be used to 
+determine the percentage of
+ 
+ 
+A aspirin in aspirin tablets.
+ 
+ 
+B chlorine in bleach.
+ 
+ 
+C copper in an alloy.
+ 
+ 
+D iron(II) sulfate in iron tablets.
+(Total for Question 4 = 1 mark)
+5 Which of the following gives the electronic configurations for a chromium atom and 
+a chromium(II) ion?
+Cr 
+Cr2+
+A
+[Ar]3d44s2
+[Ar]3d4
+B
+[Ar]3d54s1
+[Ar]3d4
+C
+[Ar]3d44s2
+[Ar]3d24s2
+D
+[Ar]3d54s1
+[Ar]3d34s1
+(Total for Question 5 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+4
+*P46661A0432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+6 Aqueous sodium hydroxide and aqueous ammonia are added to separate solutions 
+of the same metal ion.  The observations are shown in the table below.
+Reagent added
+A few drops
+Excess
+NaOH(aq)
+green precipitate
+green precipitate remains
+NH3(aq)
+green precipitate
+green precipitate dissolves 
+to form a blue solution
+ 
+The metal ion is
+ 
+  
+A Cr3+(aq).
+ 
+  
+B Fe2+(aq).
+ 
+ 
+C Fe3+(aq).
+ 
+ 
+D Ni2+(aq).
+(Total for Question 6 = 1 mark)
+7 The reaction between cerium(IV) ions and thallium(I) ions is very slow.
+2Ce4+(aq) + Tl+(aq) o 2Ce3+(aq) + Tl3+(aq)
+ 
+Which of these ions could catalyse this reaction?
+ 
+ 
+A Al3+
+ 
+ 
+B Fe3+
+ 
+ 
+C Na+
+ 
+ 
+D Zn2+
+(Total for Question 7 = 1 mark)
+8 Which of these hydroxides is amphoteric?
+ 
+ 
+A Cu(OH)2
+ 
+ 
+B Mg(OH)2
+ 
+ 
+C Ni(OH)2
+ 
+ 
+D Zn(OH)2
+(Total for Question 8 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+5
+*P46661A0532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+9 During a titration between acidified manganate(VII) ions and sulfate(IV) ions, the 
+manganate(VII) ions are reduced to manganese(II) ions and the sulfate(IV) ions are 
+oxidized to sulfate(VI) ions.
+ 
+The mole ratio of manganate(VII) ions to sulfate(IV) ions in this reaction is
+ 
+ 
+A 5:2
+ 
+ 
+B 7:4
+ 
+ 
+C 2:5
+ 
+ 
+D 4:7
+(Total for Question 9 = 1 mark)
+10 The total number of compounds with the structural formula C6H3CH3(NO2)2, which 
+contain a benzene ring, is
+ 
+ 
+A four.
+ 
+ 
+B five.
+ 
+ 
+C six.
+ 
+ 
+D seven.
+(Total for Question 10 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+6
+*P46661A0632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+11 This question is about the ester shown below.
+ 
+CH3
+CH
+O
+C
+CH2
+CH3
+O
+CH3
+ 
+(a) The number of peaks seen in the low resolution proton nmr spectrum of this 
+ester is
+(1)
+ 
+ 
+A two.
+ 
+ 
+B three.
+ 
+ 
+C four.
+ 
+ 
+D five.
+ 
+(b) The peak in the high resolution proton nmr spectrum corresponding to the 
+proton in bold on the structure above will
+(1)
+ 
+ 
+A not be split.
+ 
+ 
+B be split into three peaks.
+ 
+ 
+C be split into four peaks.
+ 
+ 
+D be split into seven peaks.
+(Total for Question 11 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+7
+*P46661A0732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+12 Safranal is one of the substances that contributes to the aroma of saffron.
+O
+ 
+Separate samples of safranal were tested with bromine water, 
+2,4-dinitrophenylhydrazine and Fehling’s solution.
+ 
+What are the final observations when safranal is tested with each of those reagents?
+Bromine water 
+2,4-dinitrophenylhydrazine
+Fehling’s solution
+A
+orange solution
+orange solution
+red precipitate
+B
+colourless 
+solution
+orange precipitate
+red precipitate
+C
+orange solution
+orange solution
+blue solution
+D
+colourless 
+solution
+orange precipitate
+blue solution
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+8
+*P46661A0832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 The structure of the organic product of the reaction between phenol and excess 
+bromine water is
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 13 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+Br
+OH
+Br
+OH
+Br
+Br
+OH
+Br
+Br
+Br
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+9
+*P46661A0932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+14 If it is assumed that the structure of benzene has three localised double bonds 
+(structure X), the calculated standard enthalpy change of hydrogenation 
+is −360 kJ mol–1.
+ 
+structure X
+ 
+The actual standard enthalpy change of hydrogenation of benzene is −208 kJ mol–1.
+ 
+From these data, it can be deduced that the
+ 
+ 
+A actual benzene structure is kinetically more stable than structure X as it 
+requires a high activation energy to react.
+ 
+ 
+B actual benzene structure is thermodynamically more stable than structure X 
+as it has a lower enthalpy content.
+ 
+ 
+C structure X is kinetically unstable as it undergoes addition reactions at room 
+temperature.
+ 
+ 
+D structure X is thermodynamically more stable than the actual benzene 
+structure as the standard enthalpy change of hydrogenation is more 
+exothermic.
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+ 
++    3H2    
+ 
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+10
+*P46661A01032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+15 The repeat unit for poly(propenamide) is
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+(Total for Question 15 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+C
+C
+H
+H
+NH2
+C
+O
+H
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+N
+C
+C
+C
+H
+H
+H
+O
+H
+H
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+N
+C
+C
+C
+H
+H
+O
+H
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+C
+C
+H
+NH2
+C
+O
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡
+⎣
+⎢
+⎢
+⎢
+⎢
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+11
+*P46661A01132*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+16 The structures of three amino acids are shown in the table.
+Amino acid
+Structure
+cysteine
+HSCH2CH(NH2)COOH
+glycine
+H2NCH2COOH
+threonine
+CH3CH(OH)CH(NH2)COOH
+ 
+The tripeptide glycine-cysteine-threonine is
+ 
+ 
+A H2NCH2CONHCH(CH(OH)CH3)CONHCH(CH2SH)COOH
+ 
+ 
+B H2NCH2CONHCH(CH2SH)CONHCH(CH(OH)CH3)COOH
+ 
+ 
+C H2NCH(CH(OH)CH3)CONHCH(CH3SH)CONHCH2COOH
+ 
+ 
+D H2NCH(CH2SH)CONHCH2 CONHCH(CH(OH)CH3)COOH 
+(Total for Question 16 = 1 mark)
+17 The amino acid alanine, H2NCH(CH3)COOH, exists as a solid at room temperature. 
+ 
+The most important reason for this is that it
+ 
+ 
+A exists as a zwitterion.
+ 
+ 
+B forms hydrogen bonds.
+ 
+ 
+C is amphoteric.
+ 
+ 
+D has strong London forces.
+(Total for Question 17 = 1 mark)
+18 Complete combustion of a hydrocarbon produced 0.66 g of carbon dioxide and 
+0.225 g of water.
+ 
+Which of the following molecular formulae is consistent with these data?
+ 
+ 
+A C3H6.
+ 
+ 
+B C3H8.
+ 
+ 
+C C6H6.
+ 
+ 
+D C6H10.
+(Total for Question 18 = 1 mark)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+12
+*P46661A01232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+19 Phenol can be produced from benzene as shown in the reaction sequence below.
+benzene
+Mr = 78
+Step 1
+yield 80%
+Step 2
+yield 90%
+SO3H
+OH
+phenol
+Mr = 94
+ 
+The mass of phenol, to 2 decimal places, produced from 3.90 g of benzene is
+ 
+ 
+A 3.38 g.
+ 
+ 
+B 3.76 g.
+ 
+ 
+C 4.23 g.
+ 
+ 
+D 4.70 g.
+(Total for Question 19 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+13
+*P46661A01332*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+14
+*P46661A01432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 Vanadium exists in different oxidation states which can be interconverted using 
+suitable oxidising and reducing agents.
+ 
+(a) Use relevant standard electrode potential values, on page 14 of the Data Booklet, 
+to complete the table below in which two E
+9 values are missing.
+(1)
+Half-equation
+E
+9 / V
+V2+(aq) + 2e− U V(s)
+V3+(aq) + e− U V2+(aq)
+VO2+(aq) + 2H+(aq) + e− U V3+(aq) + H2O(l)
++0.34
+I2(aq) + 2e− U 2I−(aq)
++0.54
+VO2
++(aq) + 2H+(aq) + e− U VO2+(aq) + H2O(l)
++1.00
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+15
+*P46661A01532*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The standard electrode potential of V3+(aq) + e− U V2+(aq) is measured using the 
+apparatus below. 
+ 
+ 
+(i) Identify, by name or formula, the substances needed in the salt bridge and the 
+right-hand half-cell to measure the standard electrode potential.
+(3)
+ 
+A Salt bridge containing a solution of
+....................................................................................................................................................................................................................................................................................
+ 
+B Electrode made of 
+....................................................................................................................................................................................................................................................................................
+ 
+C Solution containing 
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State the three standard conditions needed for this measurement.
+(2)
+1  ...............................................................................................................................................................................................................................................................................
+2  ...............................................................................................................................................................................................................................................................................
+3  ...............................................................................................................................................................................................................................................................................
+hydrogen gas
+platinum electrode
+solution 
+containing H+(aq)
+A
+B
+C
+V
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+16
+*P46661A01632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+*(c) A solution containing iodide ions, I−, was added to an acidified solution 
+containing vanadium(V) ions, VO2
++.
+ 
+ 
+Predict the oxidation state of the vanadium ions left at the end of the reaction. 
+Justify your prediction by calculating the E
+9
+cell for any relevant reaction(s).
+ 
+ 
+Write the ionic equation for any reaction(s) occurring.  State symbols are not required.
+(5)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 11 marks)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+17
+*P46661A01732*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+21 (a) The structures of 2-aminopropanoic acid and 3-aminopropanoic acid are shown. 
+2-aminopropanoic acid                    3-aminopropanoic acid
+ 
+ 
+(i) Explain how the low resolution proton nmr spectra of these two amino acids differ.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain whether or not 3-aminopropanoic acid is chiral.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Write ionic equations for the reaction of 3-aminopropanoic acid with
+(2)
+ 
+ 
+ 
+H+ ions
+ 
+ 
+ 
+OH– ions
+H
+C
+C
+C
+H
+H
+H
+NH2
+O
+OH
+H2N
+C
+C
+C
+H
+H
+H
+H
+O
+OH
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+18
+*P46661A01832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iv) Draw two repeat units of the polymer formed when 3-aminopropanoic acid 
+polymerizes.
+(1)
+ 
+(b) The food colouring E110 is also known as Sunset Yellow.
+ 
+ 
+It can be synthesised as shown below.
+ 
+ 
+(i) Give the reagents and condition for Step 1.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ Step 1
+NH2
+NaO3S
+N
++
+N  Cl−
+Step 2
+HO
+NaO3S
+Sunset Yellow
+N
+NaO3S
+SO3Na
+N
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+19
+*P46661A01932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Draw the structure of the reagent needed for Step 2.
+(1)
+ 
+ 
+(iii) Explain why Sunset Yellow can exist as geometric isomers.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iv) Describe the essential steps of the method that you would use to prepare 
+a pure, dry sample of the solid Sunset Yellow from an impure sample of the 
+food colouring.  You may assume that ethanol is a suitable solvent for this 
+method. 
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+20
+*P46661A02032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(v) Suggest how you could check that a sample of Sunset Yellow is pure.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Explain how a chemist could use phenylmethanol to synthesise a sample of 
+benzamide in three steps.
+ 
+phenylmethanol 
+benzamide
+ 
+ 
+Include the reagents for the steps in the synthesis and draw the structures of all 
+the intermediates.
+(5)
+(Total for Question 21 = 20 marks)
+CH2OH
+C
+O
+NH2
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+21
+*P46661A02132*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+22 Copper and zinc are both in the d-block of the Periodic Table.  Copper forms 
+compounds that contain Cu+ and Cu2+ ions but zinc only forms compounds that 
+contain Zn2+ ions.
+ 
+(a) Complete the electronic configurations of the Cu2+ ions and Zn2+ ions and hence 
+explain why copper is classified as a transition metal but zinc is not.
+(2)
+Cu2+   [Ar]  ...................................................................................................................................................................................................................................................
+Zn2+   [Ar]  ...................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Some photochromic glasses contain silver(I) and copper(I) chlorides. 
+ 
+ 
+Explain, with the aid of an equation, why these photochromic glasses go darker in 
+sunlight.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+22
+*P46661A02232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Copper forms a complex ion with the formula [CuCl4]2−.  This has the same shape 
+as [Pt(NH3)2Cl2].
+ 
+ 
+Draw the shape of the [CuCl4]2− ion and state the type of bonding between the 
+ligands and the metal ion.
+(2)
+ 
+Shape
+ 
+ 
+Bonding....................................................................................................
+ 
+(d) The [CuCl2]− ion is formed by boiling a solution of copper(II) chloride with copper 
+turnings and concentrated hydrochloric acid.
+ 
+ 
+(i) Write an equation for this reaction.  State symbols are not required.
+(1)
+ 
+ 
+(ii) State the meaning of the term disproportionation and explain whether or 
+not this reaction to form the [CuCl2]− ion is a disproportionation reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+23
+*P46661A02332*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Explain why the [CuCl2]− ions are colourless.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Copper(II) sulfate solution reacts with aqueous sodium hydroxide and with 
+aqueous ammonia.
+ 
+ 
+(i) Write the ionic equation for the reaction of copper(II) sulfate solution with 
+aqueous sodium hydroxide.  Include state symbols.
+(1)
+ 
+ 
+(ii) State the type of reaction occurring overall when excess aqueous ammonia is 
+added to copper(II) sulfate solution.
+(1)
+....................................................................................................................................................................................................................................................................................
+Turn over    
+excess aqueous ammonia
+aqueous sodium
+hydroxide
+CuSO4(aq)
+copper(II) hydroxide
+blue precipitate
+deep blue solution  
+containing 
+[Cu(NH3)4(H2O)2]2+
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+24
+*P46661A02432*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(f) 1,2-diaminoethane is a bidentate ligand.  It reacts with copper(II) ions in aqueous 
+solution.
+[Cu(H2O)6]2+ + 3H2NCH2CH2NH2 U [Cu(H2NCH2CH2NH2)3]2+ + 6H2O
+ 
+ 
+(i) State what is meant by the term bidentate.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain, in terms of entropy, why the reaction takes place.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 16 marks)
+TOTAL FOR SECTION B = 47 MARKS
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+25
+*P46661A02532*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+23
+Analgesics
+Analgesics are taken to relieve the symptoms of pain.
+Paracetamol
+This has been synthesised in a three-step process since the 1950s.
+Ibuprofen
+This was first synthesised in the 1960s from propanoic acid.  That process involved six steps 
+and produced more waste than the required drug.
+It is now manufactured in a three-step process.
+Some data about these two analgesics are given in the table below.
+Analgesic
+Molecular 
+formula
+Molar mass 
+/ g mol–1
+paracetamol
+C8H9NO2
+151
+ibuprofen
+C13H18O2
+206
+H
+O
+HO
+N
+OH
+O
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+26
+*P46661A02632*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(a) Name the functional group in paracetamol, other than the phenol group.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Paracetamol is made from phenol in a three-step process.
+HO
+NO2
+NO2
+dilute H2SO4
+NaNO3
+HO
+HO
+HO
+NO2
+4-nitrophenol
+2-nitrophenol
+    NaBH4
+Step 1
++
+Step 2
+HO
+NH2
+Step 3
+HO
+H
+N
+O
+ 
+ 
+(i) In a typical nitration of an arene, the electrophile is formed as shown below.
+ 
+HNO3    +    H2SO4    l     H2NO3
++    +     HSO4
+− 
+Equation 1
+ 
+............................             ............................             ............................            ............................
+ 
+H2NO3
++ l H2O + NO2
++ 
+Equation 2
+ 
+ 
+ 
+Identify the acid-base conjugate pairs in Equation 1.  Write your answers on 
+the dotted lines under the equation.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+27
+*P46661A02732*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Give a mechanism for the nitration of phenol by NO2
++ to form 4-nitrophenol.
+(3)
+ 
+ 
+(iii) Explain why phenol is nitrated much more readily than benzene.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) State the type of reaction taking place in Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Suggest a reagent for Step 3.
+(1)
+....................................................................................................................................................................................................................................................................................
+Turn over    
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+28
+*P46661A02832*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(vi) 2-nitrophenol has a melting temperature of 46 oC and 4-nitrophenol has a 
+melting temperature of 114 oC. 
+ 
+ 
+ 
+Suggest, in terms of intermolecular forces, why these two compounds have 
+different melting temperatures.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Paracetamol can be hydrolysed to form 4-aminophenol and ethanoic acid.
++
+HO
+NH2
+HO
+H
+N
+O
+CH3COOH
++ H2O
+ 
+ 
+The amount of 4-aminophenol produced can be determined using a redox 
+titration.  The half-equation for the oxidation of 4-aminophenol is given below.
+HO
+NH2
++ 2H+ + 2e−
+O
+NH
+ 
+ 
+The oxidizing agent is ammonium cerium(IV) sulfate and ferroin indicator is used 
+to detect the end-point of the titration.  During the reaction, the Ce4+ ions are 
+reduced to Ce3+ ions.
+ 
+ 
+(i) Write the overall equation for the reaction between Ce4+ ions and 
+4-aminophenol.
+(1)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+29
+*P46661A02932*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) In an experiment, 0.500 g of a tablet containing paracetamol was hydrolysed 
+and the solution was made up to 100 cm3.
+ 
+ 
+ 
+20.0 cm3 portions of the resulting solution were titrated with 0.100 mol dm–3 
+ammonium cerium(IV) sulfate solution.
+ 
+ 
+ 
+The mean titre was 12.60 cm3.
+ 
+ 
+ 
+Calculate the percentage, by mass, of paracetamol in the tablet.
+(5)
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+30
+*P46661A03032*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) (i) Identify the chiral carbon atom in ibuprofen with an asterisk (*).
+(1)
+OH
+O
+ 
+ 
+(ii) Suggest a problem in the manufacture of a single isomer of a chiral drug 
+and describe a way that the pharmaceutical industry might overcome this 
+problem.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Ibuprofen was originally made in a six-step process but is now made in a three-step 
+process.
+ 
+ 
+Suggest a specific environmental reason why the manufacturing process was 
+changed.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+31
+*P46661A03132*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(f) Ibuprofen is not very soluble in water.  It can be made into an ionic, soluble salt by 
+reacting it with lysine.
+ 
+Ibuprofen 
+Lysine
+ 
+ 
+Draw the structures of both the cation and the anion in the soluble salt formed 
+when ibuprofen reacts with lysine. 
+(2)
+(Total for Question 23 = 23 marks)
+TOTAL FOR SECTION C = 23 MARKS
+TOTAL FOR PAPER = 90 MARKS
+OH
+O
+O
+OH
+NH2
+NH2
+PhysicsAndMathsTutor.com
+
+
+--- Page Break ---
+
+32
+*P46661A03232*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PhysicsAndMathsTutor.com

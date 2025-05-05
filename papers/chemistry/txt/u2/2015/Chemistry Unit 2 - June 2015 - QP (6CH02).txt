@@ -1,0 +1,904 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P44881A
+©2015 Pearson Education Ltd.
+6/6/6/6/
+*P44881A0124*
+Chemistry
+Advanced Subsidiary
+Unit 2:  Application of Core Principles of Chemistry
+Tuesday 2 June 2015 – Afternoon
+Time: 1 hour 30 minutes
+6CH02/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.  
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson 
+Edexcel GCE
+PMT
+
+
+--- Page Break ---
+
+2
+*P44881A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 The bond angle in beryllium chloride, BeCl2, is most likely to be
+ 
+ A 90°
+ 
+ B 104.5°
+ 
+ C 120°
+ 
+ D 180°
+(Total for Question 1 = 1 mark)
+2 Graphite and buckminsterfullerene are forms of carbon.  Buckminsterfullerene 
+dissolves in octane but graphite does not.  This is because
+ 
+ A the bonds between carbon atoms in buckminsterfullerene are weaker than 
+those in graphite.
+ 
+ B buckminsterfullerene is molecular whereas graphite is a giant structure.
+ 
+ C graphite has delocalised electrons but buckminsterfullerene does not.
+ 
+ D graphite has covalent bonds and London forces but buckminsterfullerene has 
+just London forces.
+(Total for Question 2 = 1 mark)
+3 Which of the following molecules is polar?
+ 
+ A Carbon dioxide, CO2
+ 
+ B Silicon tetrachloride, SiCl4
+ 
+ C Ammonia, NH3
+ 
+ D Boron trifluoride, BF3
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P44881A0324*
+Turn over    
+4 In which series of compounds does covalent character increase when going from left 
+to right?
+ 
+ A KI, KBr, KCl
+ 
+ B NaI, KI, RbI
+ 
+ C NaCl, MgCl2, AlCl3
+ 
+ D SO2, P4O10, SiO2
+(Total for Question 4 = 1 mark)
+5 Hydrogen bromide has a lower boiling temperature than hydrogen iodide.  This is 
+because
+ 
+ A hydrogen bromide has a smaller permanent dipole than hydrogen iodide.
+ 
+ B hydrogen bromide has weaker London forces than hydrogen iodide.
+ 
+ C hydrogen iodide forms hydrogen bonds but hydrogen bromide does not.
+ 
+ D the H
+I bond is stronger than the H
+Br bond.
+(Total for Question 5 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P44881A0424*
+6 Consider the following compounds, E, F, G and H.
+l
+CH2
+CH2
+CH2
+CH3
+G
+Cl
+CH2
+CH2
+CH2
+CH3
+E
+C
+CH3
+CH3
+CH3
+l
+H
+C
+CH3
+CH3
+CH3
+Cl
+F
+ 
+The boiling temperature of these compounds increases in the order
+ 
+ A H G F E
+ 
+ B G H E F
+ 
+ C E F G H
+ 
+ D F E H G
+(Total for Question 6 = 1 mark)
+7 In which of the following reactions is sulfuric(IV) acid, H2SO3, acting as an oxidizing 
+agent?
+ 
+ A H2SO3  +  H2O  ĺ  H3O+  +  HSO3
+–
+ 
+ B H2SO3  ĺ  SO2  +  H2O  
+ 
+ C H2SO3  +  2FeCl3  +  H2O  ĺ  2FeCl2  +  H2SO4  +  2HCl
+ 
+ D H2SO3  +  2H2S  ĺ  3H2O  +  3S
+(Total for Question 7 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P44881A0524*
+Turn over    
+8 Which of the following properties decreases on descending Group 2 of the  
+Periodic Table?
+ 
+ 
+A Solubility of the sulfates.
+ 
+ 
+B Solubility of the hydroxides.
+ 
+ 
+C Reactivity of the elements.
+ 
+ 
+D Ionic character of the oxides.
+(Total for Question 8 = 1 mark)
+9 Compound X is an anhydrous, white solid which decomposes on heating to form a 
+white solid residue, a colourless gas, and a colourless vapour which condenses to a 
+colourless liquid.
+ 
+Compound X is
+ 
+ 
+A sodium carbonate.
+ 
+ 
+B sodium hydrogencarbonate.
+ 
+ 
+C sodium nitrate.
+ 
+ 
+D sodium sulfate.
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P44881A0624*
+10 These questions concern the Maxwell-Boltzmann energy distribution shown below.
+Fraction of 
+particles 
+with a 
+specific 
+energy
+Energy
+Ea
+ 
+(a) What is the best way to describe the activation energy, Ea, of a reaction?
+(1)
+ 
+ A The average energy of the particles that react.
+ 
+ B The minimum energy required for a reaction to occur.
+ 
+ C The energy difference between the reactants and products.
+ 
+ D The energy produced by the particles that react.
+ 
+(b) How does the curve above change when the temperature is increased?
+(1)
+ 
+ A The peak increases in height and moves to the left.
+ 
+ B The peak increases in height and moves to the right.
+ 
+ C The peak decreases in height and moves to the left.
+ 
+ D The peak decreases in height and moves to the right.
+PMT
+
+
+--- Page Break ---
+
+7
+*P44881A0724*
+Turn over    
+ 
+(c) What would be the effect on the diagram if the reactant concentrations were 
+increased?
+(1)
+ 
+ 
+A There would be no change.
+ 
+ 
+B The Ea line would move to the right.
+ 
+ 
+C The Ea line would move to the left.
+ 
+ 
+D The peak decreases in height and moves to the right.
+ 
+(d) What would be the effect on the diagram if a catalyst was added? 
+The activation energy would
+(1)
+ 
+ 
+A be unchanged and the peak would move to the right.
+ 
+ 
+B move to the left and the peak would move to the right.
+ 
+ 
+C move to the left and the peak would move to the left.
+ 
+ 
+D move to the left and the peak would be unchanged.
+(Total for Question 10 = 4 marks)
+11 Propanal, CH3CH2CHO, and propanone, CH3COCH3, are carbonyl compounds.  When 
+these compounds are compared using physical methods of analysis, which of the 
+following statements is not correct?
+ 
+A The compounds produce different patterns in the fingerprint region of the IR 
+spectrum.
+ 
+B The carbonyl groups absorb at frequencies in the same region of the IR 
+spectrum.
+ 
+C The compounds produce different fragmentation patterns in a mass 
+spectrum.
+ 
+D The compounds have molecular ion peaks at different mass to charge ratios in 
+a mass spectrum.
+(Total for Question 11 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P44881A0824*
+12 A sample of propanone, CH3COCH3, was heated under reflux with potassium dichromate(VI)
+acidified with sulfuric acid, and then the mixture was distilled.  Apart from the peaks 
+ 
+due to the C
+C and C
+H bonds, what peak(s) would be present in the IR spectrum of 
+ 
+the distillate?
+ 
+ A A peak due to the C
+O only.
+ 
+ B A peak due to the O
+H only.
+ 
+ C Peaks due to C
+O and O
+H.
+ 
+ D Peaks due to C
+O, C
+O and O
+H.
+(Total for Question 12 = 1 mark)
+13 Which of the following describes the appearance of iodine under the stated 
+conditions?
+Solid
+Dissolved in aqueous 
+potassium iodide
+Dissolved in a liquid 
+hydrocarbon
+A
+purple
+brown
+purple
+B
+brown
+blue-black
+yellow
+C
+shiny grey
+brown
+purple
+D
+shiny grey
+brown
+brown
+(Total for Question 13 = 1 mark)
+14 Why do calculations of global warming exclude the effect of water vapour in the 
+atmosphere?
+ 
+ A Water vapour is not a greenhouse gas.
+ 
+ B Water vapour is a much less potent greenhouse gas than carbon dioxide.
+ 
+ C The average concentration of water vapour in the atmosphere is fairly constant.
+ 
+ D The concentration of water vapour in the atmosphere is much lower than that 
+of carbon dioxide.
+(Total for Question 14 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P44881A0924*
+Turn over    
+15 A compound of nitrogen and hydrogen only is analyzed and found to contain 97.7% 
+by mass of nitrogen.  What is the empirical formula of the compound?
+ 
+Molar masses /g mol–1:  H = 1;  N = 14
+ 
+ A NH3 
+ 
+ B NH2
+ 
+ C N3H5
+ 
+ D N3H
+(Total for Question 15 = 1 mark)
+16 Chlorofluorocarbons, CFCs, damage the ozone layer.  The mechanism of the process 
+involves
+ 
+ A homolytic fission.
+ 
+ B heterolytic fission.
+ 
+ C electrophilic addition.
+ 
+ D nucleophilic substitution.
+(Total for Question 16 = 1 mark)
+17 Electrophiles are
+ 
+ A electron pair donors that are attracted to regions of high electron density.
+ 
+ B electron pair donors that are attracted to regions of low electron density.
+ 
+ C electron pair acceptors that are attracted to regions of high electron density.
+ 
+ D electron pair acceptors that are attracted to regions of low electron density.
+(Total for Question 17 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P44881A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+18 Halogenoalkanes react slowly with water to form alcohols.  The equation for the 
+reaction is
+RX   +   H2O   ĺ   ROH   +   H+   +   X–
+ 
+(a) The rate of this reaction for different halogenoalkanes was investigated using the 
+apparatus below.
+ 
+ 
+In one experiment, equal amounts of 1-chlorobutane, 1-bromobutane and 
+1-iodobutane were placed in separate test tubes with 5 cm3 of ethanol.  These 
+test tubes were placed in the water bath together with a test tube containing 
+aqueous silver nitrate.  After about 5 minutes, 1 cm3 of the silver nitrate solution 
+was added to each test tube containing a halogenoalkane and the time taken for 
+a precipitate to form in each test tube was noted.  The temperature of the water 
+bath was maintained at 50°C.
+ 
+ 
+(i) Why is ethanol used as a solvent in this experiment?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why the apparatus was left for 5 minutes before the silver nitrate  
+was added.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*P44881A01124*
+Turn over    
+ 
+ 
+(iii) Name the precipitate formed in the test tube containing 1-bromobutane and 
+write an ionic equation for the formation of this precipitate.  State symbols 
+are not required.
+(2)
+Precipitate  .....................................................................................................................................................................................................................................................
+Ionic equation
+ 
+ 
+(iv) Predict the order (fastest first) in which the halogenoalkanes form precipitates. 
+Explain your answer.
+(2)
+Order  ..................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Explanation  ..................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Alcohols are usually prepared from halogenoalkanes using aqueous alkali, rather 
+than water, as the reaction is faster.
+ 
+ 
+(i) Name the mechanism and type of reaction occurring when 1-bromobutane 
+reacts with aqueous alkali.
+(2)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P44881A01224*
+ 
+ 
+(ii) Explain why the formation of alcohols is faster with aqueous alkali than  
+with water.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Give the mechanism for the reaction of 1-bromobutane with aqueous alkali.
+ 
+ 
+ 
+Show the lone pair involved in the mechanism and any relevant dipoles and 
+curly arrows.
+(3)
+PMT
+
+
+--- Page Break ---
+
+13
+*P44881A01324*
+Turn over    
+ 
+ 
+(iv) One student suggested that the final reaction mixture could be tested for the 
+presence of an alcohol using phosphorus(V) chloride while another suggested 
+using potassium dichromate(VI) with sulfuric acid. 
+ 
+ 
+ 
+Describe the result of a positive test for alcohols using each of these reagents.
+ 
+ 
+ 
+Explain which test is better for the final reaction mixture.
+(3)
+Observation with PCl5  .......................................................................................................................................................................................................................
+Observation with acidified K2Cr2O7  .....................................................................................................................................................................................
+Explanation  ..................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) 1-bromobutane is classified as a primary halogenoalkane and is one of the four 
+structural isomers with a molecular formula C4H9Br. 
+ 
+ 
+Give the skeletal formula of the three isomers, other than 1-bromobutane, 
+classifying the halogenoalkane in each case.
+(3)
+Skeletal formula
+Classification
+(Total for Question 18 = 18 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P44881A01424*
+19 Two white powders, A and B, known to be Group 2 carbonates, are investigated.
+ 
+(a) (i) The presence of the carbonate ion is usually confirmed using a simple test 
+carried out in two stages at room temperature.  Describe this test and its 
+results.
+(2)
+Test  .......................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Results  ...............................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Using barium carbonate as your example, write the equation for each of the 
+stages of the carbonate test.  Include state symbols in both equations.
+(3)
+First equation (test)
+Second equation (result)
+PMT
+
+
+--- Page Break ---
+
+15
+*P44881A01524*
+Turn over    
+ 
+(b) When a flame test is carried out on the two powders, A gives no colour and B 
+gives a yellow-red flame.
+ 
+ 
+(i) Describe how a flame test is carried out.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the formulae of the metal ions in A and B.
+(2)
+A .......................................................          B.......................................................
+ 
+ 
+*(iii) Explain the origin of the flame colour.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest why compound A produces no flame colour.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P44881A01624*
+ 
+*(c) When Group 2 metal carbonates are heated strongly, they decompose forming 
+the metal oxide and carbon dioxide. 
+ 
+ 
+Explain why the thermal stability of the metal carbonates increases as the group 
+is descended.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*P44881A01724*
+Turn over    
+20 Induced hydraulic fracturing, commonly known as fracking, which was developed in 
+1947, is a technique for extracting natural gas (mainly methane) from shale deposits. 
+While natural gas is a much cleaner fuel than coal, it is difficult to carry out fracking 
+without leakage.  Because methane is a far more potent greenhouse gas than carbon 
+dioxide, it has been calculated that leakage rates of around 2% are sufficient to 
+increase global warming.
+ 
+(a) Suggest what is meant by ‘natural gas is a much cleaner fuel than coal’.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Explain how greenhouse gases cause global warming.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Suggest why methane is a far more potent greenhouse gas than carbon dioxide.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 4 marks)
+TOTAL FOR SECTION B = 39 MARKS
+PMT
+
+
+--- Page Break ---
+
+18
+*P44881A01824*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 
+ 
+Swimming Pool Chemistry
+The circulation of water in swimming pools is much slower than that in most 
+natural water courses, but the number of people using a given volume of water 
+is often far greater.   If steps are not taken to keep microorganisms and other 
+contaminants under control, the water will become hazardous.  Filters are used to 
+remove solid material and chemicals are added to disinfect the water.
+The most common method of disinfection involves the use of chlorine compounds, 
+but systems using bromine have advantages.  These systems depend on 
+their oxidizing properties.  With chlorine systems, the key species is the 
+chlorate(I) ion (OCl–) which kills bacteria by damaging the structure of their cell 
+walls and disrupting enzyme activity.
+A simple way of adding chlorate(I) ions to water is by using chlorine.  The weak 
+acid, chloric(I) acid (HOCl), is formed and this dissociates producing the 
+chlorate(I) ion.
+ 
+(a) The equation for the reaction of chlorine with water is:
+Cl2(aq)   +   H2O(l)   U   HOCl(aq)   +   HCl(aq)
+ 
+ 
+By referring to the relevant oxidation numbers, explain why this is a 
+disproportionation reaction.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P44881A01924*
+Turn over    
+ 
+(b) (i) Complete the dot and cross diagram for chloric(I) acid (HOCl).  Use a dot (v) to 
+represent the hydrogen electron, circles (o) to represent the oxygen electrons 
+and crosses (×) to represent the chlorine electrons. 
+ 
+ 
+ 
+Show the outer electrons only, but include non-bonding electrons.
+(2)
+H
+O
+Cl
+ 
+ 
+*(ii) Predict the bond angle in chloric(I) acid.  Explain your answer fully.
+(5)
+Bond angle = .......................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+20
+*P44881A02024*
+ 
+(c) If the concentration of chlorate(I) ions in a swimming pool is too low, bacteria will 
+flourish.  If it is too high, swimmers will be harmed.  In the United Kingdom, it is 
+recommended that the concentration of chlorine be in the range 1–2 mg dm–3. 
+The total amount of chlorine, Cl2, present can be measured by titration.  
+ 
+ 
+In such a determination, excess sulfuric acid and potassium iodide were added to 
+a 1.00 dm3 sample of swimming pool water and the resulting solution required 
+9.65 cm3 of 0.00550 mol dm–3 sodium thiosulfate for complete reaction.
+ 
+ 
+The equations for the reactions are:
+Cl2  +  2I–  ĺ  I2  +  2Cl–
+I2  +  2S2O3
+2–  ĺ  2I−  +  S4O6
+2–
+ 
+ 
+(i) Show that the concentration of chlorine, Cl2, in this sample meets the UK 
+recommended requirements. 
+All steps in your calculation must be shown.
+(3)
+PMT
+
+
+--- Page Break ---
+
+21
+*P44881A02124*
+Turn over    
+ 
+ 
+(ii) Analysing a single sample of swimming pool water in this way is likely to give 
+unreliable results because it is not possible to repeat the titration.   
+Suggest another way in which this method is unreliable.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) One advantage of the bromine disinfection system is that, while chloric(I) acid 
+decomposes in sunlight forming hydrogen chloride and oxygen, bromic(I) acid 
+(HOBr) is stable.  Another advantage is that bromine is less volatile than chlorine.
+ 
+ 
+(i) Write an equation for the decomposition of chloric(I) acid in sunlight.   
+State symbols are not required.
+(1)
+ 
+ 
+(ii) Explain why bromine is less volatile than chlorine.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+22
+*P44881A02224*
+ 
+(e) The pH of the swimming pool affects the performance of the disinfectant.  The 
+data below show how the concentrations of bromine species vary with pH.
+pH
+% bromine as HOBr
+% bromine as OBr−
+6.0
+100
+0.0
+7.0
+98.0
+2.0
+8.0
+83.0
+17.0
+8.5
+57.0
+43.0
+ 
+ 
+The equation for the reaction of bromic(I) acid in water is
+HOBr(aq)  U  H+(aq)  +  OBr–(aq)
+ 
+ 
+(i) Assume the pH of the swimming pool is neutral.  Explain how any changes in 
+the pH of the swimming pool affect the concentration of the bromine species. 
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The higher the concentration of bromate(I) ions, the more effective the 
+disinfectant. 
+ 
+ 
+ 
+Suggest a disadvantage of too high a pH.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+23
+*P44881A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+*P44881A02424*
+PMT

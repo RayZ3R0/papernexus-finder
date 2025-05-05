@@ -1,0 +1,905 @@
+*P64623A0124*
+Turn over    
+Candidate surname
+Other names
+Total Marks
+Centre Number
+Candidate Number
+Please check the examination details below before entering your candidate information
+Time
+Paper
+reference
+P64623A
+©2021 Pearson Education Ltd.
+1/1/1/1/1/1/1/1/1/
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+•	Show all your working in calculations and include units where appropriate.
+Information
+•	The total mark for this paper is 80. 
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	You will be assessed on your ability to organise and present information, ideas, 
+descriptions and arguments clearly and logically, including your use of grammar, 
+punctuation and spelling.
+•	There is a Periodic Table on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+•	Good luck with your examination.
+You must have:	 Scientific calculator, ruler
+Chemistry
+International Advanced Subsidiary/Advanced Level
+UNIT 1: Structure, Bonding and Introduction to
+Organic Chemistry
+WCH11/01
+1 hour 30 minutes
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+*P64623A0224*
+2
+	
+SECTION A
+Answer ALL the questions in this section. 
+You should aim to spend no more than 20 minutes on this section. 
+For each question, select one answer from A to D and put a cross in the box .  
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross .
+1	 The numbers of subatomic particles present in four species W, X, Y and Z are given in 
+the table.
+Species
+Number of protons
+Number of 
+neutrons
+Number of 
+electrons
+W
+19
+20
+18
+X
+19
+20
+19
+Y
+20
+20
+18
+Z
+20
+22
+20
+	
+Which of these species are isotopic?
+	
+A	 W and X
+	
+B	 W and Y
+	
+C	 X and Z
+	
+D	 Y and Z
+ (Total for Question 1 = 1 mark)
+2	 Iodine exists as one isotope with mass number 127.
+	
+Chlorine exists as two isotopes with mass numbers 35 and 37.
+	
+How many molecular ion (ICl3
++) peaks are there in the mass spectrum of ICl3?
+	
+A	 2
+	
+B	 3
+	
+C	 4
+	
+D	 5
+(Total for Question 2 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+*P64623A0324*
+Turn over    
+3
+	
+3	 The mass spectrum of a sample of an element has only two peaks.
+Relative
+abundance
+80
+70
+60
+50
+40
+30
+20
+10
+0
+194
+193
+192
+191
+190
+m / z
+	
+What is the approximate relative atomic mass of the element in this sample?
+	
+A	 191.5
+	
+B	 192.0
+	
+C	 192.5
+	
+D	 193.0
+(Total for Question 3 = 1 mark)
+4	 Which equation represents the second ionisation energy of magnesium?
+	
+A	 Mg(g)  → Mg2+(g) + 2e−
+	
+B	 Mg+(g) → Mg2+(g) +   e−
+	
+C	 Mg(s)    → Mg2+(s)   + 2e−
+	
+D	 Mg+(s)   → Mg2+(s)   +   e−
+(Total for Question 4 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P64623A0424*
+4
+	
+5	 The graph shows log (ionisation energy) against ionisation number for the successive 
+ionisations of an element.
+log (ionisation
+energy)
+6
+5
+4
+3
+2
+1
+0
+16
+12
+8
+4
+0
+Ionisation number
+14
+10
+6
+2
+	
+In this element, how many quantum shells contain electrons, and how many electrons 
+are in the outer quantum shell?
+Number of quantum shells  
+containing electrons
+Number of electrons in the 
+outer quantum shell
+A
+3
+2
+B
+3
+5
+C
+5
+2
+D
+5
+5
+(Total for Question 5 = 1 mark)
+6	 Which ion has the electronic configuration 1s2 2s2 2p6 3s2 3p6 in its ground state?
+	
+A	 Al3+
+	
+B	 Cl−
+	
+C	 N3−
+	
+D	 Na+
+(Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+*P64623A0524*
+Turn over    
+5
+	
+7	 What is the relative formula mass of hydrated sodium carbonate, Na2CO3. 10H2O?
+	
+[Ar values: H = 1.0   C = 12.0   O = 16.0   Na = 23.0]
+	
+A	 106
+	
+B	 142
+	
+C	 263
+	
+D	 286
+(Total for Question 7 = 1 mark)
+8	 Which of these isoelectronic ions has the largest radius?
+	
+A	 Na+
+	
+B	 Mg2+
+	
+C	 O2−
+	
+D	 F−
+(Total for Question 8 = 1 mark)
+9	 Which ion is the most polarisable?
+	
+A	 Mg2+
+	
+B	 Ca2+
+	
+C	 Cl−
+	
+D	 I−
+(Total for Question 9 = 1 mark)
+10	 Which substance has a giant lattice of atoms?
+	
+A	 diamond
+	
+B	 ice
+	
+C	 poly(ethene)
+	
+D	 sodium chloride
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+*P64623A0624*
+6
+	
+11	 Which compound has bonds that are the most polar?
+	
+A	 H2O
+	
+B	 H2S
+	
+C	 NH3
+	
+D	 PH3
+(Total for Question 11 = 1 mark)
+12	 Which molecule is planar?
+	
+A	 CF4
+	
+B	 C2F4
+	
+C	 PF5
+	
+D	 SF6
+(Total for Question 12 = 1 mark)
+13	 When C20H42 is cracked, each molecule produces one molecule of ethene,  
+one molecule of butane and two molecules of hydrocarbon E.
+	
+What is the molecular formula of E?
+	
+A	 C7H13
+	
+B	 C7H14
+	
+C	 C14H26
+	
+D	 C14H28
+(Total for Question 13 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P64623A0724*
+Turn over    
+7
+	
+14	 What is the systematic name of this compound?
+	
+A	 1,1,2-trimethylpent-4-ene
+	
+B	 2,3-dimethylhex-5-ene
+	
+C	 4,5-dimethylhex-1-ene
+	
+D	 4,5,5-trimethylpent-1-ene
+(Total for Question 14 = 1 mark)
+15	 Cyclohexene may be prepared by the dehydration of cyclohexanol.
+OH
+      +      H2O
+cyclohexanol 
+Mr = 100
+cyclohexene 
+Mr = 82
+	
+What mass of cyclohexene can be made from 12.5 g of cyclohexanol if the yield is 51.2 %?
+	
+A	   5.25 g
+	
+B	   6.40 g
+	
+C	   7.80 g
+	
+D	 10.25 g
+ (Total for Question 15 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P64623A0824*
+8
+	
+16	 Which of these gases occupies 6.0 dm3 at room temperature and pressure (r.t.p.)?
+	
+[molar volume of gas at r.t.p. = 24.0 dm3 mol−1
+	
+Ar values: He = 4.0   C = 12.0   N = 14.0   O = 16.0]
+	
+A	   2.0 g of helium
+	
+B	   4.0 g of oxygen
+	
+C	 11.0 g of carbon dioxide
+	
+D	 14.0 g of nitrogen
+(Total for Question 16 = 1 mark)
+17	 An oxide of lead contains 90.7 % by mass of lead. 
+	
+What is the formula of this oxide?
+	
+[Ar values: O = 16.0   Pb = 207.2]
+	
+A	 PbO
+	
+B	 PbO2
+	
+C	 Pb2O3
+	
+D	 Pb3O4
+(Total for Question 17 = 1 mark)
+18	 Propane burns completely in oxygen as shown.
+C3H8(g)  +  5O2(g)  →  3CO2(g)  +  4H2O(l)
+	
+100 cm3 of propane was mixed with 600 cm3 of oxygen and the mixture was ignited.
+	
+What is the total volume, in cm3, of the gas mixture at the end of the reaction? 
+All gas volumes were measured at room temperature and pressure.
+	
+A	 300
+	
+B	 400
+	
+C	 700
+	
+D	 800
+(Total for Question 18 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+*P64623A0924*
+Turn over    
+9
+	
+19	 Which aqueous solution contains the greatest number of ions?
+	
+A	 200 cm3 of 1.5 mol dm−3 MgCl2
+	
+B	 400 cm3 of 0.8 mol dm−3 MgSO4
+	
+C	 500 cm3 of 1.0 mol dm−3 NaCl
+	
+D	 1000 cm3 of 0.25 mol dm−3 Na2SO4
+(Total for Question 19 = 1 mark)
+20	 A sample of seawater with a mass of 1 kg contains 6 × 10−9 g of gold.
+	
+How many atoms of gold, to one significant figure, are there in 1 g of this seawater?
+	
+[Ar value: Au = 197          Avogadro constant = 6 × 1023 mol−1]
+	
+A	 2 × 1010
+	
+B	 4 × 1012
+	
+C	 2 × 1013
+	
+D	 4 × 1015
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P64623A01024*
+10
+	
+SECTION B
+Answer ALL the questions. 
+Write your answers in the spaces provided.
+21	 Heptane, C7H16 , is an alkane found in crude oil.
+	
+(a)	 Heptane can undergo incomplete combustion.
+	
+	
+(i)	 Give a reason why incomplete combustion sometimes occurs.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Write the equation for the incomplete combustion of heptane, forming 
+carbon monoxide and water as the only products.  
+State symbols are not required.
+(1)
+	
+(b)	 Heptane is reformed into branched-chain and cyclic hydrocarbons that are used 
+in petrol.
+	
+	
+(i)	 Draw the skeletal formulae of a branched-chain alkane and a cycloalkane, 
+each containing seven carbon atoms.
+(2)
+Branched-chain alkane
+Cycloalkane
+PMT
+
+
+--- Page Break ---
+
+*P64623A01124*
+Turn over    
+11
+	
+	
+	
+(ii)	 Write the equation for the reforming of heptane into a cycloalkane.  
+Use molecular formulae.
+(1)
+	
+	
+(iii) Give a reason for adding cycloalkanes to petrol.
+(1)
+.....................................................................................................................................................................................................................................................................................	.
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P64623A01224*
+12
+	
+	
+(c)	 Heptane, C7H16 , reacts with chlorine in the presence of ultraviolet radiation.
+	
+	
+(i)	 State the type and mechanism of this reaction.
+(2)
+......................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Give the mechanism for the reaction to produce C7H15Cl, C14H30 and HCl  
+as the only products.
+	
+	
+	
+Include the name of each of the steps in your mechanism.
+	
+	
+	
+Curly half-arrows are not required.
+(7)
+(Total for Question 21 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+*P64623A01324*
+Turn over    
+13
+	
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P64623A01424*
+14
+	
+22	 This question is about the elements in Period 3 of the Periodic Table, and some of 
+their compounds.
+	
+(a)	 The atomic radii of six of the elements are given.
+Symbol
+Na
+Mg
+Al
+Si
+P
+S
+Cl
+Ar
+Atomic 
+number
+11
+12
+13
+14
+15
+16
+17
+18
+Atomic 
+radius    
+/ nm
+0.191
+0.160
+0.130
+0.102
+0.099
+0.095
+	
+	
+(i)	 Plot a graph of atomic radius against atomic number.
+(2)
+	
+	
+(ii)	 Use the graph to estimate the atomic radius of silicon, Si. 
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P64623A01524*
+Turn over    
+15
+	
+	
+	
+(iii)	Suggest an explanation for the decrease in atomic radius as atomic number 
+increases across a period.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 The melting temperatures of sodium, sodium chloride and chlorine are given in 
+the table.
+	
+	
+Complete the table to show the type of structure, the type of bond or force 
+broken on melting and the particles involved.
+(6)
+Substance
+Sodium
+Sodium chloride
+Chlorine
+Melting 
+temperature / °C
+98
+801
+−101
+Type of structure
+giant
+simple 
+ molecular
+Type of bond or force 
+broken on melting
+Particles involved 
+chlorine 
+molecules
+PMT
+
+
+--- Page Break ---
+
+*P64623A01624*
+16
+	
+	
+(c)	 Solid phosphorus(V) chloride contains PCl4
++ ions.
+	
+	
+(i)	 Draw a dot-and-cross diagram of a PCl4
++ ion.
+	
+	
+	
+Show only outer shell electrons.
+(1)
+	
+	
+(ii)	 Predict the shape of a PCl4
++ ion.
+	
+	
+	
+Justify your answer.
+(3)
+	
+	
+	
+Shape ............................................................................................
+	
+	
+	
+Justification
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+*P64623A01724*
+Turn over    
+17
+	
+23	 This question is about alkenes.
+	
+(a)	 An alkene has a molar mass of 112 g mol−1.
+	
+	
+Deduce the molecular formula of this alkene.  
+(1)
+	
+(b)	 There are a number of different alkenes with the molecular formula C4H8 .
+	
+	
+(i)	 Draw the structure of the branched-chain alkene with the 
+molecular formula C4H8 .
+(1)
+	
+	
+(ii)	 Give the structures and names of the two geometric isomers with the 
+molecular formula C4H8 .
+(2)
+Structure of geometric isomer 1
+Structure of geometric isomer 2
+Name of isomer 1
+Name of isomer 2
+PMT
+
+
+--- Page Break ---
+
+*P64623A01824*
+18
+	
+	
+(c)	 Two reactions of 1-methylcyclohexene are shown.
+1-methylcyclohexene
+OH
+Reaction 1
+Br2
+Reaction 2
+Compound X
+	
+	
+(i)	 Draw the skeletal formula of compound X formed in Reaction 1.
+(1)
+	
+	
+(ii)	 Give the reagent and condition needed for Reaction 2.
+(2)
+	
+	
+	
+Reagent …………………………………………………………………………………………………………………………………………………
+	
+	
+	
+Condition …………………………………………………………………………………………………………………………………….………..
+PMT
+
+
+--- Page Break ---
+
+*P64623A01924*
+Turn over    
+19
+	
+	
+(d)	 Iodine monochloride, ICl, reacts with alkenes in a similar way to 
+hydrogen bromide.
+	
+	
+Complete the mechanism for the reaction of iodine monochloride with propene 
+to form the major product. 
+Include curly arrows, the relevant lone pair and the structures of the intermediate 
+and product.
+(4)
+	
+	
+C
+C
+CH3
+H
+H
+H
+Clδ−
+Iδ+
+	
+(e)	 A section of a polymer showing two repeat units is given.
+C
+C
+C
+C
+CH3
+H
+H
+C2H5
+CH3
+H
+H
+C2H5
+	
+	
+Give the name of the monomer that forms this polymer.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P64623A02024*
+20
+	
+	
+(f)	 0.0100 mol of an alkene reacts completely with exactly 600 cm3 of hydrogen gas, 
+measured at 298 K and 1.24 × 105 Pa pressure, to form an alkane.
+	
+	
+Use the ideal gas equation to deduce the number of double bonds in 
+one molecule of the alkene. 
+You must show your working.
+	
+	
+[pV = nRT	 	
+R = 8.31 J mol−1 K−1]
+(4)
+(Total for Question 23 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+*P64623A02124*
+Turn over    
+21
+	
+24	 This question is about iron and some of its compounds.
+	
+(a)	 Complete the table to show the numbers of subatomic particles in 56Fe2+.
+(1)
+Number of protons
+Number of neutrons
+Number of electrons
+	
+(b)	 A sample of iron contains the following isotopes.
+Isotope
+Percentage abundance
+54Fe
+  5.84
+56Fe
+91.68
+57Fe
+  2.17
+58Fe
+  0.31
+	
+	
+Calculate the relative atomic mass of this sample of iron.  
+Give your answer to three significant figures.
+(2)
+	
+(c)	 Magnesium reacts with aqueous iron(II) sulfate in a displacement reaction.
+	
+	
+Write the ionic equation for this reaction.  
+Include state symbols.
+(2)
+PMT
+
+
+--- Page Break ---
+
+*P64623A02224*
+22
+	
+	
+(d)	 25.00 g of a compound contains 6.98 g of iron and 6.03 g of sulfur.  
+	
+	
+The remaining mass is oxygen.
+	
+	
+Calculate the empirical formula of this compound.
+	
+	
+[Ar values:  O = 16.0   S = 32.1   Fe = 55.8]
+(3)
+PMT
+
+
+--- Page Break ---
+
+*P64623A02324*
+Turn over    
+23
+	
+	
+(e)	 When 6.95 g of FeSO4.xH2O is heated, 2.00 g of iron(III) oxide,  
+0.80 g of sulfur dioxide and 1.00 g of sulfur trioxide are produced.  
+The only other product is water.
+	
+	
+Deduce the overall equation for the reaction using these data.  
+State symbols are not required.
+	
+	
+You must show your working.
+	
+	
+[Ar values:  H = 1.0   O = 16.0   S = 32.1   Fe = 55.8]
+(5)
+(Total for Question 24 = 13 marks)
+TOTAL FOR SECTION B = 60 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P64623A02424*
+24
+	
+PMT

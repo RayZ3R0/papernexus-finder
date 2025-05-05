@@ -1,0 +1,672 @@
+Turn over
+Printer’s Log. No.
+P42222A
+This publication may be reproduced only in accordance with Pearson Education Ltd copyright policy. ©2013 Pearson Education Ltd.
+W850/6002/57570   1/1/1/1/1
+*P42222A*
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Level
+Unit 2:  Corporate and Management  
+Accounting
+Thursday 24 January 2013 – Afternoon
+Source booklet for use with 
+Questions 1 to 7.
+Do not return the insert with the 
+question paper.
+
+
+--- Page Break ---
+
+P42222A 
+2 
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. Channel Oil plc drills for oil. Channel Oil plc had the following balances in the books at  
+31 December 2012, subject to some final adjustments.
+ 
+Debit
+£
+Credit
+£
+Buildings
+974 000
+Bank 
+114 000
+Bank loan 
+500 000
+Cash in hand
+17 000
+Computer equipment
+495 000
+8.5%  Debenture  (2017)
+1 200 000
+Debenture interest payable
+51 000
+Fittings
+187 000
+Foreign exchange reserve
+600 000
+Furniture
+64 000
+General reserve
+75 000
+Interest on bank loan payable
+3 750
+Investment property
+750 000
+Non-oil inventories
+116 000
+Land
+3 150 000
+Patents purchased
+45 000
+Machinery
+685 000
+Oil drilling licence purchased
+2 000 000
+Oil drilling plant
+4 550 000
+Oil inventories
+2 320 000
+Oil refining plant
+1 930 000
+Ordinary £1 share capital 
+13 000 000
+Other payables
+16 500
+Other receivables
+7 000
+Retained earnings 
+929 250
+Share premium account
+2 500 000
+Taxation
+460 000
+Trade payables
+24 000
+Trade receivables
+97 000
+
+
+--- Page Break ---
+
+P42222A 
+3
+ 
+Turn over
+ 
+Notes and final adjustments:
+ 
+ 
+The bank loan is due to be repaid in March 2015
+ 
+ 
+Buildings are to be revalued upwards by 5% 
+ 
+ 
+Investment property is to be revalued upwards by 4%
+ 
+ 
+Oil inventories are to be revalued downwards by 7% to reflect a falling oil price
+ 
+ 
+Taxation due includes £198 000 to be paid within 30 days. The remainder is to be paid on  
+31 March 2014.
+ 
+Required:
+ 
+(a) Prepare the Statement of Financial Position for Channel Oil plc at 31 December 2012 in 
+accordance with International Accounting Standard 1 (Revised).
+(40)
+ 
+At a board meeting at the end of the year, the Marketing Director stated “I am concerned about the 
+liquidity position of the company”. 
+ 
+Required:
+ 
+(b) Evaluate the statement of the Marketing Director, concerning the liquidity position of  
+Channel Oil plc, at 31 December 2012.
+(12)
+(Total 52 marks)
+Answer space for question 1 is on pages 2 to 7 of the question paper.
+
+
+--- Page Break ---
+
+P42222A 
+4 
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2. Khulnar Carpets Limited produces carpets. All carpets are produced to order, with no stocks held.
+ 
+For the month of December 2012, the following information is available.
+ 
+Budget:
+ 
+ 
+Each carpet is to use 16 sq m of material in production
+ 
+ 
+Material is to be purchased from suppliers at a rate of £7.50 per sq m
+ 
+ 
+Workers are to be paid £8.60 per hour, and are to produce 2 carpets per day
+ 
+ 
+12 workers are to work 8 hours per day, five days per week, for four weeks.
+ 
+Actual:
+ 
+ 
+7 920 sq m of material were used for production at a total cost of £58 608
+ 
+ 
+Each carpet took 4.25 hours to produce
+ 
+ 
+Workers were paid £8.50 per hour.
+ 
+The budgeted sales target of 480 carpets at £299 per carpet was achieved.
+ 
+Required:
+ 
+(a) Calculate the: 
+ 
+ 
+(i) budgeted cost of producing one carpet
+(4)
+ 
+ 
+(ii) actual cost of producing one carpet.
+(4)
+ 
+(b) Calculate, stating the formula used in each case, for the month ended 31 December 2012 the:
+ 
+ 
+(i) labour efficiency, labour rate, and total labour variance for one carpet
+(12)
+ 
+ 
+(ii) materials usage, materials price, and total materials variance for one carpet.
+(14)
+ 
+Fixed costs for the month totalled £12 300.
+ 
+(c) Calculate the actual profit for the month of December.
+(6)
+ 
+The directors of Khulnar Carpets Limited expect higher costs to apply in January 2013, but have 
+decided not to charge these extra costs to customers, i.e. they will not increase the price of each 
+carpet sold. 
+ 
+Required:
+ 
+(d) Evaluate the decision not to charge the extra production costs to the customer.
+(12)
+(Total 52 marks)
+Answer space for question 2 is on pages 8 to 12 of the question paper.
+
+
+--- Page Break ---
+
+P42222A 
+5
+ 
+Turn over
+BLANK PAGE
+
+
+--- Page Break ---
+
+P42222A 
+6 
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3. Med Isle Travel plc sells holidays. The Statement of Changes in Equity of Med Isle Travel plc for 
+the year ended 31 December 2012 is nearing completion and is shown below.
+£1 
+Ordinary 
+Share 
+Capital
+£m
+Share 
+Premium
+£m
+Retained 
+Earnings
+£m
+General 
+Reserve
+£m
+Capital 
+Redemption 
+Reserve
+£m
+Non-current 
+Asset 
+Replacement 
+Reserve
+£m
+Total 
+Equity
+£m
+Balance at  
+1 January 2012
+800
+200
+11
+75
+40
+50
+1176
+Issue of 
+Share Capital 
+(September)
+100
+150
+--
+--
+--
+--
+250
+Dividends
+--
+--
+(69)
+--
+--
+--
+(69)
+Comprehensive 
+Income for the 
+Year
+--
+--
+37
+--
+--
+--
+37
+Transfer
+--
+--
+75
+(75)
+--
+--
+--
+Transfer
+--
+--
+(50)
+--
+--
+50
+--
+Balance at  
+31 December 2012
+ 
+You are the accountant for Med Isle Travel plc.
+ 
+Required:
+ 
+(a) Complete the row in the Answer Booklet to show the figures for the Balance at 
+ 
+ 
+31 December 2012.
+(6)
+ 
+The published accounts were presented to the shareholders’ meeting on 6 January 2013.
+ 
+You are required to answer the following points raised by shareholders.
+ 
+(b) (i) “Could you explain one example for which the funds in the Non-current asset replacement 
+reserve may be used?”
+(2)
+ 
+ 
+(ii) “Please explain the transfer of £75 million shown on line 6.”
+(2)
+ 
+ 
+(iii) A new shareholder states “I know the Statement of Changes in Equity shows dividends 
+paid only in the year. I did not receive an interim dividend of 3 pence per share in June, as 
+I purchased my shares in the September issue. How much was the final dividend per share 
+paid to ALL shareholders in December 2012?”
+(6)
+
+
+--- Page Break ---
+
+P42222A 
+7
+ 
+Turn over
+ 
+ 
+(iv) “How much did the shareholders pay for each share issued before 1 January 2012?”
+(4)
+ 
+ 
+ 
+“How much did the shareholders pay for each share issued in September 2012?”
+(4)
+ 
+ 
+ 
+“Can you explain the difference between the amount paid by shareholders to buy each 
+share before 1 January 2012, and the amount to buy each share in September 2012?”
+(4)
+ 
+ 
+(v) “I am unhappy about the low level of dividend paid. I can see a large figure in the Total 
+Equity column – could we use that to pay dividends?”
+(12)
+ 
+Another shareholder stated at the meeting. “I think that the company should have issued bonus 
+shares in September instead of a rights issue. This would have been better for Med Isle Travel plc.”
+ 
+(c) Evaluate this statement on behalf of Med Isle Travel plc.
+(12)
+(Total 52 marks)
+Answer space for question 3 is on pages 13 to 17 of the question paper.
+
+
+--- Page Break ---
+
+P42222A 
+8 
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. Kim Seng plans to go into business opening a factory on 1 February 2013, to produce cartons of 
+soft drink. These will be sold and delivered to retail customers.
+ 
+Kim Seng has £15 000 of his own money to put into the business. He also has a loan of £15 000 
+from his mother. The loan is to be repaid at a later date, not yet agreed. 
+ 
+Additional information
+ 
+1. In the first week of February, Kim Seng plans to pay for the following:
+ 
+ 
+ 
+machinery £12 400 
+ 
+ 
+ 
+a delivery vehicle £9 500
+ 
+ 
+ 
+three months rent on the factory at £1 199 per month.
+ 
+2. Production will start in Week 2 of February. The factory can produce 1 400 cartons per day.
+ 
+3. Kim Seng will purchase raw materials for the drinks, at the start of each week, at a cost of £0.04 
+per carton. All material purchases will be paid for in cash on the day of purchase.
+ 
+4. The water charge for the factory will be £640 per month, paid on the last day of every month.
+ 
+5. Cartons will be delivered to retail customers on the day of production. Delivery costs are 
+expected to be £280 per week, payable at the end of each week.
+ 
+6. All output is sold on the day of production. Retail customers will pay Kim Seng £0.22 per 
+carton. All sales will be on credit. 70% of retail customers will pay one month after the sale. 
+The other 30% will pay two months after the sale.
+ 
+7. Kim Seng will take drawings of £400 per week, starting from 1 February 2013.
+ 
+8. Assume that the factory will operate five days per week and four weeks per month.
+ 
+Required :
+ 
+(a) Prepare a monthly Cash Budget for each of the three months February to April 2013.
+(24)
+ 
+(b) Evaluate the level of drawings that Kim Seng is taking out of the business each month.
+(8)
+(Total 32 marks)
+Answer space for question 4 is on pages 18 to 20 of the question paper.
+
+
+--- Page Break ---
+
+P42222A 
+9
+ 
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. Metro Clean plc is considering bidding for a contract to dispose of household waste in the city 
+of Valettori. The contract will last for five years, and the city authorities will pay the company to 
+dispose of household waste.
+ 
+The following information is available.
+ 
+1. The initial cost of the contract to Metro Clean plc will be £1 900 000. This will include six 
+specialist lorries costing £145 000 each. These lorries will last for five years when they will be 
+sold for £5 000 each.
+ 
+2. Running expenses, including depreciation of the lorries, for the first three years are forecast 
+to be £850 000 per year. In year four running expenses, including depreciation, are forecast to 
+rise by £50 000. In year five, running expenses are expected to stay at the same level as in year 
+four. 
+ 
+3. The City of Valettori authorities will pay Metro Clean plc £1 200 000 for the first year. The 
+payment for year two will rise by 5%. The payment for year three will be the same as year two. 
+The payment for year four will increase by a further 5%. The payment for year five will be the 
+same as year four. 
+ 
+4. It is Metro Clean plc policy to have a payback period of three years on investment projects.
+ 
+5. It is Metro Clean plc policy only to invest in projects achieving an average rate of return of at 
+least 10% per year.
+ 
+Required:
+ 
+(a) Calculate for the project the:
+ 
+ 
+(i) payback period, showing your answer in years and months
+(14)
+ 
+ 
+(ii) average rate of return (accounting rate of return).
+(10)
+ 
+(b) Evaluate the project for Metro Clean plc, using the calculations made and considering any 
+other relevant factors.
+(8)
+(Total 32 marks)
+Answer space for question 5 is on pages 21 to 24 of the question paper.
+
+
+--- Page Break ---
+
+P42222A 
+10 
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. Shajah Music Limited owns two stores in the centre of Ashman. These are at the Higher End and the 
+Lower End of the centre. The two stores are facing competition from supermarkets and the internet. 
+Over the last few years, the financial performance of both stores has declined. The directors of 
+Shajah Music Limited have decided to close one store. 
+ 
+Information and figures for the two stores for the year ended 31 December 2012 are shown below:
+ 
+Higher End
+ 
+ 
+ 
+The store building is owned by Shajah Music Limited. 
+ 
+ 
+ 
+The store has two staff members who are each paid a salary of £6 350 per year. 
+ 
+ 
+ 
+Other fixed costs total £12 500 per year. 
+ 
+ 
+ 
+Variable costs are purchasing CDs for £3 each. 
+ 
+ 
+ 
+The store sells the CDs for a full price of £11 each.
+ 
+ 
+ 
+Last year the store sold 3 342 CDs. 
+ 
+Lower End
+ 
+ 
+ 
+This store is rented at a cost of £900 per month. 
+ 
+ 
+ 
+The store employs three staff: a manager whose salary is £9 500 per year, a full time 
+staff member whose salary is £6 500 per year, and a part time staff member whose salary  
+is £2 500 per year.
+ 
+ 
+ 
+Other fixed costs total £11 800 per year. 
+ 
+ 
+ 
+Variable costs are purchasing CDs for £3 each. 
+ 
+ 
+ 
+The store heavily discounts the CDs and sells each CD for £6.
+ 
+ 
+ 
+Last year the store sold 14 784 CDs. 
+ 
+When making a decision as to which store will close, the directors consider the break even point, 
+the margin of safety, and the profit or loss of each store.
+ 
+Required:
+ 
+Two fixed costs of the stores are given as rent and salaries.
+ 
+(a) (i) State four other examples of fixed costs faced by the stores.
+(2)
+ 
+ 
+(ii) Define the term semi-variable costs and give two examples.
+(4)
+ 
+(b) Calculate for each store, for the year ended 31 December 2012, the:
+ 
+ 
+(i) break-even point figure in the number of CDs sold 
+(8)
+ 
+ 
+(ii) margin of safety in the number of CDs sold
+(4)
+ 
+ 
+(iii) profit or loss.
+(6)
+ 
+(c) Evaluate the information and figures calculated in (b) to decide which store should stay open, 
+and which store should close.
+(8)
+(Total 32 marks)
+Answer space for question 6 is on pages 25 to 28 of the question paper.
+
+
+--- Page Break ---
+
+P42222A 
+11 
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7. The directors of AED Engineering plc have agreed to purchase Machine Tools Limited, on  
+8 January 2013. The directors of AED Engineering plc agreed to take over all of the assets except 
+the bank balance, and to settle all of the liabilities. 
+ 
+The balance sheet of Machine Tools Limited at 31 December 2012 showed:
+ 
+All assets       £22 200 000
+ 
+All liabilities  £14 800 000
+ 
+The following revaluations took place in the books of Machine Tools Limited on 6 January 2013, 
+before the takeover:
+ 
+ 
+ 
+Inventory was written down by £620 000 to its net realisable value
+ 
+ 
+ 
+Land was increased by 5% to a current market value of £4 410 000
+ 
+ 
+ 
+Motor vehicles with a carry over (net book value) of £310 000 were written down to a 
+value of £185 000
+ 
+ 
+ 
+Equipment with a carry over (net book value) of £175 000 was written down by £125 000
+ 
+ 
+ 
+An exact figure for Current Taxation Payable was agreed at £40 500, down from £49 800.
+ 
+Additional information concerning Machine Tools Limited:
+ 
+ 
+ 
+Bank balance £123 000
+ 
+ 
+ 
+Equity share capital £6 000 000, consisting of Ordinary shares of £1.20 each
+ 
+ 
+ 
+For every £1.20 share held in Machine Tools Limited, each shareholder should receive: 
+- one £1 share in AED Engineering plc at a premium of £0.58 (the trading price is £1.58  
+ a share) 
+- £0.27 cash.
+ 
+Required :
+ 
+(a) Show the Journal entries to close the following accounts in the books of Machine Tools 
+Limited, before any revaluations have taken place. Narratives are not required.
+ 
+ 
+(i) Land
+ 
+ 
+(ii) Current Taxation payable
+ 
+ 
+(iii) Ordinary Shares of £1.20.
+(8)
+ 
+(b) Calculate the purchase price paid by AED Engineering plc for Machine Tools Limited.
+(6)
+ 
+(c) Calculate the goodwill paid by AED Engineering plc in the purchase of Machine Tools Limited.
+(10)
+ 
+(d) Evaluate the appropriateness of revaluing assets and liabilities before a takeover.
+(8)
+(Total 32 marks)
+Answer space for question 7 is on pages 29 to 32 of the question paper.
+
+
+--- Page Break ---
+
+P42222A 
+12
+BLANK PAGE

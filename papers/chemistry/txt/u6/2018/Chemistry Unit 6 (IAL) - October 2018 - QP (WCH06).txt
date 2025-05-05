@@ -1,0 +1,718 @@
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+•  You will be assessed on your ability to organise and present information, 
+ideas, descriptions and arguments clearly and logically, including your use of 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Show all your working in calculations and include units where appropriate.
+• Check your answers if you have time at the end.
+P55444A
+©2018 Pearson Education Ltd.
+5/2/1/2/2/2/
+*P55444A0120*
+Turn over    
+Pearson Edexcel 
+International
+Advanced Level
+Centre Number
+Candidate Number
+Total Marks
+You must have: Scientific calculator
+ 
+Ruler
+Chemistry
+Advanced
+Unit 6: Chemistry Laboratory Skills II
+Morning (Time: 1 hour 15 minutes)
+Paper Reference WCH06/01
+Friday 9 November 2018
+Candidate surname
+Please check the examination details below before entering your candidate information
+Other names
+
+
+--- Page Break ---
+
+2
+*P55444A0220*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 A blue solid was given to a student who suggested, from its colour only, that it was 
+copper(II) sulfate.  Another student suggested that it was copper(II) hydroxide, which 
+is also blue.  The students proposed some tests to distinguish between these two 
+blue solids.
+ 
+(a) Complete the table to give the expected results for copper(II) sulfate and 
+copper(II) hydroxide.
+Test
+Observation for  
+copper(II) sulfate
+Observation for  
+copper(II) hydroxide
+(i)  Add excess 
+dilute 
+hydrochloric acid 
+.............................................................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+(1)
+(ii)  Add barium chloride 
+solution to the 
+products of test (i)
+.............................................................................................
+.............................................................................................
+.............................................................................................
+.............................................................................................
+(1)
+ 
+(b) A flame test was carried out on the blue solid, but the flame colour observed was 
+not that expected for a blue solid containing copper(II) ions.
+ 
+ 
+Therefore another student suggested that the blue solid could be anhydrous 
+cobalt(II) chloride, which can easily be distinguished from copper(II) compounds 
+by the addition of deionised water.  
+ 
+ 
+(i) Complete the table to give the expected result for the addition of deionised 
+water to anhydrous cobalt(II) chloride.
+Test
+Observation
+Inference
+Addition of 
+deionised water
+The colour of the solution formed is 
+.............................................................................................
+The formula of the complex ion 
+formed is
+.............................................................................................
+(2)
+
+
+--- Page Break ---
+
+3
+*P55444A0320*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(ii) Cobalt(II) chloride can be distinguished from copper(II) sulfate and 
+copper(II) hydroxide by testing for the anion.  Describe a suitable test for the 
+chloride ion, including the positive result. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+4
+*P55444A0420*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) The results from these tests made the students realise that the blue solid was not 
+cobalt(II) chloride.
+ 
+ 
+The teacher reminded the students that other transition metals form blue salts and 
+told them that the blue solid in this experiment was hydrated oxovanadium(IV) sulfate, 
+VOSO4.5H2O.
+ 
+ 
+Using the standard electrode potential data, select the reagent that would 
+convert the blue vanadium(IV) compound into a yellow vanadium(V) compound.   
+Justify your choice by calculating the appropriate E
+9
+cell value.
+ 
+Sn2+(aq)  +  2e−  U Sn(s) 
+E
+9 =  −0.14 V
+VO2+(aq)  +  2H+(aq)  +  e−  
+U V3+(aq)  +  H2O(l) 
+E
+9  = +0.34 V
+VO2
++(aq)  +  2H+(aq)  +  e− 
+U  VO2+(aq)  +  H2O(l) 
+E
+9  = +1.00 V
+MnO–
+4(aq)  +  8H+(aq)  +  5e−  U Mn2+(aq)  +  4H2O(l) 
+E
+9  = +1.51 V
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) The blue hydrated oxovanadium(IV) sulfate can be converted into anhydrous 
+oxovanadium(IV) sulfate by heating.
+ 
+ 
+One student heated a sample of the salt in a crucible and saw a hard crust form 
+on the surface.  
+ 
+ 
+A glass rod was used to break up the crust and the mass decreased on further heating.
+ 
+ 
+(i) Give a possible formula for the vanadium salt that was present in the sample 
+beneath the crust.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give a reason why the mass decreased on further heating.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+5
+*P55444A0520*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Calculate the percentage loss in mass when all the hydrated oxovanadium(IV) sulfate, 
+VOSO4.5H2O, is converted into the anhydrous compound.
+(2)
+(Total for Question 1 = 12 marks)
+
+
+--- Page Break ---
+
+6
+*P55444A0620*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+2 The equation for the reaction between iodine and propanone in acidic solution is
+I2(aq)  +  CH3COCH3(aq)  o CH3COCH2I(aq)  +  H+(aq)  +  I−(aq)
+ 
+The order of reaction with respect to iodine was investigated using a titration method.
+ 
+The concentration of hydrogen ions and propanone were in large excess.  30 cm3 of 
+acidified aqueous propanone was added to a flask containing 30.0 cm3 of 0.020 mol dm−3 
+aqueous iodine.  At the same time, the contents were mixed thoroughly and a timer started.
+ 
+A pipette was used to remove 10.0 cm3 samples of the reaction mixture every 5 minutes.  
+The samples were immediately run into flasks containing sodium hydrogencarbonate 
+solution, which quenched the reaction.
+ 
+The volume of sodium thiosulfate solution needed to react with the iodine in each 
+quenched sample was then determined by titration.
+ 
+(a) Give an advantage of quenching the sample of the reaction mixture with a solution of 
+sodium hydrogencarbonate rather than the solid.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ (b) The results were recorded in a table
+Volume of sodium thiosulfate 
+/ cm3
+Time the sample was quenched 
+/ minutes
+0
+18.50
+5
+16.10
+10
+13.50
+15
+10.90
+20
+8.50
+25
+ 
+ 
+(i) Complete the table by estimating the volume of sodium thiosulfate that 
+would be required for titration at time = 0.
+(1)
+ 
+ 
+(ii) Plot a graph of volume of sodium thiosulfate on the vertical axis, against time 
+on the horizontal axis.
+(3)
+
+
+--- Page Break ---
+
+7
+*P55444A0720*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Calculate the gradient of the line drawn through the points.   
+Include units in your answer.
+(2)
+
+
+--- Page Break ---
+
+8
+*P55444A0820*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Assume that the volume of sodium thiosulfate required is proportional to the amount 
+of iodine in the reaction mixture.
+ 
+ 
+Deduce the order of reaction with respect to iodine.  Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Give a reason why it is acceptable for a sample of the reaction mixture to be quenched 
+at times other than every 5 minutes, for example at 4 minutes 30 seconds.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Explain why it is not possible to remove a sixth sample by pipette and state how 
+it would still be possible to titrate a sixth sample.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) One factor, not controlled in this experiment, also affects the reaction rate.  State 
+this factor and describe how the investigation could be modified to control it.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 2 = 13 marks)
+
+
+--- Page Break ---
+
+9
+*P55444A0920*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 Malic acid is found in all fruit juices and is the main acid in some fruits such as apples.  
+The structure of malic acid is
+HO
+O
+OH
+OH
+O
+ 
+(a) The concentration of acid in fruit juice can be determined by an acid-base 
+titration.  For this calculation, assume that all the acid present in apple juice is 
+malic acid.
+ 
+ 
+In an experiment to find the concentration of malic acid, 25.0 cm3 samples of 
+freshly-squeezed apple juice were pipetted into conical flasks and titrated against 
+0.100 mol dm−3 sodium hydroxide solution.   
+The results from one student are given in the table.
+Titration number
+1
+2
+3
+Final burette reading / cm3
+17.10
+36.10
+26.80
+Initial burette reading / cm3
+ 0.00
+20.00
+10.00
+Volume of NaOH(aq) used / cm3
+17.10
+16.10
+16.80
+ 
+ 
+(i) State why it would not be good practice to use the results from this student 
+to calculate a mean titre.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The indicator phenolphthalein was used to determine the end-point for this titration.
+ 
+ 
+ 
+Give the colour change at the end-point.
+(1)
+ 
+From ............................................................................................   to ............................................................................................
+
+
+--- Page Break ---
+
+10
+*P55444A01020*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Suggest why the end-point may have been difficult to observe accurately 
+when carrying out this titration.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Another student obtained a mean titre of 16.80 cm3.
+ 
+ 
+ 
+Use this result to calculate the concentration of malic acid, in mol dm−3, in the 
+apple juice.
+ 
+ 
+ 
+Give your answer to two significant figures.
+(3)
+ 
+ 
+(v) It has been assumed that all the acid in the apple juice was malic acid but 
+other acids such as isocitric acid are also present. 
+The structure of isocitric acid is
+OH
+HO
+OH
+HO
+O
+O
+O
+ 
+ 
+ 
+Predict the mean titre if all of the acid in the apple juice is not malic acid, but 
+an equal number of moles of isocitric acid.   
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+11
+*P55444A01120*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+(b) The proton environment on the carbon atom circled on the structure of malic acid 
+produces a peak in the proton nuclear magnetic resonance (nmr) spectrum.
+HO
+O
+OH
+OH
+O
+ 
+ 
+(i) State the splitting pattern that you would expect for this peak, in the high 
+resolution proton nmr spectrum of the malic acid. 
+Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) If the malic acid is dissolved in deuterium oxide, D2O, the hydrogens of the 
+carboxylic acid and alcohol groups are replaced by deuterium atoms.   
+The deuterium atoms do not give rise to peaks in the proton nmr spectrum.
+ 
+ 
+ 
+Deduce the number of peaks in the low resolution nmr spectrum of malic acid 
+that would be seen if the malic acid was dissolved in D2O.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Identify, by name or formula, the substance that is added to a sample to 
+provide the nmr standard reference peak with a chemical shift of zero.
+(1)
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+12
+*P55444A01220*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Malic acid has many peaks in its mass spectrum.
+ 
+ 
+(i) Give the structural formula of the ion with m / e = 45.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the molecular formula of the ion with m / e = 89.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 3 = 13 marks)
+
+
+--- Page Break ---
+
+13
+*P55444A01320*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 The outline procedure for the preparation of methyl 3-nitrobenzoate by the nitration 
+of methyl benzoate is shown.
+ 
+Procedure
+ 
+Step 1 
+2.0 g of methyl benzoate is placed into a clean dry boiling tube.
+ 
+Step 2 
+4 cm3 of concentrated sulfuric acid is added to the methyl benzoate.
+ 
+Step 3 
+ The boiling tube is then placed in an ice-water mixture and left to cool to 
+below 5°C.
+ 
+Step 4 
+ 1.5 cm3 of concentrated nitric acid is placed in a separate clean, dry boiling tube in 
+the ice-water mixture.  1.5 cm3 of concentrated sulfuric acid is carefully added to 
+the nitric acid, forming the nitrating mixture.
+ 
+Step 5 
+ The nitrating mixture is added drop-by-drop to the acidified methyl benzoate, 
+with stirring, and great care is taken to ensure that the temperature does not rise 
+above 10°C.
+ 
+Step 6 
+ After all the nitrating mixture has been added, the boiling tube is left at room 
+temperature for 15 minutes.
+ 
+Step 7 
+ The reaction mixture in the boiling tube is poured into a beaker containing about 
+25 g of crushed ice.  The mixture is stirred until solid methyl 3-nitrobenzoate forms.
+ 
+Step 8 
+ When the ice has melted, the impure methyl 3-nitrobenzoate is filtered off under 
+reduced pressure and washed with ice-cold deionised water.
+ 
+(a) Suggest why an ice-water mixture is used for cooling rather than only ice cubes.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Turn over    
+
+
+--- Page Break ---
+
+14
+*P55444A01420*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The equation for the nitration of methyl benzoate is
++    NO+
+2    
+NO2
+CH3
+O
+O
+CH3
+O
+O
++    H+
+ 
+ 
+(i) Give the structure of a possible isomeric product of this reaction.
+(1)
+ 
+ 
+(ii) Give the structure of a possible aromatic product of this reaction if the 
+temperature of the reaction mixture rises above 10°C.
+(1)
+
+
+--- Page Break ---
+
+15
+*P55444A01520*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) A student diagram of a reduced pressure filtration apparatus is shown.   
+It has two mistakes.
+ 
+ 
+State how the diagram should be modified to correct the two mistakes.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Turn over    
+
+
+--- Page Break ---
+
+16
+*P55444A01620*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Ethanol is a suitable solvent for recrystallising methyl 3-nitrobenzoate.
+ 
+ 
+Describe the steps you would use to carry out recrystallisation of the crude 
+methyl 3-nitrobenzoate obtained at the end of Step 8 in order to remove any 
+soluble impurities and to obtain a pure dry sample of methyl 3-nitrobenzoate.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Calculate the mass of methyl 3-nitrobenzoate produced from 2.0 g of 
+methyl benzoate if the percentage yield is 73%.
+methyl benzoate
+methyl 3-nitrobenzoate
+Molar mass / g mol−1
+136
+181
+(2)
+
+
+--- Page Break ---
+
+17
+*P55444A01720*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(f) The purity of the methyl 3-nitrobenzoate can be tested by determining the melting 
+temperature of the crystals.  The literature value for the melting temperature of 
+methyl 3-nitrobenzoate is 78–80°C.
+ 
+ 
+State how this melting temperature range would change if impurities were 
+present in the crystals.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 4 = 12 marks)
+TOTAL FOR PAPER = 50 MARKS
+
+
+--- Page Break ---
+
+18
+*P55444A01820*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+19
+*P55444A01920*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+20
+*P55444A02020*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA

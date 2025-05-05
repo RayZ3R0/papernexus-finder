@@ -1,0 +1,842 @@
+Paper Reference
+Turn over    
+Pearson Edexcel 
+International Advanced Level
+Friday 10 June 2016 – Afternoon
+Source Booklet
+*P46517A*
+P46517A
+©2016 Pearson Education Ltd.
+1/1/1/1/1/1/1/1/1/1/1/1/e2
+Do not return the insert with the question paper.
+WAC02/01
+Accounting (Modular Syllabus)
+Unit 2: Corporate and Management Accounting
+
+
+--- Page Break ---
+
+2
+P46517A
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1 Chong and Mei are starting Lantau Insurance Agency Limited, which will sell 
+insurance policies. 
+ 
+The new company is to be funded with a capital of £90 000 in the following ways:
+ 
+• 
+Friends and family of Chong and Mei will buy shares in the company for 30% of 
+the capital required
+ 
+• 
+40% of the capital required will be raised as a bank loan  
+ 
+• 
+The remainder of the capital will be invested equally by Chong and Mei. This is to 
+be raised in the following ratio:  
+two thirds shares purchased : one third personal loan.
+ 
+Required:
+ 
+(a) Prepare a Capital Budget for the start of the business.
+(4)
+ 
+The terms of the insurance policies sold mean the customer will pay a £30 premium 
+on the date of the sale, then pay a monthly premium of £30 on the same date of 
+each and every following month for the remainder of the policy. All policies have 
+a minimum length of one year. The first three months of premiums collected are 
+retained by Lantau Insurance Agency Limited as an introduction fee. 
+ 
+Chong and Mei are considering two options as business models on how to set up and 
+run the company. Initial costs to set up the business will be £30 000, regardless of the 
+option chosen. This is in addition to the costs shown below.
+ 
+The two options are:
+ 
+Option 1: 
+ 
+Operate the business from shop premises in the town centre.
+ 
+Costs will be:
+ 
+• 
+Payment for lease on shop premises £10 000
+ 
+• 
+Purchase of furniture for shop £4 000
+ 
+• 
+Purchase of computers for shop £2 500
+ 
+• 
+Rent of shop premises £500 per month
+ 
+• 
+All other expenses total £1 800 per month.
+ 
+Staff will receive basic pay, but will not be paid commission. Basic pay will be at a rate 
+of £1 000 per month per employee. Six staff will be employed and each staff member 
+will sell eight insurance policies per month.
+
+
+--- Page Break ---
+
+3
+P46517A
+Turn over    
+ 
+Option 2: 
+ 
+Operate the business from an office on the edge of town.
+ 
+Costs will be: 
+ 
+• 
+Purchase of furniture for office £3 000
+ 
+• 
+Purchase of computers for office £2 000
+ 
+• 
+Rent of office premises £400 per month
+ 
+• 
+All other expenses total £1 600 per month.
+ 
+Staff will receive basic pay and will also be paid a commission. Basic pay will be at a 
+rate of £500 per month per employee. Staff will find and visit potential customers to 
+sell insurance policies. Commission will be paid to staff at a rate of 25% of premiums 
+paid by customers each month, for the first six months of the policy. Eight sales staff 
+will be employed and each staff member will sell 12 insurance policies per month.
+ 
+Required:
+ 
+(b) Prepare a monthly Cash Budget for Lantau Insurance Agency Limited for each of 
+the first three months of trading for
+ 
+ 
+(i) Option 1
+(17)
+ 
+ 
+(ii) Option 2.
+(19)
+ 
+(c) Evaluate the two possible options on behalf of Lantau Insurance Agency Limited.
+(12)
+(Total for Question 1 = 52 marks)
+Answer space for Question 1 is on pages 2 to 8 of the question paper.
+
+
+--- Page Break ---
+
+4
+P46517A
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2 You are the Finance Director of Bangla Homes Furnishings plc. The directors of Bangla 
+Homes Furnishings plc and Red Sun Department Stores plc decided to merge to form a 
+new company. The new company is called Style plc and has an Authorised Share Capital 
+of 80 000 000 ordinary shares of £1 each. The new company was formed on 1 April 2016.
+ 
+The Statements of Financial Position of the two companies on 31 March 2016 were  
+as follows: 
+Bangla Homes 
+Furnishings plc 
+£m
+Red Sun Department 
+Stores plc
+£m
+ASSETS
+Non-current Assets 
+Buildings
+22
+25
+Fixtures and fittings
+5
+6
+Computer systems
+3
+4
+Vehicles
+1
+1
+ 
+31
+36
+Current Assets
+Inventories
+12
+14
+Trade receivables
+4
+5
+Bank
+2
+-
+Cash
+1
+1
+19
+20
+Total Assets
+50
+56
+EQUITY AND LIABILITIES
+Equity
+Ordinary shares of £1 each
+20
+28
+Share premium
+12
+14
+Retained earnings
+5
+1
+37
+43
+Non-current Liabilities
+Bank loan
+8
+5
+8
+5
+Current Liabilities
+Trade payables
+5
+4
+Overdraft
+-
+4
+5
+8
+Total Equity and Liabilities
+50
+56
+
+
+--- Page Break ---
+
+5
+P46517A
+Turn over    
+ 
+Style plc is to settle the purchase consideration by issuing to the shareholders of 
+Bangla Homes Furnishings plc and Red Sun Department Stores plc, ordinary shares of 
+£1 in Style plc, at a value of £1.40 each.
+ 
+Style plc is to take over all the assets and liabilities at book value, with the following 
+exceptions:
+ 
+• 
+The buildings were revalued at: 
+Bangla Homes Furnishings plc £27m  
+Red Sun Department Stores plc £30m.
+ 
+• 
+The fixtures and fittings were revalued at: 
+Bangla Homes Furnishings plc £4m 
+Red Sun Department Stores plc £5m.
+ 
+• 
+The computer systems were revalued at:  
+Bangla Homes Furnishings plc £2m 
+Red Sun Department Stores plc £2m.
+ 
+• 
+The inventories of Red Sun Department Stores plc were revalued at £11m.
+ 
+• 
+The following trade receivables were written off as bad debts: 
+Bangla Homes Furnishings plc £1m 
+Red Sun Department Stores plc £2m.
+ 
+• 
+Goodwill was valued at: 
+Bangla Homes Furnishings plc £3m 
+Red Sun Department Stores plc £2m.
+ 
+• 
+The purchase price of Red Sun Department Stores plc was £42m. 
+ 
+Required:
+ 
+(a) (i) Calculate the purchase price of Bangla Homes Furnishings plc.
+(7)
+ 
+ 
+(ii) Calculate the total number of shares in Style plc that the shareholders of  
+Bangla Homes Furnishings plc will receive.
+(4)
+ 
+(b) Prepare in the books of Bangla Homes Furnishings plc the: 
+ 
+ 
+(i) Realisation Account
+(8)
+ 
+ 
+(ii) Sundry Shareholders Account.
+(7)
+
+
+--- Page Break ---
+
+6
+P46517A
+ 
+You have been asked to speak at an Extraordinary General Meeting of the 
+shareholders of Bangla Homes Furnishings plc, who are considering the merger with  
+Red Sun Department Stores plc.
+ 
+Required:
+ 
+(c) Evaluate the merger on behalf of the shareholders of Bangla Homes Furnishings plc.
+(12)
+ 
+The merger goes ahead and you are appointed as the Finance Director of Style plc.
+ 
+Required:
+ 
+(d) Prepare the Statement of Financial Position of Style plc at 1 April 2016.
+(14)
+(Total for Question 2 = 52 marks)
+Answer space for Question 2 is on pages 9 to 14 of the question paper.
+
+
+--- Page Break ---
+
+7
+P46517A
+Turn over    
+BLANK PAGE
+QUESTION 3 BEGINS ON THE NEXT PAGE
+
+
+--- Page Break ---
+
+8
+P46517A
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3 Mashariki Railways plc was formed to build and run a high-speed railway between 
+two large cities. Since the railway opened, the line has been run at an operating 
+profit. However, a high level of borrowing, has meant that Mashariki Railways plc has 
+not been able to make a profit after interest payments. 
+ 
+The Equity and Liabilities section of the Statement of Financial Position of  
+Mashariki Railways plc at 1 April 2015, the start of the financial year, is shown below.
+ 
+Equity and Liabilities
+Equity
+£m
+£m
+Ordinary shares of £1
+600
+Share Premium reserve
+150
+Retained earnings
+(120)
+General reserve
+20
+650
+Non-current Liabilities
+8% Debenture 2022
+500
+11% Debenture 2024 
+400
+9% Bank loan
+100
+1 000
+ 
+The directors decided to raise another £200 million by an issue of shares.  
+ 
+On 1 May 2015, the company offered 160 million £1 ordinary shares at a price of 
+£1.25 on the following terms:
+ 
+• 
+£0.60 on application 
+ 
+• 
+£0.30 on allotment (including the 25p premium)
+ 
+• 
+£0.35 first and final call.
+ 
+On 10 June 2015 applications for 185 million shares had been received. The directors 
+rejected applications for 5 million shares and allotted shares to the remaining 
+applicants on the basis of 8 shares for every 9 applied for.
+ 
+On 20 June 2015 monies were returned to the unsuccessful applicants of the 5 million  
+shares.
+ 
+The balances due on allotment were fully received on 30 July 2015.
+ 
+The first and final call was made on 1 December 2015 and the amounts were fully 
+received on 30 December 2015.
+
+
+--- Page Break ---
+
+9
+P46517A
+Turn over    
+ 
+Required:
+ 
+(a) Prepare the following ledger accounts to record the transactions from May to 
+December 2015: 
+ 
+ 
+• 
+Ordinary Share Capital Account
+ 
+ 
+• 
+Share Premium Account
+ 
+ 
+• 
+Application and Allotment Account
+ 
+ 
+• 
+First and Final Call Account.
+ 
+ 
+You must show the following where possible:
+ 
+ 
+• 
+dates
+ 
+ 
+• 
+opening balances at the start of the year
+ 
+ 
+• 
+closure of any relevant accounts during the year
+ 
+ 
+• 
+closing balances at the end of the year.
+(20)
+ 
+For the financial year ended 31 March 2016, Mashariki Railways plc made an 
+Operating Profit Before Interest of £43 million. 
+ 
+Required:
+ 
+(b) Calculate the Profit After Interest for Mashariki Railways plc for the financial year 
+ended 31 March 2016.
+(5)
+ 
+Mashariki Railways plc has found it very difficult to meet the interest payments on 
+debt. The directors of Mashariki Railways plc persuaded the holders of the  
+8% Debenture to convert the Debenture into Ordinary Shares of £1, on 1 April 2016. 
+ 
+Required:
+ 
+(c) Prepare the Journal entry to show the conversion of the Debenture into Ordinary 
+Shares. 
+(5)
+ 
+(d) Calculate the gearing ratio on 1 April 2016, after the conversion of the Debenture 
+into £1 Ordinary Shares, clearly stating the formula used.
+(10)
+ 
+(e) Evaluate the decision to convert the 8% Debenture into £1 Ordinary Shares from 
+the viewpoint of the directors of Mashariki Railways plc.
+(12)
+(Total for Question 3 = 52 marks)
+Answer space for Question 3 is on pages 15 to 20 of the question paper.
+
+
+--- Page Break ---
+
+10
+P46517A
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4 Silverseal plc is a new company that produces batteries for smartphones.  
+Silverseal plc has a four year contract to supply a major smartphone producer, 
+Voyager plc, with 500 000 batteries per year.  
+ 
+The following information is available for the year ended 31 March 2016:
+ 
+Opening inventory 
+Nil
+ 
+Production 
+520 000 batteries
+ 
+Semi-variable costs 
+£7 800 per month plus £0.45 per battery 
+ 
+Fixed overheads 
+£26 000 per month
+ 
+Direct materials 
+£1.85 per battery
+ 
+Direct labour 
+ 20 minutes work per battery at a wage rate of £5.40 per hour
+ 
+Selling price 
+£5.95 per unit
+ 
+Closing inventory 
+20 000 units
+ 
+Required:
+ 
+(a) Prepare, for management, a Statement of Comprehensive Income for the year 
+ended 31 March 2016. Closing inventory is to be valued using absorption 
+costing.
+(12)
+ 
+On 1 April 2016, Konichiwa plc, a large smartphone producer, requested  
+Silverseal plc to supply 50 000 batteries during April at a price of £4.75 per battery. 
+ 
+Required:
+ 
+(b) Advise management whether they should sell the 20 000 batteries in the 
+inventory to Konichiwa plc at a price of £4.75 per battery, to meet part of  
+the order.
+(6) 
+
+
+--- Page Break ---
+
+11
+P46517A
+Turn over    
+ 
+If Silverseal plc decides to sell the inventory of 20 000 batteries to Konichiwa plc, the 
+company has two options to supply the remainder of the order.
+ 
+Option 1 
+ 
+ Silverseal plc will produce 30 000 extra batteries to fulfil the order. This would require 
+workers to work overtime at a wage rate of £6.60 an hour. Other costs remain the same.
+ 
+Option 2 
+ 
+Silverseal plc can buy the 30 000 extra batteries at a price of £4.60 from another firm. 
+ 
+Required:
+ 
+(c) Using marginal costing, advise, stating your reasons, which of the following 
+courses of action Silverseal plc should select:
+ 
+ 
+• 
+Option 1
+ 
+ 
+• 
+Option 2 
+ 
+ 
+• 
+reject the order.
+(6)
+ 
+(d) Evaluate the use of marginal costing in decision making. 
+(8)
+(Total for Question 4 = 32 marks)
+Answer space for Question 4 is on pages 21 to 24 of the question paper.
+
+
+--- Page Break ---
+
+12
+P46517A
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5 Yasmin had some surplus funds, which she decided to invest in a public limited 
+company quoted on the Stock Exchange. Yasmin did some research and decided to 
+buy shares in Dubarab Shipping plc on 1 April 2015.
+ 
+Information concerning Dubarab Shipping plc for the financial year ended  
+31 March 2016 is shown below: 
+Authorised share capital
+100 000 000 x £1.25 Ordinary shares 
+Issued share capital
+84 000 000 x £1.25 Ordinary shares 
+Reserves
+£27 000 000
+Net profit before interest and tax
+£5 160 000
+Net profit after interest and tax
+£3 360 000
+Non-current liabilities
+£40 000 000
+Interim ordinary dividend paid  
+September 2015
+£672 000
+Final ordinary dividend paid March 2016
+£1 953 000
+Share price on 1 April 2015
+£1.20
+Share price on 31 March 2016
+£1.32
+ 
+Required:
+ 
+(a) Calculate the profit percentage made by Yasmin due to the rise in the share price 
+of Dubarab Shipping plc for the financial year ended 31 March 2016.
+(3)
+ 
+(b) Calculate the following ratios for Dubarab Shipping plc for the year ended  
+31 March 2016: 
+ 
+ 
+(i) Return on capital employed
+(4)
+ 
+ 
+(ii) Earnings per ordinary share
+(3)
+ 
+ 
+(iii) Price/earnings ratio at 31 March 2016
+(3)
+ 
+ 
+(iv) Dividend paid per share
+(4)
+ 
+ 
+(v) Dividend cover
+(3)
+ 
+ 
+(vi) Dividend yield.
+(4)
+
+
+--- Page Break ---
+
+13
+P46517A
+Turn over    
+ 
+On 1 April 2016, Yasmin has more funds, which she wants to invest in shares. She has 
+decided to choose between two possible options:
+ 
+(i) Option 1 – make her own selection of the companies in which she will buy shares
+ 
+(ii) Option 2 – visit a stockbroker and invest in shares the stockbroker recommends. 
+ 
+The following information concerns the All Share Index of the Stock Exchange. 
+The figures given are an average for all companies quoted on the Stock Exchange, for 
+the year ended 31 March 2016. 
+Rise in share price
+7%
+Return on capital employed
+5%
+Dividend cover
+2 times
+Dividend yield
+5.6%
+ 
+Yasmin is not sure whether she is good at selecting shares in which to invest.
+ 
+She needs to compare the performance of Dubarab Shipping plc shares with the  
+All Share Index of the Stock Exchange.
+ 
+Required:
+ 
+(c) Evaluate whether Yasmin should select her own shares, or invest in the shares 
+recommended by a stockbroker.
+(8)
+(Total for Question 5 = 32 marks)
+Answer space for Question 5 is on pages 25 to 27 of the question paper.
+
+
+--- Page Break ---
+
+14
+P46517A
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6 You are the Cost Accountant at Sliema Domestics Limited, which produces steel radiators 
+and uses a standard costing system. You have been working on the management  
+accounts for May 2016 and the report is partly completed and shown below.
+ 
+BUDGET
+£
+ACTUAL
+£
+VARIANCE
+£
+Revenue
+76 800
+A
+1 500 ADV
+Less
+Material Costs
+8 928
+B
+C
+Labour Costs
+10 120
+D
+88 ADV
+Variable Overheads
+3 080
+E
+156 FAV
+=  Cost of Sales
+22 128
+F
+G
+Gross Profit
+54 672
+H
+I
+Less Fixed Overheads
+17 575
+J
+195 FAV
+Net Profit
+37 097
+K
+L
+ 
+The following information is also available for May 2016:
+ 
+• 
+A budgeted production of 1 600 radiators for May 2016 was achieved
+ 
+• 
+There was no opening inventory of steel on 1 May 2016
+ 
+• 
+During the month of May, Sliema Domestics Limited purchased 14 550 kilograms 
+of steel at a price of £0.60 per kilogram
+ 
+• 
+The closing inventory of steel was 70 kilograms at 31 May 2016    
+ 
+• 
+Each radiator was budgeted to use 9 kilograms of steel at a price of £0.62 per 
+kilogram
+ 
+• 
+The budgeted sales figure of 1 600 radiators was achieved.
+ 
+Required:
+ 
+(a) Complete the spaces in the columns in the question paper, showing figures for  
+A to L. 
+(12)
+ 
+(b) Calculate for the month of May 2016 the:
+ 
+ 
+(i) material usage variance
+(5)
+ 
+ 
+(ii) material price variance
+(5)
+ 
+ 
+(iii) total material cost variance.
+(2)
+
+
+--- Page Break ---
+
+15
+P46517A
+ 
+At a meeting, the Sales Director stated “There is an adverse variance, comparing 
+budgeted sales to actual sales, but this is not necessarily bad for the company”.
+ 
+Required:
+ 
+(c) Evaluate the statement made by the Sales Director from the point of view of 
+Sliema Domestics Limited.
+(8)
+(Total for Question 6 = 32 marks)
+Answer space for Question 6 is on pages 28 to 32 of the question paper.
+Turn over    
+
+
+--- Page Break ---
+
+16
+P46517A
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7 Suntours plc are considering building a hotel in the seaside resort of Komos. The 
+initial cost of building the hotel will be £2 000 000.
+ 
+The following budgeted information is available:
+Year
+Room occupancy
+Charge per room  
+per week
+Running costs per room 
+(including depreciation)
+1
+60%
+£225
+£135
+2
+80%
+£230
+£135
+3
+80%
+£230
+£140
+4
+90%
+£235
+£140
+5
+90%
+£235
+£145
+ 
+• 
+The hotel has 5 floors with 16 rooms on each floor
+ 
+• 
+Depreciation will be £250 000 per year
+ 
+• 
+Assume 52 weeks in a year
+ 
+• 
+It is company policy to have a positive net present value on projects within  
+five years
+ 
+• 
+The cost of capital for the company is 8%.
+ 
+A table showing the discount factors is given below.
+Year
+8%
+1
+0.926
+2
+0.857
+3
+0.794
+4
+0.735
+5
+0.681
+ 
+Required:
+ 
+(a) Calculate the net present value of the project at the end of Year 5.
+(24)
+ 
+(b) Evaluate the project for Suntours plc, using calculations made in (a) and 
+considering any other relevant factors.
+(8)
+(Total for Question 7 = 32 marks)
+Answer space for Question 7 is on pages 33 to 36 of the question paper.

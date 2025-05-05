@@ -1,0 +1,1016 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P45041A
+©2015 Pearson Education Ltd.
+6/6/6/6/2/
+*P45041A0124*
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Wednesday 7 January 2015 – Morning
+Time: 1 hour 30 minutes
+WCH01/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P45041A0224*
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 A solution contains 33 ppm of solute.  The mass of solute dissolved in 1 kg of this 
+solution is
+ 
+ 
+A 33 g
+ 
+ 
+B 0.33 g
+ 
+ 
+C 0.033 g
+ 
+ 
+D 0.000033 g
+(Total for Question 1 = 1 mark)
+2 The Avogadro constant is equal to the number of
+ 
+ 
+A grams of an element which contains 6.02 × 1023 atoms of that element.
+ 
+ 
+B atoms contained in one mole of any element.
+ 
+ C atoms contained in one mole of any monatomic element.
+ 
+ D particles (atoms, ions or molecules) required to make one gram of a 
+substance.
+(Total for Question 2 = 1 mark)
+3 A hydrocarbon contains, by mass, 82.7% carbon and 17.3% hydrogen.
+ 
+The molecular formula of the hydrocarbon is
+ 
+ 
+A CH3
+ 
+ B C2H6
+ 
+ C C2H5
+ 
+ D C4H10
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P45041A0324*
+Turn over    
+4 An ion, X–, contains 36 electrons.
+ 
+In which block of the Periodic Table would element X be found?
+ 
+ 
+A s
+ 
+ 
+B p
+ 
+ 
+C d
+ 
+ 
+D f
+(Total for Question 4 = 1 mark)
+5 Consider the following data:
+C(s)        +     O2(g)          o    CO2(g) 
+ǻH
+9 = –394 kJ mol–1
+Pb(s)      +      ½O2(g)      o    PbO(s) 
+ǻH
+9 = –217 kJ mol–1
+PbO(s)  +     CO(g)        o    Pb(s) + CO2(g) 
+ǻH
+9 = –66 kJ mol–1
+ 
+Calculate the value of the enthalpy change, in kJ mol–1, for the following reaction.
+C(s)  +  ½O2(g)  o  CO(g)
+  
+A –243
+ 
+ 
+B –111
+ 
+ 
+C +111
+ 
+ 
+D +243
+(Total for Question 5 = 1 mark)
+6 Which of the following enthalpy changes cannot be measured directly by 
+experiment? 
+ 
+The enthalpy change of
+ 
+ 
+A formation of methane.
+ 
+ 
+B combustion of hydrogen.
+ 
+ 
+C formation of carbon dioxide.
+ 
+ 
+D combustion of carbon monoxide.
+(Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P45041A0424*
+7 Which of the following equations represents a step that is not involved in the 
+Born-Haber cycle for lithium iodide, LiI?
+ 
+ 
+A Li(s)  +  ½I2(s)  ĺ  LiI(s)
+ 
+ 
+B  
+½I2(s)  ĺ  I(g)
+ 
+ 
+C  
+Li(s)  ĺ  Li(g)
+ 
+ 
+D  
+I(g)  ĺ  I+(g) + e
+_
+(Total for Question 7 = 1 mark)
+8 Which of the following results in the most polarizing cation?
+Cation radius
+Cation charge
+A
+small
+small
+B
+small
+large
+C
+large
+small
+D
+large
+large
+(Total for Question 8 = 1 mark)
+9 Calcium carbonate reacts with dilute nitric acid as follows:
+CaCO3(s)  +  2HNO3(aq)  o  Ca(NO3)2(aq)  +  H2O(l)  +  CO2(g)
+ 
+0.05 mol of calcium carbonate was added to a solution containing 0.08 mol of 
+nitric acid.
+ 
+Which of the following statements is true?
+ 
+ 
+A 0.05 mol of carbon dioxide is produced.
+ 
+ 
+B 0.08 mol of calcium nitrate is produced.
+ 
+ 
+C Calcium carbonate is in excess by 0.01 mol.
+ 
+ 
+D Nitric acid is in excess by 0.03 mol.
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P45041A0524*
+Turn over    
+10 In which of the following pairs does each gas occupy the same volume?
+ 
+All volumes are measured at the same temperature and pressure.
+ 
+ 
+A 2 g of hydrogen and 14 g of nitrogen.
+ 
+ 
+B 32 g of methane and 88 g of carbon dioxide.
+ 
+ 
+C 7 g of carbon monoxide and 16 g of oxygen.
+ 
+ 
+D 10 g of hydrogen chloride and 10 g of sulfur dioxide.
+(Total for Question 10 = 1 mark)
+11 Consider the reaction below.
+2NO(g)  +  O2(g)  ĺ  2NO2(g)
+ 
+What is the maximum volume, in dm3, of nitrogen dioxide that could be obtained 
+in the reaction occurring when 1 dm3 of nitrogen monoxide is mixed with 2 dm3 of 
+oxygen, under suitable conditions?
+ 
+All measurements are made at the same temperature and pressure.
+ 
+ 
+A 1
+ 
+ B 2
+ 
+ 
+C 3
+ 
+ 
+D 4
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P45041A0624*
+12 Which of the following graphs, not drawn to scale, best represents the trend in the 
+melting temperatures of the elements across Period 3, from sodium to argon?
+  
+A Melting
+temperature
+Atomic number
+  
+B Melting
+temperature
+Atomic number
+  
+C Melting
+temperature
+Atomic number
+  
+D Melting
+temperature
+Atomic number
+(Total for Question 12 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P45041A0724*
+Turn over    
+13 In an experiment, 3.425 g of lead oxide was reduced to form 3.105 g of lead.
+ 
+The empirical formula of the lead oxide is
+ 
+ 
+A PbO
+ 
+ 
+B Pb3O2
+ 
+ 
+C Pb3O4
+ 
+ 
+D Pb4O3
+(Total for Question 13 = 1 mark)
+14 Which one of the following ions has the smallest radius?
+ 
+ 
+A F–
+ 
+ 
+B Mg2+
+ 
+ 
+C Na+
+ 
+ 
+D O2–
+(Total for Question 14 = 1 mark)
+15 Phenol, C6H5OH, is converted into trichlorophenol (known as TCP), C6H2Cl3OH, 
+according to the equation below.
+C6H5OH  +  3Cl2  ĺ  C6H2Cl3OH  +  3HCl
+ 
+If 50.0 g of phenol produces 97.6 g of TCP, what is the percentage yield of the TCP?
+ 
+[Molar masses: phenol = 94 g mol–1; TCP = 197.5 g mol–1]
+ 
+ 
+A 47.6%
+ 
+ 
+B 49.4%
+ 
+ 
+C 51.2%
+ 
+ 
+D 92.9%
+(Total for Question 15 = 1 mark)
+16 Which of the following contains a dative covalent bond?
+ 
+ 
+A N2
+ 
+ 
+B NH3
+ 
+ 
+C NH2
+–
+ 
+ 
+D NH4
++
+(Total for Question 16 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P45041A0824*
+17 If the price of one tonne (1000 kg) of sulfur, S, is £160, what is the cost (to the nearest 
+pound) of the sulfur needed to make one tonne of sulfuric acid, H2SO4?
+ 
+ 
+A £52
+ 
+ 
+B £98
+ 
+ 
+C £160
+ 
+ 
+D £490
+(Total for Question 17 = 1 mark)
+18 Potassium combines with iodine to form potassium iodide. 
+ 
+Which of the following describes the bonding in the three substances?
+Potassium 
+Iodine
+Potassium iodide
+A
+ionic
+covalent
+ionic
+B
+metallic
+ionic
+covalent
+C
+covalent
+covalent
+ionic
+D
+metallic
+covalent
+ionic
+(Total for Question 18 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+9
+*P45041A0924*
+Turn over    
+19 Which of the following does not represent the structure of the compound  
+2-methylpent-2-ene?
+ 
+ 
+A 
+CH3
+C
+CH3
+CH
+CH2 CH3
+ 
+ 
+B 
+CH3
+CH
+CH3
+C
+CH2 CH3
+ 
+ 
+C 
+CH2
+C
+CH3
+CH
+CH3
+CH3
+ 
+ 
+D CH2
+C
+CH3
+CH
+CH3
+CH3
+(Total for Question 19 = 1 mark)
+20 Ions with the same electronic configuration are said to be isoelectronic.
+ 
+Which of the following compounds is made up of isoelectronic ions?
+ 
+ 
+A CaO
+ 
+ 
+B CaBr2
+ 
+ 
+C Na2O
+ 
+ 
+D LiF
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+10
+*P45041A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Crude oil is a source of alkanes.
+ 
+(a) Name the process by which the hydrocarbons in crude oil are separated.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The alkane X is composed of straight-chain molecules, each with nine carbon atoms.
+ 
+ 
+(i) Give the molecular formula of X.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii)  Y is a branched-chain isomer of X.  
+Y has eight carbon atoms in a straight-chain with one methyl group as a side-chain.
+ 
+ 
+ 
+Draw the skeletal formula of one possible structure for Y.
+ 
+ 
+ 
+Give the name of the structure that you have drawn.
+(2)
+Skeletal formula:
+Name:
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*P45041A01124*
+Turn over    
+ 
+(c) A reaction called cracking occurs when the alkane pentadecane, C15H32, is heated 
+in the presence of a catalyst.
+ 
+ 
+(i) Give an equation to show the cracking of one molecule of C15H32 to form  
+one molecule of ethene and a molecule of one other product.  
+State symbols are not required.
+(1)
+ 
+ 
+(ii) In practice, cracking pentadecane forms a large number of products.
+ 
+ 
+ 
+Suggest why this is so.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) In the petroleum industry, some straight-chain alkanes are processed to form 
+cyclic hydrocarbons.
+ 
+ 
+When octane is processed, each molecule of octane produces one molecule of a 
+cyclic hydrocarbon, C8H12, and three molecules of hydrogen as the only products.
+ 
+ 
+(i) Complete the skeletal formula of one of the possible cyclic hydrocarbons.
+(1)
+ 
+ 
+(ii) Suggest why the petroleum industry processes straight-chain alkanes to form 
+cyclic hydrocarbons.
+(1)
+................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 8 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P45041A01224*
+22 For some reactions, the enthalpy change can be determined by experiment.
+ 
+(a) Define the term enthalpy change of reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) An equation for the reaction between the two solids ammonium thiocyanate, NH4CNS, 
+and barium hydroxide, Ba(OH)2, is shown below.
+2NH4CNS(s)  +  Ba(OH)2(s)  ĺ  Ba(CNS)2(s)  +  2H2O(l)  +  2NH3(g)
+ 
+ 
+The following apparatus was set up in order to determine the enthalpy change for 
+the reaction.
+ 
+ 
+In the experiment, 15.22 g of NH4CNS was reacted with an excess of Ba(OH)2.  The 
+reaction absorbed heat energy from the surroundings.  The temperature of the 
+100.0 g of water fell from 22.0 oC to 16.5 oC.
+boiling tube
+thermometer
+100.0 g of water
+reaction mixture of 
+NH 4CNS and Ba(OH)2
+beaker
+PMT
+
+
+--- Page Break ---
+
+13
+*P45041A01324*
+Turn over    
+ 
+ 
+(i) Calculate the heat energy absorbed, in joules, during the reaction. 
+ 
+ 
+ 
+Use the equation
+ 
+ 
+ 
+Heat energy absorbed (J) = mass of water × 4.2 × temperature change
+(1)
+ 
+ 
+(ii) Calculate the number of moles of NH4CNS used in the experiment.
+(1)
+ 
+ 
+(iii) Calculate the enthalpy change of the reaction, in kJ mol–1, to two significant 
+figures.  Include a sign in your answer.
+2NH4CNS(s)  +  Ba(OH)2(s)  ĺ  Ba(CNS)2(s)  +  2H2O(l)  +  2NH3(g)
+(3)
+PMT
+
+
+--- Page Break ---
+
+14
+*P45041A01424*
+ 
+(c) Standard enthalpy changes of reaction can also be calculated using mean bond 
+enthalpies.
+ 
+ 
+(i) What is meant by the term mean bond enthalpy?
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Describe the bonding in a C
+C double bond in terms of the different ways in 
+which the orbitals overlap. 
+ 
+ 
+ 
+You may draw a diagram if you wish.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Space for diagram:
+PMT
+
+
+--- Page Break ---
+
+15
+*P45041A01524*
+Turn over    
+ 
+ 
+(iii) Suggest why the mean bond enthalpy of a C
+C bond is less than twice the 
+mean bond enthalpy of a C
+C bond.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Use the mean bond enthalpy data in the table, and the equation given below, to 
+calculate a value for the standard enthalpy change of combustion of propene.
+(3)
+Bond
+Mean bond enthalpy / kJ mol–1
+C
+C
+612
+C
+C
+347
+C
+H
+413
+O
+O
+498
+C
+O
+805
+O
+H
+464
+H
+H
+H
+C
+C
+H
+H
+H
+C    +    4½O
+O    
+    3 O
+C
+O    +    3 H
+O
+H
+Answer = ............................................................................. kJ mol–1
+PMT
+
+
+--- Page Break ---
+
+16
+*P45041A01624*
+ 
+ 
+*(v) The Data Booklet value for the standard enthalpy change of combustion of 
+propene is –2058 kJ mol–1.
+ 
+ 
+ 
+Explain why the value calculated in (c)(iv) is less exothermic than the Data 
+Booklet value. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 17 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*P45041A01724*
+Turn over    
+23 Iodine monochloride, ICl, is an interhalogen compound.  Molecules of 
+iodine monochloride have a permanent dipole.  Alkenes react with ICl, under suitable 
+conditions, in a similar way to the reaction of alkenes with hydrogen chloride, HCl.
+ 
+(a) Propene reacts with ICl to form two possible organic products.
+ 
+ 
+One of these products is 2-chloro-1-iodopropane.
+ 
+ 
+(i) Complete the mechanism below, by adding curly arrows and the intermediate 
+species.
+(3)
+ 
+ 
+(ii) Classify the type and mechanism for the reaction in (a)(i).
+(2)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Draw the structure of the other possible organic product of the reaction of 
+propene with ICl.
+(1)
+C
+C
+CH3
+H
+H
+H
+I
+CI
+C
+C
+H
+H
+H
+CH3
+į+
+į–
+I
+CI
+PMT
+
+
+--- Page Break ---
+
+18
+*P45041A01824*
+ 
+(b) Methane reacts with ICl, under suitable conditions, to form many products.  Two 
+of these products are iodomethane and hydrogen chloride.
+ 
+ 
+The reaction between methane and ICl is similar to that between methane and 
+chlorine, Cl2.
+ 
+ 
+(i) Suggest the essential condition needed for this reaction.
+(1)
+................................................................................................................................................................................................................................................................................
+ 
+ 
+*(ii) The mechanism for the reaction between methane and ICl involves three 
+stages.  One of these is the third and final stage, called termination.
+ 
+ 
+ 
+Describe the mechanism of the reaction to form iodomethane and 
+hydrogen chloride.
+ 
+ 
+ 
+In your answer, include:
+ 
+ 
+ 
+Ɣ the type of reaction and mechanism
+ 
+ 
+ 
+Ɣ the type of bond fission occurring
+ 
+ 
+ 
+Ɣ the name and equation for the first stage of the mechanism
+ 
+ 
+ 
+Ɣ the name and equations for the second stage of the mechanism
+ 
+ 
+ 
+Ɣ one equation for a termination step
+ 
+ 
+ 
+Curly (half-) arrows and state symbols are not required in your equations.
+(7)
+Type of reaction and mechanism  .........................................................................................................................................................................................
+Type of bond fission occurring  ................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P45041A01924*
+Turn over    
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+20
+*P45041A02024*
+24 A model of the atom describes a nucleus containing protons and neutrons 
+surrounded by electrons in energy levels.
+ 
+(a) Complete the table below.
+(3)
+Sub-atomic particle
+Relative mass
+Relative charge
+proton
+neutron
+electron
+ 
+(b) State, in terms of the sub-atomic particles present, the meaning of the term isotopes.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) The element rubidium exists as the isotopes 85Rb and 87Rb.
+ 
+ 
+(i) Explain how gaseous atoms of rubidium are ionized in a mass spectrometer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) In a sample of rubidium, the isotope 85Rb has an abundance 2.5 times greater 
+than that of 87Rb.
+ 
+ 
+ 
+Calculate the relative atomic mass of rubidium in this sample.  Give your 
+answer to one decimal place.
+(3)
+Relative atomic mass = ...................................................................................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P45041A02124*
+Turn over    
+ 
+(d) The diagram below illustrates a model of the metallic bonding in rubidium.
+ 
+ 
+Write appropriate labels in the two empty boxes in order to complete the 
+diagram.
+(2)
+(Total for Question 24 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+22
+*P45041A02224*
+25 Ionization energies provide evidence for the arrangement of electrons in atoms.
+ 
+(a) (i) Write an equation, including state symbols, to show the second ionization 
+energy of magnesium.
+(2)
+ 
+ 
+*(ii) Give two reasons why the second ionization energy of magnesium is greater 
+than the first ionization energy of magnesium.
+(2)
+1 ................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+2 ................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Complete the table by suggesting a value for the third ionization energy of 
+magnesium.
+(1)
+Ionization number
+First
+Second
+Third
+Fourth
+Fifth
+Ionization energy
+/ kJ mol–1
+738
+1450
+10 500
+13 600
+PMT
+
+
+--- Page Break ---
+
+23
+*P45041A02324*
+ 
+(b) (i) Give the electronic configurations of phosphorus and of sulfur in s, p and d 
+notation.
+(2)
+Phosphorus (atomic number 15)  ...........................................................................................................................................................................................
+Sulfur (atomic number 16)  ...........................................................................................................................................................................................................
+ 
+ 
+(ii) By reference to your answer in (b)(i), explain why the first ionization energy of 
+sulfur is lower than that of phosphorus.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 25 = 9 marks)
+TOTAL FOR SECTION B = 60 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*P45041A02424*
+PMT

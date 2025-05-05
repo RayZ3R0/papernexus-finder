@@ -1,0 +1,1118 @@
+Centre Number
+Candidate Number
+*P70964A0128*
+Turn over    
+Total Marks
+Candidate surname
+Other names
+Please check the examination details below before entering your candidate information
+Paper
+reference
+
+
+P70964A
+©2022 Pearson Education Ltd.
+Q:1/1/1/1/
+Instructions
+•	Use black ink or ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 80. 
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	You will be assessed on your ability to organise and present information, ideas, 
+descriptions and arguments clearly and logically, including your use of grammar, 
+punctuation and spelling.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Show all your working in calculations and include units where appropriate.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+You must have:
+Scientific calculator, ruler
+Chemistry
+International Advanced Subsidiary/Advanced Level
+UNIT 1: Structure, Bonding and Introduction to 
+Organic Chemistry
+WCH11/01
+Time 1 hour 30 minutes
+Pearson Edexcel International Advanced Level
+PMT
+
+
+--- Page Break ---
+
+*P70964A0228*
+2
+	
+ 
+ 
+SECTION A
+Answer ALL the questions in this section.
+You should aim to spend no more than 20 minutes on this section.
+For each question, select one answer from A to D and put a cross in the box  . If you change 
+your mind, put a line through the box 
+ and then mark your new answer with a cross  .
+1	 Elements in their most stable state exist as
+	
+A	 atoms in giant structures only
+	
+B	 atoms in molecules and atoms in giant structures only
+	
+C	 isolated atoms and atoms in giant structures only
+	
+D	 isolated atoms, atoms in molecules and atoms in giant structures
+(Total for Question 1 = 1 mark)
+2	 A sample of nitrogen gas contains 1.204 × 1022 molecules.
+	
+What is the mass of this sample?
+	
+[Ar N = 14.0      Avogadro constant (L) = 6.02 × 1023 mol−1]
+	
+A	 0.14 g
+	
+B	 0.28 g
+	
+C	 0.56 g
+	
+D	 1.12 g
+(Total for Question 2 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A0328*
+Turn over    
+3
+	
+ 
+ 
+3	 When magnesium oxide reacts with dilute sulfuric acid the equation is
+MgO(s)   +   H2SO4(aq)   →   MgSO4(aq)   +   H2O(l)
+	
+What is the ionic equation for the reaction?
+	
+A	 MgO(s)   +   2H+(aq)   +   SO4
+2−(aq)   →   Mg2+(aq)   +   SO4
+2−(aq)   +   H2O(l)
+	
+B	 MgO(s)   +   2H+(aq)   →   Mg2+(aq)   +   H2O(l)
+	
+C	 Mg2+(s)   +   SO4
+2−(aq)   →   Mg2+(aq)   +   SO4
+2−(aq)
+	
+D	 O2−(s)   +   2H+(aq)   →   H2O(l)
+(Total for Question 3 = 1 mark)
+4	 A solution of sodium chloride, NaCl, is prepared by dissolving 10.0 g of the solid in 
+distilled water and making the solution up to 250.0 cm3.
+	
+What is the concentration of the solution, in mol dm−3 ?
+	
+[Mr  NaCl = 58.5]
+	
+A	 0.171
+	
+B	 0.684
+	
+C	 10.0
+	
+D	 40.0
+(Total for Question 4 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A0428*
+4
+	
+ 
+ 
+5	 Ten test tubes, each containing 1.0 cm3 of a chromium chloride solution of 
+concentration 0.1 mol dm−3, were placed in a test tube rack.
+	
+Different volumes of silver nitrate solution of concentration 0.1 mol dm−3 were added 
+to each test tube, giving a precipitate of silver chloride.
+Ag+(aq)   +   Cl−(aq)   →   AgCl(s)
+	
+The precipitates formed were allowed to settle and their heights measured. 
+The results were plotted on a graph.
+5
+4
+3
+2
+1
+0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+Volume of silver nitrate solution added / cm3
+Height of 
+precipitate / mm
+	
+What is the formula of the chromium chloride?
+	
+A	 CrCl
+	
+B	 Cr3Cl4
+	
+C	 Cr4Cl3
+	
+D	 CrCl3
+(Total for Question 5 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A0528*
+Turn over    
+5
+	
+ 
+ 
+6	 The atomic number of the element scandium is 21 and the mass number of its only 
+isotope is 45.
+	
+(a)	 What is the number of electrons in a scandium ion, Sc+ ?
+(1)
+	
+A	 20
+	
+B	 21
+	
+C	 22
+	
+D	 23
+	
+(b)	 In a mass spectrometer, scandium forms Sc+ and Sc2+ ions.
+	
+	
+What is the m / z value for the mass spectrum peak due to the Sc2+ ions?
+(1)
+	
+A	 22.5
+	
+B	 33.0
+	
+C	 45.0
+	
+D	 90.0
+(Total for Question 6 = 2 marks)
+7	 Which equation represents the first ionisation energy of iodine?
+	
+A	 I2(s)   →   2I+(g)   +   2e−
+	
+B	 I2(g)   →   2I+(g)   +   2e−
+	
+C	 ½I2(s)   →   I+(g)   +   e−
+	
+D	 I(g)   →   I+(g)   +   e−
+(Total for Question 7 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A0628*
+6
+	
+ 
+ 
+8	 What is the electronic configuration of a nitrogen atom?
+	
+A	
+1s
+2p
+2s
+	
+B	
+1s
+2p
+2s
+	
+C	
+1s
+2p
+2s
+	
+D	
+1s
+2p
+2s
+(Total for Question 8 = 1 mark)
+9	 The element manganese has the atomic number Z = 25.
+	
+What are the numbers of s, p and d electrons in an atom of manganese?
+	
+A	
+	
+B	
+	
+C	
+	
+D	
+s electrons
+p electrons
+d electrons
+6
+12
+7
+8
+12
+5
+6
+18
+1
+8
+17
+0
+(Total for Question 9 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A0728*
+Turn over    
+7
+	
+ 
+ 
+10	 Which row in the table shows the correct forces in a crystal of lithium iodide?
+	
+A	
+	
+B	
+	
+C	
+	
+D	
+Attractive forces 
+between ions with 
+opposite charges
+Repulsive forces 
+between ions with 
+like charges
+Some covalent 
+bonding forces
+
+X
+X
+
+
+X
+
+X
+
+
+
+
+(Total for Question 10 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A0828*
+8
+	
+ 
+ 
+11	 Some physical properties of five substances are shown.
+	
+The letters are not element symbols.
+Substance
+Electrical conductivity
+Melting 
+temperature  
+/ °C
+Solid
+Liquid
+Solution in 
+water
+L
+poor
+good
+good
+  770
+M
+good
+good
+reacts
+    98
+N
+good
+good
+insoluble
+1083
+P
+poor
+poor
+insoluble
+  113
+Q
+poor
+poor
+good
+    10
+	
+(a)	 Which of these substances could be metals?
+(1)
+	
+A	 N only
+	
+B	 L and M only
+	
+C	 M and N only
+	
+D	 L, M and N only
+	
+(b)	 Which substance has properties showing that it changes from a 
+molecular structure to ions when it dissolves in water?
+(1)
+	
+A	 L
+	
+B	 M
+	
+C	 P
+	
+D	 Q
+(Total for Question 11 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+*P70964A0928*
+Turn over    
+9
+	
+ 
+ 
+12	 At 180 °C, aluminium chloride exists as Al2Cl6 .
+	
+What is the structure of Al2Cl6 ?
+	
+A	     Cl
+Al
+Cl
++       
+Cl
+Al
+Cl
+Cl
+Cl
+−
+	
+B	     Cl
+Al
+Al
+Cl
+Cl
+Cl
+Cl
+Cl
+	
+C	    
+Al
+Cl
+Cl
+Cl
+Al
+Cl
+Cl
+Cl
+	
+D	    
+Al
+Cl
+Cl
+Cl
+Al
+Cl
+Cl
+Cl
+(Total for Question 12 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A01028*
+10
+	
+ 
+ 
+13	 When carrying out chemical experiments, the hazards and risks must be considered.
+	
+For a given chemical
+	
+A	 the hazard is fixed but the risk varies
+	
+B	 the hazard varies but the risk is fixed
+	
+C	 both hazard and risk are fixed
+	
+D	 both hazard and risk vary
+(Total for Question 13 = 1 mark)
+14	 Heterolytic fission produces
+	
+A	 free radicals only
+	
+B	 ions only
+	
+C	 free radicals and positive ions only
+	
+D	 free radicals and negative ions only
+(Total for Question 14 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A01128*
+Turn over    
+11
+	
+ 
+ 
+15	 A hydrocarbon X has a molar mass of 98 g mol−1 . When a sample of X is shaken with 
+bromine water, the colour of the bromine water does not change.
+	
+Which of these could be the structure of X?
+	
+A	    
+	
+B	    
+	
+C	    
+	
+D	    
+(Total for Question 15 = 1 mark)
+Use this space for any rough working. Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+*P70964A01228*
+12
+	
+ 
+ 
+16	 Which of these atmospheric pollutants is not emitted during the combustion of 
+alkane car fuels?
+	
+A	 ammonia
+	
+B	 nitrogen dioxide
+	
+C	 sulfur dioxide
+	
+D	 octane
+(Total for Question 16 = 1 mark)
+17	 Which of these occurs in a propagation step in the reaction of methane 
+with chlorine?
+	
+A	    
+Cl
+H3C
+	
+B	    
+Cl
+Cl
+H3C
+	
+C	     H3C
+H
+CH3
+	
+D	    
+Cl
+Cl
+H3C
+H
+(Total for Question 17 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+*P70964A01328*
+Turn over    
+13
+	
+ 
+ 
+18	 What is the IUPAC name for the compound with the structure shown?
+C
+C
+H3C
+CH3
+H
+Cl
+	
+A	 cis-2-chlorobut-2-ene
+	
+B	 trans-2-chlorobut-2-ene
+	
+C	 E-2-chlorobut-2-ene
+	
+D	 Z-2-chlorobut-2-ene
+(Total for Question 18 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P70964A01428*
+14
+	
+ 
+ 
+SECTION B
+Answer ALL the questions. Write your answers in the spaces provided.
+19	 The element iron forms two chlorides: iron(II) chloride, FeCl2 , and 
+iron(III) chloride, FeCl3 .
+	
+(a)	 A known mass of iron powder is added to 200 cm3 of a hot solution of 
+iron(III) chloride with a concentration of 0.500 mol dm−3 . When the reaction is 
+complete, the solution only contains iron(II) chloride. 
+	
+	
+The unreacted iron is filtered, dried and weighed.
+	
+	
+Initial mass of iron powder = 6.17 g
+	
+	
+Final mass of iron powder = 3.38 g
+	
+	
+(i)	 Calculate the number of moles of iron that react.
+(2)
+	
+	
+(ii)	 Calculate the number of moles of iron(III) chloride that react.
+(2)
+	
+	
+(iii)	Use your answers to (a)(i) and (a)(ii) to write the ionic equation for the 
+reaction of iron with iron(III) chloride. Include state symbols.
+	
+	
+	
+You must show your working.
+(3)
+PMT
+
+
+--- Page Break ---
+
+*P70964A01528*
+Turn over    
+15
+	
+ 
+ 
+	
+(b)	 The concentration of the solution obtained in (a) is increased by heating it gently 
+to remove some of the water. The solution is allowed to cool and pale green 
+crystals of a hydrated iron(II) chloride, FeCl2·xH2O, form.
+	
+	
+Analysis shows that these crystals contain 28.1% by mass of iron.
+	
+	
+Calculate the number of moles of water of crystallisation, x, per mole of 
+hydrated iron(II) chloride.
+(4)
+(Total for Question 19 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+*P70964A01628*
+16
+	
+ 
+ 
+20	 Naturally occurring bromine has two isotopes: bromine‑79 and bromine‑81. 
+	
+(a)	 State what is meant by the term isotopes.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 Complete the table to show the numbers of subatomic particles in the two 
+isotopes of bromine.
+(2)
+Isotope
+Protons
+Neutrons
+Electrons
+bromine‑79
+bromine‑81
+	
+(c)	 The mass spectrum of a sample of bromine is obtained.
+	
+	
+(i)	 Draw a dot-and-cross diagram to show the bonding in a molecule of bromine. 
+Only the outer electrons should be shown.
+(2)
+PMT
+
+
+--- Page Break ---
+
+*P70964A01728*
+Turn over    
+17
+	
+ 
+ 
+	
+	
+(ii)	 Describe the formation of the molecular ion of bromine in the mass 
+spectrometer. Include an equation.
+	
+	
+	
+State symbols are not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	On the mass spectrum grid, draw the peaks for the bromine molecular ions, 
+showing the relative peak heights.
+	
+	
+	
+The bromine isotopes in this sample have the same relative abundance.
+(2)
+161
+162
+163
+164
+160
+159
+158
+157
+156
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+m / z
+Relative 
+abundance
+PMT
+
+
+--- Page Break ---
+
+*P70964A01828*
+18
+	
+ 
+ 
+	
+(d)	 The percentage abundances of the isotopes in a different sample of bromine 
+are shown.
+Isotope
+Percentage abundance
+bromine‑79
+56.38 %
+bromine‑81
+43.62 %
+	
+	
+Calculate the relative molecular mass of this sample of bromine, giving your 
+answer to two decimal places.
+(3)
+(Total for Question 20 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+*P70964A01928*
+Turn over    
+19
+	
+ 
+ 
+21	 The elements carbon and silicon both form dioxides.
+	
+(a)	 Carbon dioxide is a simple covalent molecule but silicon dioxide has a 
+giant covalent structure.
+	
+	
+(i)	 Describe the covalent bond between a silicon atom and an oxygen atom in 
+silicon dioxide, in terms of the particles involved.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Compare and contrast the covalent bonding in carbon dioxide and 
+silicon dioxide in terms of orbital overlap.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P70964A02028*
+20
+	
+ 
+ 
+	
+(b)	 The shape of the carbon dioxide molecule affects its physical properties.
+	
+	
+(i)	 Explain the shape of the carbon dioxide molecule.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Explain the polarity of the carbon–oxygen bond.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	State whether or not the carbon dioxide molecule is polar.
+	
+	
+	
+Justify your answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P70964A02128*
+Turn over    
+21
+	
+ 
+ 
+	
+(c)	 The structure of silicon dioxide may be referred to as a diamond structure.
+silicon
+oxygen
+	
+	
+(i)	 Using your knowledge of the structure of diamond, suggest how the structure 
+of silicon dioxide is similar to that of diamond.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Give a possible reason why silicon dioxide has a lower melting temperature 
+than diamond, even though the Si
+O bond is stronger than the C
+C bond.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+*P70964A02228*
+22
+	
+ 
+ 
+22	 Zingiberene is the compound that gives ginger its characteristic flavour.
+	
+Its IUPAC name is 2‑methyl‑5‑(6‑methylhept‑5‑en‑2‑yl)cyclohexa‑1,3‑diene.
+	
+(a)	 On the structure of zingiberene, draw a circle around the ‘2‑methyl’ group referred 
+to in the IUPAC name.
+(1)
+zingiberene
+	
+(b)	 Deduce the molecular formula of zingiberene.
+(2)
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 When zingiberene reacts with excess hydrogen bromide, there are a number of 
+possible products. The structure of the major product is shown.
+Br
+Br
+Br
+	
+	
+(i)	 Name the type and mechanism of the reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P70964A02328*
+Turn over    
+23
+	
+ 
+ 
+	
+	
+(ii)	 The diagram shows a simplified structure of zingiberene, in which part of the 
+molecule is represented by A.
+	
+	
+	
+Complete the mechanism for the reaction of zingiberene with one molecule 
+of hydrogen bromide. 
+	
+	
+	
+Include curly arrows, and any relevant dipoles and lone pairs.
+(4)
+	
+	
+	
+A
+	
+	
+(iii)	For the reaction in (c)(ii) there are two possible products:
+	
+A
+Br
+	
+A
+Br
+	
+I	
+II
+	
+	
+	
+Explain why I is the major product, by referring to your mechanism.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P70964A02428*
+24
+	
+ 
+ 
+	
+(d)	 Zingiberene reacts with hydrogen gas in the presence of a catalyst.
+	
+	
+(i)	 Identify the catalyst, by name or formula.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 2.0 mol of zingiberene react completely with hydrogen at 150 °C and a 
+pressure of 120 kPa.
+	
+	
+	
+Calculate the minimum volume of hydrogen needed under these conditions, 
+stating your units.
+	
+	
+	
+[Ideal gas equation is pV = nRT      Gas constant (R) = 8.31 J mol−1 K−1]
+(4)
+(Total for Question 22 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+*P70964A02528*
+Turn over    
+25
+	
+ 
+ 
+23	 Organic waste may be disposed of by landfill or incineration. 
+	
+Both processes produce gases.
+	
+(a)	 The main gases produced from a typical landfill are shown in the table.
+Gas
+Percentage by volume / %
+methane
+50
+carbon dioxide
+45
+nitrogen
+4
+sulfur compounds
+1
+	
+	
+(i)	 Name the process that forms these gases in landfill.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 State the main environmental problem caused by landfill gases, 
+identifying the gas or gases responsible.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	One tonne of landfill waste produces approximately 12.5 dm3 of landfill gases 
+per day. 
+	
+	
+	
+Calculate the mass of carbon dioxide produced in a year by a typical landfill 
+site which contains 90 000 tonnes of waste.
+	
+	
+	
+Assume that the gas volume is measured at room temperature and 
+pressure (r.t.p.). [Molar volume of gas at r.t.p. = 24.0 dm3 mol−1]
+(3)
+PMT
+
+
+--- Page Break ---
+
+*P70964A02628*
+26
+	
+ 
+ 
+	
+(b)	 Suggest two advantages of incineration over landfill.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 Environmental groups prefer recycling to both landfill and incineration.
+	
+	
+Suggest one advantage of recycling.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 9 marks)
+TOTAL FOR SECTION B = 60 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P70964A02728*
+27
+	
+ 
+ 
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P70964A02828*
+28
+	
+ 
+ 
+PMT

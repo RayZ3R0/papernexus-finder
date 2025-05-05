@@ -1,0 +1,845 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+*P38479A0120*
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 2: Application of Core Principles of Chemistry
+Friday 27 May 2011 – Afternoon
+Time: 1 hour 30 minutes
+Candidates may use a calculator.
+6CH02/01
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name, 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80. 
+t The marks for each question are shown in brackets
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your 
+written communication will be assessed 
+– you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+P38479A
+©2011 Edexcel Limited.
+7/7/5/5/3/
+PMT
+
+
+--- Page Break ---
+
+2
+*P38479A0220*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.
+If you change your mind, put a line through the box 
+ and then mark your new answer with 
+a cross 
+.
+1
+The correct balanced equation for the reaction between heated magnesium and steam, 
+including state symbols, is
+ 
+ 
+A
+Mg(s) + H2O(l) oMgO(s)          +  H2(g)
+ 
+ 
+B
+Mg(s) + 2H2O(g)oMg(OH)2(aq)  +  H2(g)
+ 
+ 
+C
+Mg(s) + H2O(g)oMgO(s)          +  H2(g)
+ 
+ 
+D
+Mg(s) + 2H2O(l) oMg(OH)2(aq)  +  H2(g)
+(Total for Question 1 = 1 mark)
+2
+This question concerns the trends in properties on descending Group 2 of the Periodic 
+Table.
+(a) What are the trends in solubility of sulfates and hydroxides down Group 2?
+(1)
+ 
+ 
+A
+Sulfates increase, hydroxides decrease.
+ 
+ 
+B
+Sulfates decrease, hydroxides increase.
+ 
+ 
+C
+Sulfates increase, hydroxides increase.
+D
+Sulfates decrease, hydroxides decrease.
+(b) What are the trends in thermal stability of carbonates and nitrates down Group 2?
+(1)
+ 
+ 
+A
+Carbonates increase, nitrates decrease.
+ 
+ 
+B
+Carbonates decrease, nitrates increase.
+ 
+ 
+C
+Carbonates increase, nitrates increase.
+ 
+ 
+D
+Carbonates decrease, nitrates decrease.
+(c) What are the trends in first ionization energy and electronegativity of the elements 
+down Group 2?
+(1)
+ 
+ 
+A
+Ionization energy increases, electronegativity decreases.
+ 
+ 
+B
+Ionization energy decreases, electronegativity increases.
+ 
+ 
+C
+Ionization energy increases, electronegativity increases.
+ 
+ 
+D
+Ionization energy decreases, electronegativity decreases.
+(Total for Question 2 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+3
+*P38479A0320*
+Turn over
+3
+Which silver halide is a cream coloured solid which darkens in sunlight and dissolves in 
+concentrated ammonia solution?
+A
+AgF
+B
+AgCl
+C
+AgBr
+D
+AgI
+(Total for Question 3 = 1 mark)
+4
+What is the FBF bond angle in boron trifluoride, BF3?
+A
+180°
+B
+120°
+C
+109.5°
+D
+90°
+(Total for Question 4 = 1 mark)
+5
+What is the total number of electrons in the covalent bonds in a beryllium chloride 
+molecule, BeCl2?
+A
+2
+B
+4
+C
+6
+D
+8
+(Total for Question 5 = 1 mark)
+6
+Which of the following molecules is linear?
+A
+CO2
+B
+C2H4
+C
+H2O
+D
+NH3
+(Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P38479A0420*
+7
+Which of the following molecules is non-polar?
+ 
+ 
+A
+CH3Cl
+ 
+ 
+B
+CH2Cl2
+ 
+ 
+C
+CHCl3
+ 
+ 
+D
+CCl4
+(Total for Question 7 = 1 mark)
+8
+Methanol dissolves in water mainly due to the formation of new
+ 
+ 
+A
+hydrogen bonds.
+ 
+ 
+B
+dipole-dipole forces.
+ 
+ 
+C
+London forces.
+ 
+ 
+D
+covalent bonds.
+(Total for Question 8 = 1 mark)
+9
+Which of the following molecules does not absorb infrared radiation?
+ 
+ 
+A
+N2
+ 
+ 
+B
+NO2
+ 
+ 
+C
+CO
+ 
+ 
+D
+CO2
+(Total for Question 9 = 1 mark)
+10 There would be a major peak in the mass spectrum for butan-1-ol, CH3CH2CH2CH2OH,
+but not for butan-2-ol, CH3CH2CH(OH)CH3, at m/e value
+ 
+ 
+A
+15
+ 
+ 
+B
+17
+ 
+ 
+C
+29
+ 
+ 
+D
+43
+(Total for Question 10 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P38479A0520*
+Turn over
+11 How many molecular ion peaks (parent ion peaks) occur in the mass spectrum of         
+1,2-dibromoethane, CH2BrCH2Br?
+Assume the only isotopes present are 1H, 12C, 79Br and 81Br.
+A
+1
+B
+2
+C
+3
+D
+4
+(Total for Question 11 = 1 mark)
+12 The following reactions have been used in the chemical industry to make liquid and 
+solid products, allowing any gaseous products to escape into the atmosphere:
+A
+CH3OH(g) + CO(g)
+oCH3COOH(l)
+B
+CaCO3(s)
+oCaO(s)   + CO2(g)
+C
+CH4(g)
++ 3Cl2(g) oCHCl3(l) + 3HCl(g)
+D
+CH2CH2(g) + Cl2(g)
+oCH2ClCH2Cl(l)
+(a) Which reaction has an atom economy by mass of 56%?
+(1)
+A
+B
+C
+D
+(b) Which reaction causes the most immediate damage to the environment?
+(1)
+A
+B
+C
+D
+(c) Which reaction is an electrophilic addition?
+(1)
+A
+B
+C
+D
+(Total for Question 12 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*P38479A0620*
+13 Propan-1-ol and propan-2-ol are separately oxidized under mild conditions by acidified 
+sodium dichromate(VI) and the product immediately distilled off.  What is the oxidation 
+product in each case?
+Propan-1-ol
+Propan-2-ol
+A
+propanal
+propanone
+B
+propanoic acid
+propanone
+C
+propanal
+propanoic acid
+D
+propanone
+propanal
+(Total for Question 13 = 1 mark)
+14 Unsaturated vegetable oils are hardened to make margarine by reaction with hydrogen 
+and a nickel catalyst.  Which terms could both be used to describe this type of reaction?
+ 
+ 
+A
+Substitution and oxidation
+ 
+ 
+B
+Substitution and reduction
+C
+Addition and oxidation
+ 
+ 
+D
+Addition and reduction
+(Total for Question 14 = 1 mark)
+15 When iodomethane, CH3I, is heated in a sealed tube with an excess of alcoholic 
+ammonia, which of the following cannot be formed?
+ 
+ 
+A
+Methylamine, CH3NH2
+ 
+ 
+B
+Ethylamine, CH3CH2NH2
+ 
+ 
+C
+Dimethylamine, (CH3)2NH
+ 
+ 
+D
+Ammonium iodide, NH4I
+(Total for Question 15 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+7
+*P38479A0720*
+Turn over
+16 The enthalpy change of neutralization of an acid by an alkali is measured by adding    
+10.0 cm3 of hydrochloric acid to 10.0 cm3 of sodium hydroxide.  10.0 cm3 pipettes with 
+an accuracy of ±0.04 cm3 are used to measure out both solutions.
+The overall percentage error in measuring the total volume of the reaction mixture is
+A
+±0.04%
+B
+±0.08%
+C
+±0.4%
+D
+±4.0%
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+8
+*P38479A0820*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17 This question is about the element chlorine and its compounds.
+(a) When chlorine is bubbled through water, a solution of chlorine water forms.  What is 
+the colour of chlorine water?
+(1)
+................................................................................................................................................................................................................................................
+(b) Chlorine water is added to potassium iodide solution.
+ 
+ 
+(i)
+State the colour of the solution produced.
+(1)
+................................................................................................................................................................................................................................................
+(ii) Write the ionic equation for the reaction, including state symbols.
+(2)
+(c) The concentration of chlorine water was found by taking 10.0 cm3 of solution, 
+adding an excess of potassium iodide solution, and titrating with 0.0100 mol dm–3 of 
+sodium thiosulfate solution.  The experiment was repeated.
+ 
+ 
+The following results were obtained.
+Titration number
+1
+2
+Final burette reading /cm3
+38.60
+47.60
+Initial burette reading /cm3
+29.50
+38.60
+Volume added /cm3
+9.10
+9.00
+PMT
+
+
+--- Page Break ---
+
+9
+*P38479A0920*
+Turn over
+ 
+ 
+(i)
+Name a suitable indicator for the titration.  State the colour change you would 
+expect to see at the end point.
+(2)
+Indicator ................................................................
+Colour change from ................................................................ to ................................................................
+ 
+ 
+(ii) Calculate the mean titre and use this value to calculate the number of moles of 
+sodium thiosulfate used in the titration.
+(1)
+Mean titre = ............................................. cm3
+Moles of sodium thiosulfate
+ 
+ 
+(iii) Complete the ionic equation for the reaction between iodine and thiosulfate ions.
+(2)
+I2(aq) + 2S2O32–(aq)o
+ 
+ 
+(iv) Calculate the number of moles of iodine which reacted with the 
+sodium thiosulfate solution.
+(1)
+ 
+ 
+(v) Hence state the number of moles of chlorine present in 10.0 cm3 of the chlorine 
+water.
+(1)
+ 
+ 
+(vi) Calculate the concentration of the chlorine water, in mol dm–3.
+(1)
+PMT
+
+
+--- Page Break ---
+
+10
+*P38479A01020*
+(d) Potassium burns in chlorine to form potassium chloride.
+ 
+ 
+(i)
+Give the colour of the flame when potassium burns in chlorine.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation for the reaction between potassium and chlorine.  State 
+symbols are not required.
+(1)
+(e) Concentrated sulfuric acid is added to potassium chloride in a test tube.  Steamy 
+fumes are given off which react with ammonia to give dense white smoke.
+ 
+ 
+(i)
+Name the gas given off in this reaction.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Steamy fumes are observed at the mouth of the test tube.  Explain how these 
+fumes are formed.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) The steamy fumes react with ammonia to give a dense white smoke.  Identify 
+the white smoke by name or formula.
+(1)
+................................................................................................................................................................................................................................................
+(f) 2-chlorobutane can be made from butan-2-ol.
+ 
+ 
+(i)
+Name the chemical you would add to butan-2-ol in the laboratory to make 
+2-chlorobutane.
+(1)
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*P38479A01120*
+Turn over
+ 
+ 
+(ii) 2-chlorobutane reacts with alcoholic potassium hydroxide at a high temperature 
+to form a mixture of gaseous alkenes.
+ 
+ 
+ 
+Draw a fully labelled diagram of the apparatus you would use to prepare and 
+collect this mixture.
+(3)
+(Total for Question 17 = 21 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P38479A01220*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+13
+*P38479A01320*
+Turn over
+18 This question is about ethanethiol, CH3CH2SH.  Thiols are like alcohols, but the oxygen 
+atom has been replaced by a sulfur atom.  They react in a similar way to alcohols.
+(a) (i) Draw a dot and cross diagram for ethanethiol, showing outer electrons only.
+(2)
+ 
+ 
+(ii) Give the value for the CSH bond angle in ethanethiol.  Justify your answer.
+(3)
+CSH angle ..............................
+Justification ..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(b) There are hydrogen bonds between ethanol molecules but not between ethanethiol 
+molecules.
+ 
+ 
+(i) Explain why the bond angle around the hydrogen atom involved in a hydrogen 
+bond is 180°.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why there are no hydrogen bonds between ethanethiol molecules.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P38479A01420*
+(c) (i) Describe the formation of London forces.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why the London forces in ethanethiol are stronger than those in ethanol.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(d) The reaction of sodium with ethanethiol, CH3CH2SH, is similar to its reaction with 
+ethanol.
+ 
+ 
+(i)
+Suggest one observation you would make when sodium is added to ethanethiol.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest a balanced equation for this reaction.  State symbols are not required.
+(1)
+PMT
+
+
+--- Page Break ---
+
+15
+*P38479A01520*
+Turn over
+(e) Ethanol can be made from bromoethane by reaction with aqueous 
+potassium hydroxide, KOH(aq), under suitable conditions.
+ 
+ 
+(i)
+Write the equation for this reaction.  State symbols are not required.
+(1)
+ 
+ 
+(ii) State the type and mechanism of this reaction.
+(2)
+Type ...................................................................................................................................................................................................................................
+Mechanism
+...................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest the formula of a suitable chemical to make ethanethiol from 
+bromoethane.
+(1)
+................................................................................................................................................................................................................................................
+(f) When ethanethiol undergoes complete combustion in air, a gas is produced which is 
+not formed on the complete combustion of ethanol.  Identify the gas and suggest why 
+it is damaging to the environment.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 18 = 19 marks)
+TOTAL FOR SECTION B = 40 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*P38479A01620*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+19 This question is about nitrogen monoxide, NO, which can be described both as a friend 
+and a foe.
+(a) (i)
+What is meant by the term free radical?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest a dot and cross diagram for nitrogen monoxide, showing outer shell 
+electrons only, remembering that it is a free radical.
+(2)
+Chemists have discovered that nitrogen monoxide plays an important role in the body 
+by dilating blood vessels.  If someone is suffering from blood circulatory or heart 
+problems, a chemical may be given which will quickly break down to give nitrogen 
+monoxide.  Years ago, nitroglycerine was used for this purpose.  Interestingly, the same 
+chemical Nobel had used to make dynamite was used to treat him in old age.
+In the laboratory, nitrogen monoxide can be prepared by adding concentrated nitric 
+acid to powdered silver.  Nitrogen monoxide is a colourless gas which is partially 
+soluble in water.  It is difficult to detect its smell, because it reacts with oxygen in the 
+air to form pungent-smelling nitrogen dioxide.
+Nitrogen monoxide is formed when a mixture of air and oxygen is heated to a 
+high temperature.  This reaction occurs in the engines of cars and aeroplanes.  Nitrogen 
+monoxide has a disastrous effect on the ozone layer because it is a free radical.  
+Nitrogen monoxide is also a greenhouse gas.
+PMT
+
+
+--- Page Break ---
+
+17
+*P38479A01720*
+Turn over
+(b) (i)
+Part of the unbalanced equation for the preparation of nitrogen monoxide from 
+nitric acid is shown below.
+Ag(s) + HNO3(aq)oNO(g) + AgNO3(aq)
+ 
+ 
+ 
+Identify the elements which are oxidized and reduced and give their oxidation 
+numbers.
+(3)
+ 
+ 
+ 
+Element oxidized .....................................................
+ 
+ 
+ 
+Oxidation number initial .....................................   final .....................................
+ 
+ 
+ 
+Element reduced .......................................................
+ 
+ 
+ 
+Oxidation number initial .....................................   final .....................................
+ 
+ 
+(ii) Complete and balance the equation for the reaction between silver and nitric 
+acid.
+(2)
+...............Ag(s) + ...............HNO3(aq)oNO(g) + ...............AgNO3(aq) + ...................................
+(c) The reaction between nitrogen and oxygen to form nitrogen monoxide reaches 
+equilibrium.
+N2(g) + O2(g) U12JǻH
+9 = +180.4 kJ mol–1
+ 
+ 
+(i) Explain why the yield of nitrogen monoxide is increased when the temperature 
+is increased.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ *(ii) State and explain the effect, if any, on the yield of nitrogen monoxide when the 
+pressure is increased.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*P38479A01820*
+ 
+ 
+(iii) State and explain how the rate of the reaction is affected by an increase in 
+pressure.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+*(d) (i) Explain why a jet aeroplane in flight causes much more damage to the ozone 
+layer than cars carrying the same number of passengers at sea level.  You should 
+assume that the nitrogen monoxide outputs for both methods of conveying the 
+passengers are the same.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P38479A01920*
+ 
+ 
+(ii) The reactions of chlorine free radicals with ozone may be represented by the 
+following equations.
+&O23o&O222
+&O223o&O22
+ 
+ 
+ 
+Write corresponding equations for the reactions of the free radical nitrogen 
+monoxide with ozone.  Combine your two equations to show the overall 
+reaction.
+ 
+ 
+ 
+Use these equations to explain why a small quantity of nitrogen monoxide can 
+have a continuing effect on the ozone layer.
+(5)
+Equations
+Explanation
+..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 19 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P38479A02020*
+PMT

@@ -1,0 +1,280 @@
+2002 FP2 Adapted 
+1.
+Find the set of values for which
+x – 1 > 6x – 1. 
+ (5) 
+2.
+(a) Find the general solution of the differential equation
+t t
+v
+d
+d  − v = t,    t > 0 
+and hence show that the solution can be written in the form v = t(ln t + c), where c is an arbitrary cnst. 
+(6) 
+(b) This differential equation is used to model the motion of a particle which has speed v m s−1 at time t s. When 
+t = 2 the speed of the particle is 3 m s−1. Find, to 3 sf, the speed of the particle when t = 4.                          (4) 
+3.
+(a) Show that y = 2
+1 x2ex is a solution of the differential equation
+2
+2
+d
+d
+x
+y  − 2 x
+y
+d
+d  + y = ex. 
+(4) 
+(b) Solve the differential equation 
+2
+2
+d
+d
+x
+y  − 2 x
+y
+d
+d  + y = ex. 
+given that at x = 0, y = 1 and x
+y
+d
+d  = 2. 
+(9) 
+4.
+The curve C has polar equation r = 3a cos θ , −2
+π  ≤ 2
+π . 
+  The curve D has polar equation r = a(1 + cos θ ), −π  ≤ θ < π.  Given that a is a positive constant, 
+(a) sketch, on the same diagram, the graphs of C and D, indicating where each curve cuts the initial line. 
+ (4) 
+The graphs of C intersect at the pole O and at the points P and Q. 
+(b) Find the polar coordinates of P and Q.  
+    (3) 
+(c) Use integration to find the exact area enclosed by the curve D and the lines θ  = 0 and θ  = 3
+π
+(7) 
+The region R contains all points which lie outside D and inside C. 
+Given that the value of the smaller area enclosed by the curve C and the line θ  = 3
+π  is 
+16
+3
+2
+a
+(2π − 3√3), 
+(d) show that the area of R is πa2. 
+(4) 
+PMT
+
+
+--- Page Break ---
+
+5. 
+Using algebra, find the set of values of x for which      2x – 5 > x
+3 . 
+ 
+ 
+ 
+ 
+(7) 
+ 
+6. 
+(a) Find the general solution of the differential equation 
+cos x x
+y
+d
+d  + (sin x)y = cos3 x. 
+ 
+ 
+ 
+ 
+ 
+(6) 
+(b) Show that, for 0 ≤ x ≤ 2π, there are two points on the x-axis through which all the solution curves for this 
+differential equation pass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+(c) Sketch the graph, for 0 ≤ x ≤ 2π, of the particular solution for which y = 0 at x = 0. 
+ 
+ 
+(3) 
+ 
+7. 
+(a) Find the general solution of the differential equation 
+2
+y
+t
+y
+t
+y
+3
+d
+d
+7
+d
+d
+2
+2
++
++
+= 3t2 + 11t.  
+ 
+ 
+ 
+(8) 
+(b) Find the particular solution of this differential equation for which y = 1 and t
+y
+d
+d  = 1 when t = 0. 
+(5) 
+(c) For this particular solution, calculate the value of y when t = 1. 
+ 
+ 
+ 
+ 
+(1) 
+ 
+8. 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+The curve C shown in Fig. 1 has polar 
+equation  
+r = a(3 + √5 cos θ ),   −π ≤ θ < π. 
+ 
+(a) Find the polar coordinates of the points P and Q where the tangents to C are parallel to the initial line. (6) 
+The curve C represents the perimeter of the surface of a swimming pool. The direct distance from P to Q is 20 
+m.  
+(b) Calculate the value of a.  
+(3) 
+ 
+ 
+(c) Find the area of the surface of the pool. (6) 
+ 
+ 
+ 
+PMT
+
+
+--- Page Break ---
+
+9.  
+(a) The point P represents a complex number z in an Argand diagram. Given that  
+z – 2i = 2z + i, 
+ 
+ 
+(i) find a cartesian equation for the locus of P, simplifying your answer. 
+ 
+ 
+ 
+(2) 
+ 
+(ii) sketch the locus of P. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(3) 
+(b) A transformation T from the z-plane to the w-plane is a translation −7 + 11i followed by an enlargement with 
+centre the origin and scale factor 3.  
+Write down the transformation T in the form 
+w = a z + b,   a, b ∈ ℂ. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+10. 
+ 
+ 
+ 
+ 
+2
+2
+2
+d
+d
+d
+d
+
+
+
+
+
+
++
+x
+y
+x
+y
+y
++ y = 0. 
+ 
+(a) Find an expression for 
+3
+3
+d
+d
+x
+y .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+ 
+Given that y = 1 and x
+y
+d
+d  = 1 at x = 0, 
+ 
+(b) find the series solution for y, in ascending powers of x, up to an including the term in x3. 
+ 
+(5) 
+(c) Comment on whether it would be sensible to use your series solution to give estimates for y at x = 0.2 and at 
+x = 50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+ 
+Total 112 marks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PMT

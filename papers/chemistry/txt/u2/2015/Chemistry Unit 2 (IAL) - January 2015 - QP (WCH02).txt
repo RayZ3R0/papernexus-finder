@@ -1,0 +1,1031 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P45042A
+©2015 Pearson Education Ltd.
+6/6/6/6/4/3/3/
+*P45042A0124*
+Chemistry
+Advanced Subsidiary
+Unit 2: Application of Core Principles of Chemistry
+Thursday 8 January 2015 – Afternoon
+Time: 1 hour 30 minutes
+WCH02/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P45042A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Which of the following are properties of the liquid, 1-bromobutane?
+Solubility in water
+Effect of a charged rod on a stream of the liquid
+A
+soluble
+stream diverted
+B
+soluble
+stream unaffected
+C
+insoluble
+stream diverted
+D
+insoluble
+stream unaffected
+(Total for Question 1 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P45042A0324*
+Turn over    
+2 (a) The strongest intermolecular forces in liquid ammonia are
+(1)
+ 
+ 
+A covalent bonds.
+ 
+ 
+B hydrogen bonds.
+ 
+ 
+C London forces.
+ 
+ 
+D permanent dipole-dipole forces.
+ 
+(b) The graph below shows the boiling temperatures for the Group 5 hydrides.  Select 
+the most likely boiling temperature for ammonia.
+(1)
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+ (Total for Question 2 = 2 marks)
+Ɣ
+AsH3
+ƔA
+ƔB
+ƔC
+ƔD
+Ɣ
+PH3
+
+Ɣ
+ SbH3
+0 –
+–
+–20 –
+–
+–40 –
+–
+–60 –
+–
+–80 –
+–
+–100 –
+–
+–120 –
+–
+–140 –
+–
+0
+–
+–
+20
+–
+–
+40
+–
+–
+60
+–
+–
+80
+–
+–
+100
+–
+–
+120
+–
+–
+140
+Boiling
+temperature 
+/°C
+Molar mass/g mol–1
+PMT
+
+
+--- Page Break ---
+
+4
+*P45042A0424*
+3 The equation for the reaction of chlorine with water is shown below.
+Cl2  +  H2O  U  HCl  +  HClO
+ 
+This reaction is an example of
+ 
+ 
+A decomposition.
+ 
+ 
+B displacement.
+ 
+ 
+C disproportionation.
+ 
+ 
+D neutralization.
+(Total for Question 3 = 1 mark)
+4 The oxidation number of chlorine in HClO3 is
+ 
+ 
+A –1
+ 
+ 
+B +3
+ 
+ 
+C +5
+ 
+ 
+D +7
+(Total for Question 4 = 1 mark)
+5 The following equilibrium was established with all three substances present.
+ICl(l)    +       Cl2(g)         U    ICl3(s)
+brown        pale green           yellow
+ 
+What would be the effect of increasing the pressure on this equilibrium system?
+ 
+ 
+A No change.
+ 
+ 
+B An increase in the amount of the brown liquid.
+ 
+ 
+C An increase in the amounts of the brown liquid and the pale green gas.
+ 
+ 
+D An increase in the amount of the yellow solid.
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P45042A0524*
+Turn over    
+6 Which of the following isomers of C6H14 has the lowest boiling temperature?
+ 
+ 
+A 
+ 
+ 
+B 
+ 
+ 
+C 
+ 
+ 
+D 
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+A
+D
+C
+B
+PMT
+
+
+--- Page Break ---
+
+6
+*P45042A0624*
+7 Which of the following compounds has the highest boiling temperature?
+ 
+Mr = relative molecular mass
+ 
+ 
+A cyclopentane           Mr = 70
+ 
+ 
+B pentane                    Mr = 72
+ 
+ 
+C butan-1-ol                Mr = 74
+ 
+ 
+D ethane-1,2-diol       Mr = 62
+(Total for Question 7 = 1 mark)
+8 The following industrial processes produce ethanol.
+Hydration of ethene:             C2H4(g)   +   H2O(g)   
+   C2H5OH(l)
+Fermentation of glucose:     C6H12O6(aq)   
+   2C2H5OH(aq)   +   2CO2(g)
+ 
+(a) What is the atom economy by mass of the fermentation process?  
+Use the Periodic Table as a source of data.
+(1)
+ 
+ 
+A 25.6%
+ 
+ 
+B 46.0%
+ 
+ 
+C 51.1%
+ 
+ 
+D 92.0%
+ 
+(b) From a ‘green chemistry’ perspective, which of the following is an advantage of 
+the hydration of ethene compared to the fermentation process?
+(1)
+ 
+ 
+A The catalyst is less corrosive.
+ 
+ 
+B A higher temperature is needed.
+ 
+ 
+C Ethene is a renewable resource.
+ 
+ 
+D The ethanol is easier to purify.
+(Total for Question 8 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+yeast
+H3PO4
+PMT
+
+
+--- Page Break ---
+
+7
+*P45042A0724*
+Turn over    
+9 Which of the following does not damage the ozone layer?
+ 
+ 
+A CCl3CF3
+ 
+ 
+B CF4
+ 
+ 
+C NO
+ 
+ 
+D CH2CIF
+(Total for Question 9 = 1 mark)
+10 Microwave energy can only be used for heating reactions involving polar reactants. 
+ 
+Which of the following reactions cannot be heated with microwave energy?
+ 
+ 
+A C5H12         +   Cl2      o   C5H11Cl    +   HCl
+ 
+ 
+B C2H5OH    +   HBr     o   C2H5Br     +   H2O
+ 
+ 
+C C2H5I         +   KOH   o   C2H5OH   +   KI
+ 
+ 
+D CH3CHO   +   ½O2   o   CH3COOH
+(Total for Question 10 = 1 mark)
+11 In the mechanism for the addition of bromine to an alkene, a bromide ion attacks a 
+carbocation.  The attacking bromide ion is acting as
+ 
+ 
+A a catalyst.
+ 
+ 
+B an electrophile.
+ 
+ 
+C a free radical.
+ 
+ 
+D a nucleophile.
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+8
+*P45042A0824*
+12 The relative greenhouse factor of a gas compares the greenhouse effect of a molecule 
+of the gas to that of a molecule of carbon dioxide.
+Gas
+Percentage by volume  
+in the atmosphere
+Relative greenhouse factor 
+per molecule
+CO2
+3.5 × 10–2
+1
+CH4
+1.7 × 10–4
+30
+N2O
+3.1 × 10–5
+200
+CCl2F2
+4.8 × 10–6
+25 000
+ 
+Using only the data in the table above, select the gas that has the greatest 
+greenhouse effect in the atmosphere.
+ 
+ 
+A CO2
+ 
+ 
+B CH4
+ 
+ 
+C N2O
+ 
+ 
+D CCl2F2
+(Total for Question 12 = 1 mark)
+13 In the Contact Process for the production of sulfuric acid, there is a step in which 
+sulfur dioxide is oxidized to sulfur trioxide as shown below.
+2SO2(g)   +   O2(g)   U   2SO3(g)   ǻH = –198 kJ mol–1
+ 
+A high yield is obtained with the following conditions:
+ 
+ 
+Ɣ 2 atm and 700 K
+ 
+ 
+Ɣ 1:1 mole ratio of sulfur dioxide and oxygen 
+ 
+ 
+Ɣ catalyst vanadium(V) oxide, V2O5
+ 
+In comparison with the conditions given above, which of the following would shift 
+the equilibrium position to the right?
+ 
+ 
+A Lowering the pressure.
+ 
+ 
+B Increasing the temperature.
+ 
+ 
+C Increasing the excess of oxygen.
+ 
+ 
+D Using a more finely divided catalyst.
+(Total for Question 13 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+9
+*P45042A0924*
+Turn over    
+14 Diamond, buckminsterfullerene and graphite are all forms of carbon.  
+A significant difference between buckminsterfullerene and the other two forms is 
+that only buckminsterfullerene
+ 
+ 
+A has good electrical conductivity.
+ 
+ 
+B has a precise molecular formula.
+ 
+ 
+C is tough and rigid.
+ 
+ 
+D has some carbon atoms with only three covalent bonds.
+(Total for Question 14 = 1 mark)
+15 An iodine-thiosulfate titration is carried out with the thiosulfate solution in the 
+burette and the iodine solution in the conical flask.
+ 
+If an indicator is not used, then the colour change at the end-point is
+ 
+ 
+A pale yellow to colourless.
+ 
+ 
+B pale yellow to clear.
+ 
+ 
+C blue-black to colourless.
+ 
+ 
+D brown to clear.
+(Total for Question 15 = 1 mark)
+16 Which of the following is not true of the hydrogen halides, HCl, HBr and HI?  
+These hydrogen halides
+ 
+ 
+A form white smoke when in contact with ammonia vapour.
+ 
+ 
+B dissolve in water to form strong acids.
+ 
+ 
+C are usually prepared by the action of sulfuric acid on the sodium halide.
+ 
+ 
+D produce steamy fumes in moist air.
+(Total for Question 16 = 1 mark)
+17 What is observed when a mixture of bromoethane and aqueous silver nitrate is warmed?
+ 
+ 
+A Brown solution
+ 
+ 
+B Cream precipitate
+ 
+ 
+C Decolorisation
+ 
+ 
+D Silver precipitate
+(Total for Question 17 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+10
+*P45042A01024*
+18 Sulfur can combine with fluorine to form a number of different compounds, some of 
+which are shown below.  From the diagrams given, which compound will not be polar?
+ 
+ 
+A Disulfur difluoride, S2F2
+ 
+ 
+B Sulfur difluoride, SF2
+ 
+ 
+C Sulfur tetrafluoride, SF4 
+ 
+ 
+D Sulfur hexafluoride, SF6
+(Total for Question 18 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+c
+S
+F
+F
+F
+F
+F
+S
+F
+F
+S
+S
+F
+c
+c
+c
+S
+F
+F
+F
+F
+F
+F
+PMT
+
+
+--- Page Break ---
+
+11
+*P45042A01124*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+19 This is a question about catalysis.
+ 
+A spectacular demonstration of catalytic oxidation is the addition of  
+chromium(III) oxide to ammonia gas in the presence of oxygen.  This produces 
+flashes, sometimes described as ‘fireflies’.
+ 
+Some concentrated ammonia solution is allowed to vaporise in a very large flask. 
+Heated chromium(III) oxide catalyst is added. 
+ 
+The equation below shows one possible reaction.
+4NH3(g)   +   5O2(g)   o   4NO(g)   +   6H2O(g)
+ 
+(a) The nitrogen atoms in ammonia are oxidized.  Give the oxidation numbers of the 
+nitrogen atoms in ammonia and nitrogen monoxide.
+(2)
+NH3........................................................................      NO........................................................................
+ 
+(b) Nitrogen monoxide is an example of a free radical.
+ 
+ 
+(i) Explain why nitrogen monoxide is classed as a free radical.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the dot and cross diagram of nitrogen monoxide, using dots (Ɣ) for the 
+nitrogen electrons and crosses (×) for the oxygen electrons.  Show outer shell 
+electrons only.
+(2)
+ 
+(c) Suggest one suitable safety precaution for this demonstration.  Justify your choice.  
+You can assume that the demonstrator is wearing a lab coat and safety goggles.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P45042A01224*
+ 
+(d) (i) Draw a Maxwell-Boltzmann diagram on the axes below, labelling the 
+activation energy of the reaction and the vertical axis.
+(2)
+  
+*(ii) Use your diagram to explain how the presence of a catalyst such as 
+chromium(III) oxide affects the rate of a chemical reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(e) Suggest how solid catalysts work in gaseous reactions.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Kinetic energy, E
+..........................................................................................
+..........................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P45042A01324*
+Turn over    
+ 
+(f) The chromium(III) oxide catalyst can be produced from a remarkable 
+demonstration commonly called the ‘dichromate volcano’. 
+ 
+ 
+One experimental apparatus that could be used is shown below.
+ 
+ 
+(i) The substance used is ammonium dichromate(VI).  Give the formula of 
+ammonium dichromate(VI).
+(1)
+ 
+ 
+(ii) This thermal decomposition reaction is also a redox reaction involving the 
+oxidation of nitrogen atoms.  However, it does not require oxygen gas.
+ 
+ 
+ 
+Suggest how the procedure could be modified to confirm that oxygen gas is 
+not necessary for this oxidation.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) From your knowledge of other dichromate(VI) compounds, suggest the colour 
+change that is observed in this demonstration.
+(1)
+....................................................................................................................................................................................................................................................................................
+(Total for Question 19 = 16 marks)
+ammonium 
+dichromate(VI)
+heat to start 
+the reaction
+silica gel 
+granules
+1 dm3  
+conical flask
+loosely packed glass 
+wool or mineral wool
+PMT
+
+
+--- Page Break ---
+
+14
+*P45042A01424*
+20 Alcohols, such as ethanol, undergo a number of reactions.
+ 
+(a) Write the balanced equation for the oxidation of ethanol to ethanoic acid.  
+Use displayed formulae to show all the bonds in the reactants and products.  Use 
+the symbol, [O], to represent an oxygen atom from the oxidizing agent.  State 
+symbols are not required.
+(3)
+ 
+(b) Ethanol can be oxidized to the aldehyde, ethanal, using the apparatus shown 
+below.
+ 
+ 
+(i) State the class of alcohols that can be oxidized to aldehydes.
+(1)
+....................................................................................................................................................................................................................................................................................
+heat
+water out
+water in
+A
+PMT
+
+
+--- Page Break ---
+
+15
+*P45042A01524*
+Turn over    
+ 
+ 
+(ii) Explain fully why ethanal, rather than ethanoic acid, is produced and collected 
+when the apparatus in (b) is used.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State the purpose of the part of the apparatus labelled A.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) The distillation product, ethanal, is dried. 
+ 
+ 
+ 
+What test could you use to show that the dry sample is contaminated by 
+ethanol or ethanoic acid?  
+Suggest one reagent that could be used to test for both ethanol and 
+ 
+ 
+ 
+ethanoic acid in the presence of ethanal.  Give the observation that would be 
+seen if either were present.
+(2)
+Reagent  ...........................................................................................................................................................................................................................................................
+Observation  .................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Physical methods can also be used to identify molecules. 
+ 
+ 
+ 
+Give the formula of a fragment that produces a peak in the mass spectrum of 
+ethanal but not in the mass spectrum of ethanol.
+ 
+ 
+ 
+Identify one feature in the infrared spectrum of ethanal that distinguishes it 
+from ethanol.  Wavenumber values are not required.
+(2)
+Mass spectrum fragment ........................................................................
+Infrared spectrum feature  ............................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P45042A01624*
+ 
+(d) Ethanol is a highly flammable liquid.  However, some other larger and 
+more complex alcohols can be more difficult to burn.  One such example is 
+propane-1,2,3-triol, commonly called glycerol, which has the formula 
+ 
+CH2OHCHOHCH2OH or C3H8O3.
+ 
+ 
+(i) Write the equation for the complete combustion of propane-1,2,3-triol, using 
+its molecular formula.  State symbols are not required.
+(1)
+ 
+C3H8O3   +                              o
+ 
+ 
+(ii) Write a possible equation for the combustion of propane-1,2,3-triol in a 
+limited supply of oxygen. 
+Suggest a likely observation of this reaction under these conditions.  State 
+symbols are not required.
+(3)
+ 
+C3H8O3   +                              o
+Observation  .................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P45042A01724*
+Turn over    
+ 
+(e) Halogenoalkanes react with aqueous hydroxide ions to form the corresponding 
+alcohol.
+ 
+ 
+(i) Name the type of reaction and mechanism.
+(2)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Choose a halogenoalkane that will react in this way to form ethanol.  
+Draw the mechanism for this reaction, using appropriate curly arrows. 
+ 
+ 
+ 
+Show clearly any dipoles present and the lone pair of electrons involved in  
+the mechanism.
+(3)
+(Total for Question 20 = 21 marks)
+TOTAL FOR SECTION B = 37 MARKS
+PMT
+
+
+--- Page Break ---
+
+18
+*P45042A01824*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Magnesium is the eighth most abundant element in the Earth’s crust and is found in a 
+number of mineral deposits such as:
+Kieserite, MgSO4.H2O      Dolomite, CaMg(CO3)2      Magnesite, MgCO3
+ 
+These minerals have a number of uses.  For example, Magnesite is used as a catalyst 
+in the production of synthetic rubber and also to make magnesium oxide which is an 
+important refractory lining for furnaces and kilns.
+ 
+In addition, magnesium ions are found in significant quantities in sea water, from 
+which magnesium chloride, MgCl2, can be obtained.  Magnesium chloride is used as a 
+raw material for the production of the compound magnesium hydroxide.
+ 
+Epsom salts contain magnesium sulfate and have a range of medicinal and other 
+uses, including soothing aches and pains in a relaxing bath, as a topical gel for sore 
+joints, as a laxative and as a first-aid remedy for barium chloride poisoning.
+ 
+In green plants, magnesium ions, Mg2+, are at the centre of the chlorophyll molecule 
+and are vital to the process of photosynthesis.  Hence magnesium compounds are 
+commonly included in fertilizers to ensure healthy crops.
+ 
+The pure form of magnesium metal also has various uses, including being a sacrificial 
+anode for underground piping, and in flares and fireworks.
+ 
+(a) Draw a labelled diagram of the experimental apparatus that you could use to 
+form magnesium oxide from the mineral Magnesite.
+ 
+ 
+Include in the diagram how you would test for any other product of the reaction. 
+State the expected observation from the test.
+(3)
+Observation  .................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P45042A01924*
+Turn over    
+ 
+(b) Magnesium oxide can also be produced by heating magnesium hydroxide.  
+Write an equation for this reaction.  Include state symbols.
+(2)
+ 
+(c) Suggest the formula of a Group 2 hydroxide which is more soluble than 
+magnesium hydroxide.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+*(d) Magnesium oxide can also be easily produced by heating magnesium in air. 
+However, magnesium oxide is not the only product as magnesium also reacts 
+with nitrogen in the air.
+ 
+ 
+Suggest the formula of the compound formed when magnesium reacts with 
+nitrogen gas.
+ 
+ 
+Explain how this product forms even though nitrogen gas is a very stable 
+molecule.
+ 
+ 
+Give one practical suggestion for how this alternative product could be avoided.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+*(e) The flame test on a magnesium salt, such as magnesium chloride, produces no 
+colour.  Describe the electronic transitions involved in a flame test and suggest 
+why there is no flame colour for magnesium chloride.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+20
+*P45042A02024*
+ 
+(f) Magnesium nitrate is another salt of magnesium.  It decomposes when heated to 
+produce nitrogen dioxide and oxygen. 
+ 
+ 
+Balance the following equation.  State symbols are not required.
+(1)
+.....................Mg(NO3)2      o      .....................MgO      +      .....................NO2      +      .....................O2
+ 
+(g) Give the formula of a reagent that could be used to produce magnesium sulfate 
+from magnesium oxide.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(h) Hydrated magnesium sulfates have the formula MgSO4.xH2O, where x varies for 
+different minerals.  In Epsom salts, the value of x is 7.  
+The value of x can be determined by heating a known mass of Epsom salts to 
+remove the water of crystallization.
+ 
+ 
+(i) A student carried out this determination and obtained the following results. 
+ 
+ 
+ 
+5.00 g of the Epsom salts was heated and the mass decreased to 2.55 g.
+ 
+ 
+ 
+Calculate the number of moles of water of crystallization, x, obtained by the 
+student.  Use the Periodic Table as a source of data.  
+You must show your working.  Give your answer to three significant figures.
+(3)
+Value of x = ..........................................
+PMT
+
+
+--- Page Break ---
+
+21
+*P45042A02124*
+ 
+ 
+*(ii) Suggest a way of improving the accuracy of the result, other than by 
+repeating the experiment or using more precise measurements.   
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(i) In chlorophyll, a magnesium ion is bonded to four nitrogen atoms which are in 
+the same plane as the magnesium. 
+ 
+ 
+Suggest a value for the NMgN bond angle and explain how you have arrived at 
+your suggestion.
+(2)
+NMgN bond angle ........................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(j) Magnesium metal is very reactive, but, unlike Group 1 elements, it is not stored 
+under oil.  Suggest a reason for this.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 23 marks)
+TOTAL FOR SECTION C = 23 MARKS 
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+22
+*P45042A02224*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+23
+*P45042A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+*P45042A02424*
+PMT

@@ -1,0 +1,545 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Edexcel GCE
+Chemistry
+Advanced Subsidiary
+Unit 3B:  Chemistry Laboratory Skills I Alternative
+Monday 9 January 2012 – Morning
+Time: 1 hour 15 minutes
+6CH07/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 50.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t You will be assessed on your ability to organise and present information, ideas, 
+ 
+descriptions and arguments clearly and logically, including your use of 
+ 
+grammar, punctuation and spelling.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+P39305A
+©2012 Pearson Education Ltd.
+7/7/5/3/
+*P39305A0116*
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+2
+*P39305A0216*
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 A series of tests was carried out on A, a white powder, which is known to contain one 
+cation and one anion.  Complete the table below.  You may use names or formulae in 
+your answers.
+Test
+Observations
+Inferences
+(a)
+Carry out a flame 
+test on A.
+...........................................................................
+Cation is potassium
+(1)
+(b)
+Add a mixture 
+of dilute nitric 
+acid and aqueous 
+silver nitrate to an 
+aqueous solution 
+of A.
+Then add an 
+excess of dilute 
+aqueous ammonia 
+to the mixture.
+A yellow precipitate forms.
+When excess dilute aqueous 
+ammonia is added
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+Anion is ......................................................
+(2)
+(c)
+Add an aqueous 
+solution of 
+bromine to an 
+aqueous solution       
+of A.
+The colour of the solution of 
+bromine is
+...........................................................................
+When bromine is added to 
+an aqueous solution of A the 
+colour of the mixture is
+...........................................................................
+The change in colour is due to 
+the formation of
+...........................................................................
+(3)
+PMT
+
+
+--- Page Break ---
+
+3
+*P39305A0316*
+Turn over  
+Test
+Observations
+Inferences
+(d)
+Add concentrated 
+sulfuric acid to a 
+solid sample of A.
+A vigorous reaction occurs 
+producing a black solid, a 
+yellow solid, a gas with an 
+unpleasant smell and some 
+coloured fumes.
+The black solid is
+...........................................................................
+and the yellow solid is
+...........................................................................
+(2)
+(Total for Question 1 = 8 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P39305A0416*
+2 A series of tests was carried out on a compound, B, which is known to contain either 
+carbonate or sulfate (sulfate(VI)) ions as well as one cation.
+ 
+Complete the inferences column.  You may use names or formulae in your answers.
+Test
+Observations
+Inferences
+(a)
+Carry out a flame 
+test on B.
+Yellow flame.
+The cation in B is
+............................................................................................
+(1)
+(b)
+Add aqueous 
+barium chloride 
+solution to an 
+aqueous solution 
+of B.
+A white precipitate 
+forms.
+The precipitate could be either
+............................................................................................
+or
+............................................................................................
+(2)
+(c)
+Add dilute 
+hydrochloric acid 
+to the mixture 
+formed in (b) until 
+there is no further 
+change.
+Some fizzing occurs and 
+the precipitate dissolves.
+The anion in B is
+............................................................................................
+and the fizzing is due to formation of
+............................................................................................
+(2)
+ 
+(d) The formula of B is
+(1)
+................................................................................................................................................................................................................................................
+(Total for Question 2 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+5
+*P39305A0516*
+Turn over  
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+6
+*P39305A0616*
+3 Magnesium carbonate reacts with dilute nitric acid as shown in the equation below.
+MgCO3(s) + 2HNO3(aq) o Mg(NO3)2(aq) + CO2(g) + H2O(l)
+ 
+The enthalpy change for this reaction can be determined as follows:
+ 
+Procedure
+ 
+1. Weigh 3.50 g of finely powdered magnesium carbonate.
+ 
+2. Transfer 50.0 cm3 of 2.00 mol dm–3 nitric acid into a polystyrene cup and record the 
+temperature of the acid.
+ 
+3. Add the magnesium carbonate to the nitric acid.
+ 
+4. Stir the mixture and record the maximum temperature reached.
+ 
+Results
+Temperature of nitric acid before addition of magnesium carbonate
+21.0 qC
+Final temperature of solution
+29.7 qC
+ 
+(a) Explain why the magnesium carbonate used in this experiment should be finely 
+powdered rather than in lumps.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) (i) Calculate the number of moles of magnesium carbonate in 3.50 g.
+ 
+ 
+ 
+[Assume the molar mass of magnesium carbonate is 84 g mol–1.]
+(1)
+ 
+ 
+(ii) The volume of dilute nitric acid used contained 0.100 mol of HNO3. Suggest 
+why this amount is suitable.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+7
+*P39305A0716*
+Turn over  
+ 
+(c) (i) Calculate the heat energy transferred, in joules, in this reaction between 
+magnesium carbonate and nitric acid. 
+ 
+ 
+ 
+Use the expression
+ 
+ 
+ 
+energy        =    mass of   ×   specific heat capacity  ×  temperature
+ 
+ 
+ 
+transferred (J)        solution           of solution             rise
+ 
+ 
+ 
+[Assume the mass of solution is 50 g and its specific heat capacity is 
+4.18 J g–1 qC–1.]
+(1)
+ 
+ 
+(ii) Calculate the enthalpy change, 'H, for the reaction of one mole of magnesium 
+carbonate with nitric acid.  Your answer should be in units of kJ mol–1, 
+expressed to three significant figures, and include a sign.
+(2)
+ 
+(d) (i) The nitric acid for this experiment could be measured using either a pipette or a 
+measuring cylinder.  Give one practical advantage of using each piece of apparatus.
+(2)
+Pipette  ..............................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+Measuring cylinder ...................................................................................................................................................................................................
+................................................................................................................................................................................................................................................  
+PMT
+
+
+--- Page Break ---
+
+8
+*P39305A0816*
+ 
+ 
+(ii) The total error in measuring the mass of the magnesium carbonate was ±0.01 g. 
+Calculate the percentage error in the weighing.
+(1)
+ 
+(e) State and explain the effect, if any, on the calculated enthalpy change, 'H, if
+ 
+ 
+(i) a copper calorimeter were used instead of the polystyrene cup.  
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) 3.50 g of damp magnesium carbonate were used.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(f) The experiment was repeated with a change in the procedure.  The temperature of the 
+dilute nitric acid was measured every minute for three minutes.  After exactly three 
+and a half minutes, the magnesium carbonate was added and the mixture was stirred. 
+The temperature of the mixture was then taken every minute for another six minutes.
+ 
+ 
+A graph of the temperature readings against time using this procedure is shown 
+opposite.
+PMT
+
+
+--- Page Break ---
+
+9
+*P39305A0916*
+Turn over  
+ 
+ 
+(i) Use this graph to calculate the maximum temperature change. Show your 
+working on the graph.
+(2)
+Maximum temperature change =  .............................................................................  qC
+ 
+ 
+(ii) Why does this method give a more accurate result than the original procedure?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 3 = 16 marks)
+32
+30
+28
+26
+24
+22
+20
+0
+2
+4
+6
+8
+10
+Time / minutes
+Temperature / qC
+PMT
+
+
+--- Page Break ---
+
+10
+*P39305A01016*
+4 This question is about the alcohol, propan-1-ol.
+ 
+(a) Give two observations when propan-1-ol reacts with a small piece of sodium.
+(2)
+Observation 1 ...............................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Observation 2 ...............................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) A student investigated the rate of reaction of propan-1-ol with sodium.
+ 
+ 
+Suggest one suitable measurement which could be made to determine the rate of this 
+reaction.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) A small amount of phosphorus(V) chloride (phosphorus pentachloride), PCl5, is 
+added to propan-1-ol in a test tube.
+ 
+ 
+(i) Describe the appearance of the fumes at the mouth of the test tube.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) An open bottle of concentrated ammonia is held near the mouth of the tube. 
+Describe what would be seen at the mouth of the test tube.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 4 = 5 marks)
+PMT
+
+
+--- Page Break ---
+
+11
+*P39305A01116*
+Turn over  
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P39305A01216*
+5 Propanoic acid may be prepared by oxidizing propan-1-ol in acidic conditions. 
+X + H2SO4
+CH3CH2CH2OH    
+    CH3CH2COOH
+ 
+Procedure
+ 
+1. Pour 10 cm3 of distilled water into a boiling tube and add 12 g of oxidizing agent X. 
+Shake the mixture and leave X to dissolve.
+ 
+2. Pour 3 cm3 of propan-1-ol into a round-bottom flask and add 10 cm3 of distilled 
+water and a few anti-bumping granules.  Set up the apparatus for heating under 
+reflux.
+ 
+3. Add 4 cm3 of concentrated sulfuric acid, drop by drop, to the propan-1-ol.  While 
+the mixture is still warm, add the solution of oxidizing agent X, drop by drop.  The 
+energy released from the reaction should cause the mixture to boil without external 
+heating.
+ 
+4. When all of the solution of X has been added, use a low Bunsen burner flame to 
+keep the mixture boiling for 10 minutes, not allowing any vapour to escape.
+ 
+5. Distil the mixture in the flask using the apparatus shown below.  Collect 5–6 cm3 of 
+distillate, which is an aqueous solution of propanoic acid.
+ 
+(a) Suggest, by name or formula, a suitable oxidizing agent, X, for this reaction.
+(1)
+................................................................................................................................................................................................................................................
+heat
+PMT
+
+
+--- Page Break ---
+
+13
+*P39305A01316*
+Turn over  
+ 
+(b) What colour change does X undergo when it oxidizes propan-1-ol?
+(1)
+ 
+ 
+From ………………............………….............………. to ………………………........................………….
+ 
+(c) Draw a labelled diagram showing the apparatus for heating under reflux.  
+(2)
+ 
+(d) Give two reasons why the escape of vapour in step 4 should be prevented.
+(2)
+Reason 1 ..........................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Reason 2 ..........................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(e) How does the reflux apparatus prevent escape of vapour?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P39305A01416*
+ 
+(f) Some water can be removed from the distillate in step 5 by adding a solid drying 
+agent.  The solution of propanoic acid can then be decanted leaving the drying agent 
+behind.
+ 
+ 
+(i) Suggest a suitable solid drying agent.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest why removing excess solid drying agent by decanting, rather than 
+filtering through filter paper, improves the yield.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(g) In a larger scale preparation of propanoic acid, 10.0 g of propan-1-ol was used.
+ 
+ 
+(i) Calculate the maximum mass of propanoic acid which could be formed from 
+10.0 g of propan-1-ol.
+Propan-1-ol
+Propanoic acid
+Molar mass / g mol–1
+60.1
+74.1
+(2)
+PMT
+
+
+--- Page Break ---
+
+15
+*P39305A01516*
+ 
+ 
+(ii) After purification, 6.0 cm3 of dry propanoic acid was obtained.
+ 
+ 
+ 
+Calculate the percentage yield in the preparation.
+ 
+ 
+ 
+The density of propanoic acid is 0.99 g cm–3.
+(2)
+ 
+(h) In another experiment, the same reaction mixture (propan-1-ol, X and concentrated 
+sulfuric acid) was heated in the apparatus shown in step 5.  Identify the main organic 
+product which would be collected and explain why propanoic acid is not produced.
+(2)
+Product ..............................................................................................................................................................................................................................
+Explanation ....................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 5 = 15 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*P39305A01616*
+PMT

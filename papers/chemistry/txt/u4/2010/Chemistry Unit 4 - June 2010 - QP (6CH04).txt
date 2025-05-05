@@ -1,0 +1,979 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+     Turn over
+Edexcel GCE
+Chemistry
+Advanced
+Unit 4:  General Principles of Chemistry I – Rates, 
+Equilibria and Further Organic Chemistry 
+(including synoptic assessment)
+6CH04/01
+Thursday 17 June 2010 – Afternoon
+Time: 1 hour 40 minutes
+N36506A
+©2010 Edexcel Limited.
+7/7/7/2/
+*N36506A0124*
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name, 
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided 
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your 
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*N36506A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.
+If you change your mind, put a line through the box 
+ and then mark your new answer with
+a cross 
+.
+1 Propanone reacts with iodine in acidic solution as shown in the equation below.
+CH3COCH3(aq) + I2(aq)  →  CH3COCH2I(aq) + H+(aq) + I–(aq)
+ 
+The rate equation for the reaction is
+Rate = k[CH3COCH3(aq)][H+(aq)]
+ 
+(a) The most appropriate technique to investigate the rate of this reaction is
+(1)
+ 
+A 
+titrating samples of reaction mixture with acid.
+ 
+B 
+measurement of optical activity.
+ 
+C 
+measurement of the volume of gas given off.
+ 
+D 
+colorimetry.
+ 
+(b) Which statement about the reaction is not correct?
+(1)
+ 
+A 
+The overall order of reaction is second order.
+ 
+B 
+The units of the rate constant are dm3 mol–1 s–1.
+ 
+C 
+The rate constant increases with temperature.
+ 
+D 
+The rate increases four times when the concentration of propanone and iodine 
+are both doubled.
+PMT
+
+
+--- Page Break ---
+
+3
+*N36506A0324*
+Turn over  
+ 
+(c) The reaction is carried out using a large excess of both propanone and acid.
+ 
+ 
+Which of the graphs below shows the change of iodine concentration with time?
+(1)
+(Total for Question 1 = 3 marks)
+2 Which of the following is true for the exothermic reaction shown below?
+Mg(s) + 2HCl(aq)  →  MgCl2(aq) + H2(g)
+ 
+A ∆H                         positive
+ 
+B ∆Ssurroundings              positive
+ 
+C ∆Ssystem                    negative
+ 
+D ∆Stotal                      negative
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+[I2]
+time
+[I2]
+time
+[I2]
+time
+[I2]
+time
+A
+C
+B
+D
+PMT
+
+
+--- Page Break ---
+
+4
+*N36506A0424*
+3 In which reaction is water acting as a Brønsted-Lowry acid?
+ 
+A 
+H2O + HCl →  H3O+ + Cl–
+ 
+B 
+H2O + SO3 →  H2SO4
+ 
+C 
+H2O + NH3 →  NH4+ + OH–
+ 
+D 
+H2O + CO2 →  H2CO3
+(Total for Question 3 = 1 mark)
+4 Which of the following compounds has both optical and E-Z isomers?
+ 
+A 
+CH3CH=CHCH2CH3
+ 
+B 
+CH3CHClCH=C(CH3)2
+ 
+C 
+CH3CCl=CClCH3
+ 
+D 
+CH3CHBrCH=CHCl
+(Total for Question 4 = 1 mark)
+5 Which of the following reacts with hydrogen cyanide, HCN, to make a racemic mixture?
+ 
+A 
+Methanal, HCHO
+ 
+B 
+Ethanal, CH3CHO
+ 
+C 
+Propanone, CH3COCH3
+ 
+D 
+Pentan-3-one, C2H5COC2H5
+(Total for Question 5 = 1 mark)
+6 Which of the following is a redox reaction?
+ 
+A 
+Ethanal reacting with Tollens’ reagent.
+ 
+B 
+Ethanoyl chloride reacting with ammonia.
+ 
+C 
+Ethanoic acid reacting with ethanol.
+ 
+D 
+Ethanoic acid reacting with sodium hydroxide.
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*N36506A0524*
+Turn over  
+7 The following methods can be used to distinguish between pairs of organic compounds 
+without further tests.
+ 
+A Warm each compound with Fehling’s or Benedict’s solution.
+ 
+B Add solid sodium carbonate to each compound.
+ 
+C Add 2,4-dinitrophenylhydrazine (Brady’s reagent) to each compound.
+ 
+D Add water, drop by drop, to each compound.
+ 
+(a) Which test would distinguish propanone from propan-1-ol?
+(1)
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+ 
+(b) Which test would distinguish between aqueous solutions of ethanoic acid and ethanol?
+(1)
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+ 
+(c) Which test would distinguish ethanoyl chloride from ethanol?
+(1)
+ 
+A 
+ 
+B 
+ 
+C 
+ 
+D 
+(Total for Question 7 = 3 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*N36506A0624*
+8 When propanone reacts with iodine in the presence of sodium hydroxide, the crystalline 
+solid product has the formula
+ 
+A 
+CH3I
+ 
+B 
+CHI3
+ 
+C 
+CH3COCH2I
+ 
+D 
+CH3COCI3
+(Total for Question 8 = 1 mark)
+9 When the following reaction mixtures are warmed, which will contain ethanoic acid as 
+one of the products?
+ 
+A 
+Ethyl methanoate and sodium hydroxide solution.
+ 
+B 
+Ethyl methanoate and dilute sulfuric acid.
+ 
+C 
+Methyl ethanoate and sodium hydroxide solution.
+ 
+D 
+Methyl ethanoate and dilute sulfuric acid.
+(Total for Question 9 = 1 mark)
+10 The spectra of the compounds with the formulae CH3CH(OH)CH3 and CH3CH2CH2OH 
+can be distinguished by
+ 
+A 
+the value of m/e of the molecular ion in the mass spectrum.
+ 
+B 
+the presence of a fragment with m/e =15 in the mass spectrum.
+ 
+C 
+the presence of an absorption peak due to O–H in the infrared spectrum.  
+ 
+D 
+the number of peaks in the nmr spectrum.
+(Total for Question 10 = 1 mark)
+11 Which of the following has two singlet peaks in its nmr spectrum?
+ 
+A 
+Methanal, HCHO 
+ 
+B 
+Methanol, CH3OH
+ 
+C 
+Chloromethane, CH3Cl
+ 
+D 
+Dichloromethane, CH2Cl2
+(Total for Question 11 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*N36506A0724*
+Turn over  
+                                                                                      
+12 The nmr spectrum of 2,2-dimethylpropane, H3C—C—CH3, contains
+                                                                                      
+ 
+A one singlet peak.
+ 
+B four singlet peaks.
+ 
+C one quartet peak. 
+ 
+D four quartet peaks.
+(Total for Question 12 = 1 mark)
+13 Which of the following solutions has the lowest pH?
+ 
+A 0.010 mol dm–3 hydrochloric acid.
+ 
+B 0.100 mol dm–3 hydrochloric acid.
+ 
+C 0.010 mol dm–3 ethanoic acid.
+ 
+D 0.100 mol dm–3 ethanoic acid.
+(Total for Question 13 = 1 mark)
+14 Which of the following solutions, when mixed, would make a buffer with pH
+more than 7?
+ 
+A Methanoic acid and sodium methanoate.
+ 
+B Sodium hydroxide and sodium chloride.
+ 
+C Ammonia and ammonium chloride.
+ 
+D Ammonium chloride and ammonium ethanoate.
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+CH3
+CH3
+PMT
+
+
+--- Page Break ---
+
+8
+*N36506A0824*
+15 This question is about the equilibrium reaction
+N2(g) + 3H2(g)  U  2NH3(g)     ∆H = –92 kJ mol–1
+ 
+Which statement is not correct?
+ 
+A 
+The units of Kp are atm–2.
+ 
+B 
+Kp increases as temperature is decreased.
+ 
+C 
+Kp increases when the pressure increases.
+ 
+D 
+Kp increases when the total entropy change, ∆Stotal, increases.
+(Total for Question 15 = 1 mark)
+16 1,2-dichloroethane decomposes in the presence of a catalyst.
+CH2ClCH2Cl(g)  U  CH2=CHCl(g) + HCl(g)             ∆H = +51 kJ mol–1
+ 
+Which of the following would result in an increase in the equilibrium yield of 
+chloroethene?
+ 
+A 
+Increasing the temperature.
+ 
+B 
+Increasing the pressure.
+ 
+C 
+Increasing the surface area of the catalyst.
+ 
+D 
+Changing the catalyst to a more efficient one.
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*N36506A0924*
+Turn over  
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17 A bromoalkane has the molecular formula C4H9Br.  The ionic equation for the hydrolysis 
+of this compound with aqueous sodium hydroxide is shown below.
+C4H9Br + OH–  →  C4H9OH + Br–
+ 
+(a) The rate of hydrolysis was investigated by mixing a large excess of the bromoalkane 
+with aqueous sodium hydroxide, and measuring the time taken for all the hydroxide 
+ions to be used up.  This was carried out with different initial concentrations of the 
+bromoalkane and the hydroxide ions.  The results are shown in the table below.
+Experiment
+[C4H9Br]
+/mol dm–3
+[OH–]
+/mol dm–3
+Time for OH– to 
+be used up/s
+Initial rate
+/mol dm–3 s–1
+1
+0.017
+0.0012
+42
+2.9 × 10–5
+2
+0.034
+0.0012
+21
+5.7 × 10–5
+3
+0.034
+0.0020
+35
+...................................
+ 
+ 
+(i) Complete the missing value of the initial rate in the table.
+(1)
+ 
+ 
+(ii) State the order of the reaction with respect to C4H9Br and to OH–.  Justify each 
+answer by reference to the concentrations of both reactants.
+(3)
+Order with respect to C4H9Br  ..........................................................................................................................................................................
+Reason  .............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+Order with respect to OH–  ..................................................................................................................................................................................
+Reason  .............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Deduce the rate equation for the reaction.
+(1)
+Rate =  ..............................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*N36506A01024*
+ 
+ 
+(iv) Use the results for the first experiment in the table to calculate the rate constant 
+and give its units.
+(2)
+Units  .................................................................................................................................................................................................................................
+ 
+(b) What evidence supports the theory that there is more than one step in the reaction 
+mechanism?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) Write the mechanism for the hydrolysis of C4H9Br which is consistent with your rate 
+equation.  Show the structure of C4H9Br clearly in your mechanism.
+(3)
+PMT
+
+
+--- Page Break ---
+
+11
+*N36506A01124*
+Turn over  
+ *(d) Explain why primary and tertiary bromoalkanes are hydrolysed by different 
+mechanisms.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 17 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*N36506A01224*
+18 This question is about butanoic acid, CH3CH2CH2COOH.
+ 
+(a) Some reactions involving butanoic acid are shown below.
+ 
+ 
+(i) What type of reaction is Reaction A?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Identify, by name or formula, the reagent which is used with sulfuric acid to 
+carry out Reaction B.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) What reagent is used in Reaction C?
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Name the organic product of Reaction D and write a balanced equation for its 
+formation.
+(2)
+Name  ................................................................................................................................................................................................................................
+Equation
+ 
+ 
+(v) Write the displayed formula for Z, the organic product of the reaction of 
+butanoic acid with phosphorus(V) chloride, PCl5.
+(1)
+CH3CH2CH2CH2OH
+CH3CH2CH2CN
+CH3CH2CH2COOH
+CH3CH2CH2COOCH3
+Reaction A
+Reaction B
+Reaction C
+Reaction D
+PCl5
+Z
+PMT
+
+
+--- Page Break ---
+
+13
+*N36506A01324*
+Turn over  
+ 
+(b) Butanoic acid and propane-1,2,3-triol are formed when fats in milk are hydrolysed.  
+The presence of milk fat in low fat spreads is detected by hydrolysing the spread, 
+and then analysing the products using gas chromatography (also called gas-liquid 
+chromatography, GLC).
+ 
+ 
+(i) Explain why nitrogen, rather than oxygen, is used as the carrier gas in GLC.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) What property determines whether butanoic acid or propane-1,2,3-triol would 
+move faster through the chromatography column?
+(1)
+................................................................................................................................................................................................................................................
+ 
+(c) The formula of 3-hydroxybutanoic acid is shown below.
+HO—C—CH2—COOH
+ 
+ 
+(i) 3-hydroxybutanoic acid can form a polymer which is used to make “green” 
+packaging as it is biodegradable.
+ 
+ 
+ 
+Draw a section of this polymer, showing TWO monomer units.  Clearly show 
+any double bonds.
+(2)
+ 
+ 
+(ii) The polymer cannot be used in acidic conditions.  What reaction would occur 
+when the polymer is in prolonged contact with an acid?
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 18 = 11 marks)
+H
+CH3
+PMT
+
+
+--- Page Break ---
+
+14
+*N36506A01424*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+15
+*N36506A01524*
+Turn over  
+19 Ethanoic acid can be manufactured by the following reaction, which is carried out 
+between 150 °C and 200 °C.
+CH3OH(g) + CO(g)  U  CH3COOH(g)
+ 
+(a) A mixture of 50.0 mol of methanol and 50.0 mol of carbon monoxide reaches 
+equilibrium at a pressure of 32.0 atm.  At 175 °C, the equilibrium partial pressure of 
+ethanoic acid is 22.2 atm.
+ 
+ 
+(i) Write the expression for the equilibrium constant in terms of pressure, Kp, for 
+this reaction.
+(1)
+ 
+ 
+(ii) Calculate the partial pressures of methanol and carbon monoxide at equilibrium.
+(2)
+Methanol  ....................................................................................................................................................................................................................................................
+Carbon monoxide  ............................................................................................................................................................................................................................
+ 
+ 
+(iii) Calculate the value of Kp for this reaction at 175 °C.  Include a unit in your 
+answer and give your answer to three significant figures.
+(2)
+PMT
+
+
+--- Page Break ---
+
+16
+*N36506A01624*
+ 
+(b) Another sample of 50.0 mol of methanol and 50.0 mol of carbon monoxide was 
+allowed to reach equilibrium at the same pressure of 32.0 atm, but at a lower 
+temperature. 93.6 % of the methanol was converted at equilibrium.
+ 
+ 
+(i) Complete the table below to show the number of moles of each species in the 
+equilibrium mixture.
+(2)
+CH3OH
+CO
+CH3COOH
+Number of moles at 
+start
+50.0
+50.0
+0
+Number of moles at 
+equilibrium
+ 
+ 
+(ii) Calculate the partial pressure of ethanoic acid in the equilibrium mixture.
+(1)
+ 
+ 
+(iii) Is the reaction exothermic or endothermic?  Explain your answer.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*N36506A01724*
+Turn over  
+ 
+(c) How, if at all, does the addition of methanol to the equilibrium mixture affect the 
+following?  Justify your answers.
+CH3OH(g) + CO(g)  U  CH3COOH(g)
+ 
+ 
+(i) The equilibrium constant for the formation of ethanoic acid.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The equilibrium yield of ethanoic acid.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(d) In industry, catalysts are used even though they are often expensive.
+ 
+ 
+State and explain ONE benefit to the environment resulting from the use of catalysts 
+in industrial processes.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 19 = 13 marks)
+PMT
+
+
+--- Page Break ---
+
+18
+*N36506A01824*
+20 Vinegar is used as a food preservative. It is an acidic solution containing
+ethanoic acid, CH3COOH.
+ 
+(a) A titration was carried out to measure the concentration of ethanoic acid in a sample 
+of vinegar. 25.0 cm3 of a vinegar solution was titrated with a solution of
+sodium hydroxide, concentration 0.250 mol dm–3.  The concentration of the
+ethanoic acid in the vinegar solution was found to be 0.125 mol dm–3.
+ 
+ 
+(i) Calculate the pH of 0.250 mol dm–3 sodium hydroxide at 298 K.
+ 
+ 
+ 
+[Kw = 1.00 × 10–14 mol2dm–6 at 298 K.]
+(2)
+ 
+ 
+(ii) Write the expression for the acid dissociation constant, Ka, for ethanoic acid.
+(1)
+ 
+ 
+(iii) Calculate the pH of 0.125 mol dm–3 ethanoic acid at 298 K.
+ 
+ 
+ 
+[Ka for ethanoic acid is 1.7 × 10–5 mol dm–3 at 298 K.]
+(2)
+ 
+ 
+(iv) When half the ethanoic acid is neutralized, the concentration of the remaining 
+ethanoic acid equals the concentration of the sodium ethanoate which has 
+formed.  What is the pH of the mixture at this point?  Justify your answer.
+(2)
+pH  .......................................................................................................................................................................................................................................
+Justification  ..................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*N36506A01924*
+Turn over  
+ 
+ 
+(v) On the axes below, sketch the titration curve for this reaction when 30 cm3 of 
+the sodium hydroxide is added to 25.0 cm3 of the vinegar solution.
+(3)
+ 
+ *(vi) The only indicators which were available for this titration were methyl yellow
+(in ethanol) and thymolphthalein.  Explain which indicator is more suitable for this 
+titration and why the other is unsuitable.  You will need to refer to your data booklet.
+(2)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+ 
+(b) In the food industry, ethanoic acid is described as an acidity regulator, additive 
+number E260.
+ 
+ 
+Ethanoic acid can neutralize alkalis.  What substance could be mixed with
+ethanoic acid so that it regulates pH as a buffer in foodstuffs?
+(1)
+................................................................................................................................................................................................................................................
+(Total for Question 20 = 13 marks)
+TOTAL FOR SECTION B = 50 MARKS
+pH
+Volume of NaOH added/cm3
+14
+12
+10
+8
+6
+4
+2
+0
+0
+5
+10
+15
+20
+25
+30
+PMT
+
+
+--- Page Break ---
+
+20
+*N36506A02024*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 (a) Crystals of hydrated cobalt(II) chloride, CoCl2.6H2O, lose water when they are 
+heated, forming anhydrous cobalt(II) chloride, CoCl2.
+CoCl2.6H2O(s)  →  CoCl2(s) + 6H2O(l)
+ 
+ 
+(i) Calculate the entropy change of the system, ∆S
+○
+system, at 298 K.  Include a sign 
+and units in your answer.  You will need to refer to your data booklet.
+(2)
+ 
+ 
+(ii) Explain whether the sign of your answer to (a)(i) is as expected from the 
+equation for the reaction.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) The standard enthalpy change for the reaction, ∆H
+○, is +88.1kJ mol–1.  
+Calculate the entropy change in the surroundings, ∆S
+○
+surroundings, at 298 K for this 
+reaction.  Include a sign and units in your answer.
+(2)
+ 
+ 
+(iv) Calculate the total entropy change, ∆S
+○
+total, at 298 K for the reaction.
+(1)
+PMT
+
+
+--- Page Break ---
+
+21
+*N36506A02124*
+Turn over  
+ 
+ 
+(v) Does your answer to (a)(iv) indicate whether hydrated cobalt(II) chloride can be 
+stored at 298 K without decomposition?  Explain your answer.
+(1)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+ 
+(b) A student attempted to measure the enthalpy change of solution of anhydrous 
+cobalt(II) chloride by adding 2.00 g of cobalt(II) chloride to 50.0 cm3 of water in a 
+well-insulated container.  A temperature rise of 1.5 °C was recorded.
+ 
+ 
+The student used a balance which reads to 0.01g, a 50.0 cm3 pipette, and a 
+thermometer which can be read to 0.25 °C.
+ 
+ 
+(i) Which measuring instrument should be changed to give a result which is closer 
+to the accepted value?  Justify your answer.
+(2)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+ 
+ 
+(ii) Suggest ONE other change the student could make to give a result which is 
+closer to the accepted value.  Justify your suggestion.
+(2)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+PMT
+
+
+--- Page Break ---
+
+22
+*N36506A02224*
+ *(c) The lattice energies of magnesium chloride, MgCl2, calcium chloride, CaCl2, and 
+strontium chloride, SrCl2 are shown in the table below.
+Chloride
+Lattice energy/kJ mol–1
+MgCl2
+–2526
+CaCl2
+–2258
+SrCl2
+–2156
+ 
+ 
+(i) Use data on ionic radii, from your data booklet, to explain the trend in these 
+values.  Estimate a value for the lattice energy of cobalt(II) chloride, giving 
+ONE piece of data to justify your estimate.
+(4)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+PMT
+
+
+--- Page Break ---
+
+23
+*N36506A02324*
+ 
+ 
+(ii) Explain how lattice energy values, together with other data, can be used to 
+predict the solubility of ionic compounds.
+(3)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+ *(d) Cobalt forms another chloride, CoCl3, but scientists predict that MgCl3 cannot be 
+made.  Suggest a reason for this.
+ 
+ 
+You should consider the enthalpy changes in the Born-Haber cycle, which provide 
+evidence about why cobalt(III) chloride is known but magnesium(III) chloride is not.
+(2)
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................  
+................................................................................................................................................................................................................................................  
+(Total for Question 21 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+24
+*N36506A02424*
+PMT

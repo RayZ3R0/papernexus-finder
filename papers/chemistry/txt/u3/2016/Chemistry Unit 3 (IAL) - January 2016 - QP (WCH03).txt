@@ -1,0 +1,708 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P46939A
+©2016 Pearson Education Ltd.
+6/6/6/6/
+*P46939A0120*
+Chemistry
+Advanced Subsidiary
+Unit 3:  Chemistry Laboratory Skills I
+Thursday 21 January 2016 – Morning
+Time: 1 hour 15 minutes
+WCH03/01
+Candidates may use a calculator.
+Instructions
+• Use black ink or ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+• The total mark for this paper is 50.
+• The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+• You will be assessed on your ability to organise and present information, ideas, 
+ 
+descriptions and arguments clearly and logically, including your use of 
+ 
+grammar, punctuation and spelling.
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Keep an eye on the time.
+• Try to answer every question.
+• Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P46939A0220*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Answer ALL the questions.  Write your answers in the spaces provided.
+1 A series of tests is carried out on a white solid, J, which is a mixture of two compounds. 
+One compound contains a Group 1 cation, and the other a Group 2 cation. 
+The two compounds contain the same anion. 
+ 
+(a) Complete the labels A and B in the diagram below, which shows the procedure 
+and result for a flame test on solid J.
+(2)
+ 
+(b) It is known that the Group 2 cation in J gives no colour in a flame test, so the red colour 
+seen must be due to the Group 1 cation.
+ 
+ 
+Give the name or formula of the Group 1 cation, which is responsible for the red colour 
+observed in the flame test, and give the name or formula of the Group 2 cation.
+(2)
+Group 1 cation  ..........................................................................................................................................................................................................................................
+Group 2 cation  ..........................................................................................................................................................................................................................................
+red flame
+solid J
+Bunsen 
+burner
+solid J
+watch glass
+A ......................................................... wire
+B .....................................................................................
+PMT
+
+
+--- Page Break ---
+
+3
+*P46939A0320*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Dilute hydrochloric acid is added to a sample of J.  
+J dissolves in the acid but there is no other change.
+ 
+ 
+(i) If J contained a carbonate anion, what would be the observation on the 
+addition of dilute hydrochloric acid?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the name or formula of another anion which would produce the same 
+observation with dilute hydrochloric acid as the carbonate anion.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Aqueous barium chloride is then added to the solution of J in hydrochloric acid.  
+A white precipitate forms.
+ 
+ 
+ 
+Give the formulae for the two salts present in J.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 1 = 8 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P46939A0420*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+2 This question is about the following two dicarboxylic acids. 
+Both acids are solid at room temperature.
+HO
+C
+CH2
+C
+OH
+O
+O
+          HO
+C
+CH
+CH
+C
+OH
+O
+O
+ 
+Propanedioic acid 
+Butenedioic acid
+ 
+(a) (i) Phosphorus(V) chloride is often used to confirm the presence of an OH group in a 
+compound.
+ 
+ 
+ 
+Suggest a practical problem if solid phosphorus(V) chloride is used with these 
+two dicarboxylic acids.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest a reagent that could be used to confirm the presence of an acid group in 
+either of the two compounds above, and the positive observation that would be 
+made.
+(2)
+Reagent  ...........................................................................................................................................................................................................................................................
+Observation  .................................................................................................................................................................................................................................................
+ 
+(b) Bromine dissolved in an organic solvent reacts rapidly with butenedioic acid.
+ 
+ 
+Complete the equation for the reaction of butenedioic acid with bromine.
+(1)
+HO
+C
+CH
+CH
+C
+OH  +  Br2  o
+O
+O
+PMT
+
+
+--- Page Break ---
+
+5
+*P46939A0520*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Propanedioic acid can be produced by the oxidation of propane-1,3-diol. 
+ 
+ 
+(i) Draw the skeletal formula of propane-1,3-diol.
+(1)
+ 
+ 
+(ii) Identify one way in which the infrared spectrum of propanedioic acid would 
+be different from that of the infrared spectrum of propane-1,3-diol.
+ 
+ 
+ 
+Wavenumber data are not required.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 2 = 6 marks)
+PMT
+
+
+--- Page Break ---
+
+6
+*P46939A0620*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 Washing soda is hydrated sodium carbonate, Na2CO3.xH2O, where the number of 
+moles of water of crystallization, x, can vary.
+ 
+A sample of washing soda is analysed.  Two methods are used to determine the value 
+of x in the sample.
+ 
+Method 1: Heating
+ 
+2.50 g of the washing soda is placed in a crucible.  The crucible is gently heated for 
+three minutes and then heated strongly for five minutes.  The mass of the solid after 
+heating is 1.06 g.
+Na2CO3.xH2O(s) o Na2CO3(s) + xH2O(g)   Equation 1
+ 
+(a) Suggest why the crucible is heated gently for the first three minutes.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) What additional step after heating strongly for five minutes is needed to make 
+sure that all of the water of crystallization has been removed?
+ 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) What is the correct chemical term for sodium carbonate without water of 
+crystallization?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(d) (i) Calculate the number of moles of sodium carbonate that remain after heating 
+the sample, assuming that all of the water of crystallization has been removed.
+(2)
+ 
+ 
+(ii) Calculate the number of moles of water lost from the sample of washing soda 
+on heating.
+(1)
+PMT
+
+
+--- Page Break ---
+
+7
+*P46939A0720*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Hence deduce the value of x in the sample of washing soda, Na2CO3.xH2O, obtained 
+using Method 1.
+(1)
+x = ..................................................................
+PMT
+
+
+--- Page Break ---
+
+8
+*P46939A0820*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+Method 2: Titration
+ 
+Sodium carbonate reacts with hydrochloric acid as follows:
+Na2CO3 + 2HCl o 2NaCl + CO2 + H2O   Equation 2
+ 
+A 2.50 g sample of the washing soda is placed in a beaker and dissolved in deionized water.  
+This solution is poured into a 250 cm3 volumetric flask, made up to the mark and mixed 
+thoroughly.
+ 
+A pipette is then used to transfer 25.00 cm3 of the washing soda solution to each of three 
+conical flasks.  A burette is filled with hydrochloric acid, of concentration 0.100 mol dm–3, 
+and titrations are carried out.  The results are shown in the table.
+Titration numbers
+1
+2
+3
+Burette reading (final) / cm3
+17.00
+33.55
+16.45
+Burette reading (initial) / cm3
+ 0.00
+17.00
+ 0.00
+Titre / cm3
+17.00
+16.55
+16.45
+ 
+(e) What should be done to make sure that all of the washing soda is transferred to 
+the volumetric flask?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) Explain why only titrations 2 and 3 are used to calculate the mean titre.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+9
+*P46939A0920*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(g) (i) Calculate the mean titre, and then calculate the number of moles of 
+hydrochloric acid in the mean titre.
+(1)
+ 
+ 
+(ii) Using your answer to part (g)(i) and Equation 2, calculate the number of 
+moles of sodium carbonate present in 25 cm3 of the washing soda solution.
+(1)
+ 
+ 
+(iii) Hence calculate the total number of moles of sodium carbonate present in 
+250 cm3 of the washing soda solution.
+(1)
+ 
+ 
+(iv) Calculate the molar mass of the hydrated washing soda, Na2CO3.xH2O.  Hence 
+deduce the value of x in the sample of washing soda from the data in  
+Method 2.
+(2)
+x = ..........................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*P46939A01020*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(h) A student carrying out Method 2 overshot the end-point of each titration. 
+ 
+ 
+Explain how this would affect the calculated value of x.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 3 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+11
+*P46939A01120*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+12
+*P46939A01220*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 The thermal decomposition of copper(II) carbonate is
+ 
+CuCO3(s) o CuO(s) + CO2(g) 
+Equation 3
+ 
+The enthalpy change for this reaction, ¨H3, cannot be determined directly.  However, 
+it can be calculated using Hess’s law, from the enthalpy changes for the reaction of 
+sulfuric acid with copper(II) carbonate and with copper(II) oxide.
+ 
+(a) A student carried out an experiment to determine the enthalpy change, ¨H4, for 
+the reaction
+CuCO3(s) + H2SO4(aq) o CuSO4(aq) + H2O(l) + CO2(g)   Equation 4
+ 
+ 
+In the experiment, a known mass of copper(II) carbonate was mixed with a known 
+volume of sulfuric acid in a polystyrene cup, and the temperature change measured.  
+The results of the experiment are shown in the table.
+ 
+Measurement
+Reading
+Mass of copper(II) carbonate added to sulfuric acid
+2.54 g
+Volume of sulfuric acid, 1 mol dm–3
+50.0 cm3
+Initial temperature of sulfuric acid before addition of 
+copper(II) carbonate
+24.3°C
+Maximum temperature of sulfuric acid after the addition 
+of copper(II) carbonate
+29.0°C
+ 
+ 
+(i) Calculate the energy transferred, in joules, for this reaction using the expression
+ 
+ 
+ 
+Energy transferred (J)  =  50.0  ×  4.18  ×  temperature change
+(1)
+ 
+ 
+(ii) Calculate the number of moles of copper(II) carbonate used.
+ 
+ 
+ 
+Molar mass of copper(II) carbonate = 123.5 g mol–1
+(1)
+PMT
+
+
+--- Page Break ---
+
+13
+*P46939A01320*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+ 
+(iii) Use your answers to (a)(i) and (a)(ii) to calculate, in kJ mol–1, the enthalpy 
+change, ¨H4, for the reaction shown in Equation 4.  Include a sign for ¨H4 and 
+give your answer to three significant figures.
+(2)
+ 
+ 
+(iv) Why does the sulfuric acid need to be in excess?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) The enthalpy change obtained from this experiment is much less negative 
+than the Data Booklet value. 
+ 
+ 
+ 
+Suggest one likely reason for this difference, other than a measurement error.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P46939A01420*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The student then carried out a similar experiment to determine the enthalpy 
+change, ¨H5, for the reaction between copper(II) oxide and sulfuric acid.
+CuO(s)   +   H2SO4(aq)   o   CuSO4(aq)   +   H2O(l)   Equation 5
+ 
+ 
+From the results of this experiment, ¨H5 was calculated to be –56.1 kJ mol–1.
+ 
+ 
+The values of ¨H4 and ¨H5 can be used to determine the enthalpy change for the 
+thermal decomposition of copper(II) carbonate using the Hess cycle shown below.
+ 
+ 
+Use Hess’s law to calculate the value of ¨H3, in kJ mol–1.  Include a sign in your answer.
+(2)
+ 
+(c) Suggest why it is not possible to determine directly the enthalpy change for the 
+thermal decomposition of copper(II) carbonate.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 4 = 9 marks)
+CuO(s) + CO2(g)
+CuCO3(s)
+CuSO4(aq) + CO2(g) + H2O(l)
++ H2SO4(aq)
++ H2SO4(aq)
+¨H4
+¨H3
+¨H5
+PMT
+
+
+--- Page Break ---
+
+15
+*P46939A01520*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+5 A method for the preparation of iodoethane is given in outline below.
+ 
+Procedure
+ 
+Step 1  Suitable quantities of red phosphorus and iodine are placed in a 
+round-bottom flask.  The flask is fitted with a reflux condenser and immersed 
+in cold water.
+ 
+Step 2   Using a dropping pipette, a suitable volume of ethanol is added, in 1 cm3 portions, 
+down the condenser.
+ 
+Step 3  After the addition of the ethanol is complete, and a further 15 minutes 
+have passed, the cold water bath is removed and the mixture in the flask is 
+heated under reflux for 45 minutes.
+ 
+Step 4  The apparatus is allowed to cool and the condenser is rearranged for 
+distillation.
+ 
+Step 5  The crude iodoethane is distilled off.
+ 
+Step 6  The distillate is washed with dilute sodium carbonate solution.
+ 
+Step 7  The washed iodoethane is separated from the aqueous solution. 
+ 
+Step 8  Anhydrous calcium chloride is added to the washed iodoethane.
+ 
+The equations for the reactions are
+ 
+2P + 3I2  o  2PI3
+3CH3CH2OH + PI3  o  3CH3CH2I + H3PO3
+ 
+(a) What does the way in which ethanol is added in step 2 suggest about the nature 
+of the reaction?
+(1)
+....................................................................................................................................................................................................................................................................................
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+16
+*P46939A01620*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) A student drew a diagram of the apparatus used in step 5.  There are a number of 
+errors in the diagram.
+ 
+ 
+(i) One of the errors is that the flow of water in the condenser is the wrong way 
+round.  Explain the effect of this error.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Identify the most significant error in the diagram and explain the effect of this.
+(1)
+Error  .....................................................................................................................................................................................................................................................................
+Effect  ...................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+17
+*P46939A01720*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+Turn over    
+ 
+(c) Suggest why, in step 6, the crude iodoethane is washed with dilute sodium carbonate 
+solution.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(d) Draw a diagram of the apparatus that would be used in step 7 to separate the 
+iodoethane.  Name the apparatus and label its contents.
+ 
+ 
+The density of iodoethane is 1.5 g cm–3 and the density of the aqueous solution is 
+about 1.0 g cm–3.
+(3)
+Name of apparatus ................................................................................................................................................................................................................................
+Diagram
+ 
+(e) How will the appearance of the iodoethane be changed by the addition of 
+anhydrous calcium chloride in step 8?
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(f) How would the iodoethane be separated from the calcium chloride after step 8?
+(1)
+..................................................................................................................................................................................................................................................................................... 
+..................................................................................................................................................................................................................................................................................... 
+PMT
+
+
+--- Page Break ---
+
+18
+*P46939A01820*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(g) To obtain pure iodoethane, one further step in the preparation is needed.  What is 
+this step?
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(h) It is not possible to effectively produce iodoethane by reacting ethanol with a mixture 
+of sodium iodide and 50% sulfuric acid.  This is because the sulfur in the sulfuric acid can 
+be reduced to form substances such as hydrogen sulfide and sulfur.
+ 
+ 
+State what happens to the iodide ions in the sodium iodide when this occurs.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 5 = 11 marks)
+TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+19
+*P46939A01920*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+20
+*P46939A02020*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PMT

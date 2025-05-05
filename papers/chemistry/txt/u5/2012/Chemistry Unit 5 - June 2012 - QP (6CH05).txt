@@ -1,0 +1,979 @@
+P39309A
+©2012 Pearson Education Ltd.
+7/7/5/5/3/
+*P39309A0120*
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Edexcel GCE
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+You must have: Data Booklet
+Candidates may use a calculator.
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+6CH05/01
+Paper Reference
+Tuesday 19 June 2012 – Afternoon
+Time: 1 hour 40 minutes
+Turn over    
+PMT
+
+
+--- Page Break ---
+
+2
+*P39309A0220*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with 
+a cross 
+.
+1 The acid used in a standard hydrogen electrode to provide a 1 mol dm–3 solution of 
+hydrogen ions is
+ 
+ A 
+ethanoic acid. 
+ 
+ B 
+phosphoric(V) acid.
+ 
+ C 
+sulfuric acid.
+ 
+ D 
+hydrochloric acid.
+(Total for Question 1 = 1 mark)
+2 To measure the standard electrode potential for the Ag+(aq)|Ag(s) electrode, the most 
+suitable chemical for the solution in a salt bridge to connect the two half cells is
+ 
+ A 
+potassium chloride.
+ 
+ B 
+potassium iodide.
+ 
+ C 
+potassium nitrate.
+ 
+ D 
+potassium sulfate. 
+(Total for Question 2 = 1 mark)
+3 For any reversible reaction, ln K is proportional to
+ 
+ A
+Stotal and Ecell.
+ 
+ B
+Stotal but not Ecell.
+ 
+ C 
+Ecell but not Stotal.
+ 
+ D 
+neither Ecell	Stotal.
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P39309A0320*
+Turn over  
+4 This question is about a titration to determine the iron content of a tablet.  The iron(II) 
+ions in the tablet are oxidized to iron(III) ions by acidified manganate(VII) ions which 
+are reduced to manganese(II) ions.
+ 
+(a) The mole ratio of iron(II) to manganate(VII) ions in the reaction is
+(1)
+Fe2+
+MnO4–
+A
+1
+5
+B
+2
+5
+C
+5
+2
+D
+5
+1
+ 
+(b) A 0.200 g tablet is dissolved to make exactly 100 cm3 of solution. 10 cm3 of this 
+solution is found to contain 5.38  10–5 mol of iron(II) ions. 
+ 
+ 
+The percentage by mass of iron (Ar = 55.8) in the tablet is
+(1)
+ 
+A 
+5 3
+0
+55 8
+0 200
+100
+10
+100
+5
+.
+.
+.
+%
+8
+1
+×
+×
+×
+×
+−
+ 
+B 
+5 38
+10
+55 8
+0 200
+100
+10
+100
+5
+.
+.
+.
+%
+×
+×
+×
+×
+−
+ 
+C 
+5 38
+10
+55 8
+0 200
+10
+100
+100
+5
+.
+.
+.
+%
+×
+×
+×
+×
+−
+ 
+D 
+5 38
+10
+0 200
+55 8
+10
+100
+100
+5
+.
+.
+.
+%
+×
+×
+×
+×
+−
+(Total for Question 4 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+4
+*P39309A0420*
+5 Some fuel cells are used to produce energy from the combination of hydrogen and 
+oxygen.  The half-equations for a hydrogen-oxygen fuel cell in alkaline solution are
+ 
+                2H2O(l)  +  2e–    H2(g)  +  2OH–(aq)      E
+ = –0.83 V
+     ½O2(g)  +  H2O(l)  +  2e–    2OH–(aq)                   E
+ = +0.40 V
+ 
+(a) The equation for the cell reaction is
+(1)
+ 
+ A 
+3H2O(l)  +  ½O2
+2(g)  +  4OH–(aq)
+ 
+ B 
+ H2(g)  +  4OH–
+2O(l)  +  ½O2(g)
+ 
+ C 
+H2(g)  +  ½O2
+2O(l)
+ 
+ D 
+H2
+2(g)  +  ½O2(g)
+ 
+(b) From the data above, Ecell for the reaction in the hydrogen-oxygen fuel cell is
+(1)
+ 
+ A 
+–0.43 V
+ 
+ B 
++0.43 V
+ 
+ C 
+–1.23 V
+ 
+ D 
++1.23 V
+ 
+(c) An advantage of operating a hydrogen fuel cell over a conventional jet engine for 
+powering an aeroplane is
+(1)
+ 
+ A 
+it is 100% efficient.
+ 
+ B 
+it does not produce greenhouse gas emissions.
+ 
+ C 
+it does not produce emissions which damage the ozone layer.
+ 
+ D 
+hydrogen is easier to transport.
+(Total for Question 5 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+5
+*P39309A0520*
+Turn over  
+6 Benzocaine is used as a local anaesthetic.
+ 
+Separate samples of a solution of benzocaine are added to 2,4-dinitrophenylhydrazine, 
+hot aqueous sodium hydroxide, and dilute hydrochloric acid.
+ 
+Which chemicals react with benzocaine?
+ 
+A All three
+ 
+B Only sodium hydroxide and hydrochloric acid
+ 
+C Only hydrochloric acid 
+ 
+D Only sodium hydroxide
+(Total for Question 6 = 1 mark)
+7 In the first commonly used breathalyser, acidified potassium dichromate(VI) was used 
+which was reduced to chromium(III) by alcohol.
+ 
+The colour change seen when alcohol was present in a motorist’s breath is from
+ 
+A orange to green. 
+ 
+B orange to yellow.  
+ 
+C yellow to green.
+ 
+D yellow to orange.
+(Total for Question 7 = 1 mark)
+8 For which of the following are both tests acceptable evidence for a driver to be 
+successfully prosecuted for excess alcohol in the blood in many countries?
+ 
+A A dichromate(VI) breath analyser and a blood test.
+ 
+B A dichromate(VI) breath analyser and a fuel cell breath analyser.
+ 
+C A dichromate(VI) breath analyser and an infrared breath analyser.
+ 
+D An infrared breath analyser and a blood test.
+(Total for Question 8 = 1 mark)
+NH2
+O
+C
+OCH2CH3
+PMT
+
+
+--- Page Break ---
+
+6
+*P39309A0620*
+9 The structural formula of caffeine, C8H10O2N4, is shown below.  
+ 
+(a) How many main peaks would you expect in the proton nuclear magnetic resonance 
+spectrum of caffeine?
+(1)
+ 
+ A 
+1
+ 
+ B 
+2
+ 
+ C 
+3
+ 
+ D 
+4
+ 
+(b) At which of the following wavenumbers is an absorption peak not present in the 
+infrared spectrum of caffeine?
+(1)
+ 
+ A 
+3600 cm–1
+ 
+ B 
+2925 cm–1
+ 
+ C 
+1690 cm–1
+ 
+ D 
+1660 cm–1
+ 
+(c) The parent ion peak of caffeine in the mass spectrum of caffeine would be at m/e 
+ratio
+(1)
+ 
+ A 
+101
+ 
+ B 
+102
+ 
+ C 
+193
+ 
+ D 
+194
+CH3
+N
+N
+N
+O
+O
+CH3
+N
+CH3
+PMT
+
+
+--- Page Break ---
+
+7
+*P39309A0720*
+Turn over  
+ 
+(d) Intermolecular forces between caffeine molecules would include
+(1)
+ 
+A London forces only.
+ 
+B London forces and hydrogen bonds. 
+ 
+C London forces and permanent dipole forces. 
+ 
+D London forces, permanent dipole forces, and hydrogen bonds.
+(Total for Question 9 = 4 marks)
+10 (a) The principal advantage of combinatorial chemistry over traditional methods for 
+developing pharmaceuticals is that
+(1)
+ 
+A very small amounts of compounds are used.
+ 
+B many more compounds can be made in a given time.
+ 
+C compounds formed are more powerful drugs.
+ 
+D compounds formed have fewer side effects.
+ 
+(b) A refinement of combinatorial chemistry involves initially attaching compounds 
+firmly to polymer beads.  The type of attachment is most likely to be by
+(1)
+ 
+A metallic bonds.
+ 
+B covalent bonds.
+ 
+C London forces.
+ 
+D permanent dipole forces.
+(Total for Question 10 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+8
+*P39309A0820*
+11 Four reactions involving the transition elements copper and chromium are given below.
+ 
+1 Cu2+(aq) + 2OH−
+
+2(s)
+ 
+2 [Cu(H2O)4(OH)2](s) + 4NH3
+
+2O)2(NH3)4]2+(aq) + 2OH−(aq) + 2H2O(l)
+ 
+3 [Cr(H2O)3(OH)3](s) + 3OH−
+	
+6]3−(aq) + 3H2O(l)
+ 
+4 [Cr(H2O)3(OH)3](s) + 3H+
+	
+2O)6]3+(aq) 
+ 
+(a) Which reaction produces a dark blue solution?
+(1)
+ 
+ A 
+1
+ 
+ B 
+2
+ 
+ C 
+3
+ 
+ D 
+4
+ 
+(b) Which two reactions show the amphoteric behaviour of a metal hydroxide?
+(1)
+ 
+ A 
+1 and 2
+ 
+ B 
+2 and 3
+ 
+ C 
+2 and 4
+ 
+ D 
+3 and 4
+ 
+(c) Predict, without calculation, which reaction has the most negative value for ΔSsystem.
+(1)
+ 
+ A 
+1
+ 
+ B 
+2
+ 
+ C 
+3
+ 
+ D 
+4
+(Total for Question 11 = 3 marks)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*P39309A0920*
+Turn over  
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+12 This question is about benzene and its compounds.
+ 
+(a) A Kekulé structure of benzene suggests the molecule consists of alternate double and 
+single carbon to carbon bonds.
+ 
+ 
+The standard enthalpy change of hydrogenation of a carbon to carbon double bond is 
+–120 kJ mol–1.
+ 
+ 
+(i) Calculate the standard enthalpy change of hydrogenation of benzene for the 
+Kekulé structure. 
+(1)
+................................................................................................................................................................................................................................................
+ 
+ *(ii) The actual standard enthalpy change of hydrogenation of benzene is                     
+–208 kJ mol–1. 
+ 
+ 
+ 
+Use this information and your answer to (i), to calculate the difference in 
+stability of benzene and the Kekulé structure. 
+ 
+ 
+ 
+What does this tell us about the bonding in benzene?
+ 
+ 
+ 
+Explain how this influences the type of chemical reactions that benzene 
+undergoes. 
+(4)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*P39309A01020*
+ 
+(b) The flow chart shows some typical reactions of benzene.
+Br2/FeBr3
+                       C6H5NO2  
+  C6H6  
+  C6H5Br
+                    nitrobenzene                  benzene                bromobenzene
+                                                                 fuming sulfuric acid
+                                                      Compound A
+ 
+ 
+(i) Identify the two chemicals needed to make nitrobenzene from benzene.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Classify the type of reagent required in all three reactions.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Show, with appropriate diagrams, the mechanism for the reaction of benzene 
+with bromine, in the presence of iron(III) bromide, to form bromobenzene. 
+Include the formation of the ion attacking the benzene molecule.
+(4)
+PMT
+
+
+--- Page Break ---
+
+11
+*P39309A01120*
+Turn over  
+ 
+ 
+(iv) Give the structural formula and the name for compound A.
+(2)
+Name ..................................................................................................................................................................................................................................
+ 
+(c) (i) Explain why phenol, C6H5OH, and methoxybenzene, C6H5OCH3, are much 
+more reactive than benzene with bromine.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write the equation for the reaction between phenol and bromine water.  State 
+symbols are not required.
+(2)
+ 
+(d) Diphenylmethane, (C6H5)2CH2, is often added to soap to create the pleasant smell 
+of geraniums.  It can be made from benzene and one other reagent, using a suitable 
+catalyst.
+ 
+ 
+Identify the other starting material and the catalyst by name or formula.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 12 = 21 marks)
+PMT
+
+
+--- Page Break ---
+
+12
+*P39309A01220*
+13 This question is about 1,2-diaminoethane, H2NCH2CH2NH2.
+ 
+(a) Write an equation for the reaction between 1,2-diaminoethane and excess dilute 
+hydrochloric acid.
+(2)
+ 
+(b) When an aqueous solution of nickel(II) ions is added to 1,2-diaminoethane, a 
+complex ion forms.
+ 
+ 
+3H2NCH2CH2NH2  +  Ni(H2O)62+
+2NCH2CH2NH2)32+  +  6H2O
+ 
+ 
+(i) Suggest the colour of this complex.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Without using the data booklet, suggest why the complex formed is more stable 
+than Ni(H2O)62+ by considering the appropriate entropy change.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) This complex can exist as two structures, which are non-superimposable mirror 
+images.
+ 
+ 
+ 
+Suggest the physical property that would enable you to distinguish between 
+these two structures.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P39309A01320*
+Turn over  
+ 
+(c) 1,2-diaminoethane reacts with butane-1,2-dioyl dichloride, ClOCCH2CH2COCl, to 
+form a polymer.
+ 
+ 
+(i) Draw a displayed formula for this polymer showing one repeat unit.
+(2)
+ 
+ 
+(ii) Give, and explain, the name for this type of polymerization reaction.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ *(iii) State and explain the intermolecular forces between two of these polymer 
+chains. 
+(5)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+(Total for Question 13 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P39309A01420*
+14 An organic compound X contains carbon, hydrogen, oxygen and nitrogen.
+ 
+0.132 g of X is burned completely in oxygen to produce 0.072 g of water, 0.176 g of 
+carbon dioxide and 24.0 cm3 of nitrogen.
+ 
+[Molar volume of nitrogen under the conditions of the experiment = 24000 cm3 mol–1] 
+ 
+(a) Calculate the empirical formula of compound X.
+(5)
+ 
+(b) The molar mass of X is 132 g mol–1.  Deduce the molecular formula for X. Show 
+how you arrived at your answer.
+(1)
+PMT
+
+
+--- Page Break ---
+
+15
+*P39309A01520*
+Turn over  
+ 
+(c) When X is refluxed with concentrated hydrochloric acid for several hours, cooled 
+and neutralized, there is only one organic product, Y, which has the molecular 
+formula C2H5O2N. 
+ 
+ 
+One mole of Y will react with either one mole of hydrochloric acid or one mole of 
+sodium hydroxide solution. 
+ 
+ 
+When Y is sprayed with a solution of ninhydrin and heated, a purple colour is 
+observed.
+ 
+ 
+(i) Use all the information above to deduce the functional groups present in Y and 
+to classify the type of compound it is.  Justify your answer.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Deduce the displayed formula for Y and give its name.
+(2)
+Name of Y ......................................................................................................................................................................................................................
+ 
+ 
+(iii) Hence give the structural formula for X.
+(1)
+(Total for Question 14 = 12 marks)
+TOTAL FOR SECTION B = 48 MARKS
+PMT
+
+
+--- Page Break ---
+
+16
+*P39309A01620*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+15 
+ 
+Some unusual oxidation states
+ 
+You will probably have seen manganese in its common oxidation states during your study 
+of chemistry.  Manganese(II) sulfate occurs as very pale pink crystals in the hydrated 
+form. Manganese(IV) oxide is a black powder which is often used as a catalyst. Potassium 
+manganate(VII) occurs as very dark purple crystals and forms a purple aqueous solution, 
+which is a powerful oxidizing agent.
+ 
+You are less likely to have seen compounds containing the other oxidation states of 
+manganese, which are manganese(VI), manganese(V), manganese(III) and manganese(I).  
+However, compounds containing each of these four oxidation states can be prepared.
+ 
+Manganese(VI)
+ 
+Manganese(VI), in MnO42–, can be prepared in a reverse disproportionation reaction, by 
+reacting manganate(VII) ions with manganese(IV) oxide in alkali.
+ 
+Equation 1
+ 
+2MnO4−(aq)  +  MnO2(s)  +  4OH−
+42−(aq)  +  2H2O(l)  E
+
+cell  =  –0.03V
+ 
+The reaction is not thermodynamically favourable under standard conditions.  However, the 
+Ecell value can be made positive by increasing the concentration of hydroxide ions so that 
+green manganate(VI) ions form.
+ 
+Manganese(V)
+ 
+Manganese(V) can be formed by adding a little potassium manganate(VII) to very 
+concentrated (12 mol dm−3) aqueous sodium hydroxide.  The solution slowly becomes blue 
+as manganate(V) ions, MnO3–(aq), form.  The ionic half-equations are:
+ 
+Equation 2
+MnO4–(aq)  +  H2O(l)  +  2e–3–(aq)  +  2OH–(aq)
+ 
+Equation 3
+4OH–
+2O(l)  +  O2(g)  +  4e–
+ 
+Manganese(III)
+ 
+A deep red solution containing manganese(III) ions is formed by the oxidation of 
+manganese(II) hydroxide by potassium manganate(VII) in acid solution.  The ionic 
+equation for the reaction is:
+ 
+Equation 4
+ 
+MnO4–(aq)  +  4Mn(OH)2(s)  +  16H+
+3+(aq)  +  12H2O(l)
+ 
+Manganese(I)
+ 
+Manganese(I) ions are not stable in aqueous solution, but do form stable complex 
+ions. They can be made by reducing hexacyanomanganate(II) ions, Mn(CN)64–, to 
+hexacyanomanganate(I) ions, Mn(CN)65–.
+PMT
+
+
+--- Page Break ---
+
+17
+*P39309A01720*
+Turn over  
+ 
+(a) (i) Give the formula of manganese(IV) oxide.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) How do catalysts speed up reactions?
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Explain how transition metal ions can act as homogeneous catalysts.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(b) (i) Suggest why the preparation of manganate(VI) ions, MnO42–, in equation 1, 
+may be described as a reverse disproportionation reaction by considering the 
+relevant oxidation states.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*P39309A01820*
+ 
+ 
+(ii) The two half-equations which are combined to form equation 1 are
+                          MnO4−(aq)   +  e–    MnO42−(aq)                              E
+ = +0.56 V
+        MnO42−(aq)  +  2H2O(l) + 2e–    MnO2(s)  +  4OH−(aq)              E
+ = +0.59 V
+ 
+ 
+ 
+Explain, by reference to these half-equations, why increasing the concentration 
+of hydroxide ions alters the electrode potential to make the preparation of 
+manganate(VI) ions more likely.
+(3)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(c) Use equations 2 and 3 to answer the following questions.
+ 
+ 
+(i) Identify the gas formed in the preparation of manganate(V) ions.
+(1)
+................................................................................................................................................................................................................................................
+ 
+ 
+(ii) By appropriately combining these two equations, write the ionic equation for the 
+formation of manganate(V) ions from manganate(VII) ions.
+(2)
+ 
+ 
+(iii) Identify the main hazard and state how you would minimize the associated risk 
+in this preparation of manganate(V) ions.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P39309A01920*
+ 
+(d) Identify the reagents you would use to make manganese(II) hydroxide for the 
+preparation of manganese(III) ions.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+(e) (i) Draw a dot and cross diagram to show the electron arrangement in the cyanide 
+ion, CN–.
+(2)
+ 
+ 
+(ii) Explain how the cyanide ion acts as a ligand.
+(2)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest the name of the shape of the hexacyanomanganate(I) ion.
+(1)
+................................................................................................................................................................................................................................................
+(Total for Question 15 = 22 marks)
+TOTAL FOR SECTION C = 22 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P39309A02020*
+PMT

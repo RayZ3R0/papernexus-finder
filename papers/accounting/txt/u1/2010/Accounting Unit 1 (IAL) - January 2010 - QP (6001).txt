@@ -1,0 +1,1068 @@
+Turn over
+Paper Reference(s)
+6001/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 1 – The Accounting System and Costing
+Monday 18 January 2010 – Morning
+Source booklet for use with Questions 
+1 to 7.
+Do not return this booklet with the 
+question paper.
+Printer’s Log. No.
+H36389A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2010 Edexcel Limited.
+W850/6001/57570   1/1/1/1/
+*H36389A*
+
+
+--- Page Break ---
+
+H36389A	
+	
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1. 	 Highflyer manufactures and sells solar powered calculators. The following balances remained in 
+the books of Highflyer at 31 December 2009.
+  	
+	
+£	
+Purchases of raw materials	
+72 500
+Production wages	
+109 200
+Office wages	
+33 450
+Salaries:	
+	
+Production manager	
+25 000
+	
+Office manager	
+17 500
+Rent	
+	
+18 000
+Sundry factory expenses	
+31 700
+Sales	
+	
+350 000
+Carriage outwards	
+3 800
+Bad debts	
+8 100
+Fixed assets:
+	
+Plant and machinery at cost	
+68 000
+	
+Fixtures and fittings at cost	
+26 000
+Provisions for depreciation on:
+	
+Plant and machinery	
+32 000
+	
+Fixtures and fittings	
+7 100
+Provision for doubtful debts	
+2 900
+Debtors	 	
+45 000
+Creditors	
+36 000
+Bank overdraft	
+5 350
+Capital	 	
+85 000	
+Drawings	
+20 600
+Stock at 1 January 2009:	
+ 
+	
+Raw materials	
+4 700
+	
+Work in progress	
+9 200
+	
+Finished goods	
+25 600
+
+
+--- Page Break ---
+
+H36389A	
+
+
+Turn over
+	
+Additional information:
+	
+• 	 Stock at 31 December 2009:
+	
+	
+Raw materials	
+£3 750
+	
+	
+Work in progress	
+£14 000
+	
+	
+Finished goods	
+£30 400
+	
+• 	 Production wages £3 850 are accrued and carriage outwards £650 is prepaid.
+	
+• 	 Rent is apportioned on the basis of floor area occupied. Manufacturing occupies 2 000 sq m 
+and the office occupies 500 sq m.
+	
+• 	 Office wages include a £750 interest free loan to a member of the office staff, repayable on 
+28 February 2010.
+	
+• 	 Depreciation is charged as follows: 
+	
+	
+– plant and machinery, 20% per annum using the straight line method 
+	
+	
+– fixtures and fittings, 15% per annum using the straight line method.
+	
+• 	 On 30 December 2009, a debtor owing £4 000 had ceased trading and the decision was made 
+by Highflyer to write off the amount as a bad debt. No entries had been made in the books by 
+31 December 2009. 
+	
+• 	 The provision for doubtful debts is to be maintained at 6% of the remaining debtors.
+	
+• 	 During the year Highflyer manufactured 111 000 solar powered calculators.
+	
+Required:
+	
+(a)	 Prepare for Highflyer, for the year ended 31 December 2009, the:
+	
+	
+(i)	 manufacturing account
+	
+	
+(ii)	 trading and profit and loss account.
+(21)
+	
+(b)	 Prepare the balance sheet as at 31 December 2009.
+(15)
+	
+(c)	 Calculate for the year the cost of production of one solar powered calculator.
+ (2)
+	
+(d)	 Highflyer’s cost of production includes fixed costs and semi-fixed costs.
+	
+	
+(i)	 Define the terms fixed costs and semi-fixed costs.
+	
+	
+(ii)	 Using the manufacturing account of Highflyer, give one example of a fixed cost and one 
+example of a semi-fixed cost.
+(6)
+	
+An overseas supplier of solar powered calculators has offered to supply Highflyer at a price which 
+is 10% lower than the current cost of production of Highflyer. If Highflyer accepts this offer, it 
+would close its manufacturing unit and concentrate on the sale of solar powered calculators. 
+	
+(e)	 Evaluate whether Highflyer should accept the offer made by the overseas supplier.
+(8)
+	
+	
+	
+ (Total 52 marks)
+Answer space for question 1 is on pages 2 to 6 of the question paper.
+
+
+--- Page Break ---
+
+H36389A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.	 The trial balance below was extracted from the books of Khimja on 30 November 2009 following 
+the preparation of the trading account:
+	
+	
+	
+	
+	
+	
+	
+  	
+	
+	
+£	
+£
+	
+Gross profit	
+	
+170 000	
+	
+Capital	 	
+	
+36 000
+	
+Wages 		
+39 400
+	
+Salaries		
+80 000
+	
+Rent	
+	
+15 500
+	
+General expenses	
+11 700
+	
+Debtors and Creditors	
+21 300	
+16 500
+	
+Bank	
+	
+8 100
+	
+Stock	 	
+19 000
+	
+Fixed assets:
+	
+	
+Motor vehicles	
+30 000
+	
+	
+Office furniture	
+18 000
+	
+Provisions for depreciation:	
+	
+	
+Motor vehicles	
+	
+16 000
+	
+	
+Office furniture	
+	
+	9 170
+	
+Suspense	
+4 670	
+             
+	
+	
+	
+247 670	
+	 247 670
+	
+Following the preparation of the trial balance and the trading account the following errors were 
+discovered:
+	
+• 	 Goods costing £3 500 on sale or return from a supplier, Raihan, had been returned on 1 October 
+2009. No entry had been made in the books of Khimja to record the return.
+	
+• 	 The stocktake sheets on 30 November 2009 had been overcast by £500.
+	
+• 	 A payment for general expenses of £980 had been correctly entered in the bank account, but 
+had been credited to the general expenses account as £890.
+	
+• 	 A rent payment of £1 500 had been correctly entered in the bank account, but no entry had been 
+made in the rent account.
+	
+• 	 A wage bonus of £3 000 had been correctly entered in the bank account, but had been entered 
+as £3 300 in the wages account. 
+	
+• 	 A salary bonus of 2% of salaries had been paid, but no entry had been made in the salaries 
+account.
+	
+• 	 All fixed assets are depreciated at the rate of 15% using the straight line method. A motor 
+vehicle purchased on 1 December 2006 for £14 000, was sold on 30 November 2009, a cheque 
+being received for £4 000. No entries had been made in the books to record the sale. Khimja 
+uses a disposal account.
+
+
+--- Page Break ---
+
+H36389A	
+5
+
+Turn over
+	
+Required:
+	
+(a)	 Prepare the: 
+	
+	
+(i)	 journal entries to correct the errors in the accounts
+(18)
+	
+	
+(ii)	 suspense account.
+ (5)
+	
+(b)	 Re-draft the trial balance after all errors have been corrected.
+(12)
+	
+(c)	 Prepare the profit and loss account for the year ended 30 November 2009.
+ (9)
+	
+(d)	 Evaluate the role of the trial balance in ensuring that all transactions have been correctly 
+recorded in the books.
+ 	
+ (8)
+	
+	
+	
+ (Total 52 marks)
+Answer space for question 2 is on pages 8 to 12 of the question paper.
+
+
+--- Page Break ---
+
+H36389A	
+	
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.	 Chin is a builders’ merchant with three departments: plumbing, electrical and timber. 
+	
+The following balances were extracted from the books on 31 December 2009:
+  	
+	
+£	
+£
+	
+Purchases:
+	
+	
+Plumbing	
+58 000
+	
+	
+Electrical	
+65 000	
+	
+	
+	
+Timber	
+55 000	
+	
+	
+Sales:
+	
+	
+Plumbing	
+	
+110 000
+	
+	
+Electrical	
+	
+148 000
+	
+	
+Timber	
+	
+96 000
+	
+Wages:
+	
+	
+Plumbing	
+18 000
+	
+	
+Electrical	
+27 000
+	
+	
+Timber	
+35 000
+	
+Managers’ salaries	
+30 000
+	
+Stock at 1 January 2009:
+	
+	
+Plumbing	
+14 000
+	
+	
+Electrical	
+16 700
+	
+	
+Timber	
+18 200
+	
+Administration expenses	
+13 300
+	
+Rent and heat	
+8 500
+	
+Vehicle running expenses	
+20 000
+	
+Premises extension	
+45 000
+	
+Fixed assets:
+	
+	
+Premises	
+100 000
+	
+	
+Equipment	
+60 000
+	
+	
+Delivery vehicle	
+16 000
+	
+Provisions for depreciation:
+	
+	
+Premises	
+	
+15 000
+	
+	
+Equipment	
+	
+27 000
+	
+	
+Delivery vehicle	
+	
+6 000
+	
+Debtors and Creditors	
+59 000	
+36 000
+	
+Provision for doubtful debts	
+	
+1 950
+
+
+--- Page Break ---
+
+H36389A	
+
+
+Turn over
+	
+Additional information:
+	
+• 	 Stock at 31 December 2009:
+	
+	
+	
+Plumbing	
+£12 800
+	
+	
+	
+Electrical	
+£14 300
+	
+	
+	
+Timber	
+£21 100
+	
+• 	 During the year, Chin contracted a builder to carry out a premises extension. In addition to the 
+£45 000 paid to the builder, Chin supplied timber costing £5 000 for the extension. No entries 
+had been made in the books to record the transfer of timber. 
+	
+• 	 Depreciation is charged on cost using the straight line method, as follows:
+	
+	
+– premises at the rate of 2%
+	
+	
+– equipment 15% 
+	
+	
+– delivery vehicle 20%. 
+	
+	
+A full year’s depreciation is charged on assets owned at the end of the year.
+	
+• 	 A provision for doubtful debts is to be maintained at the following rates:
+	
+	
+	
+	
+Debtors	
+Debtors	
+Rate
+	
+	
+	
+	
+1 January 	
+31 December
+	
+	
+	
+Plumbing	
+£10 000	
+£15 000	
+5%
+	
+	
+	
+Electrical	
+£18 000	
+£21 000	
+3%
+	
+	
+	
+Timber	
+£13 000	
+£23 000	
+7%
+	
+• 	 Managers’ salaries, administration expenses, rent and heat, vehicle running expenses and 
+depreciation are apportioned to departments on the most appropriate basis from the following 
+information:
+	
+	
+	
+	
+Plumbing	
+Electrical	
+Timber
+	
+	
+	
+Staff (number)	
+3	
+5	
+7
+	
+	
+	
+Use of administration (%)	
+35	
+40	
+25
+	
+	
+	
+Use of delivery vehicle (%)	
+20	
+20	
+60
+	
+	
+	
+Use of equipment (%)	
+25	
+25	
+50
+	
+	
+	
+Area occupied (sq m)	
+300	
+250	
+450
+	
+Required:
+	
+(a)	 Prepare the departmental trading and profit and loss account, in columnar format, showing 
+clearly the profit or loss for each department for the year ended 31 December 2009. A total 
+column is not required.
+        (28)
+	
+(b)	 Using the accounts of Chin, explain why each of the following is an application of the 
+accounting term or concept stated:
+	
+	
+	
+Application in accounts	
+Accounting term or concept
+	
+	
+(i)	 Provision for doubtful debts	
+Prudence concept
+(4)
+	
+	
+(ii)	 Cost of sales	
+Accruals concept
+(4)
+	
+	
+(iii)	Premises extension	
+Capital expenditure
+(4)
+	
+	
+(iv)	Wages	
+Allocation
+(4)
+
+
+--- Page Break ---
+
+H36389A	
+	
+	
+In the years 2007 and 2008, the timber department had made losses. If the losses continue, Chin 
+would consider closing the timber department.
+	
+(c)	 Evaluate the likely impact on Chin’s business of a decision to close the timber department.
+(8)
+	
+	
+	
+ (Total 52 marks)
+Answer space for question 3 is on pages 14 to 19 of the question paper.
+
+
+--- Page Break ---
+
+H36389A	
+
+
+Turn over
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4. 	 Tan is in business buying and selling goods on credit. He is having difficulty paying his creditors 
+and the bank refuses to allow him an overdraft. The following information relates to the last two 
+trading years ended 31 December 2008 and 31 December 2009:
+ 
+	
+	
+	
+2008	
+2009
+   	
+	
+	
+£	
+£
+	
+Sales	 	
+400 000	
+380 000
+	
+Cost of sales	
+280 000	
+285 000
+	
+Expenses	
+85 000	
+90 000
+	
+Net profit	
+35 000	
+5 000
+	
+Fixed assets	
+120 000	
+130 000
+	
+Stock		
+35 000	
+40 000
+	
+Debtors	
+40 000	
+55 000
+	
+Creditors	
+30 000	
+85 000
+	
+10% Loan repayable 2015	
+25 000	
+25 000
+	
+Capital	
+150 000	
+120 000
+	
+Bank	 	
+10 000	
+5 000
+	
+Additional information:
+	
+Stock at 1 January 2008, £30 000.
+	
+Required:
+	
+(a)	 Calculate for both 2008 and 2009 the:
+	
+	
+(i)	 gross profit to sales percentage
+	
+(4)
+	
+	
+(ii)	 rate of stock turnover
+(4)
+	
+	
+(iii)	debtors collection period in days
+(4)
+	
+	
+(iv)	return on capital employed
+	
+(4)
+	
+	
+(v)	 liquid (acid test) ratio.
+(4)
+
+
+--- Page Break ---
+
+H36389A	
+10	
+	
+(b)	 Comment upon:
+	
+	
+(i)	 the adequacy of liquidity for Tan’s business
+	
+(2)
+	
+	
+(ii)	 how Tan might improve the liquidity of his business.
+(6)
+	
+(c)	 Evaluate the usefulness of ratios when considering the future of a business.
+(4)
+	
+	
+	
+ (Total 32 marks)
+Answer space for question 4 is on pages 20 to 23 of the question paper.
+
+
+--- Page Break ---
+
+H36389A	
+11
+
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5. 	 Smith & Co is a firm of accountants. The firm employs two grades of accounting staff: partners 
+and juniors. The firm charges for the services of partners and juniors on the basis of hours worked 
+in preparing the accounts of clients.
+	
+The following information is available:
+	
+• 	 Smith & Co employs 2 partners and 3 juniors.
+	
+• 	 Salaries paid:	
+Partners	
+£40 000
+	
+	
+	
+Juniors	
+£16 000
+	
+• 	 Smith & Co pays an additional 25% of salaries in the form of employers’ government taxes.
+	
+• 	 The partners and juniors are supported by one administrative assistant who is paid a wage of
+£1 000 per month. To this is added 25% of wages in the form of employers’ government 
+taxes.
+	
+• 	 The administrative assistant spends an equal amount of time supporting each partner and each 
+junior.
+	
+• 	 Other expenses for one year are £35 000. The hourly rate charged to clients for each partner 
+and each junior would be increased by £7 per hour for these expenses.
+	
+• 	 It is estimated that hours chargeable to clients in the year will be: 
+	
+	
+	
+Partners	
+1 000 hours each partner
+	
+	
+	
+Juniors	
+1 150 hours each junior
+	
+Required:
+	
+(a)	 Calculate the:
+	
+	
+(i)	 total salary and wage cost (including employers’ government taxes) paid by Smith & Co 
+for one year
+(4)
+	
+	
+(ii)	 total cost of operating Smith & Co for one year
+(2)
+	
+	
+(iii)	rate to be charged to clients for one hour for the services of:
+	
+	
+	
+•	
+a partner
+	
+	
+	
+•	
+a junior.
+(14)
+	
+(b)	 Identify four business activities likely to be undertaken by a partner which would not be 
+directly charged to a client.
+(8)
+	
+(c)	 Evaluate the use of hourly rates as a method of charging clients.
+(4)
+	
+	
+	
+ (Total 32 marks)
+Answer space for question 5 is on pages 24 to 27 of the question paper.
+
+
+--- Page Break ---
+
+H36389A	
+12	
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6. 	 Chong and Dey are in partnership sharing profits and losses 3:2. Interest is allowed on capital at 
+the rate of 4% per annum and Dey is paid a salary of £7 000 per annum. No interest is charged on 
+drawings. The following balances remained in the books after the preparation of the trading and 
+profit and loss account for the year ended 30 November 2009:
+  	
+	
+£	
+Net profit	
+21 000 DR
+Drawings:
+	
+Chong	
+8 000 DR
+	
+Dey	
+14 500 DR
+Land and buildings	
+30 000 DR
+Office equipment	
+11 000 DR
+Debtors	 	
+6 250 DR
+Creditors	
+13 750 DR
+Bank	
+	
+2 000 DR
+Stock	
+	
+13 150 DR
+Prepaid expenses	
+600 DR
+Accrued expenses	
+750 DR
+Capital:
+	
+Chong	
+30 000 DR
+	
+Dey	
+20 000 DR
+	
+Additional information:
+	
+• 	 Chong and Dey operate fluctuating capital accounts.
+	
+• 	 On 1 December 2009 Chong and Dey agreed to admit Elva as a partner. Elva would bring the 
+following assets and liabilities into the partnership on that date:
+	
+	
+	
+Delivery vehicle	
+£6 000
+	
+	
+	
+Stock	
+ £8 200
+	
+	
+	
+Debtors	
+ £4 000
+	
+	
+	
+Creditors	
+£3 200
+	
+	
+	
+Bank cheque	
+£10 000
+	
+• 	 Goodwill was valued by Chong and Dey on 30 November 2009 at £60 000. Goodwill is not to 
+be recorded in the books of the new partnership.
+	
+• 	 It was agreed that Chong would reduce his capital by £15 000, taking this sum by cheque on 
+1 December 2009.
+	
+• 	 The new partnership would share profits and losses in the ratio of Chong, Dey and Elva 2:2:1 
+respectively.
+
+
+--- Page Break ---
+
+H36389A	
+13
+
+Turn over
+	
+Required:
+	
+(a)	 Explain why goodwill is not normally recorded in the books of a business.
+(4)
+	
+(b)	 Prepare the:
+	
+	
+(i)	 appropriation account of Chong and Dey for the year ended 30 November 2009
+(4)
+	
+	
+(ii)	 capital accounts of Chong, Dey and Elva recording the year end appropriations and the 
+admission of the new partner.
+	
+	
+	
+You are required to balance the accounts at 30 November 2009, and again after the 
+introduction of the new partner.
+ (13)
+	
+	
+(iii)	balance sheet of the new partnership on 1 December 2009.
+(7)
+	
+(c)	 Evaluate the decision to admit a new partner to the business, from the view of Chong and 
+Dey.
+(4)
+(Total 32 marks)
+Answer space for question 6 is on pages 28 to 30 of the question paper.
+
+
+--- Page Break ---
+
+H36389A	
+14	
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.	 A fire occurred at the business premises of Leila on 17 November 2009. Leila did not keep her 
+records at the business premises and can therefore provide the following information:
+	
+• 	 Balances at 1 November 2009:
+	
+	
+	
+Stock at cost	
+£14 700
+	
+	
+	
+Debtors 	
+£16 650
+	
+	
+	
+Creditors	
+£12 500
+	
+• 	 Transactions between 1 November and 17 November 2009:
+	
+	
+	
+Receipts from debtors	
+£117 400
+	
+	
+	
+Payments to creditors 	
+£79 000
+	
+	
+	
+Cash purchases	
+£2 800
+	
+• 	 Balances at 17 November 2009:
+	
+	
+	
+Remaining stock at 
+	
+	
+	
+	 net realisable value	
+£4 850
+	
+	
+	
+Debtors 	
+£19 250
+	
+	
+	
+Creditors	
+£14 700
+	
+• 	 Leila uses a ‘mark up’ of 50%
+	
+Required:
+	
+(a)	 Explain the term net realisable value.
+(4)
+	
+(b)	 Calculate the:
+	
+	
+(i)	 purchases for the period 1 November to 17 November 2009
+(6)
+	
+	
+(ii)	 sales for the period 1 November to 17 November 2009
+(6)
+	
+	
+(iii)	value of the lost and fire damaged stock.
+	
+(12)
+	
+“Valuing stock at net realisable value does not comply with accounting concepts and 
+conventions.”
+	
+(c)	 Evaluate this view.
+(4)
+	
+	
+	
+(Total 32 marks)
+Answer space for question 7 is on pages 32 to 35 of the question paper.

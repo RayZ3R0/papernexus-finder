@@ -1,0 +1,307 @@
+FP2 Paper 6  |*adapted 2006 JAN 
+1.
+Find the set of values of x for which
+(Total 6 marks) 
+2.
+(a) 
+Find the general solution of the differential equation
+(4) 
+ (b) Given that x = 1 and 
+ at  t = 0, find the particular solution of the differential equation, 
+giving your answer in the form x = f(t). 
+(5) 
+ (c) 
+Sketch the curve with equation x = f(t), 0 ≤ t ≤ π, showing the coordinates, as multiples of π, of the 
+points where the curve cuts the x-axis. 
+(4)(Total 13 marks) 
+3.
+(a) 
+Show that the substitution y = vx transforms the differential equation
+into the differential equation 
+(4) 
+ (b) By solving differential equation (II), find a general solution of differential equation (I). (5) 
+(c) 
+Given that y = 7 at x = 1, show that the particular solution of differential equation (I) can be written 
+as 
+(3y – x)(y + 3x) = 200. 
+(5)(Total 14 marks) 
+4.
+A curve C has polar equation
+ 
+The line l is parallel to the initial line, and l is the tangent to C at 
+the point P, as shown in the figure 
+above. 
+(a) 
+(i) 
+Show that, for any point on C, r2 sin2 θ can be 
+expressed in terms of sin θ and a only. (1) 
+(ii) 
+Hence, using differentiation, show that the polar 
+coordinates of P are 
+.(6) 
+The shaded region R, shown in the figure above, is bounded by C, the line l and the half-line with equation 
+(b) Show that the area of R is 
+(8) 
+.
+2
+2
+2
+x
+x
+x
+>
+−
+.0
+5
+d
+d
+2
+d
+d
+2
+2
+=
++
++
+x
+t
+x
+t
+x
+1
+d
+d =
+t
+x
+)I(
+3
+4
+4
+3
+d
+d
+y
+x
+y
+x
+x
+y
++
+−
+=
+).
+II
+(
+4
+3
+3
+8
+3
+d
+d
+2
++
+−
++
+−
+=
+v
+v
+v
+x
+x v
+.
+4
+0
+,
+2
+cos
+2
+2
+π
+θ
+θ
+≤
+≤
+= a
+r
+
+
+
+
+
+
+6
+,
+2
+π
+a
+.
+2
+π
+θ =
+(
+).
+4
+3
+3
+16
+2
+−
+a
+O
+P
+R
+C
+l
+= 0
+= 2
+PMT
+
+
+--- Page Break ---
+
+(Total 15 marks) 
+ 
+5. 
+Solve the equation                     z5 = i 
+giving your answers in the form cos θ + i sin θ. 
+(Total 5 marks) 
+7. 
+ 
+ 
+(a) 
+Show that 
+ 
+(2) 
+ (b) Differentiate equation 
+ with respect to x to obtain an equation involving 
+ x and y. 
+(3) 
+Given that 
+ at x = 0, 
+(c) 
+find a series solution for y, in ascending powers of x, up to and including the term in x3. 
+(6)(Total 11 marks) 
+  
+8. 
+In the Argand diagram the point P represents the complex number z. 
+Given that arg 
+ 
+(a) 
+sketch the locus of P, 
+(4) 
+ (b) deduce the value of | z + 1 – i| . 
+(2) 
+ The transformation T from the z-plane to the w-plane is defined by 
+ 
+(c) 
+Show that the locus of P in the z-plane is mapped to part of a straight line in the w-plane, and show 
+this in an Argand diagram. 
+(6)(Total 12 marks) 
+ 
+ 
+ 
+ 
+ 
+ 
+(
+)
+.
+4
+d
+d
+2
+1
+2
+y
+x
+x
+y
+x
++
+=
++
+(
+)
+(
+) x
+y
+y
+x
+y
+x
+d
+d
+1
+4
+2
+1
+d
+d
+2
+1
+2
+2
+−
++
+=
++
+1
+1
+,
+d
+d
+,
+d
+d
+,
+d
+d
+2
+2
+3
+3
+x
+y
+x
+y
+x
+2
+1
+=
+y
+,
+2
+2
+i2
+π
+=
+
+
+
+
+
+
++
+−
+z
+z
+(
+)
+2
+,
+2
+i
+1
+2
+−
+≠
++
++
+=
+z
+z
+w
+ 
+PMT

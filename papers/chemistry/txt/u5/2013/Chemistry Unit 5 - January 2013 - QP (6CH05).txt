@@ -1,0 +1,1000 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P41215A
+©2013 Pearson Education Ltd.
+7/6/5/4/3/5/
+*P41215A0124*
+Edexcel GCE
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Tuesday 22 January 2013 – Afternoon
+Time: 1 hour 40 minutes
+6CH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+PMT
+
+
+--- Page Break ---
+
+2
+*P41215A0224*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 The reaction between iron and nickel(II) sulfate may be represented by the ionic 
+equation
+Ni2+(aq) + Fe(s)  Ni(s) +  Fe2+(aq)
+ 
+(a) This reaction is classified as a redox reaction because
+(1)
+ 
+ 
+A the nickel(II) ions are oxidized and iron acts as an oxidizing agent.
+ 
+ 
+B the nickel(II) ions are oxidized and iron acts as a reducing agent.
+ 
+ 
+C the nickel(II) ions are reduced and iron acts as a reducing agent.
+ 
+ 
+D the nickel(II) ions are reduced and iron acts as an oxidizing agent.
+ 
+(b) This reaction proceeds spontaneously, therefore 
+(1)
+ 
+ 
+A Ecell and Stotal for this reaction must both be positive.
+ 
+ 
+B Ecell and Stotal for this reaction must both be negative.
+ 
+ 
+C Ecell for this reaction must be positive and Stotal negative.
+ 
+ 
+D Ecell for this reaction must be negative and Stotal positive.
+(Total for Question 1 = 2 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P41215A0324*
+Turn over    
+2 The diagram below shows an electrochemical cell.
+ 
+(a) The salt bridge in this cell is best prepared by soaking filter paper in a
+(1)
+ 
+ 
+A 1 mol dm−3 solution of potassium bromide.
+ 
+ 
+B 1 mol dm−3 solution of potassium chloride.
+ 
+ 
+C saturated solution of potassium nitrate.
+ 
+ 
+D saturated solution of potassium iodide.
+ 
+(b) The relevant standard electrode potentials for this cell are shown below.  
+Cr3+(aq) + 3e−  Cr(s)   E
+ = −0.74 V
+Ag+(aq) +  e−  Ag(s)   E
+ = +0.80 V
+  
+ 
+The emf of the cell shown in the diagram is
+(1)
+ 
+ 
+A +1.54 V
+ 
+ 
+B −1.54 V
+ 
+ 
+C +0.06 V
+ 
+ 
+D −0.06 V
+ 
+(c) The mass of 1 mol of chromium(III) sulfate (Cr2(SO4)3) is 392 g.  Hence, for the 
+cell in the diagram to measure the standard electrode potential, 1 dm3 of the 
+chromium(III) sulfate solution used must contain
+(1)
+ 
+ 
+A 104 g of chromium(III) sulfate.
+ 
+ 
+B 196 g of chromium(III) sulfate.
+ 
+ 
+C 392 g of chromium(III) sulfate.
+ 
+ 
+D 784 g of chromium(III) sulfate.
+(Total for Question 2 = 3 marks)
+ 
+chromium strip
+silver nitrate solution
+silver strip
+V
+salt bridge
+chromium(III) sulfate solution
+PMT
+
+
+--- Page Break ---
+
+4
+*P41215A0424*
+3 Vanadium is classified as a transition metal.  This is because vanadium
+ 
+ 
+A is a d-block element.
+ 
+ 
+B has incompletely filled d orbitals.
+ 
+ 
+C forms stable ions with incompletely filled d orbitals.
+ 
+ 
+D forms stable ions in which it has different oxidation states.
+(Total for Question 3 = 1 mark)
+4 Copper(II) sulfate solution is blue.  This is because
+ 
+ 
+A excited electrons emit light in the blue region of the spectrum as they drop 
+back to the ground state.
+ 
+ 
+B excited electrons emit light in the red region of the spectrum as they drop 
+back to the ground state.
+ 
+ 
+C electrons absorb light in the red region of the spectrum and the residual 
+frequencies are observed.
+ 
+ 
+D electrons absorb light in the blue region of the spectrum and the residual 
+frequencies are observed.
+(Total for Question 4 = 1 mark)
+5 One method of manufacturing hydrazine (N2H4) involves the action of sodium 
+chlorate(I) on excess ammonia at 443 K and 50 atm.  The yield is normally around 80% 
+but, if just 1 part per million of copper(II) ions is present, the yield drops to 30%.
+ 
+The most likely explanation for this is the ability of copper(II) ions to
+ 
+ 
+A form complex ions with ammonia.
+ 
+ 
+B catalyse reactions producing other nitrogen compounds.
+ 
+ 
+C reduce the hydrazine as it is formed.
+ 
+ 
+D reduce the sodium chlorate(I).
+(Total for Question 5 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P41215A0524*
+Turn over    
+6 Platinum forms a complex with the formula Pt(NH3)2Cl2 and chromium forms a 
+complex ion with the formula CrCl4
+−.
+ 
+(a) Considering the shapes of these complexes,
+(1)
+ 
+ 
+A both complexes are square planar.
+ 
+ 
+B both complexes are tetrahedral.
+ 
+ 
+C Pt(NH3)2Cl2 is tetrahedral and CrCl4
+− is square planar.
+ 
+ 
+D Pt(NH3)2Cl2 is square planar and CrCl4
+− is tetrahedral.
+ 
+(b) Considering the structures of these complexes,
+(1)
+ 
+ 
+A both complexes form stereoisomers.
+ 
+ 
+B neither complex forms a stereoisomer.
+ 
+ 
+C Pt(NH3)2Cl2 forms a stereoisomer but CrCl4
+− does not.
+ 
+ 
+D CrCl4
+− forms a stereoisomer but Pt(NH3)2Cl2 does not.
+ 
+(c) Considering the bonding between the central atom and the ligands in these 
+complexes,
+(1)
+ 
+ 
+A the bonding in both complexes is dative covalent.
+ 
+ 
+B the bonding in both complexes is ionic.
+ 
+ 
+C the bonding in Pt(NH3)2Cl2 is dative covalent and in CrCl4
+− is ionic.
+ 
+ 
+D the bonding in Pt(NH3)2Cl2 is ionic and in CrCl4
+− is dative covalent.
+(Total for Question 6 = 3 marks)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P41215A0624*
+7 When concentrated ammonia solution is added to a green solution of chromium(III) 
+sulfate, a green precipitate is formed which slowly dissolves in excess of the 
+concentrated ammonia solution.
+ 
+The chromium-containing species formed in these reactions are
+Green precipitate
+Resulting solution
+    A
+Cr(OH)3
+[Cr(OH)6]3−
+    B
+Cr(OH)3
+[Cr(NH3)6]3+
+    C
+(NH4)2CrO4
+[Cr(OH)6]3−
+    D
+(NH4)2CrO4
+[Cr(NH3)6]3+
+(Total for Question 7 = 1 mark)
+8 Bromine reacts much faster with phenylamine than with benzene.  This is because 
+ 
+ 
+A N
+H bonds are weaker than C
+H bonds.
+ 
+ 
+B nitrogen is very electronegative.
+ 
+ 
+C the benzene ring has greater electron density in phenylamine than in 
+benzene.
+ 
+ 
+D phenylamine reacts by addition whereas benzene reacts by substitution.
+(Total for Question 8 = 1 mark)
+9 X-ray diffraction provides evidence that benzene molecules have
+ 
+ 
+A delocalized  electrons.
+ 
+ 
+B carbon−carbon bonds that are all the same length.
+ 
+ 
+C lower thermodynamic stability than molecules of 1,3,5-cyclohexatriene.  
+ 
+ 
+D greater thermodynamic stability than molecules of 1,3,5-cyclohexatriene.
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P41215A0724*
+Turn over    
+10 Benzene is nitrated using a mixture of concentrated nitric and sulfuric acids.  The 
+sulfuric acid
+ 
+ 
+A acts as a solvent for the benzene and the nitric acid.
+ 
+ 
+B protonates the benzene to speed up the reaction.
+ 
+ 
+C protonates the nitric acid which acts as a base.
+ 
+ 
+D reacts with the benzene to form a benzenesulfonic acid intermediate.
+(Total for Question 10 = 1 mark)
+11 The compound shown below is found in cocoa beans and in chocolate.  Which of the 
+groups listed is not present in its structure?
+ 
+ 
+A Alkyl
+ 
+ 
+B Amide
+ 
+ 
+C Amine
+ 
+ 
+D Ketone
+(Total for Question 11 = 1 mark)
+12 The distinguishing characteristic of combinatorial chemistry is that it involves the 
+ 
+ 
+A simultaneous synthesis of many products.
+ 
+ 
+B interaction of starting materials to form a unique product.
+ 
+ 
+C use of catalysts.
+ 
+ 
+D use of polymer supports.
+(Total for Question 12 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+C
+O
+N
+H
+C
+O
+N
+CH3
+N
+N
+CH3
+PMT
+
+
+--- Page Break ---
+
+8
+*P41215A0824*
+13 Phenylamine (aniline), C6H5NH2, may be prepared from nitrobenzene, C6H5NO2.
+ 
+(a) The reagent normally used for this reaction is
+(1)
+ 
+ 
+A lithium tetrahydridoaluminate(III) (lithium aluminium hydride) in ether.
+ 
+ 
+B concentrated ammonia in ethanol.
+ 
+ 
+C potassium dichromate(VI) in sulfuric acid.
+ 
+ 
+D tin in concentrated hydrochloric acid.
+ 
+(b) The phenylamine is separated from the reaction mixture by
+(1)
+ 
+ 
+A paper chromatography.
+ 
+ 
+B steam distillation.
+ 
+ 
+C filtration.
+ 
+ 
+D recrystallization.
+ 
+(c) One test for phenylamine is to convert it into a diazonium ion which is then 
+reacted with phenol to form an azo dye.  The structure of this dye is
+(1)
+ 
+ 
+A 
+N
+N
+OH
+ 
+ 
+B 
+N
+N
+NH2
+ 
+ 
+C 
+N
+OH
+H
+ 
+ 
+D 
+N
+H
+NH2
+(Total for Question 13 = 3 marks)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*P41215A0924*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+10
+*P41215A01024*
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+14 This question concerns the chemistry of copper.  In the sequence below, A, B, C, D, E 
+and F all contain copper in various oxidation states.
+ 
+(a) Identify, by name (including the oxidation state where appropriate) or formula, 
+the copper-containing species in the sequence.
+(6)
+A  ..............................................................................................................................................................................................................................................................................
+B  ..............................................................................................................................................................................................................................................................................
+C  ..............................................................................................................................................................................................................................................................................
+D  ..............................................................................................................................................................................................................................................................................
+E  ...............................................................................................................................................................................................................................................................................
+F  ...............................................................................................................................................................................................................................................................................
+CuSO4(aq)
+NaOH
+A (pale blue solid)
+heat
+B (black solid)
+KI(aq)
+NH3(aq)
+copper(I) iodide
+H2SO4(aq)
+D (pink solid) + E (blue solution)
+C (dark blue solution)
+NH3(aq)
+vigorous shaking
+F (colourless solution)
+PMT
+
+
+--- Page Break ---
+
+11
+*P41215A01124*
+Turn over    
+ 
+(b) Identify, by name or formula, the reagent that would be used to convert B into 
+CuSO4(aq).
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+(c) (i) C and F are the same type of chemical species.  Name this type.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why C is coloured but F is colourless.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iii) Explain why F changes into C on shaking.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P41215A01224*
+ 
+(d) The reaction of copper(I) iodide to form D and E is a disproportionation.
+ 
+ 
+(i) Explain the term disproportionation.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write an ionic equation for this reaction.  State symbols are not required.
+(1)
+ 
+ 
+(iii) Use the relevant standard reduction (electrode) potentials, from the table 
+on page 17 of your data booklet, to calculate the E
+
+cell value for this reaction, 
+giving your answer with the appropriate sign.
+(2)
+PMT
+
+
+--- Page Break ---
+
+13
+*P41215A01324*
+Turn over    
+ 
+ *(iv) If copper(I) iodide is treated with nitric acid, rather than sulfuric acid, a 
+blue solution is still formed but no pink solid.  Use the standard electrode 
+potentials on page 15 of your data booklet to explain this.  Quote any data 
+that you use.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 14 = 22 marks)
+PMT
+
+
+--- Page Break ---
+
+14
+*P41215A01424*
+15 Vitamin C (L-ascorbic acid) is present in fresh fruit and vegetables although prolonged 
+cooking destroys it.  The structure of ascorbic acid, C6H8O6, is shown below.
+ 
+(a) The amount of ascorbic acid present in a sample is determined by reacting it with 
+a known amount of iodine.  The excess iodine is then measured by titration with 
+a solution of sodium thiosulfate, using a starch indicator.  The equations for the 
+reactions are given below.
+2S2O3
+2− + I2 
+ S4O6
+2− + 2I−
+ 
+ 
+Four 500 mg vitamin C tablets were dissolved in distilled water and the solution 
+made up to 250 cm3 in a volumetric flask.  A 25.0 cm3 portion of this solution 
+was added to an iodine solution containing 2.00 × 10−3 moles of iodine.  The 
+resulting mixture was titrated with sodium thiosulfate solution of concentration 
+0.0631 mol dm−3.  The titration was repeated and the mean (average) titre was 
+27.85 cm3.
+ 
+ 
+(i) State the type of chemical change undergone by ascorbic acid when it reacts 
+with iodine.
+(1)
+....................................................................................................................................................................................................................................................................................
+HO
+O
+HO
+HO
+OH
+O
+HO
+O
+HO
+HO
+OH
+O
+HO
+O
+HO
+O
+O
+O
++ I2 
++ 2H+ + 2I–
+PMT
+
+
+--- Page Break ---
+
+15
+*P41215A01524*
+Turn over    
+ 
+ 
+(ii) State the colour of the solution in the flask just before the starch is added 
+to the titration mixture and state the colour change at the end-point of the 
+titration.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Calculate the percentage by mass of ascorbic acid in the tablets.  The molar 
+mass of ascorbic acid is 176 g mol−1.
+(5)
+PMT
+
+
+--- Page Break ---
+
+16
+*P41215A01624*
+ 
+ 
+(iv) Explain why using four tablets in 250 cm3 of solution gives a more accurate 
+result than two tablets in 250 cm3.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The structure of ascorbic acid is shown again below.  Vitamin C is one of the 
+optical isomers of this structure.
+ 
+ 
+(i) Mark on this diagram the two chiral centres of this molecule.
+(2)
+ 
+ 
+(ii) How might you show that vitamin C is a single optical isomer and not a 
+racemic mixture of the optical isomers of ascorbic acid?
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Despite its name, ascorbic acid is not a carboxylic acid but it does contain 
+an ester group.  Suggest what happens to destroy vitamin C on prolonged 
+cooking.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 15 = 14 marks)
+HO
+O
+HO
+HO
+OH
+O
+PMT
+
+
+--- Page Break ---
+
+17
+*P41215A01724*
+Turn over    
+16 Benzenecarboxylic acid (benzoic acid) and phenylmethanol (benzyl alcohol) are 
+compounds which occur naturally and have a wide range of uses.  For example, 
+benzenecarboxylic acid is used as a food preservative and phenylmethanol is used as 
+a solvent.
+ 
+A laboratory sequence for the preparation of these two compounds is shown below.
+ 
+(a) In the first step of the synthesis, benzene reacts with hydrogen chloride and 
+carbon monoxide in the presence of aluminium chloride in an electrophilic 
+substitution called the Gattermann-Koch reaction.  The hydrogen chloride and 
+carbon monoxide together behave as if they form the unstable species methanoyl 
+chloride (HCOCl).
+ 
+ 
+(i) Explain why benzene undergoes substitution rather than addition reactions.  
+A detailed description of the bonding in benzene is not required.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+H
+O
+HO
+O
+OH
+Step 1
+Step 2
+Step 3
+benzenecarboxylic acid
+phenylmethanol
+PMT
+
+
+--- Page Break ---
+
+18
+*P41215A01824*
+ 
+ 
+(ii) Give the mechanism for step 1, including the formation of the electrophile.
+(4)
+ 
+ 
+(iii) Identify the reagents and essential conditions used in the remaining steps of 
+the sequence.  You may assume that the correct reaction temperatures are 
+being used.
+(4)
+Step 2  .................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+Step 3  .................................................................................................................................................................................................................................................................. 
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P41215A01924*
+Turn over    
+ 
+*(b) Phenol reacts faster than phenylmethanol in electrophilic substitution reactions.  
+Suggest why this is so.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 16 =14 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+20
+*P41215A02024*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+17
+Tranexamic acid
+Tranexamic acid is an amino acid.  It is a white crystalline solid which 
+melts at 300 °C.  It is used to reduce bleeding during surgery and dental 
+procedures and is especially useful where patients suffer from deficiencies 
+in blood-clotting factors.  The structure of tranexamic acid can be drawn as 
+shown below.
+or
+COOH
+H2N
+As the name suggests, tranexamic acid is the trans form of a compound that 
+forms geometric (or cis-trans or E-Z) isomers.
+ 
+(a) (i) Explain why some molecules which contain a C
+C double bond show 
+geometric isomerism.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Suggest how tranexamic acid can form geometric isomers although it does 
+not have a C
+C double bond.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+H2N
+CH2
+H
+O
+H
+OH
+CH2 – CH2
+C
+C
+C
+CH2 – CH2
+PMT
+
+
+--- Page Break ---
+
+21
+*P41215A02124*
+Turn over    
+ 
+ 
+(iii) Complete the diagram to show the structure of the cis isomer.
+(1)
+ 
+ 
+(iv) Explain why tranexamic acid melts at 300 °C while the alkane, undecane 
+(C11H24) which has almost the same number of electrons, melts at −26 °C.   
+A detailed description of the forces involved is not required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) The diagram below shows a compound, K, which is a derivative of tranexamic 
+acid.
+ 
+ 
+(i) Identify by name or formula a compound that might react with tranexamic 
+acid to form K.
+(1)
+....................................................................................................................................................................................................................................................................................
+C
+Cl
+H2N
+O
+CH2 – CH2
+C
+C
+CH2 – CH2
+PMT
+
+
+--- Page Break ---
+
+22
+*P41215A02224*
+ 
+ 
+(ii) Under suitable conditions, molecules of K react together forming a polymer, L.  
+Draw the structure of L, showing two repeat units.
+(2)
+ 
+ 
+(iii) Name the type of polymerization that results in the formation of L.
+....................................................................................................................................................................................................................................................................................
+(1)
+ 
+ 
+(iv) State the type of naturally occurring substance which contains the same type 
+of linkage as in the polymer L.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*P41215A02324*
+ 
+(c) If the sequence of reactions, that produces polymer L from tranexamic acid, 
+is carried out starting with the cis isomer of tranexamic acid, an organic 
+compound, M, is formed.
+ 
+ 
+The low resolution nuclear magnetic resonance (nmr) spectrum of M has six 
+peaks with relative heights 4:4:2:1:1:1.
+ 
+ 
+The infrared (IR) spectrum of M has peaks in the region 1700−1630 cm−1 and 
+3500−3140 cm−1.
+ 
+ 
+(i) The structure of M is shown below.
+ 
+ 
+ 
+The nmr spectrum shows that the molecule, M, has six different hydrogen 
+environments.  Use the letters a to f to label the H atoms of M showing the six 
+hydrogen environments.  All thirteen hydrogen atoms should be labelled.
+(4)
+ 
+ 
+(ii) Explain how the IR data are consistent with the structure of M.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) Suggest why M is formed from the cis isomer but not from the trans isomer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(Total for Question 17 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+HC
+N
+H2C
+CH2
+CH2
+HC
+C 
+H2
+H2C
+C
+O
+H
+PMT
+
+
+--- Page Break ---
+
+24
+*P41215A02424*
+PMT

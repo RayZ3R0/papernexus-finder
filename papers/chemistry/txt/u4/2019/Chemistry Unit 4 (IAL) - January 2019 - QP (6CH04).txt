@@ -1,0 +1,1329 @@
+*P54560A0128*
+P54560A
+©2019 Pearson Education Ltd.
+2/1/1/1/1/1/
+Turn over    
+Instructions
+•	Use black ink or black ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+•	The total mark for this paper is 90.
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed  
+– you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Show all your working in calculations and include units where appropriate.
+•	Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+Centre Number
+Candidate Number
+Total Marks
+Candidates must have: Scientific calculator 
+Data Booklet
+Chemistry
+Advanced
+Unit 4: General Principles of Chemistry I – Rates, Equilibria and 
+Further Organic Chemistry (including synoptic assessment)
+Afternoon (Time: 1 hour 40 minutes)
+Paper Reference WCH04/01
+Thursday 10 January 2019
+Candidate surname
+Please check the examination details below before entering your candidate information
+Other names
+
+
+--- Page Break ---
+
+2
+*P54560A0228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1	 Propanone reacts with iodine in acidic solution according to the equation
+	
+CH3COCH3(aq)  +  I2(aq)  →  CH3COCH2I(aq)  +  H+(aq)  +  I–(aq)
+	
+Which method would not be suitable for obtaining the rate of this reaction?
+	
+	
+A	 Colorimetry.
+	
+	
+B	 Measuring the increase in pH of the solution.
+	
+	
+C	 Measuring the increase in the infrared absorption for the C–I bond.
+	
+	
+D	 Quenching followed by titrating with sodium thiosulfate.
+(Total for Question 1 = 1 mark)
+2	 For the reaction
+	
+2HgCl2(aq)  +  C2O4
+2–
+ (aq)  →  2Cl–(aq)  +  2CO2(g)  +  Hg2Cl2(s)
+	
+the rate equation is
+	
+rate = k[HgCl2(aq)][C2O2–
+4 (aq)]2
+	
+The concentrations of both HgCl2 and C2O4
+2– are increased by a factor of three.  
+The rate of reaction increases by a factor of
+	
+	
+A	 3
+	
+	
+B	 9
+	
+	
+C	 12
+	
+	
+D	 27
+(Total for Question 2 = 1 mark)
+
+
+--- Page Break ---
+
+3
+*P54560A0328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+3	 To determine the activation energy, Ea , for a reaction, a graph was  
+plotted of ln k against 1/T, where k is the rate constant.
+	
+The Arrhenius equation is
+	
+ln k = −E
+RT
+a   +  constant
+	
+The gradient of the graph is equal to
+	
+	
+A	  −Ea
+	
+	
+B	
+−E
+R
+a
+	
+	
+C	
+−E
+T
+a
+	
+	
+D	 −E
+RT
+a
+(Total for Question 3 = 1 mark)
+4	 Which is correct for standard molar entropy?
+Highest entropy
+Medium entropy
+Lowest entropy
+A
+Hydrogen 
+Nitrogen
+Iron
+B
+Nitrogen
+Iron
+Hydrogen
+C
+Nitrogen
+Hydrogen
+Iron
+D
+Iron
+Nitrogen
+Hydrogen
+(Total for Question 4 = 1 mark)
+5	 The Haber process is used to make ammonia from nitrogen and hydrogen at 450°C.
+	
+N2(g) + 3H2(g)    2NH3(g)      ∆H = −92 kJ mol−1
+	
+When the temperature of the system is increased,
+	
+	
+A	 Kp decreases.
+	
+	
+B	 Kp increases.
+	
+	
+C	 Kp stays the same.
+	
+	
+D	 Kp increases and then decreases.
+(Total for Question 5 = 1 mark)
+
+
+--- Page Break ---
+
+4
+*P54560A0428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+6	 When magnesium hydroxide dissolves in water, the following equilibrium is established. 
+Mg(OH)2(s)    Mg2+(aq)  +  2OH−(aq)
+	
+The expression for the equilibrium constant, Kc , is
+	
+	
+A	 [Mg2+(aq)]  ×  2[OH–(aq)]
+	
+	
+B	 [Mg2+(aq)]  ×  [OH–(aq)]2
+	
+	
+C	 [
+(
+)
+[
+(
+)]
+[
+(
+) ( )]
+Mg
+aq ] 
+ 2 OH aq
+Mg OH
+s
+2
+2
++
+−
+×
+	
+	
+D	 [
+(
+)
+[
+(
+)]
+[
+(
+) ( )]
+Mg
+aq ] 
+ OH aq
+Mg OH
+s
+2
+2
+2
++
+−
+×
+(Total for Question 6 = 1 mark)
+7	 Energy is given out when one mole of gaseous magnesium ions is hydrated.
+Mg2+(g) + aq  →  Mg2+(aq)
+	
+This is more exothermic than the corresponding value for barium ions, Ba2+,  
+because the
+	
+	
+A	 ionic radius of Mg2+ is less than that of Ba2+.
+	
+	
+B	 ionisation energy of magnesium is greater than that of barium.
+	
+	
+C	 lattice energy of magnesium oxide is more exothermic than that of barium oxide.
+	
+	
+D	 solubility of magnesium hydroxide in water is less than that of barium hydroxide.
+(Total for Question 7 = 1 mark)
+
+
+--- Page Break ---
+
+5
+*P54560A0528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+8	 The graph shows the yield of product in a gaseous equilibrium at different temperatures 
+and pressures.
+                      
+400 atm
+200 atm
+Temperature
+Yield of 
+product at 
+equilibrium
+	
+The forward reaction is
+	
+	
+A	 exothermic, and there are more moles of gas on the right-hand side.
+	
+	
+B	 endothermic, and there are more moles of gas on the right-hand side.
+	
+	
+C	 exothermic, and there are fewer moles of gas on the right-hand side.
+	
+	
+D	 endothermic, and there are fewer moles of gas on the right-hand side.
+(Total for Question 8 = 1 mark)
+9	 An aqueous solution contains 4.0 g of sodium hydroxide in 250 cm3 of solution.
+[Kw = 1.00 × 10−14 mol2 dm−6          Molar mass of NaOH = 40 g mol–1]
+	
+The pH of the solution is
+	
+	
+A	 13.0
+	
+	
+B	 13.4
+	
+	
+C	 13.6
+	
+	
+D	 13.9
+(Total for Question 9 = 1 mark)
+
+
+--- Page Break ---
+
+6
+*P54560A0628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+10	 A solution containing HCN and KCN is a buffer.  When a small amount of acid is added, the 
+solution acts as a buffer because
+	
+	
+A	 hydrogen ions in the acid combine with cyanide ions to make HCN.
+	
+	
+B	 hydrogen ions in the acid combine with HCN to make H2CN+.
+	
+	
+C	 HCN dissociates to make more CN− ions.
+	
+	
+D	 the hydrogen ions in the acid prevent dissociation of the HCN.
+(Total for Question 10 = 1 mark)
+11	 When 0.1 mol of hydrogen and 0.1 mol of iodine were allowed to react according to 
+the equation
+H2(g)  +  I2(g)    2HI(g)
+	
+30% of the hydrogen was found to have been converted at equilibrium.
+	
+The number of moles of each gas present at equilibrium is
+Hydrogen
+Iodine
+Hydrogen iodide
+A
+0.03 
+0.03
+0.07
+B
+0.03
+0.03
+0.14
+C
+0.07
+0.07
+0.03
+D
+0.07
+0.07
+0.06
+(Total for Question 11 = 1 mark)
+12	 Which compound can show both geometric and optical isomerism?
+	
+	
+A	 (CH3)2C
+CHCH(CH3)CH2CH3
+	
+	
+B	 CH3CH2CH
+CHCH(CH3)CH2CH3
+	
+	
+C	 (CH3)2C
+C(CH2CH3)2
+	
+	
+D	 CH3CH2CH
+CHCH2CH(CH3)2
+(Total for Question 12 = 1 mark)
+
+
+--- Page Break ---
+
+7
+*P54560A0728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+13	 Which set of reagents is not suitable for the step indicated?
+CH3COCH3   
+   CH3
+C
+CN   
+   CH2
+C
+CN
+Step 1
+Step 2
+Step 3
+CH3
+OH
+CH3
+Step 4
+CH2
+C
+COOCH3   
+   CH2
+C
+COOH
+CH3
+CH3
+	
+	
+A	 Step 1: HCN and KCN
+	
+	
+B	 Step 2: hot ethanolic KOH
+	
+	
+C	 Step 3: warm aqueous H2SO4
+	
+	
+D	 Step 4: CH3OH with an acid catalyst
+(Total for Question 13 = 1 mark)
+14	 The molecule shown has three functional groups labelled x, y and z.
+Br
+x
+O
+y
+z
+	
+Which of the functional groups can undergo nucleophilic attack?
+	
+	
+A	 x, y and z
+	
+	
+B	 x and z only
+	
+	
+C	 x only
+	
+	
+D	 z only
+(Total for Question 14 = 1 mark)
+
+
+--- Page Break ---
+
+8
+*P54560A0828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+15	 What is the formula of the pale yellow solid formed when propanone reacts with 
+iodine in the presence of sodium hydroxide?
+	
+	
+A	 NaI
+	
+	
+B	 CH3COCH2I
+	
+	
+C	 CH3I
+	
+	
+D	 CHI3
+(Total for Question 15 = 1 mark)
+16	 Butanone can be distinguished from butanoic acid by the addition of 
+	
+	
+A	 Fehling’s solution and warming.
+	
+	
+B	 Tollens’ reagent and warming.
+	
+	
+C	 2,4-dinitrophenylhydrazine solution.
+	
+	
+D	 acidified potassium dichromate(VI) solution and refluxing. 
+(Total for Question 16 = 1 mark)
+17	 Which could be used to make CH3CONHCH3?
+	
+	
+A	 CH3COOCH3 and NH3
+	
+	
+B	 CH3CONH2 and CH3NH2
+	
+	
+C	 CH3COO−Na+ and CH3NH2
+	
+	
+D	 CH3COCl and CH3NH2
+(Total for Question 17 = 1 mark)
+18	 Which reaction may be used to make a carboxylic acid in a single step?
+	
+	
+A	 Hydrolysis of an ester with hydrochloric acid.
+	
+	
+B	 Hydrolysis of an ester with sodium hydroxide.
+	
+	
+C	 Reaction of acidified potassium manganate(VII) with an alkene.
+	
+	
+D	 Reaction of an acyl chloride with ammonia.
+(Total for Question 18 = 1 mark)
+
+
+--- Page Break ---
+
+9
+*P54560A0928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+19	 The mass spectrum of ethanoyl chloride would not be expected to have a peak at the 
+m / e value of
+	
+	
+A	 35.5
+	
+	
+B	 37
+	
+	
+C	 43
+	
+	
+D	 78
+(Total for Question 19 = 1 mark)
+20	 A ketone which would not be expected to have a peak in its mass spectrum at m / e = 57 is
+	
+	
+A	 butanone, CH3CH2COCH3
+	
+	
+B	 3-methylbutanone, (CH3)2CHCOCH3
+	
+	
+C	 pentan-3-one, CH3CH2COCH2CH3
+	
+	
+D	 hexan-3-one, CH3CH2CH2COCH2CH3
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+
+
+--- Page Break ---
+
+10
+*P54560A01028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21	  Methanol has been proposed as a carbon-neutral fuel because it can be synthesised 
+from carbon dioxide, as shown in the equation
+CO2(g)  +  3H2(g)  →  CH3OH(g)  +  H2O(g)
+	
+(a)	 Standard enthalpy change of formation and standard molar entropy data for the 
+reactants and products are shown in the table.
+CO2(g)
+H2(g)
+CH3OH(g)
+H2O(g)
+ΔH
+d
+f  / kJ mol−1
+−394
+    0
+−201
+−242
+S
+d / J K–1 mol−1
+214
+131
+238
+189
+	
+	
+(i)	 Calculate the standard enthalpy change for this reaction.
+(2)
+	
+	
+(ii)	 Calculate the standard entropy change in the system, ΔSsystem , for this reaction.
+(2)
+
+
+--- Page Break ---
+
+11
+*P54560A01128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iii)	Calculate the total entropy change, ΔStotal , for this reaction at 298K.
+(3)
+	
+	
+(iv) Calculate the highest temperature at which the reaction is feasible.
+(2)
+	
+	
+(v)	 State why the industrial process is carried out at a higher temperature than 
+you have calculated.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+12
+*P54560A01228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(b)	 (i)	 Write the equation for the complete combustion of methanol in the gas phase.
+	
+	
+	
+State symbols are not required. 
+(1)
+	
+	
+ *(ii)	 Suggest why this combustion reaction in the gas phase is likely to be 
+thermodynamically feasible at all temperatures.  
+	
+	
+	
+Calculations are not required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 Give two reasons why methanol, synthesised from carbon dioxide and hydrogen, 
+may not be a completely carbon-neutral fuel. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 16 marks)
+
+
+--- Page Break ---
+
+13
+*P54560A01328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+22	 This question is about three colourless liquids butanal, pentane and propenoic acid.  
+The bottles have lost their labels.
+	
+(a)	 Propenoic acid is the simplest carboxylic acid containing a carbon to carbon 
+double bond.
+	
+	
+(i)	 Draw the displayed formula of propenoic acid showing all the bonds.
+(1)
+	
+	
+(ii)	 Propenoic acid reacts with methanol at a temperature of 100 °C in the 
+presence of an acid catalyst.
+	
+	
+	
+Name the product of this reaction and draw its skeletal formula.
+(2)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Under appropriate conditions, propenoic acid will react with 
+lithium tetrahydridoaluminate(III) (LiAlH4).
+	
+	
+	
+Identify the conditions necessary for this reaction and give the structural formula 
+of the expected product.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+14
+*P54560A01428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(iv)	The polymerisation of propenoic acid forms poly(propenoic acid), which is 
+used in the manufacture of superabsorbents.
+	
+	
+	
+Draw the structure of poly(propenoic acid) showing two repeat units. 
+(1)
+	
+(b)	 The three liquids can be identified by their boiling temperatures.  
+ 	
+	
+(i)	 Complete the table with the boiling temperatures of butanal and pentane in °C and 
+the number of electrons in propenoic acid.  Use the Data Booklet where necessary.
+(2)
+butanal
+pentane
+propenoic acid
+Boiling temperature / °C
+141
+Number of electrons
+40
+42
+	
+	
+*(ii)	Explain the differences in boiling temperature of these three compounds 
+using the information in the table and their structures. 
+A detailed explanation of the forces involved is not required.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+15
+*P54560A01528*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(c)	 Chemical tests can also be used to identify two of the liquids, and hence, by 
+elimination, the third. 
+	
+	
+Give two chemical tests and the expected positive results.   
+The use of indicators will not be accepted as a chemical test.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+16
+*P54560A01628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+(d)	 The three liquids can also be identified using infrared spectroscopy.
+	
+	
+(i)	 Spectrum A contains very few peaks.
+	
+	
+	
+Identify which of the three liquids gives this spectrum and explain why it has 
+fewer peaks than the other spectra.
+(2)
+                
+0.8
+3000
+Relative 
+transmittance
+Wavenumber / cm–1
+2000
+1000
+0.6
+0.4
+0.2
+Spectrum A
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+17
+*P54560A01728*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Spectra B and C are the infrared spectra of the other two liquids.
+	
+	
+	
+Using information from the Data Booklet, identify the bonds responsible for 
+the peaks labelled P, Q and R.
+	
+	
+	
+Hence state which spectrum is given by which liquid. 
+(3)
+         
+0.8
+3000
+Relative 
+transmittance
+Wavenumber / cm–1
+2000
+1000
+0.6
+0.4
+0.2
+Spectrum B
+P
+Q
+           
+0.8
+3000
+Relative 
+transmittance
+Wavenumber / cm–1
+2000
+1000
+0.6
+0.4
+0.2
+Spectrum C
+R
+P ...............................................................................................................................................................................................................................................................................
+Q ..............................................................................................................................................................................................................................................................................
+R ...............................................................................................................................................................................................................................................................................
+Spectrum B ...................................................................................................................................................................................................................................................
+Spectrum C ...................................................................................................................................................................................................................................................
+(Total for Question 22 = 20 marks)
+
+
+--- Page Break ---
+
+18
+*P54560A01828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+23	 Compound X can be formed by a dimerisation reaction where two molecules of 
+ethanal link together, as shown in the equation.
+2CH3CHO  →  CH3CH(OH)CH2CHO
+	
+Compound X
+	
+(a)	 Give the name of compound X.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 The following three-step mechanism has been suggested for this reaction. 
+	
+	
+Steps 2 and 3 of this mechanism have some similarities to the reaction of aldehydes 
+with hydrogen cyanide in the presence of potassium cyanide.
+Step 1
+	
+:OH–
+H
+C
+C
+H
+H
+O
+H
+:C −
+C
+O
+H
+H
+H
++            H2O
+Step 2
+	
+Step 3
+	
+H
+C
+C
+C
+C
+H
+H
+O
+H
+H
+H
+O
+H
+H
+C
+C
+C
+C
+H
+H
+O −
+H
+H
+H
+O
+H
+:
++          :OH–
+H
+H
+H
+O
+H
+C
+C
+C
+C
+H
+H
+O −
+H
+H
+H
+H
+C
+C
+H
+H
+O
+H
+:C −
+C
+O
+H
+H
+H
+O
+H
+:
+
+
+--- Page Break ---
+
+19
+*P54560A01928*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(i)	 Deduce the role of ethanal in Step 1.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Complete Step 2 of the mechanism showing the relevant curly arrows.
+(2)
+Step 2
+	
+H
+C
+C
+C
+C
+H
+H
+O −
+H
+H
+H
+H
+C
+C
+H
+H
+O
+H
+:C −
+C
+O
+H
+H
+H
+O
+H
+:
+	
+	
+(iii) Deduce the type and mechanism of the overall reaction. 
+(2)
+....................................................................................................................................................................................................................................................................................
+ 	
+	
+(iv)	State the overall role of the hydroxide ion, OH–, in the suggested mechanism.  
+Justify your answer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+
+
+--- Page Break ---
+
+20
+*P54560A02028*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(v)	 Explain why the sample of X produced by the reaction in (b) does not rotate 
+the plane of plane-polarised light. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(c)	 At low concentrations of hydroxide ions, OH–, the rate equation for this reaction is
+rate = k[CH3CHO][OH–]
+	
+	
+When the concentration of ethanal was 0.20 mol dm−3 and the concentration of 
+sodium hydroxide was 0.040 mol dm−3, the rate of the reaction at 298 K was 
+8.8 × 10−3 mol dm−3 s−1.
+	
+	
+(i)	 Calculate a value for the rate constant at this temperature.  
+Include units in your answer.
+(2)
+	
+	
+(ii)	 Give a reason why the rate equation suggests that Step 1 is the  
+rate-determining step for this reaction.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 23 = 13 marks)
+TOTAL FOR SECTION B = 49 MARKS
+
+
+--- Page Break ---
+
+21
+*P54560A02128*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24	 Ammonia is manufactured from nitrogen and hydrogen.
+N2(g) + 3H2(g)    2NH3(g)
+	
+*(a)	(i)	 In an experiment, 1 mol of nitrogen and 3 mol of hydrogen were placed in a 
+sealed vessel.
+	
+	
+	
+At a temperature of 450 K and a pressure of 2 atm, the system reached 
+equilibrium when 20% of the nitrogen had been converted into ammonia.
+	
+	
+	
+Calculate the value of the equilibrium constant Kp for this reaction at 450 K, 
+giving units in your answer.
+(6)
+
+
+--- Page Break ---
+
+22
+*P54560A02228*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Give the equation that relates Kp to ΔStotal and use your equation and your 
+answer to (a)(i) to calculate the total entropy change for the reaction at 450 K. 
+	
+	
+	
+[R = 8.31 J mol−1 K−1]
+(2)
+	
+(b)	 Ammonia is a weak base which reacts with hydrochloric acid according to the 
+equation
+NH3(aq)  +  HCl(aq)  →  NH4Cl(aq)
+	
+	
+25.0 cm3 of aqueous ammonia with a concentration of 1.00 mol dm−3 was placed 
+in a conical flask. 
+	
+	
+It was titrated with hydrochloric acid with a concentration of 0.625 mol dm−3.
+	
+	
+(i)	 Calculate the volume of the acid required to react exactly with the aqueous 
+ammonia.
+(2)
+
+
+--- Page Break ---
+
+23
+*P54560A02328*
+Turn over    
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(ii)	 Aqueous ammonium chloride is acidic. 
+	
+	
+	
+Write an ionic equation to show the acidic behaviour of the ammonium ion. 
+State symbols are not required.  
+(1)
+	
+	
+(iii)	Write an expression for Ka for this dissociation.
+(1)
+	
+	
+(iv)	When all of the ammonia has just reacted with hydrochloric acid the 
+concentration of the ammonium chloride solution is 0.385 mol dm–3.  
+Calculate the pH of this solution.
+	
+	
+	
+[Ka = 5.6 × 10–10 mol dm–3]
+(3)
+
+
+--- Page Break ---
+
+24
+*P54560A02428*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(v)	 Using your answers to (b)(i) and (b)(iv), draw the titration curve showing the 
+change in pH when 50.0 cm3 of 0.625 mol dm−3 hydrochloric acid solution is 
+added to 25.0 cm3 of 1.00 mol dm−3 ammonia solution.
+	
+	
+	
+The pH of 1.00 mol dm−3 ammonia solution is 11.6.
+(4)
+14 –
+13 –
+12 –
+11 –
+10 –
+9 –
+8 –
+7 –
+6 –
+5 –
+4 –
+3 –
+2 –
+1 –
+0 –
+pH
+0
+–
+5
+–
+–
+10
+–
+15
+20
+–
+25
+–
+30
+–
+35
+–
+40
+–
+45
+–
+50
+–
+Volume of HCI (aq) / cm3
+
+
+--- Page Break ---
+
+25
+*P54560A02528*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+	
+	
+(vi)	Explain, by referring to the Data Booklet, whether or not thymol blue (base) 
+would be a suitable indicator for this titration. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 24 = 21 marks)
+TOTAL FOR SECTION C = 21 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+
+
+--- Page Break ---
+
+26
+*P54560A02628*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+27
+*P54560A02728*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+
+
+--- Page Break ---
+
+28
+*P54560A02828*
+	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA	
+DO NOT WRITE IN THIS AREA

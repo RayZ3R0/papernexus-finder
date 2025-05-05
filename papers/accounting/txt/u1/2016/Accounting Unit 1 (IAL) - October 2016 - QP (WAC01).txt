@@ -1,0 +1,680 @@
+Paper Reference
+Turn over    
+Do not return this source booklet with the question paper.
+*P48250A*
+P48250A
+©2016 Pearson Education Ltd.
+1/1/1/1
+WAC11/01
+Wednesday 12 October 2016 – Morning
+Source Booklet
+Accounting
+Paper 1: The Accounting System and Costing
+Pearson Edexcel 
+International Advanced Level
+
+
+--- Page Break ---
+
+2
+P48250A
+SECTION A 
+Answer BOTH questions in this section. 
+1 Weston Airways operates an airline service between cities using two 15-seater aircraft.
+ 
+The following balances were recorded in the books on 30 September 2016:
+£
+Revenue from passenger sales
+1 500 000
+Salaries: Aircrew
+275 000
+Administration
+82 000
+Landing charge expenses
+90 000
+Fuel
+140 000
+Ground services expenses
+210 000
+Non-current assets (cost):
+Aircraft
+600 000
+Computers and fixtures
+58 000
+Provisions for depreciation:
+Aircraft
+500 000
+Computers and fixtures
+18 000
+Aircraft maintenance
+315 000
+Marketing
+70 000
+Administration expenses
+145 000
+Rent
+50 000
+6% Bank loan (repayable 30 June 2020)
+200 000
+Bank loan interest
+9 000
+Trade receivables
+47 000 
+Trade payables
+59 000
+Cash and bank
+486 000 Dr
+Capital
+300 000
+ 
+Additional information at 30 September 2016
+ 
+(1) Accruals:
+ 
+ 
+•
+aircrew salaries £13 000
+ 
+ 
+•
+fuel £20 000
+ 
+(2)  Marketing includes £20 000 for a campaign to run from 1 July 2016 to  
+31 December 2016.
+ 
+(3)  Some bank loan interest was outstanding. The bank loan commenced  
+1 October 2015.
+ 
+(4) Depreciation is charged as follows:
+ 
+ 
+•
+aircraft at the rate of 8% per annum using the straight line method
+ 
+ 
+•
+computers and fixtures at the rate of 20% per annum using the reducing 
+balance method.
+
+
+--- Page Break ---
+
+3
+P48250A
+Turn over    
+ 
+Required
+ 
+(a) Prepare the Statement of Profit or Loss and Other Comprehensive Income for the 
+year ended 30 September 2016.
+(14)
+ 
+(b) Prepare the Statement of Financial Position at 30 September 2016.
+(14)
+ 
+The owner of Weston Airways is aware that its two existing aircraft are old and need 
+replacing. 
+ 
+The owner proposes to replace the two existing aircraft with two larger 20-seater 
+aircraft for the year ended 30 September 2017.
+ 
+The projections for the replacements are as follows:
+
+•
+passenger numbers will increase by 10%. Market research shows that each 
+passenger will also pay 8% more to fly in the new aircraft
+ 
+•
+the aircraft will use 30% less fuel
+ 
+•
+aircraft maintenance will be 40% less 
+ 
+•
+ground services expenses will rise by 20%
+ 
+•
+all other expenses will remain unchanged
+ 
+•
+the two existing aircraft will be sold for £100 000 each.
+ 
+There are two proposals for financing the two replacement aircraft. 
+ 
+Proposal 1
+ 
+Purchase the two aircraft at a cost of £900 000 each. The aircraft will depreciate at 
+8% per annum using the straight line method. Weston Airways would take out an 
+additional £1 500 000 8% bank loan to finance the aircraft.
+ 
+Proposal 2
+ 
+Hire the two aircraft for a period of 12 years at a charge of £125 000 per annum for 
+each aircraft. Weston Airways would not have to charge annual depreciation or take 
+out an additional bank loan.
+ 
+Required
+ 
+(c) Complete the table in your Question Paper showing the changes to the profit or 
+loss for the year ended 30 September 2017 using:
+ 
+ 
+(i)  Proposal 1
+(8)
+ 
+ 
+(ii)  Proposal 2.
+(7)
+ 
+(d) Evaluate the two proposals and make a recommendation to the owner of Weston 
+Airways.
+(12)
+(Total for Question 1 = 55 marks)
+
+
+--- Page Break ---
+
+4
+P48250A
+2 The following balances remained in the books of Bani on 30 September 2016. Bani 
+knows that there are some errors in the books and that she will need to open a 
+suspense account.
+£
+Revenue (credit sales)
+62 300
+Returns inwards
+1 150
+Inventory
+5 350
+Purchases
+25 100
+Trade receivables
+6 750
+Trade payables
+ 8 200
+Non-current assets (cost)
+25 000
+Provision for depreciation
+7 500
+General expenses
+9 300
+Bad debts
+450
+Rent receivable
+1 400
+Bank overdraft
+600
+Drawings
+ 6 460
+ 
+Required 
+ 
+(a) Prepare the trial balance of Bani at 30 September 2016 including the Suspense 
+Account.
+(15)
+ 
+On inspection of the books Bani found the following errors:
+ 
+(1) Goods purchased for £950 had been recorded as £590 in the Purchases Account.
+ 
+(2) Rent receivable, £400, had been correctly recorded in the Rent Receivable 
+Account, but no entry had been made in the Bank Account.
+ 
+(3) General expenses of £65 had been credited to the General Expenses Account.
+ 
+(4) Drawings of £50 had been recorded in the Drawings Account as £500
+ 
+Required
+ 
+(b) Prepare the:
+ 
+ 
+(i)  Journal entries to correct the errors (1) to (4) (narratives are not required)
+(8)
+ 
+ 
+(ii) Suspense Account after completion of the Journal entries.
+(5)
+ 
+Bani has been advised that there may still be some errors in her books that will not be 
+revealed by the trial balance.
+ 
+(c) Name and explain three types of error that will not be revealed by the trial 
+balance.
+(9)
+
+
+--- Page Break ---
+
+5
+P48250A
+Turn over    
+ 
+Bani prepared a Trade Receivables Control Account to check the closing balance of 
+her trade receivables.
+ 
+Using relevant balances from the trial balance, together with the following information:
+£
+Trade receivables 1 October 2015
+5 630
+Receipts from credit customers by cheque
+59 580
+ 
+Required
+ 
+(d) Prepare the Trade Receivables Control Account.
+(6)
+ 
+Bani does not have an allowance for doubtful debts in her books. She records bad 
+debts when they occur. 
+ 
+(e) Evaluate Bani’s policy of recording bad debts when they occur. 
+(12)
+(Total for Question 2 = 55 marks)
+TOTAL FOR SECTION A = 110 MARKS
+
+
+--- Page Break ---
+
+6
+P48250A
+SECTION B
+Answer THREE questions from this section.
+3 Agara is considering the purchase of a retail clothing business, Every Day Wear. 
+ 
+The following were the summarised financial statements of Every Day Wear for the 
+year ended 30 September 2016.
+ 
+Statement of Profit or Loss and Other Comprehensive Income  
+for the year ended 30 September 2016
+£
+Revenue
+150 000
+Cost of sales
+90 000
+Expenses
+53 000
+Depreciation
+5 000
+Bank loan interest
+4 000
+Loss for the year
+(2 000)
+ 
+Statement of Financial Position at 30 September 2016
+£
+Non-current assets (carrying value)
+40 000
+Inventory
+63 000
+Trade receivables
+27 000
+Total assets
+130 000
+Capital 
+60 000
+Bank loan (repayable 2020)
+40 000
+Trade payables
+25 000
+Bank overdraft
+5 000
+Total capital and liabilities
+130 000
+ 
+Required
+ 
+(a) Calculate the following ratios: 
+ 
+ 
+•
+gross profit as a percentage of revenue
+ 
+ 
+•
+percentage return on capital employed
+ 
+ 
+•
+current ratio
+ 
+ 
+•
+liquid (acid test) ratio.
+(8)
+
+
+--- Page Break ---
+
+7
+P48250A
+Turn over    
+ 
+Additional information
+ 
+Industry average for the year ending 30 September 2016:
+ 
+•
+gross profit as a percentage of revenue  
+30%
+ 
+•
+percentage return on capital employed  
+8%
+ 
+•
+current ratio   
+ 
+ 
+            1.80:1
+ 
+•
+liquid (acid test) ratio   
+ 
+ 
+0.85:1
+ 
+Required
+ 
+(b) Explain one possible reason for the difference between each of the ratios 
+calculated in (a) and the industry average.
+ 
+ 
+•
+Gross profit as a percentage of revenue
+ 
+ 
+•
+Percentage return on capital employed
+ 
+ 
+•
+Current ratio
+ 
+ 
+•
+Liquid (acid test) ratio
+(8)
+ 
+(c) State four non-financial factors that Agara should consider in the possible 
+purchase of Every Day Wear.
+(4) 
+ 
+The current owner of Every Day Wear has stated that he will sell the business to Agara  
+for £85 000
+ 
+(d) (i) Define the accounting term goodwill.
+(2)
+ 
+ 
+(ii) Calculate the value of the goodwill that Agara would pay if he agreed the 
+asking price of £85 000 for Every Day Wear.
+(2)
+ 
+(e) Evaluate whether Agara should purchase Every Day Wear.
+(6)
+(Total for Question 3 = 30 marks)
+
+
+--- Page Break ---
+
+8
+P48250A
+4 The following information is available for the Sandy Bay Social Club for the year 
+ended 31 August 2016. 
+ 
+(1) Annual subscriptions:
+1 September
+31 August
+2015
+2016
+ £
+£
+•
+balances
+subscriptions in advance 
+350
+530
+subscriptions in arrears
+900
+700
+
+
+•
+during the year annual subscriptions received and banked were £4 250
+
+
+•
+£630 of the subscriptions in arrears at 1 September 2015 were received, the  
+ 
+ 
+balance was irrecoverable.
+ 
+(2) Life membership subscriptions:
+ 
+ 
+• 
+balance 1 September 2015 
+£30 400
+ 
+ 
+•
+during the year life membership subscriptions received and banked were £1 600
+ 
+ 
+•
+the Sandy Bay Social Club transfers 10% of the Life Membership Subscription 
+Account balance at the end of the year to the Income and Expenditure Account.
+ 
+(3) Balances at 31 August 2016:
+£
+Subscriptions in advance
+530
+Subscriptions in arrears
+700
+Life membership subscriptions
+?
+Clubhouse (at book value) 
+55 000
+5% Bank loan (repayable 30 June 2025)
+6 000
+Trade payables
+825
+Bank
+1 950 Dr
+Accrued expenses
+235
+
+
+--- Page Break ---
+
+9
+P48250A
+Turn over    
+ 
+Required
+ 
+(a) Explain two differences between the Receipts and Payments Account and the 
+Income and Expenditure Account.
+(4)
+ 
+(b) Prepare for the year ended 31 August 2016, showing the appropriate transfer to 
+the Income and Expenditure Account, the:
+ 
+ 
+(i) Subscriptions Account 
+(5)
+ 
+ 
+(ii) Life Membership Account.
+(5)
+ 
+(c) Calculate the Accumulated Fund at 31 August 2016.
+(2)
+ 
+(d) Prepare the Statement of Financial Position at 31 August 2016.
+(8)
+ 
+(e) Evaluate the case for the club offering life membership.
+(6)
+(Total for Question 4 = 30 marks)
+
+
+--- Page Break ---
+
+10
+P48250A
+5 Martino has been asked to make recommendations for the purchase and network 
+rental of mobile phones.
+ 
+He has obtained the following information from three suppliers:
+Company
+Mobile phone 
+purchase price
+Monthly contract 
+network rental
+Call costs
+National 
+Telecom
+£120
+£50 per month 
+for a period of 12 
+months.
+2 pence (£0.02) per minute for 
+the first 500 minutes per month. 
+10 pence (£0.10) per minute for 
+all minutes over 500 minutes per 
+month.
+One2one 
+Link
+£260
+£10 per month 
+for a period of 20 
+months.
+15 pence (£0.15) per minute for all 
+minutes per month.
+Speed Call
+£90
+£45 per month 
+for a period of 15 
+months.
+8 pence (£0.08) per minute for all 
+minutes per month.
+ 
+Additional information
+ 
+(1)  Mobile phones purchased will have no resale value at the end of the contract 
+period.
+ 
+(2) Mobile phones are only required by two managers, whose projected usage is:
+ 
+ 
+•
+Sales Manager – 600 minutes per month
+ 
+ 
+•
+Purchasing Manager – 300 minutes per month.
+
+
+--- Page Break ---
+
+11
+P48250A
+Turn over    
+ 
+Required
+ 
+(a) Explain the difference between variable and fixed costs. 
+(4)
+ 
+(b) Give one example of a variable cost and a fixed cost from the purchase or 
+network rental of mobiles phones.
+(2)
+ 
+(c) Complete the table in your Question Paper showing the cost per month for 
+the usage of a mobile phone from each supplier for the Sales Manager and the 
+Purchasing Manager. 
+(16)
+ 
+(d) Recommend which supplier of mobile phones is the most cost effective for the:
+ 
+ 
+•
+Sales Manager
+ 
+ 
+•
+Purchasing Manager.
+(2)
+ 
+The business is considering apportioning the cost of mobile phones between  
+its departments.
+ 
+(e) Evaluate the proposal of apportioning business mobile phone costs.
+(6)
+(Total for Question 5 = 30 marks)
+
+
+--- Page Break ---
+
+12
+P48250A
+6 Palak has reviewed his policy for the depreciation of computers. He has decided to 
+change from the straight line method to the reducing balance method. He provided 
+the following information:
+ 
+(1) Purchased computers on 1 October 2013 at a cost of £25 000
+ 
+(2)  His policy for depreciating computers for the years ended 30 September 2014 and 
+30 September 2015 was to depreciate at the rate of 10% per annum using the 
+straight line method.
+ 
+(3)  His policy for depreciating computers for the year ended 30 September 2016 
+will be to depreciate at the rate of 20% per annum using the reducing balance 
+method.
+ 
+(4) The difference due to the change in depreciation method on computers for the 
+years ended 30 September 2014 and 30 September 2015 will be charged to the 
+Statement of Profit or Loss and Other Comprehensive Income for the year ended 
+30 September 2016.
+ 
+Required
+ 
+(a) Explain the difference between capital expenditure and revenue expenditure.
+(4)
+ 
+(b) Explain how capital expenditure will be treated in the financial statements.
+(4)
+ 
+(c) Identify one accounting concept that:
+ 
+ 
+(i) supports a change in the method of depreciation on computers
+(1)
+ 
+ 
+(ii) does not support a change in the method of depreciation on computers.
+(1) 
+ 
+(d) Calculate the:
+ 
+ 
+(i) difference due to the change in method of depreciation on computers for the 
+years ended 30 September 2014 and 30 September 2015
+(6)
+ 
+ 
+(ii) depreciation on computers for the year ended 30 September 2016.
+(2)
+ 
+(e) Prepare the Computers – Provision for Depreciation Account for the years ending 
+30 September 2014, 30 September 2015 and 30 September 2016.
+(6)
+ 
+(f) Evaluate Palak’s decision to change the method for depreciating computers from 
+the straight line method to the reducing balance method.
+(6)
+(Total for Question 6 = 30 marks)
+TOTAL FOR SECTION B = 90 MARKS 
+TOTAL FOR PAPER = 200 MARKS

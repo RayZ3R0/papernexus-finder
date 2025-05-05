@@ -1,0 +1,557 @@
+Turn over
+Printer’s Log. No.
+M37939A
+This publication may be reproduced only in accordance with Edexcel Limited copyright policy. ©2011 Edexcel Limited.
+W850/6002/57570   1/1/1/
+*M37939A*
+Paper Reference(s)
+6002/01
+London Examinations GCE
+Accounting (Modular Syllabus)
+Advanced Subsidiary/Advanced Level
+Unit 2 – Corporate and Management Accounting
+Thursday 20 January 2011 – Morning
+Source booklet for use with Questions 
+1 to 7.
+Do not return this booklet with the 
+question paper.
+
+
+--- Page Break ---
+
+M37939A
+2
+SECTION A
+SOURCE MATERIAL FOR USE WITH QUESTION 1
+1.
+Bangla Radios plc produces radios at its factory. The radios are then delivered to Bangla Radios plc 
+shops, where they are sold to customers.
+At 31 December 2010, the following were some of the balances in the books:
+Debit
+£
+Credit
+£
+Bad debts
+1750
+Commission on sales
+36450
+13% Debentures 2015
+700000
+Direct labour
+521000
+Direct materials
+374000
+Directors’ salaries
+181000
+Factory buildings at cost
+4200000
+Factory machinery at cost
+870000
+Fuel for lorries
+73500
+Income received from shares and securities
+46720
+Interest on bank balance
+4780
+Motor lorries at cost
+535000
+Professional fees paid to consultants
+254000
+Rent on shop premises
+283220
+Rent received
+18650
+Sales
+3645000
+Sales promotions and advertising
+47000
+Stock of finished goods at 1 January 2010
+73000
+Wages
+555000
+625000
+
+
+--- Page Break ---
+
+M37939A
+3
+Turn over
+Additional information at 31 December 2010:
+(i)
+Stock of finished goods £64000.
+(ii) Directors’ salaries include:
+Finance director
+£64000
+Marketing director
+£58000
+Production director
+£59000
+(iii) Rent on shop premises account has £6780 owing.
+(iv) Wages include:
+Administration staff
+£197000
+Shop staff
+ £231000
+Transport staff
+  £127000
+(v) Assuming a nil residual value in each case and using the straight line method:
+ 
+ 
+•
+the factory building is to be depreciated over a 50 year life
+ 
+ 
+•
+machinery is to be depreciated over a 10 year life
+ 
+ 
+•
+motor lorries are to be depreciated over a 4 year life.
+(vi) A provision for corporation tax is to be made for £165000.
+Required:
+(a) Prepare the profit and loss account for Bangla Radios plc for the year ended 31 December 
+2010, using format 1 as required by the Companies Act 1985.   
+ 
+ 
+You must show all workings clearly labelled in arriving at your figures to be shown in the 
+published profit and loss account.
+ 
+ 
+Note:
+ 
+ 
+•
+There is no need to show any of the notes required by the Companies Act 1985
+ 
+ 
+•
+Ignore all the exemptions permitted for small and medium-sized companies.
+                                                                                                                                   (40)
+(b) Evaluate the importance of the Directors’ Report that accompanies the financial statements of 
+a company.                 
+                                                                                                                                   (12)
+ (Total 52 marks)
+Answer space for question 1 is on pages 2 to 6 of the question paper.
+
+
+--- Page Break ---
+
+M37939A
+4
+SOURCE MATERIAL FOR USE WITH QUESTION 2
+2.
+The directors of Telstar Sports plc are considering the offer of a five year contract from the World 
+Cricket Authority to stage a cricket competition.
+The following information is available:
+(i)
+Forecasts show that the initial cost of the investment will be £2000000. This includes fixed 
+assets for new technology costing £675000. The fixed assets are expected to have a life of five 
+years, after which they will have no value and will be scrapped. The company uses the straight 
+line depreciation method.
+(ii) Running expenses, including depreciation, for the competition for the first two years are 
+forecast to be £840000 per year. In year three, running expenses, including depreciation, are 
+forecast to rise by £120000. In years four and five, running expenses are expected to stay at 
+the same level as in year three. 
+(iii) In addition, there will be the cost of players’ contracts. There will be 8 teams, with 16 players 
+per team. Each team will have an average contract of £35000 per player per year.
+(iv) For each year of the competition, there will be 56 matches. Each match is expected to attract 
+12000 spectators, paying an average of £8.50 per person. 
+(v) The company’s cost of capital is 12%.  
+(vi) The following is an extract from the present value table: 
+12%
+Year 1  0.893
+Year 2  0.797
+Year 3  0.712
+Year 4  0.636
+Year 5  0.567
+Required:
+(a) Calculate for the project the:
+ 
+ 
+(i)
+payback period, showing your answer in years and months.
+(26)
+ 
+ 
+(ii) net present value. 
+(14)
+(b) Evaluate the project for the company, using the calculations made and considering any other 
+relevant factors.
+(12)
+ (Total 52 marks)
+Answer space for question 2 is on pages 8 to 11 of the question paper.
+
+
+--- Page Break ---
+
+M37939A
+5
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 3
+3.
+The balance sheets of Thames Technical Services Limited at 31 December 2009 and 31 December 
+2010 were as follows:
+31 December 2009
+31 December 2010
+£
+£
+Fixed assets
+Fixed assets at cost
+540 0000
+580 0000
+Provision for depreciation
+(120000)
+(135000)
+Fixed assets net book value
+420000
+445000
+Current assets
+Stock
+26700
+25200
+Debtors
+ 12100
+13690
+Bank
+7050
+–––––––
+Cash
+3700
+1110 
+      
+49550
+40000
+Current liabilities
+Creditors
+(13940)
+(11970)
+Taxation due
+(9000)
+(12100)
+Proposed dividends
+(4000)
+(5220)
+Bank overdraft
+–––––––
+(11650)
+(26940)
+(40940)
+Long term liabilities
+14% Debenture
+(100000)
+(150000)
+––––––
+––––––
+Net assets
+      342610
+294060
+Share capital and reserves
+Ordinary shares of £1 each
+200000
+250000
+8% Preference shares of £1 each
+50000
+––––––
+General reserve
+20000
+25000
+Profit and loss reserve
+72610
+19060
+Total Share capital and reserves
+342610
+294060
+
+
+--- Page Break ---
+
+M37939A
+6
+The profit and loss appropriation account for the year ended 31 December 2010 is as follows.
+£
+Net operating profit
+67210)
+Taxation
+(12100)
+Profit after tax
+55110)
+Transfer to General reserve
+(5000)
+Dividends
+(103660)
+Retained earnings for year
+(53550)
+Retained earnings  b/f
+72610)
+Retained earnings  c/f
+19060)
+Additional information at 31 December 2010:
+(i)
+At 31 December 2009, dividends of £4000 were owed to preference shareholders. These were 
+paid during April 2010.
+(ii)
+On 1 January 2010, a motor van which cost £40000, with a book value of £2000, was sold 
+for £4500.
+(iii) A transfer to the General Reserve of £5000 was made on 31 December 2010.
+(iv) Machinery worth £80000 was bought and paid for during the year ended 31 December 
+2010.
+(v)
+An issue of 50000 £1 Ordinary shares was made on 30 June 2010. On the same date, 
+Preference shares worth £50000 were redeemed.
+(vi) On 30 June 2010 a 14% debenture for £50000 was issued.
+(vii) A dividend of £4000 was paid to Preference shareholders during July 2010.
+ 
+ 
+An interim dividend was paid to Ordinary shareholders during October 2010.
+(viii) Interest on the overdraft for the year was £1220.
+
+
+--- Page Break ---
+
+M37939A
+7
+Turn over
+Required:
+(a) A statement reconciling the net operating profit to the net cash flow from operating activities 
+for the year ended 31 December 2010.
+(12) 
+(b) A cash flow statement for the year ended 31 December 2010 in accordance with Financial 
+Reporting Standard (FRS) 1 Cash Flow Statements (revised).
+(22) 
+(c) An analysis of the changes in bank and cash balances for the year ended 31 December 2010.
+(6)  
+(d) Evaluate how well the directors of Thames Technical Services Limited have managed the 
+liquidity of the business during the year ended 31 December 2010. 
+                      (12)
+                                                                                       
+(Total 52 marks)
+Answer space for question 3 is on pages 12 to 16 of the question paper.
+
+
+--- Page Break ---
+
+M37939A
+8
+SECTION B
+SOURCE MATERIAL FOR USE WITH QUESTION 4
+4.
+The sales team at Nicolopoulos Insurance Limited sells insurance policies to customers by 
+telephone.
+The following information is available:
+(i)
+Rent of premises is £1500 per quarter (three month period).
+(ii)
+The sales team is paid £30 every time an insurance policy is sold.
+(iii) Other variable costs are £10 for each insurance policy sold.
+(iv) Equipment purchased for £29000 has a life of 10 years and a scrap value of £1000. 
+Depreciation is charged on a straight line basis.
+(v)
+The telephone company makes a fixed charge to Nicolopoulos Insurance Limited of £3000
+per annum.
+(vi) Other fixed costs are £18200 per annum.
+(vii) Each insurance policy sells for £80.  
+(viii) Nicolopoulos Insurance Limited sells 2400 policies per year.
+
+
+--- Page Break ---
+
+M37939A
+9
+Turn over
+Required:
+(a) Calculate for the year the:
+ 
+ 
+(i)
+number of insurance policies needed to be sold to break even                             
+(12)
+ 
+ 
+(ii) forecast profit or loss.                                                                                   
+(4)
+The telephone company has offered Nicolopoulos Insurance Limited for the next year a choice of 
+two options:
+Option 1: the same fixed rate charge of £3000 for the year  OR 
+Option 2: a measured system of charging according to usage at a rate of 0.5 pence per minute.  
+Each sale is made after an average of 500 minutes telephone usage.  
+All other costs and prices will remain unchanged for the next year.
+The company is expected to sell 2400 policies next year. 
+(b) Using Option 2, calculate for the next year the:
+ 
+ 
+(i)
+number of insurance policies needed to be sold to break even                             
+(4)
+ 
+ 
+(ii) forecast profit or loss.                                                                                   
+(4)
+                                                                                                            
+(c) Evaluate the two options for the telephone charge, and recommend which option should be 
+chosen.
+(8)
+ (Total 32 marks)
+Answer space for question 4 is on pages 18 to 21 of the question paper.
+
+
+--- Page Break ---
+
+M37939A
+10
+SOURCE MATERIAL FOR USE WITH QUESTION 5
+5.
+South East Asia Brick Company has to produce 120000 bricks every month to meet a contract, and 
+this production target is always met.
+Additional information:
+•
+Clay to make the bricks is supplied by Chinclay plc
+•
+The budget for November 2010 showed 2.5 kilos of clay to be used to produce one brick, and 
+this target was met
+•
+The total material cost of clay for November was budgeted at £6510
+•
+The actual cost of clay for November 2010 was £6720.
+Required:
+(a) Calculate for November 2010 the:
+ 
+ 
+(i)
+total material cost variance
+(3)
+ 
+ 
+(ii) material price variance for one brick (in pence)
+(4)
+ 
+ 
+(iii) actual cost paid per kilo of clay.
+(4)
+The production director of South East Asia Brick Company decided for December 2010 to buy 
+from a different supplier of clay, Earthworks Limited, at 2.20 pence per kilo.  
+Additional information:
+•
+The budget for December 2010 showed 2.5 kilos of clay to be used to produce one brick
+•
+The actual total cost of clay for December 2010 was £7392.
+(b) Calculate for December 2010 the:
+ 
+ 
+(i)
+total material cost variance                          
+   (5)
+ 
+ 
+(ii) material usage variance for one brick (in pence) 
+     (4) 
+ 
+ 
+(iii) actual amount of kilos of clay used to produce one brick. 
+     (4) 
+(c) Evaluate whether South East Asia Brick Company should use Chinclay plc or Earthworks 
+Limited as a future supplier of clay.
+     (8)
+                                                                                                             
+ (Total 32 marks)
+Answer space for question 5 is on pages 22 to 25 of the question paper.
+
+
+--- Page Break ---
+
+M37939A
+11
+Turn over
+SOURCE MATERIAL FOR USE WITH QUESTION 6
+6.
+On 1 January 2008 Bharti Tailor bought 1900 Ordinary shares in Krishnanor Industrials plc for 
+£1.53 per share. 
+She has obtained the following information about Krishnanor Industrials plc from the year end 
+accounts at 31 December 2010, and from financial newspapers.
+Issued Share Capital
+£
+Ordinary shares of £1
+5000000
+Reserves
+Profit and loss reserve
+  650000
+General reserve
+  285000
+Net profit after tax for year 
+  420000
+Proposed final dividend
+  310000
+Market share price
+     £1.97
+Required:
+(a) Calculate the:
+ 
+ 
+(i)
+final dividend per share  
+(3)
+ 
+ 
+(ii) total amount that Bharti will receive as a final dividend                                            
+(3)
+ 
+ 
+(iii) dividend cover                                                                                                           
+(3)
+ 
+ 
+(iv) dividend yield                                                                                                            
+(3)
+ 
+ 
+(v) earnings per share                                                                                                       
+(3)
+ 
+ 
+(vi) price/earnings ratio.                                                                                                    
+(3)
+Bharti is considering whether to sell her shares in the company.
+(b)  If Bharti sold her shares on 1 January 2011 for £1.97, calculate the average annual capital return 
+she has made from her shares. 
+ (6)
+(c)  Evaluate whether Bharti should sell her shares in Krishnanor Industrials plc.
+  (8)
+(Total 32 marks)
+Answer space for question 6 is on pages 26 to 29 of the question paper.
+
+
+--- Page Break ---
+
+M37939A
+12
+SOURCE MATERIAL FOR USE WITH QUESTION 7
+7.
+You are the Finance Director of Gulf Marinas plc, who have had a successful year of trading.  
+The Board meeting for the end of the year will take place shortly. You are required to present the 
+accounts for the year ended 31 December 2010.
+Before the Board meeting, some final adjustments must be made to the accounts.
+(i)
+Revalue property from £8000000 to a market value of  £8500000.
+(ii) Write off the value of damaged stock by £26000.
+(iii) Transfer £350000 from the Foreign Exchange Reserve back to the Profit and Loss Account.
+(iv) Make a provision for the payment of Corporation tax on profit of £650000.
+(v) Make a provision for the payment of the final dividend for Preference shareholders. The 
+company has issued 500000 £1 Preference shares at 11%.  Half of the annual dividend was 
+paid to Preference shareholders in June 2010. 
+Required:
+(a) Journal entries to show items (i)–(v) above as recorded in the books of Gulf Marinas plc. Dates 
+and narratives are not required.                                                                                      
+(12) 
+The company is considering a rights issue to ordinary shareholders, to finance the construction of 
+a second marina.
+The Sales Director asks you the following question. “Can you explain the difference between a 
+rights issue of shares and a bonus issue of shares?” 
+(b)  Explain the difference between a rights issue of shares and a bonus issue of shares.    
+(12) 
+As an alternative to issuing shares, the company is considering issuing debentures to finance the 
+second marina. 
+(c)  Evaluate on behalf of the company, the issue of debentures to finance the second marina.
+  (8)  
+     
+(Total 32 marks)
+Answer space for question 7 is on pages 30 to 32 of the question paper.

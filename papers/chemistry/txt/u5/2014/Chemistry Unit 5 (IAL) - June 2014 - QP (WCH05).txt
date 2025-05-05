@@ -1,0 +1,1251 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42979A
+©2014 Pearson Education Ltd.
+6/6/5/5/
+*P42979A0132*
+Chemistry
+Advanced
+Unit 5:  General Principles of Chemistry II – Transition 
+Metals and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+Tuesday 17 June 2014 – Afternoon
+Time: 1 hour 40 minutes
+WCH05/01
+You must have: Data Booklet
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 90. 
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+–  you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P42979A0232*
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+. 
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 In which of the following compounds is there an element with the same oxidation 
+number as that of chromium in K2Cr2O7?
+ 
+ 
+A Cl2O7
+ 
+ 
+B Na3Fe(CN)6
+ 
+ 
+C K2MnO4
+ 
+ 
+D CaTiF6
+(Total for Question 1 = 1 mark)
+2 Chlorine exists in oxidation states from −1 to +7.  For which of the following 
+compounds is a reaction resulting in the disproportionation of chlorine impossible?
+ 
+ 
+A NaClO
+ 
+ 
+B NaClO2
+ 
+ 
+C NaClO3
+ 
+ 
+D NaClO4
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P42979A0332*
+Turn over    
+3 The standard reduction potential of the system
+Sn4+(aq)  +  2e−  U  Sn2+(aq)
+ 
+is E
+9 = +0.15 V.
+ 
+(a) What are the components of the half-cell required to measure the standard 
+reduction potential of this system?
+(1)
+ 
+Ion(s) in the solution
+Metal electrode
+  A
+Sn2+
+tin
+  B
+Sn4+
+tin
+  C
+Sn2+ and Sn4+
+tin
+  D
+Sn2+ and Sn4+
+platinum
+ 
+(b) A standard [Sn4+(aq)], [Sn2+(aq)] half cell is connected to a standard hydrogen 
+electrode.  At the hydrogen electrode
+(1)
+ 
+ 
+A hydrogen gas is oxidized to hydrogen ions.
+ 
+ 
+B hydrogen ions are oxidized to hydrogen gas.
+ 
+ 
+C hydrogen gas is reduced to hydrogen ions.
+ 
+ 
+D hydrogen ions are reduced to hydrogen gas.
+(Total for Question 3 = 2 marks)
+4 In an ethanol / oxygen fuel cell, the ethanol is 
+ 
+ 
+A oxidized at the positive electrode.
+ 
+ 
+B oxidized at the negative electrode.
+ 
+ 
+C reduced at the positive electrode.
+ 
+ 
+D reduced at the negative electrode.
+(Total for Question 4 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42979A0432*
+5 The electronic configuration of the element chromium is
+ 
+3d 
+4s
+     A
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+ѦѨ
+     B
+[Ar]
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+Ѧ
+     C
+[Ar]
+ѦѨ
+ѦѨ
+ѦѨ
+     D
+[Ar]
+ѦѨ
+ѦѨ
+Ѧ
+Ѧ
+(Total for Question 5 = 1 mark)
+6 Iodide ions are oxidized by peroxodisulfate ions in aqueous solution:
+2I−  +  S2O8
+2−  ĺ  I2  +  2SO4
+2−
+ 
+This reaction is catalysed by Fe3+ ions.  The mechanism is most likely to involve
+ 
+ 
+A I− reducing Fe3+ to an intermediate which is then oxidized by S2O8
+2−.
+ 
+ 
+B I− oxidizing Fe3+ to an intermediate which is then reduced by S2O8
+2−.
+ 
+ 
+C S2O8
+2− oxidizing Fe3+ to an intermediate which is then reduced by I−.
+ 
+ 
+D S2O8
+2− reducing Fe3+ to an intermediate which is then oxidized by I−.
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P42979A0532*
+Turn over    
+7 A transition metal ion, M, reacts with a complexing agent, L, to form a coloured 
+complex with the formula ML2. 
+ 
+Portions of a 0.05 mol dm−3 solution of M were mixed with portions of a 0.05 mol dm−3 
+solution of L, so that the total volume of the resulting mixture was always 10 cm3.  The 
+colour intensities of the complex in these mixtures were measured using a colorimeter. 
+ 
+What would the graph of the results look like?
+ 
+ 
+A
+ 
+ 
+B
+ 
+ 
+C
+ 
+ 
+D
+(Total for Question 7 = 1 mark)
+Colour intensity
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+cm3 of M 
+ cm3 of L
+10 9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Colour intensity
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+cm3 of M 
+ cm3 of L
+10 9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Colour intensity
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+cm3 of M 
+ cm3 of L
+10 9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Colour intensity
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+cm3 of M 
+ cm3 of L
+10 9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+PMT
+
+
+--- Page Break ---
+
+6
+*P42979A0632*
+8 When concentrated hydrochloric acid is added to an aqueous solution of copper(II) sulfate, 
+the blue solution changes to green then yellow.  The change in colour is due to
+ 
+ 
+A the formation of chlorine in the solution.
+ 
+ 
+B the gradual replacement of the sulfate ion ligands by chloride ions.
+ 
+ 
+C the gradual replacement of the water ligands by chloride ions.
+ 
+ 
+D the reduction of the copper(II) ions to copper(I) ions.
+(Total for Question 8 = 1 mark)
+9 Dilute hydrochloric acid and dilute aqueous sodium hydroxide are added in excess to 
+separate samples of chromium(III) hydroxide. What would be observed?
+Addition of HCl(aq)
+Addition of NaOH(aq)
+  A
+green solution
+green solution
+  B
+green solution
+green solid
+  C
+green solid
+green solution
+  D
+green solid
+green solid
+(Total for Question 9 = 1 mark)
+10 The reaction between hydrogen and benzene is normally very slow but it speeds up 
+in the presence of finely divided nickel.  The nickel
+ 
+ 
+A acts as a homogeneous catalyst by acting as an electron pair acceptor in the 
+formation of an electrophile.
+ 
+ 
+B acts as a homogeneous catalyst by acting as an electron pair donor in the 
+formation of an electrophile.
+ 
+ 
+C acts as a heterogeneous catalyst by providing active sites on which the 
+reaction occurs.
+ 
+ 
+D reacts with the hydrogen to form nickel(II) hydride which then reacts with the 
+benzene.
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42979A0732*
+Turn over    
+11 When the enthalpy change for the hydrogenation of benzene to cyclohexane
+ 
+is compared to the calculated enthalpy change for the hydrogenation of the 
+theoretical compound cyclohexa-1,3,5-triene to cyclohexane, benzene is calculated 
+to have a stabilization energy of 150 kJ mol−1.  This means that 
+ 
+ 
+A the enthalpy change for the hydrogenation of benzene is +150 kJ mol−1.
+ 
+ 
+B the enthalpy change for the hydrogenation of benzene is −150 kJ mol−1.
+ 
+ 
+C the enthalpy change for the conversion of benzene to cyclohexa-1,3,5-triene 
+is +150 kJ mol−1.
+ 
+ 
+D the enthalpy change for the conversion of benzene to cyclohexa-1,3,5-triene 
+is −150 kJ mol−1.
+(Total for Question 11 = 1 mark)
+12 Nitrobenzene is prepared by heating benzene and a mixture of concentrated nitric 
+and sulfuric acids under reflux at 55°C.  If the temperature rises above 55°C, the yield 
+of nitrobenzene is reduced.  This is because, at temperatures above 55°C, the
+ 
+ 
+A benzene evaporates.
+ 
+ 
+B nitrating mixture decomposes.
+ 
+ 
+C nitrobenzene reacts to form benzenesulfonic acid. 
+ 
+ 
+D nitrobenzene reacts to form dinitrobenzene.
+(Total for Question 12 = 1 mark)
+13 Dilute sulfuric acid was added to a sample of phenylamine until the reaction was 
+just complete.  The resulting mixture was poured onto a watch-glass and allowed to 
+stand in a warm place for about 24 hours.  At the end of this time, the watch-glass 
+contained
+ 
+ 
+A no residue.
+ 
+ 
+B a liquid inorganic residue. 
+ 
+ 
+C a liquid organic residue.
+ 
+ 
+D a white solid.
+(Total for Question 13 = 1 mark)
++   3H2   
+PMT
+
+
+--- Page Break ---
+
+8
+*P42979A0832*
+14 When ethanoyl chloride is added to phenylamine at room temperature, the main 
+organic product of the reaction is
+  A
+NH
+C
+O
+CH3
+  B
+NH2
+C
+O
+  C
+CH3
+C
+O
+  D
+NH2
+C
+O
+CH3
+(Total for Question 14 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+9
+*P42979A0932*
+Turn over    
+15 Glycine (2-aminoethanoic acid) is the simplest amino acid.  The structure of glycine is
+ 
+Which of the following is not true about glycine?
+ 
+ 
+A Glycine is a white crystalline solid at room temperature.
+ 
+ 
+B A glycine molecule is non-superimposable on its mirror image.
+ 
+ 
+C Glycine reacts with ninhydrin to form a purple compound.
+ 
+ 
+D Glycine molecules form condensation polymers with other amino acids.
+(Total for Question 15 = 1 mark)
+16 The mass spectrum of a compound, Z, has a peak at m/e = 43.  Which of the following 
+could not be Z?
+ 
+ 
+A CH3COCH2CH3
+ 
+ 
+B CH3CH2 CH2 CHO
+ 
+ 
+C CH3CH2CH2COCH3
+ 
+ 
+D CH3CH2COCH2CH3
+(Total for Question 16 = 1 mark)
+17 The low resolution proton nmr spectrum of a compound contains only two peaks. 
+The compound could be
+ 
+ 
+A butan-1-ol
+ 
+ 
+B butan-2-ol
+ 
+ 
+C 2-methylpropan-1-ol
+ 
+ 
+D 2-methylpropan-2-ol
+(Total for Question 17 = 1 mark)
+H2N
+O
+OH
+PMT
+
+
+--- Page Break ---
+
+10
+*P42979A01032*
+18 A compound, G, has the following properties:
+ 
+G reacts with phosphorus(V) chloride to form hydrogen chloride.
+ 
+G reacts by addition with hydrogen in the presence of a nickel catalyst.
+ 
+G reacts with sodium hydroxide to form an ionic solid.
+ 
+Compound G could be
+  A
+OH
+  B
+OH
+O
+  C
+OH
+O
+  D
+O
+H
+(Total for Question 18 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+11
+*P42979A01132*
+Turn over    
+19 In the first stage of the synthesis of methyl 3-nitrobenzoate, methyl benzoate, 
+C6H5COOCH3, is prepared by the reaction of benzoic acid with methanol in the 
+presence of concentrated sulfuric acid.  When the reaction is complete, the sulfuric 
+acid is neutralized by the addition of aqueous sodium carbonate.  The simplest way of 
+obtaining the impure methyl benzoate from this mixture will be
+ 
+ 
+A refluxing.
+ 
+ 
+B solvent extraction.
+ 
+ 
+C filtration. 
+ 
+ 
+D recrystallization.
+(Total for Question 19 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+12
+*P42979A01232*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+13
+*P42979A01332*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+20 The table below shows some ions of vanadium that are stable in aqueous solution.
+Ion
+Oxidation number of 
+vanadium
+Colour in aqueous solution
+V(H2O)6
+2+
+violet
+V(H2O)6
+3+
+green
+VO2+
+blue
+VO2
++
++5
+yellow
+ 
+(a) (i) Complete the table above by adding the missing oxidation numbers.
+(1)
+ 
+ 
+(ii) Complete the electronic configuration of the element vanadium and hence 
+explain the highest oxidation number shown by vanadium.
+(2)
+Electronic configuration of the element vanadium:
+[Ar]  ........................................................................................................................................................................................................................................................................
+Explanation of the highest oxidation number
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P42979A01432*
+ 
+ 
+*(iii) Explain why V(H2O)6
+3+ is coloured.
+(4)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest why the +5 oxidation state of vanadium exists as VO2
++ in aqueous 
+solution, rather than V(H2O)6
+5+.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) If V(H2O)6
+5+ did exist in aqueous solution, would it be coloured? Explain your 
+answer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P42979A01532*
+Turn over    
+ 
+(b) (i) Sulfur dioxide dissolves in water to form sulfuric(IV) acid, H2SO3. 
+ 
+ 
+ 
+Determine the feasibility of using sulfur dioxide dissolved in water to reduce 
+VO2+(aq) to V3+(aq).  Quote the relevant half equations and standard electrode 
+potentials from page 15 of the Data Booklet and write the overall equation for 
+the reaction.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Write an ionic equation for the disproportionation of vanadium in oxidation 
+state +3 to vanadium in oxidation states +2 and +4.
+(1)
+ 
+ 
+(iii) Calculate the Ecell for this disproportionation and hence determine its 
+feasibility.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 20 = 16 marks)
+PMT
+
+
+--- Page Break ---
+
+16
+*P42979A01632*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+17
+*P42979A01732*
+Turn over    
+21 Limestone is an important industrial raw material.  The chemically important 
+component of limestone is calcium carbonate and the proportion of this compound 
+determines the quality of the material.
+ 
+One method of determining the proportion of calcium carbonate in limestone 
+involves dissolving the limestone in acid and precipitating the calcium ions as 
+calcium ethanedioate.  The precipitate is filtered and then re-dissolved in dilute 
+sulfuric acid.  The concentration of ethanedioate ions is determined by titration with a 
+solution of potassium manganate(VII) of known concentration.
+ 
+In one such determination, 1.77 g of limestone produced 250 cm3 of calcium 
+ethanedioate solution and 25.0 cm3 samples of this solution were titrated at about 
+70 °C with potassium manganate(VII) solution of concentration 0.0205 mol dm−3.  The 
+mean titre was 24.55 cm3.
+ 
+(a) (i) State the appearance of the titration mixture at the end-point.
+(1)
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Complete the ionic equation for this titration.
+(1)
+2MnO4
+− + 5C2O4
+2− + ...............H+  ĺ  ...............Mn2+ + ...............CO2 + ...............H2O
+ 
+ 
+*(iii) Calculate the percentage by mass of calcium carbonate in the limestone. 
+Show your working and give your final answer to three significant figures.
+(5)
+PMT
+
+
+--- Page Break ---
+
+18
+*P42979A01832*
+ 
+(b) (i) Before the calcium ethanedioate is re-dissolved, it is washed in deionized or 
+distilled water.  Explain why this step is necessary and the effect its omission 
+would have on the titration.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The table below summarises the tolerances on the measuring apparatus used 
+in this experiment.
+ 
+ 
+ 
+Complete the table by calculating the percentage error for each piece of 
+apparatus to two significant figures.
+(2)
+Apparatus
+Value
+Maximum total 
+error on the stated 
+value
+Percentage error 
+on the stated 
+value
+Balance
+1.77 g
+±0.01 g
+Volumetric flask
+250 cm3
+±0.12 cm3
+Pipette
+25 cm3
+±0.06 cm3
+Burette
+24.55 cm3
+±0.10 cm3
+PMT
+
+
+--- Page Break ---
+
+19
+*P42979A01932*
+Turn over    
+ 
+ 
+(iii) Using the method in (a), it was found that 2.00 g of a different sample of 
+limestone contained 0.015 mol of calcium carbonate.
+ 
+ 
+ 
+Use the data from (b)(ii), and the fact that the solubility of calcium 
+ethanedioate in water is 0.0067 g dm−3, to calculate whether the fact that 
+some calcium ethanedioate remains in solution has a significant effect on the 
+accuracy of this second calcium carbonate determination.  Assume that the 
+combined volume of the filtrate and the washings is approximately 500 cm3.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 21 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+20
+*P42979A02032*
+22 Ketoprofen is an analgesic used in the treatment of arthritis-related inflammatory 
+pains.  A synthesis of ketoprofen from benzenecarboxylic acid is shown below.
+ 
+(a) Identify reagents A, B and C by name or formula.
+(3)
+A  ..............................................................................................................................................................................................................................................................................
+B  ..............................................................................................................................................................................................................................................................................
+C  ..............................................................................................................................................................................................................................................................................
+benzenecarboxylic acid
+ketoprofen
+HO
+O
+O
+stage 1
+reagent A
+Br
+O
+OH
+O
+O
+Cl
+O
+stage 3
+CH3CH2Br
+AlBr3
+O
+stage 2
+reagent B
+AlCl3
+stage 4
+reagent C
+heat
+stage 5
+PMT
+
+
+--- Page Break ---
+
+21
+*P42979A02132*
+Turn over    
+ 
+(b) Stage 3 is an electrophilic substitution.
+ 
+ 
+(i) Write an equation for the formation of the electrophile and explain the role of 
+the AlBr3 in this process.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Complete the mechanism for the electrophilic substitution in stage 3.  You 
+need only show the benzene ring on the right of the structure.  This is given 
+below.
+(3)
+PMT
+
+
+--- Page Break ---
+
+22
+*P42979A02232*
+ 
+(c) The first step of stage 5 of the synthesis is the addition of a carbon atom to the 
+chain.  One way of achieving this is to replace the bromine atom with a nitrile 
+group in a nucleophilic substitution.
+ 
+ 
+(i) Suggest the name or formula of a reagent that could be used in this 
+nucleophilic substitution.  Suggest a suitable solvent in which to carry out the 
+reaction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) The second step of stage 5 is the conversion of the nitrile into ketoprofen. 
+State the reagent or reagents required.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+23
+*P42979A02332*
+Turn over    
+ 
+(d) Benzenecarboxylic acid and ketoprofen have different infrared spectra.
+ 
+ 
+(i) In the diagram below, insert in the boxes the wavenumber ranges for the 
+infrared absorptions due to C O groups in benzenecarboxylic acid and 
+ketoprofen.
+(3)
+ 
+ 
+(ii) Explain how these absorptions can be used to distinguish between the two 
+compounds.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 15 marks)
+benzenecarboxylic 
+acid
+ketoprofen
+HO
+O
+OH
+O
+O
+PMT
+
+
+--- Page Break ---
+
+24
+*P42979A02432*
+23 10 cm3 of a gaseous hydrocarbon, CxHy, was mixed with excess oxygen and ignited. 
+The total gas volume was measured at room temperature and pressure before and 
+after combustion, and it was found that it had contracted by 20 cm3.  On shaking 
+the remaining gases with excess potassium hydroxide solution, the total gas volume 
+contracted by a further 40 cm3.
+ 
+The equation for the complete combustion of CxHy is
+CxHy  +  (x  +  (y/4))O2  ĺ  xCO2  +  (y/2)H2O
+ 
+(a) Explain why the volume of gas contracts after combustion.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) Explain why the volume of gas contracts after shaking with excess potassium 
+hydroxide.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(c) Calculate the molecular formula of CxHy.
+(3)
+(Total for Question 23 = 5 marks)
+TOTAL FOR SECTION B = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+25
+*P42979A02532*
+Turn over    
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+26
+*P42979A02632*
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+24
+Stereoisomerism
+Stereoisomerism occurs when species have the same formula and their atoms are 
+bonded in the same sequence, but the spatial orientation of the atoms is different. 
+Stereoisomers that are non-superimposable mirror images are optical isomers, or 
+enantiomers.  These have identical chemical and physical properties, apart from 
+their effect on plane-polarized light.  Optical isomerism arises most simply when a 
+tetrahedral atom has four different groups bonded to it, but the presence of such a 
+system does not necessarily result in an optical isomer.
+Stereoisomers that are not enantiomers are called diastereoisomers.  Complex 
+optically active species can be diastereoisomers, but a more familiar example is found 
+with geometric isomers.  In organic chemistry, geometric isomerism may arise when 
+there is an energetic barrier to free rotation.  Restricted rotation occurs with double 
+bonds, because a ʌ bond is formed by the lateral overlap of p orbitals, and also with 
+cyclic compounds.  Diastereoisomers have different physical properties and can be 
+separated by conventional techniques.
+Stereoisomerism is not confined to organic chemistry.  Inorganic compounds may 
+also show stereoisomerism and it is a particular feature of transition metal complexes. 
+The simplest geometric isomers in transition metal complexes occur in square planar 
+complexes ML2N2 and octahedral complexes ML4N2, where M is the metal ion and 
+L and N are ligands.  Geometric isomerism also occurs with octahedral complexes 
+of the type ML3N3.  The most important optical isomers of transition metals are 
+octahedral complexes of the type MB3 where B is a bidentate ligand; the structure of 
+an enantiomer of MB3 is shown below.  The stability of complexes with polydentate 
+ligands makes them easier to prepare. 
+M
+B
+B
+B
+Because many biochemical reactions are stereospecific, stereoisomerism is of great 
+importance in the pharmaceutical industry.  Wherever possible, the industry aims to 
+synthesize specific isomers.
+PMT
+
+
+--- Page Break ---
+
+27
+*P42979A02732*
+Turn over    
+ 
+(a) 2,3-dihydroxybutanedioic acid (tartaric acid) exists in three isomeric structures, X, 
+Y and Z, two of which are shown below.
+ 
+ 
+Isomer X occurs in many plants including grapes, bananas and tamarinds.
+ 
+ 
+(i) Circle the chiral centres of isomer X on the diagram.
+(1)
+ 
+ 
+(ii) Draw the structure of isomer Y, which is an enantiomer of X.
+(1)
+HO
+H
+C
+O
+C
+C
+C
+O
+OH
+OH
+HO
+H
+HO
+HO
+C
+O
+C
+C
+C
+O
+OH
+H
+HO
+H
+X
+Z
+PMT
+
+
+--- Page Break ---
+
+28
+*P42979A02832*
+ 
+ 
+(iii) How can plane-polarized light be used to distinguish the enantiomers X and Y?
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iv) Suggest, with a reason, whether or not nuclear magnetic resonance could be 
+used to distinguish between the enantiomers X and Y.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) An important use of X is in the preparation of other chiral molecules. One 
+example is the substitution of the alcohol groups by bromine atoms.
+ 
+ 
+ 
+State and explain what may be deduced about the mechanism of this reaction 
+if the product is also chiral.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+29
+*P42979A02932*
+Turn over    
+ 
+ 
+(vi) Isomer Z is a diastereoisomer.  Suggest why it is not an optical isomer, even 
+though it has two asymmetric carbon atoms.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+(b) (i) Suggest why the lateral overlap that forms a ʌ bond results in a barrier to free 
+rotation about a carbon-carbon double bond.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw the geometric isomers of 1,2-dichlorocyclohexane.
+(1)
+PMT
+
+
+--- Page Break ---
+
+30
+*P42979A03032*
+ 
+(c) Cisplatin, [PtCl2(NH3)2], is an example of a stereospecific anti-cancer drug.
+ 
+ 
+(i) Draw the structure of cisplatin and its geometric isomer.
+(1)
+ 
+ 
+(ii) Explain the term ‘stereospecific drug’.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+*(iii) Suggest three reasons why the pharmaceutical industry prefers to use 
+stereospecific synthetic routes.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+31
+*P42979A03132*
+ 
+(d) The ethanedioate ion, C2O4
+2−, is an example of a bidentate ligand.
+ 
+ 
+(i) Explain the term ‘bidentate ligand’.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Explain why the complexes formed with bidentate ligands are generally more 
+stable than those with monodentate ligands.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) The complex, [Fe(C2O4)3]3−, exists as two enantiomers.  Use the information in 
+the passage to draw the two enantiomers.
+(2)
+(Total for Question 24 = 20 marks)
+TOTAL FOR SECTION C = 20 MARKS
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+32
+*P42979A03232*
+PMT

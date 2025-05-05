@@ -1,0 +1,198 @@
+Paper Reference(s) 
+6679 
+Edexcel GCE 
+Mechanics M3 
+Advanced/Advanced Subsidiary 
+Thursday 30 May 2002 − Morning 
+Time:  1 hour 30 minutes 
+Materials required for examination
+Items included with question papers 
+Answer Book (AB16)
+Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 
+48G 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M3), the paper reference (6679), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2.
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions. Pages 7 and 8 are blank. 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N10810
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+Edexcel Foundation is a registered charity. ©2002 Edexcel 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1.
+A particle P moves in a straight line with simple harmonic motion about a fixed
+centre O with period 2 s. At time t seconds the speed of P is v m s−1. When t = 0,
+v = 0 and P is at a point A where OA = 0.25 m.
+Find the smallest positive value of t for which AP = 0.375 m.
+(6) 
+2. 
+Figure 1 
+A 
+ α ° 
+O
+B 
+A metal ball B of mass m is attached to one end of a light inextensible string. The 
+other end of the string is attached to a fixed point A. The ball B moves in a horizontal 
+circle with centre O vertically below A, as shown in Fig. 1. The string makes a 
+constant angle α ° with the downward vertical and B moves with constant angular 
+speed √(2gk), where k is a constant. The tension in the string is 3mg. By modelling B 
+as a particle. find 
+(a) the value of α, 
+(4) 
+(b) the length of the string. 
+(5) 
+N10810 
+2
+PMT
+PMT
+
+
+--- Page Break ---
+
+N10810 
+3
+3.
+A particle P of mass 2.5 kg moves along the positive x-axis. It moves away from a
+fixed origin O, under the action of a force directed away from O. When
+OP = x metres the magnitude of the force is 2e−0.1x newtons and the speed of P is
+v m s−1. When x = 0, v = 2. Find
+(a) v2 in terms of x,
+(6) 
+(b) the value of x when v = 4.
+(3) 
+(c) Give a reason why the speed of P does not exceed √20 m s−1.
+(1) 
+4.
+A light elastic string AB of natural length 1.5 m has modulus of elasticity 20 N. The
+end A is fixed to a point on a smooth horizontal table. A small ball S of mass 0.2 kg is
+attached to the end B. Initially S is at rest on the table with AB = 1.5 m. The ball S is
+then projected horizontally directly away from A with a speed of 5 m s−1. By
+modelling S as a particle,
+(a) find the speed of S when AS = 2 m.
+(5) 
+When the speed of S is 1.5 m s−1, the string breaks.
+(b) Find the tension in the string immediately before the string breaks.
+(5) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+5. 
+Figure 2 
+h 
+2r 
+O 
+• G
+h 
+r 
+A model tree is made by joining a uniform solid cylinder to a uniform solid cone 
+made of the same material. The centre O of the base of the cone is also the centre of 
+one end of the cylinder, as shown in Fig. 2. The radius of the cylinder is r and the 
+radius of the base of the cone is 2r. The height of the cone and the height of the 
+cylinder are each h. The centre of mass of the model is at the point G. 
+(a) Show that OG = 14
+1 h. 
+(8) 
+The model stands on a desk top with its plane face in contact with the desk top. The 
+desk top is tilted until it makes an angle α with the horizontal, where tan α = 26
+7 . The 
+desk top is rough enough to prevent slipping and the model is about to topple. 
+(b) Find r in terms of h. 
+(4) 
+N10810 
+4
+PMT
+PMT
+
+
+--- Page Break ---
+
+N10810 
+5
+6.
+A light elastic string, of natural length 4a and modulus of elasticity 8mg, has one end
+attached to a fixed point A. A particle P of mass m is attached to the other end of the
+string and hangs in equilibrium at the point O.
+(a) Find the distance AO.
+(2) 
+The particle is now pulled down to a point C vertically below O, where OC = d. It is 
+released from rest. In the subsequent motion the string does not become slack. 
+ 
+(b) Show that P moves with simple harmonic motion of period π
+
+
+
+
+
+
+g
+a
+2
+.
+(7) 
+The greatest speed of P during this motion is 2
+1 √(ga). 
+ 
+(c) Find d in terms of a. 
+(3) 
+Instead of being pulled down a distance d, the particle is pulled down a distance a. 
+Without further calculation, 
+ 
+(d) describe briefly the subsequent motion of P. 
+(2) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+7. 
+Figure 3 
+O 
+N10810 
+6
+θ 
+P 
+A
+u 
+A particle of mass m is attached to one end of a light inextensible string of length l. 
+The other end of the string is attached to a fixed point O. The particle is hanging at 
+the point A, which is vertically below O. It is projected horizontally with speed u. 
+When the particle is at the point P, ∠AOP = θ, as shown in Fig. 3. The string 
+oscillates through an angle α on either side of OA where cos α = 3
+2 . 
+ 
+(a) Find u in terms of g and l. 
+(4) 
+ 
+When ∠AOP = θ, the tension in the string is T. 
+(b) Show that T =  3
+mg (9 cos θ  − 4).
+(6) 
+ 
+(c) Find the range of values of T. 
+(4) 
+END 
+PMT
+PMT

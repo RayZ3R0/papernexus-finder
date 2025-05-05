@@ -1,0 +1,194 @@
+Paper Reference(s)
+6683
+Edexcel GCE
+Statistics S1
+Advanced/Advanced Subsidiary
+Tuesday 4 November 2003 − Morning
+Time: 1 hour 30 minutes
+Materials required for examination            Items included with question papers
+Answer Book (AB16)                       
+Nil
+Graph Paper (ASG2)
+Mathematical Formulae (Lilac)
+Candidates may use any calculator EXCEPT those with the facility 
+for  symbolic  algebra,  differentiation  and/or  integration.  Thus 
+candidates may NOT use calculators such as the Texas Instruments 
+TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 48G.
+Instructions to Candidates
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Statistics S1), the paper reference (6683), your 
+surname, other name and signature.
+Values from the statistical tables should be quoted in full. When a calculator is used, the answer 
+should be given to an appropriate degree of accuracy.
+Information for Candidates
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided.
+Full marks may be obtained for answers to ALL questions.
+This paper has six questions. 
+Advice to Candidates
+You must ensure that your answers to parts of questions are clearly labelled.
+You must show sufficient working to make your methods clear to the Examiner. Answers
+without working may gain no credit.
+N16611A
+This publication may only be reproduced in accordance with Edexcel copyright policy.
+Edexcel Foundation is a registered charity. ©2003 Edexcel
+PMT
+
+
+--- Page Break ---
+
+1.
+A company wants to pay its employees according to their performance at work. The performance 
+score x and the annual salary, y in £100s, for a random sample of 10 of its employees for last 
+year were recorded. The results are shown in the table below.
+x
+15
+40
+27
+39
+27
+15
+20
+30
+19
+24
+y
+216
+384
+234
+399
+226
+132
+175
+316
+187
+196
+[You may assume Σxy = 69 798, Σx2 = 7 266]
+(a) Draw a scatter diagram to represent these data.
+(4)
+(b) Calculate exact values of Sxy and Sxx.
+(4)
+(c) (i)
+Calculate the equation of the regression line of y on x, in the form y = a + bx.
+Give the values of a and b to 3 significant figures.
+(ii) Draw this line on your scatter diagram.
+(5)
+(d) Interpret the gradient of the regression line.
+(1)
+The company decides to use this regression model to determine future salaries.
+(e) Find the proposed annual salary for an employee who has a performance score of 35.
+(2)
+ 
+PMT
+
+
+--- Page Break ---
+
+2.
+A fairground game involves trying to hit a moving target with a gunshot. A round consists of up 
+to 3 shots. Ten points are scored if a player hits the target, but the round is over if the player 
+misses. Linda has a constant probability of 0.6 of hitting the target and shots are independent of 
+one another.
+(a) Find the probability that Linda scores 30 points in a round.
+(2)
+The random variable X is the number of points Linda scores in a round.
+(b) Find the probability distribution of X.
+(5)
+(c) Find the mean and the standard deviation of X.
+(5)
+A game consists of 2 rounds.
+(d) Find the probability that Linda scores more points in round 2 than in round 1.
+(6)
+3.
+Cooking sauces are sold in jars containing a stated weight of 500 g of sauce The jars are filled by 
+a machine. The actual weight of sauce in each jar is normally distributed with mean 505 g and 
+standard deviation 10 g.
+(a) (i)
+Find the probability of a jar containing less than the stated weight.
+(ii) In a box of 30 jars, find the expected number of jars containing less than the stated 
+weight. 
+(5)
+The mean weight of sauce is changed so that 1% of the jars contain less than the stated weight. 
+The standard deviation stays the same.
+(b) Find the new mean weight of sauce.
+(4)
+N16611A
+3
+Turn over
+PMT
+
+
+--- Page Break ---
+
+4.
+Explain what you understand by
+(a) a sample space,
+(1)
+(b) an event.
+(1)
+Two events A and B are independent, such that P(A) = 3
+1  and P(B) = 4
+1 .
+Find 
+(c) P(A ∩ B),
+(1)
+(d) P(AB),
+(2)
+(e) P(A ∪ B).
+(2)
+5. 
+The random variable X has the discrete uniform distribution
+P(X = x) = n
+1 ,         x = 1, 2, ..., n.
+Given that E(X) = 5,
+(a) show that n = 9.
+(3)
+Find
+(b) P(X < 7),
+(2)
+(c) Var (X).
+(4)
+N16611A
+4
+PMT
+
+
+--- Page Break ---
+
+6.
+A travel agent sells holidays from his shop. The price, in £, of 15 holidays sold on a particular 
+day are shown below.
+299
+1050
+2315
+999
+485
+350
+169
+1015
+650
+830
+99
+2100
+689
+550
+475
+For these data, find
+(a) the mean and the standard deviation,
+(3)
+(b) the median and the inter-quartile range.
+ (4)
+An outlier is an observation that falls either more than 1.5  × (inter-quartile range) above the 
+upper quartile or more than 1.5 × (inter-quartile range) below the lower quartile.
+(c) Determine if any of the prices are outliers.
+(3)
+The travel agent also sells holidays from a website on the Internet. On the same day, he recorded 
+the price, £x, of each of 20 holidays sold on the website. The cheapest holiday sold was £98, the 
+most expensive was £2400 and the quartiles of these data were £305, £1379 and £1805. There 
+were no outliers.
+(d) On graph paper, and using the same scale, draw box plots for the holidays sold in the shop 
+and the holidays sold on the website.
+(4)
+(e) Compare and contrast sales from the shop and sales from the website.
+(2)
+                 END
+PMT

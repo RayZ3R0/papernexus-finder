@@ -1,0 +1,246 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paper Reference(s) 
+6684 
+Edexcel GCE 
+Statistics S2 
+Advanced/Advanced Subsidiary 
+Tuesday 25 January 2005 − Morning 
+Time: 1 hour 30 minutes 
+ 
+ 
+Materials required for examination            Items included with question papers 
+Answer Book (AB16)                         
+Nil 
+Graph Paper (ASG2) 
+ 
+Mathematical Formulae 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for 
+symbolic algebra, differentiation and/or integration. Thus candidates 
+may NOT use calculators such as the Texas Instruments TI 89, TI 92, 
+Casio CFX 9970G, Hewlett Packard HP 48G. 
+ 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Statistics S2), the paper reference (6684), your 
+surname, other name and signature. 
+Values from the statistical tables should be quoted in full. When a calculator is used, the answer 
+should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+N16742A 
+This publication may only be reproduced in accordance with London Qualifications Limited copyright policy. 
+ 
+©2005 London Qualifications Limited.  
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+1. 
+The random variables R, S and T are distributed as follows 
+ 
+R ∼ B(15, 0.3),    S ∼ Po(7.5),   T ∼ N(8, 22). 
+ 
+Find  
+ 
+(a) P(R = 5), 
+(2) 
+(b) P(S = 5), 
+(1) 
+(c) P(T = 5). 
+(1) 
+ 
+ 
+2. 
+(a) Explain what you understand by (i) a population and (ii) a sampling frame. 
+(2) 
+ 
+ 
+The population and the sampling frame may not be the same. 
+ 
+(b) Explain why this might be the case. 
+(1) 
+(c) Give an example, justifying your choices, to illustrate when you might use 
+ 
+ 
+(i) a census, 
+ 
+ 
+(ii) a sample. 
+(4) 
+ 
+ 
+3. 
+A rod of length 2l was broken into 2 parts. The point at which the rod broke is equally likely to 
+be anywhere along the rod. The length of the shorter piece of rod is represented by the random 
+variable X. 
+ 
+(a) Write down the name of the probability density function of X, and specify it fully. 
+(3) 
+(b) Find P(X < 3
+1 l). 
+(2) 
+(c) Write down the value of E(X). 
+(1) 
+ 
+Two identical rods of length 2l are broken. 
+ 
+(d) Find the probability that both of the shorter pieces are of length less than 3
+1 l. 
+ (2) 
+ 
+N16742A 
+2 
+PMT
+PMT
+
+
+--- Page Break ---
+
+4. 
+In an experiment, there are 250 trials and each trial results in a success or a failure. 
+ 
+ 
+(a) Write down two other conditions needed to make this into a binomial experiment. 
+(2) 
+ 
+It is claimed that 10% of students can tell the difference between two brands of baked beans. In a 
+random sample of 250 students, 40 of them were able to distinguish the difference between the 
+two brands. 
+ 
+(b) Using a normal approximation, test at the 1% level of significance whether or not the claim 
+is justified. Use a one-tailed test.  
+(6) 
+(c) Comment on the acceptability of the assumptions you needed to carry out the test. 
+(2) 
+ 
+ 
+5.  
+From company records, a manager knows that the probability that a defective article is produced 
+by a particular production line is 0.032. 
+ 
+ 
+A random sample of 10 articles is selected from the production line. 
+ 
+ 
+(a) Find the probability that exactly 2 of them are defective. 
+(3) 
+ 
+On another occasion, a random sample of 100 articles is taken. 
+ 
+(b) Using a suitable approximation, find the probability that fewer than 4 of them are defective. 
+(4) 
+ 
+At a later date, a random sample of 1000 is taken. 
+ 
+(c) Using a suitable approximation, find the probability that more than 42 are defective. 
+(6) 
+ 
+ 
+ 
+N16742A 
+3 
+Turn over 
+ 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+6. 
+Over a long period of time, accidents happened on a stretch of road at random at a rate of 3 per 
+month. 
+ 
+Find the probability that 
+ 
+(a) in a randomly chosen month, more than 4 accidents occurred, 
+(3) 
+(b) in a three-month period, more than 4 accidents occurred. 
+(2) 
+ 
+At a later date, a speed restriction was introduced on this stretch of road. During a randomly 
+chosen month only one accident occurred. 
+ 
+(c) Test, at the 5% level of significance, whether or not there is evidence to support the claim 
+that this speed restriction reduced the mean number of road accidents occurring per month. 
+(4) 
+ 
+The speed restriction was kept on this road. Over a two-year period, 55 accidents occurred. 
+ 
+(d) Test, at the 5% level of significance, whether or not there is now evidence that this speed 
+restriction reduced the mean number of road accidents occurring per month. 
+(7) 
+ 
+ 
+7. 
+The random variable X has probability density function 
+ 
+f(x) = 
+
+
+
+≤
+≤
+−
++
+−
+otherwise.
+,0
+,4
+1
+),
+4
+5
+(
+2
+x
+x
+x
+k
+ 
+(a) Show that k = 9
+2 . 
+(3) 
+ 
+Find 
+ 
+(b) E(X), 
+(3) 
+(c) the mode of X. 
+(2) 
+(d) the cumulative distribution function F(x) for all x. 
+(5) 
+(e) Evaluate P(X ≤ 2.5), 
+(2) 
+(f ) Deduce the value of the median and comment on the shape of the distribution. 
+(2) 
+ 
+                 END 
+N16742A 
+4 
+PMT
+PMT

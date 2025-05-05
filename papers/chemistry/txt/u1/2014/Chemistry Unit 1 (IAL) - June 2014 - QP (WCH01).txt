@@ -1,0 +1,952 @@
+Centre Number
+Candidate Number
+Write your name here
+Surname
+Other names
+Total Marks
+Paper Reference
+Turn over    
+P42976A
+©2014 Pearson Education Ltd.
+6/6/6/6/
+*P42976A0124*
+Chemistry
+Advanced Subsidiary
+Unit 1: The Core Principles of Chemistry
+Friday 23 May 2014 – Morning
+Time: 1 hour 30 minutes
+WCH01/01
+Candidates may use a calculator.
+Instructions
+t Use black ink or ball-point pen.
+t Fill in the boxes at the top of this page with your name,  
+ 
+centre number and candidate number.
+t Answer all questions.
+t Answer the questions in the spaces provided  
+ 
+– there may be more space than you need.
+Information
+t The total mark for this paper is 80.
+t The marks for each question are shown in brackets
+ 
+– use this as a guide as to how much time to spend on each question.
+t Questions labelled with an asterisk (*) are ones where the quality of your  
+ 
+written communication will be assessed 
+ 
+ – you should take particular care with your spelling, punctuation and grammar, as 
+well as the clarity of expression, on these questions.
+t A Periodic Table is printed on the back cover of this paper.
+Advice
+t Read each question carefully before you start to answer it.
+t Keep an eye on the time.
+t Try to answer every question.
+t Check your answers if you have time at the end.
+Pearson Edexcel 
+International
+Advanced Level
+PMT
+
+
+--- Page Break ---
+
+2
+*P42976A0224*
+SECTION A
+Answer ALL the questions in this section.   You should aim to spend no more than 20 minutes 
+on this section.   For each question, select one answer from A to D and put a cross in the box 
+.    
+If you change your mind, put a line through the box 
+ and then mark your new answer with  
+a cross 
+.
+1 Which of the following species has 50 neutrons?
+ 
+ 
+A 
+50
+23V
+ 
+ 
+B 
+86
+37Rb
+–
+ 
+ 
+C 
+89
+39Y+
+ 
+ 
+D 
+91
+40Zr+
+(Total for Question 1 = 1 mark)
+2 Which of the following statements is correct about all isotopes of an element?  They have
+ 
+ 
+A the same mass number.
+ 
+ 
+B the same number of neutrons.
+ 
+ 
+C more protons than neutrons.
+ 
+ 
+D the same electronic configuration.
+(Total for Question 2 = 1 mark)
+3 The element rhenium has two naturally-occurring isotopes, 185Re and 187Re.  The 
+relative atomic mass of rhenium is 186.2.
+ 
+From this information, the percentage abundances of these two isotopes are
+ 
+ 
+A 12% 
+185Re and 88% 
+187Re
+ 
+ 
+B 40% 
+185Re and 60% 
+187Re
+ 
+ 
+C 60% 
+185Re and 40% 
+187Re
+ 
+ 
+D 88% 
+185Re and 12% 
+187Re
+(Total for Question 3 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+3
+*P42976A0324*
+Turn over    
+4 In which of the following pairs does the second element have a lower 1st ionization 
+energy than the first element?
+First element
+Second element
+A
+Si
+C
+B
+Na
+Mg
+C
+Be
+B
+D
+Ar
+Ne
+(Total for Question 4 = 1 mark)
+5 An oxide of nitrogen contains 2.8 g of nitrogen and 8.0 g of oxygen.
+ 
+What is the empirical formula of this oxide?
+ 
+ 
+A NO
+ 
+ 
+B NO3
+ 
+ 
+C N2O3
+ 
+ 
+D N2O5
+(Total for Question 5 = 1 mark)
+6 Calculate the total number of atoms present in 1.8 g of water, H2O.
+ 
+DATA
+ 
+x 
+The molar mass of H2O is 18 g mol–1
+ 
+x 
+The Avogadro constant is  6.0 × 1023 mol–1
+ 
+ 
+A 6.0 × 1022
+ 
+ 
+B 6.0 × 1023
+ 
+ 
+C 1.8 × 1023
+ 
+ 
+D 1.8 × 1024
+(Total for Question 6 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+4
+*P42976A0424*
+7 Calculate the mass of hydrated sodium thiosulfate, Na2S2O3.5H2O, required to prepare 
+200 cm3 of a 0.100 mol dm–3 solution.
+ 
+[Assume that the molar mass of Na2S2O3.5H2O is 248 g mol–1]
+ 
+ 
+A 0.124 g
+ 
+ 
+B 4.96 g
+ 
+ 
+C 24.8 g
+ 
+ 
+D 4960 g
+(Total for Question 7 = 1 mark)
+8 A 27.0 g sample of an unknown hydrocarbon, CxHy, was burned completely in excess 
+oxygen to form 88.0 g of carbon dioxide and 27.0 g of water.
+ 
+[Molar masses / g mol–1:  CO2 = 44;  H2O = 18]
+ 
+Which of the following is a possible formula of the unknown hydrocarbon?
+ 
+ 
+A CH4
+ 
+ 
+B C2H6
+ 
+ 
+C C4H6
+ 
+ 
+D C6H6
+(Total for Question 8 = 1 mark)
+9 The Avogadro constant is equal to the number of
+ 
+ 
+A grams of any element which contains 6.0 × 1023 atoms of that element.
+ 
+ 
+B atoms contained in one mole of any element in its standard state.
+ 
+ 
+C particles (atoms, ions or molecules) required to make one gram of a 
+substance.
+ 
+ 
+D atoms contained in one mole of any monatomic element.
+(Total for Question 9 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+5
+*P42976A0524*
+Turn over    
+10 Nitrogen monoxide, NO, can be made by the catalytic oxidation of ammonia, NH3.
+4NH3  +  5O2  o  4NO  +  6H2O
+ 
+In an experiment, 8.5 g of ammonia reacted to form 15.0 g of nitrogen monoxide.
+ 
+The percentage yield of nitrogen monoxide in this experiment is
+ 
+ 
+A 50%
+ 
+ 
+B 57%
+ 
+ 
+C 100%
+ 
+ 
+D 176%
+(Total for Question 10 = 1 mark)
+11 Calculate the mass, in grams, of silver chloride, AgCl, formed when excess  
+silver nitrate solution is added to 55.0 cm3 of a 0.200 mol dm−3 solution of  
+potassium chloride.
+ 
+[The molar mass of AgCl = 143.4 g mol–1]
+AgNO3(aq)  +  KCl(aq)  o AgCl(s)  +  KNO3(aq)
+ 
+ 
+A 1.10 g
+ 
+ 
+B 1.58 g
+ 
+ 
+C 7.89 g
+ 
+ 
+D 11.0 g
+(Total for Question 11 = 1 mark)
+12 Element X is in Group 3 and element Y is in Group 6 of the Periodic Table. 
+Which of the following is the most likely formula of the compound formed when X 
+and Y react together?
+ 
+ 
+A X2Y3
+ 
+ 
+B X3Y2
+ 
+ 
+C X2Y
+ 
+ 
+D XY2
+(Total for Question 12 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+6
+*P42976A0624*
+13 Metallic bonding is best described as the electrostatic attraction between
+ 
+ 
+A positive ions and delocalized electrons.
+ 
+ 
+B protons and electrons.
+ 
+ 
+C positive and negative ions.
+ 
+ 
+D nuclei and shared pairs of electrons.
+(Total for Question 13 = 1 mark)
+14 Which of the following molecules contains a double bond?
+ 
+ 
+A F2
+ 
+ 
+B F2O
+ 
+ 
+C C2F4
+ 
+ 
+D C2F6
+(Total for Question 14 = 1 mark)
+15 Which of the following statements is true?
+ 
+ 
+A Breaking covalent bonds requires energy and making ionic bonds requires 
+energy.
+ 
+ 
+B Bond breaking is endothermic whereas bond making is exothermic.
+ 
+ 
+C Bond breaking is exothermic whereas bond making is endothermic.
+ 
+ 
+D Breaking ionic bonds releases energy whereas making covalent bonds 
+requires energy.
+(Total for Question 15 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P42976A0724*
+Turn over    
+16 Consider the two equations given below.
+2H2(g)  +  O2(g)  o 2H2O(l)      ǻH  =  −572 kJ mol−1
+2H2(g)  +  O2(g)  o 2H2O(g)     ǻH  =   −484 kJ mol−1
+ 
+From this information, calculate the enthalpy change for the following process
+ 
+H2O(g)  o H2O(l)
+ 
+ 
+A –44 kJ mol–1
+ 
+ 
+B +44 kJ mol–1
+ 
+ 
+C –88 kJ mol–1
+ 
+ 
+D +88 kJ mol–1
+(Total for Question 16 = 1 mark)
+17 How many structural isomers have the molecular formula C6H14?
+ 
+ 
+A Four
+ 
+ 
+B Five
+ 
+ 
+C Six
+ 
+ 
+D Seven
+(Total for Question 17 = 1 mark)
+18 In addition to water, which of the following could be formed during the incomplete 
+combustion of a hydrocarbon?
+ 
+ 
+A Carbon, carbon monoxide and hydrogen
+ 
+ 
+B Carbon and hydrogen
+ 
+ 
+C Carbon monoxide and hydrogen
+ 
+ 
+D Carbon and carbon monoxide
+(Total for Question 18 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P42976A0824*
+19 Poly(ethene) is a plastic material made by polymerizing the hydrocarbon ethene.  
+Which of the following is not true?
+ 
+Pure poly(ethene) is
+ 
+ 
+A solidified ethene.
+ 
+ 
+B composed of carbon and hydrogen only.
+ 
+ 
+C a long-chain compound.
+ 
+ 
+D non-biodegradable.
+(Total for Question 19 = 1 mark)
+20 Which of the following statements correctly describes an environmental problem 
+caused by the burning of hydrocarbon fuels?
+ 
+ 
+A The carbon dioxide produced is toxic and kills plants.
+ 
+ 
+B The smoke produced obscures sunlight and leads to global warming.
+ 
+ 
+C The water produced results in a damaging increase in rainfall.
+ 
+ 
+D The carbon dioxide produced traps heat radiated from the Earth and leads to 
+global warming.
+(Total for Question 20 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+9
+*P42976A0924*
+Turn over    
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+21 Bromine, Br2, can react with both alkanes and alkenes.  The type of reaction that 
+occurs depends on whether the Br—Br bond breaks by homolytic or heterolytic 
+fission.
+ 
+(a) (i) Write an equation to show the homolytic fission of the Br—Br bond.  Do not 
+include curly arrows or state symbols.
+(1)
+ 
+ 
+(ii) Write an equation to show the heterolytic fission of the Br—Br bond.  Do not 
+include curly arrows or state symbols.
+(1)
+ 
+ 
+(iii) Choosing from the products you have given in (a)(i) and (a)(ii), write the 
+formula of a free radical and an electrophile.
+(2)
+Free radical  .........................................................................................
+Electrophile  ........................................................................................
+PMT
+
+
+--- Page Break ---
+
+10
+*P42976A01024*
+ 
+(b) The compound hexane, C6H14, can react with bromine, in the presence of UV light, 
+according to the equation
+C6H14  +  Br2  o C6H13Br  +  HBr
+ 
+ 
+(i) Give the displayed formulae of the three structural isomers of C6H13Br that 
+could be formed in the above reaction.
+(3)
+First isomer
+Second isomer
+Third isomer
+ 
+ 
+(ii) The bromoalkanes and the hydrogen bromide formed in this reaction are 
+hazardous.
+ 
+ 
+ 
+The bromoalkanes would be labelled as ‘flammable’.  Suggest a suitable 
+hazard warning for the hydrogen bromide.
+(1)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+11
+*P42976A01124*
+Turn over    
+ 
+ 
+(iii) Calculate the percentage atom economy by mass for the formation of C6H13Br.
+ 
+ 
+ 
+Give your answer to three significant figures.
+ 
+ 
+ 
+Use the expression
+ 
+ 
+ 
+atom economy  =  
+molar mass of the desired product
+sum of the molar masses of all products  × 100%
+(2)
+ 
+(c) Fluorine, F2, and chlorine, Cl2, react with methane, CH4, by a similar mechanism, 
+although the rates of reaction are very different.
+ 
+ 
+(i) Write an equation for the reaction between methane and fluorine, assuming 
+they react in a 1:1 mole ratio.  State symbols are not required.
+(1)
+ 
+ 
+*(ii) On the basis of comparing the relative sizes of the fluorine and chlorine 
+atoms, it might be predicted that the F—F bond energy would be greater 
+than the Cl—Cl bond energy. 
+Suggest an explanation for this prediction.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+12
+*P42976A01224*
+ 
+ 
+(iii) Draw a dot and cross diagram to show the arrangement of the outermost 
+electrons in a fluorine molecule, F2.
+(2)
+ 
+ 
+(iv) The actual bond energies are shown below.
+Bond
+Bond energy / kJ mol−1
+F—F
+158
+Cl—Cl
+243
+ 
+ 
+ 
+By referring to your dot and cross diagram in your answer to (c)(iii), suggest 
+an explanation for the fact that the F—F bond energy is less than that of the 
+Cl—Cl bond energy.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(v) Suggest why a mixture of methane and chlorine requires exposure to UV light,  
+or heat, before a reaction occurs, whereas methane reacts rapidly with fluorine 
+at room temperature in the absence of UV light or heat.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P42976A01324*
+Turn over    
+ 
+(d) The alkene hex-3-ene reacts with bromine to produce 3,4-dibromohexane.  
+Complete the mechanism below by adding curly arrows to show the movement 
+of electron pairs in both steps and by giving the structural formula of the 
+intermediate carbocation.
+(3)
+ 
+(e) The mechanism shown in (d) shows Z-hex-3-ene reacting with bromine.   
+E-hex-3-ene also reacts with bromine to form 3,4-dibromohexane.
+ 
+ 
+(i) Draw the structure of E-hex-3-ene.
+(1)
+ 
+ 
+(ii) Explain why both Z-hex-3-ene and E-hex-3-ene react with bromine to produce 
+the same structural isomer.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ (Total for Question 21 = 23 marks)
+C
+C
+H
+H
+H5C2
+C2H5
+Br
+Br
+H5C2
+C
+C
+C2H5
+Br Br
+H
+H
+3,4-dibromohexane
+PMT
+
+
+--- Page Break ---
+
+14
+*P42976A01424*
+22 Lattice energy can be used as a measure of ionic bond strength.  Born-Haber cycles 
+can be used to determine experimental values of lattice energies.
+ 
+The table below shows the energy changes that are needed to determine the lattice 
+energy of lithium fluoride, LiF.
+Energy change
+ǻH / kJ mol–1
+Enthalpy change of atomization of lithium
++159
+First ionization energy of lithium
++520
+Enthalpy change of atomization of fluorine, ½F2
++79
+First electron affinity of fluorine
+−328
+Enthalpy change of formation of lithium fluoride
+−616
+ 
+(a) Define the term lattice energy.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P42976A01524*
+Turn over    
+ 
+(b) The diagram below shows an incomplete Born-Haber cycle for the formation of 
+lithium fluoride from lithium and fluorine.
+ 
+ 
+(i) Complete the diagram by writing the formulae of the correct species, 
+including state symbols, in the four empty boxes.
+(4)
+ 
+ 
+(ii) Calculate the lattice energy of lithium fluoride, in kJ mol−1.
+(2)
+lattice energy = ............................................................................ kJ mol−1
+LiF(s)
+Li+(g)  +  F–(g)
+PMT
+
+
+--- Page Break ---
+
+16
+*P42976A01624*
+ 
+*(c) The lattice energies of sodium fluoride, sodium chloride and magnesium fluoride 
+are shown in the table below.
+Compound
+Lattice energy / kJ mol−1
+Sodium fluoride, NaF
+−918
+Sodium chloride, NaCl
+−780
+Magnesium fluoride, MgF2
+−2957
+ 
+ 
+Explain, in terms of the sizes and charges of the ions involved, the differences 
+between the lattice energy values of
+ 
+ 
+(i) NaF and NaCl
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) NaF and MgF2
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 22 = 12 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*P42976A01724*
+Turn over    
+23 Alkanes are used as fuels in homes and in industry.  It is, therefore, important that the 
+enthalpy changes involving alkanes are known.
+ 
+(a) Define the term standard enthalpy change of formation of a compound.
+ 
+ 
+Give the conditions of temperature and pressure that are used when measuring a 
+standard enthalpy change.
+(3)
+Definition  .......................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................................................... 
+Standard temperature is  ...................................................................................
+Standard pressure is  ..............................................................................................
+ 
+(b) Write the equation, with state symbols, that accompanies the enthalpy change of 
+formation of hexane, C6H14(l).
+(2)
+PMT
+
+
+--- Page Break ---
+
+18
+*P42976A01824*
+ 
+(c) Enthalpy changes can be calculated using enthalpy changes of combustion.  
+Values for some standard enthalpy changes of combustion are shown in the table 
+below.
+Substance
+ǻHc
+9 / kJ mol−1
+C(s)
+−394
+H2(g)
+−286
+CH4(g)
+−890
+ 
+ 
+Use these data to complete the Hess cycle below for the reaction and then 
+calculate the standard enthalpy change for the reaction, in kJ mol−1.
+C(s)       +       2H2(g)
+o
+CH4(g)
+(3)
+Space for working
+standard enthalpy change for the reaction = .............................................................. kJ mol−1
+PMT
+
+
+--- Page Break ---
+
+19
+*P42976A01924*
+Turn over    
+ 
+(d) The equations for the combination of gaseous carbon atoms and gaseous 
+hydrogen atoms to form methane, CH4, and ethane, C2H6, are shown below.
+ C(g)  +  4H(g)  o CH4(g)         ǻH  =  −1652 kJ mol−1
+2C(g)  +  6H(g)  o C2H6(g)        ǻH  =  −2825 kJ mol−1
+ 
+ 
+Use these data to calculate
+ 
+ 
+(i) the mean bond enthalpy of a C—H bond in methane, in kJ mol−1.
+(1)
+ 
+ 
+(ii) the bond enthalpy of a C—C bond, in kJ mol−1, clearly showing your working.
+(2)
+ (Total for Question 23 = 11 marks)
+PMT
+
+
+--- Page Break ---
+
+20
+*P42976A02024*
+24 This question is about atomic structure.
+ 
+(a) Draw diagrams to show the shape of an s-orbital and of a p-orbital.
+(2)
+s-orbital
+p-orbital
+ 
+(b) Complete the table to show the number of electrons that completely fill the 
+following regions.
+(3)
+Region
+Number of electrons present 
+when completely filled
+a d-orbital 
+a p sub-shell
+the third shell (n = 3)
+PMT
+
+
+--- Page Break ---
+
+21
+*P42976A02124*
+Turn over    
+ 
+(c) The energy diagram below is for the eight electrons present in an oxygen atom.
+ 
+ 
+Complete the diagram for an oxygen atom by adding
+ 
+ 
+x 
+labels to identify the other occupied sub-shells
+ 
+ 
+x 
+arrows to show how the remaining six electrons are arranged in the orbitals.
+(2)
+ 
+(d) Successive ionization energies provide evidence for the arrangement of electrons 
+in atoms.  The eight successive ionization energies of oxygen are shown in the 
+table below.
+Ionization 
+number
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+Ionization 
+energy 
+/ kJ mol−1
+1314
+3388
+5301
+7469
+10989
+13327
+71337
+84080
+ 
+ 
+(i) Define the term first ionization energy.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+energy
+......................
+1s
+......................
+
+............................
+PMT
+
+
+--- Page Break ---
+
+22
+*P42976A02224*
+ 
+ 
+(ii) Write an equation, with state symbols, to show the third ionization energy of 
+oxygen.
+(2)
+ 
+ 
+*(iii) Explain how the data in the table provide evidence that there are two 
+occupied electron shells in an oxygen atom.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 24 = 14 marks)
+TOTAL FOR SECTION B = 60 MARKS
+TOTAL FOR PAPER = 80 MARKS
+PMT
+
+
+--- Page Break ---
+
+23
+*P42976A02324*
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+24
+*P42976A02424*
+PMT

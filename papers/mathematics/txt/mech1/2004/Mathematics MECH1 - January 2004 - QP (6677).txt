@@ -1,0 +1,345 @@
+ 
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+Advanced/Advanced Subsidiary 
+Monday 12 January 2004 −  Afternoon 
+Time: 1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic algebra, 
+differentiation and/or integration. Thus candidates may NOT use calculators such as the Texas 
+Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard HP 48G. 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your centre 
+number, candidate number, the unit title (Mechanics M1), the paper reference (6677), your surname, 
+other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has seven questions.  
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+2 
+1. 
+Two trucks A and B, moving in opposite directions on the same horizontal railway track, collide.  
+The mass of A is 600 kg. The mass of B is m kg. Immediately before the collision, the speed of A 
+is 4 m s−1 and the speed of B is 2 m s−1.  Immediately after the collision, the trucks are joined 
+together and move with the same speed 0.5 m s−1.  The direction of motion of A is unchanged by 
+the collision.  Find 
+ 
+ 
+ 
+ 
+ 
+(a) the value of m, 
+(4)  
+ 
+(b) the magnitude of the impulse exerted on A in the collision. 
+(3)  
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+     
+    2m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            C 
+ 
+ 
+           
+          A 
+ 
+ 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+ 
+A lever consists of a uniform steel rod AB, of weight 100 N and length 2 m, which rests on a 
+small smooth pivot at a point C of the rod.  A load of weight 2200 N is suspended from the end 
+B of the rod by a rope.  The lever is held in equilibrium in a horizontal position by a vertical 
+force applied at the end A, as shown in Fig. 1.  The rope is modelled as a light string. 
+ 
+Given that BC = 0.2 m, 
+ 
+(a) find the magnitude of the force applied at A.  
+(4) 
+The position of the pivot is changed so that the rod remains in equilibrium when the force at A 
+has magnitude 120N. 
+ 
+ 
+(b) Find, to the nearest cm, the new distance of the pivot from B. 
+(5) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+ 
+3 
+ 
+ 
+3.  
+The tile on a roof becomes loose and slides from rest down the roof. The roof is modelled as a 
+plane surface inclined at 30° to the horizontal. The coefficient of friction between the tile and the 
+roof is 0.4. The tile is modelled as a particle of mass m kg.  
+ 
+(a) Find the acceleration of the tile as it slides down the roof. 
+(7) 
+ 
+The tile moves a distance 3 m before reaching the edge of the roof. 
+ 
+(b) Find the speed of the tile as it reaches the edge of the roof. 
+(2) 
+ 
+(c) Write down the answer to part (a) if the tile had mass 2m kg. 
+(1) 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+        Figure 2 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+   
+ 
+ 
+ 
+    
+          θ 
+    
+        θ  
+ 
+ 
+ 
+ 
+ 
+Two small rings, A and B, each of mass 2m, are threaded on a rough horizontal pole. The 
+coefficient of friction between each ring and the pole is µ. The rings are attached to the ends of 
+a light inextensible string. A smooth ring C, of mass 3m, is threaded on the string and hangs in 
+equilibrium below the pole. The rings A and B are in limiting equilibrium on the pole, with 
+∠BAC = ∠ABC = θ, where tan θ = 4
+3 , as shown in Fig. 2. 
+ 
+(a) Show that the tension in the string is 2
+5 mg. 
+(3) 
+ 
+(b) Find the value of µ. 
+(7) 
+ 
+ 
+ 
+C (3m) 
+A (2m) 
+B (2m) 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+4 
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+   A(4 kg) 
+ 
+ 
+ 
+      B (3 kg) 
+ 
+ 
+ 
+ 
+            
+      30° 
+ 
+ 
+ 
+A particle A of mass 4 kg moves on the inclined face of a smooth wedge. This face is inclined at 
+30° to the horizontal. The wedge is fixed on horizontal ground. Particle A is connected to a 
+particle B, of mass 3 kg, by a light inextensible string. The string passes over a small light 
+smooth pulley which is fixed at the top of the plane. The section of the string from A to the 
+pulley lies in a line of greatest slope of the wedge. The particle B hangs freely below the pulley, 
+as shown in Fig. 3. The system is released from rest with the string taut. For the motion before 
+A reaches the pulley and before B hits the ground, find 
+ 
+(a) the tension in the string, 
+(6) 
+(b) the magnitude of the resultant force exerted by the string on the pulley. 
+ 
+(3) 
+ 
+(c) The string in this question is described as being ‘light’. 
+ 
+(i) Write down what you understand by this description. 
+ 
+(ii)  State how you have used the fact that the string is light in your answer to part (a). 
+(2) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+ 
+5 
+ 
+ 
+6. 
+A train starts from rest at a station A and moves along a straight horizontal track. For the first 
+10 s, the train moves with constant acceleration 1.2 m s−2. For the next 24 s it moves at a 
+constant acceleration 0.75 m s−2. It then moves with constant speed for T seconds. Finally it 
+slows down with constant deceleration 3 m s−2 until it comes to a rest at station B.  
+ 
+(a) Show that, 34 s after leaving A, the speed of the train is 30 m s−1. 
+(3) 
+(b)  Sketch a speed-time graph to illustrate the motion of the train as it moves from A to B.  
+(3) 
+(c) Find the distance moved by the train during the first 34 s of its journey from A. 
+(4) 
+ 
+The distance from A to B is 3 km. 
+ 
+(d) Find the value of T. 
+(4) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+6 
+7. 
+[In this question the vectors i and j are horizontal unit vectors in the direction due east and due 
+north respectively.] 
+ 
+ 
+Two boats A and B are moving with constant velocities. Boat A moves with velocity 9j km h−1. 
+Boat B moves with velocity (3i + 5j) km h−1. 
+ 
+(a) Find the bearing on which B is moving.  
+(2) 
+ 
+ 
+At noon, A is at point O, and B is 10 km due west of O. At time t hours after noon, the position 
+vectors of A and B relative to O are a km and b km respectively.  
+ 
+(b) Find expressions for a and b in terms of t, giving your answer in the form pi + qj.  
+(3) 
+(c) Find the time when B is due south of A. 
+(2) 
+ 
+At time t hours after noon, the distance between A and B is d km. By finding an expression 
+for AB , 
+ 
+(d) show that d2 = 25t2 − 60t + 100.  
+(4) 
+At noon, the boats are 10 km apart. 
+ 
+(e) Find the time after noon at which the boats are again 10 km apart. 
+(3) 
+ 
+END 
+PMT
+PMT

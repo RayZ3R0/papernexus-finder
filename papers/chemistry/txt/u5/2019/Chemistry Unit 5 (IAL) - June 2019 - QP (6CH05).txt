@@ -1,0 +1,1304 @@
+Candidate surname
+Other names
+Total Marks
+Centre Number
+Candidate Number
+Please check the examination details below before entering your candidate information
+*P56130A0128*
+P56130A
+©2019 Pearson Education Ltd.
+1/2/1/1/1/1/
+Turn over    
+Instructions
+• Use black ink or black ball-point pen.
+• Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+• Answer all questions.
+• Answer the questions in the spaces provided  
+– there may be more space than you need.
+Information
+• The total mark for this paper is 90. 
+• The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+• Questions labelled with an asterisk (*) are ones where the quality of your  
+written communication will be assessed  
+–  you should take particular care with your spelling, punctuation and grammar,  
+as well as the clarity of expression, on these questions. 
+• A Periodic Table is printed on the back cover of this paper.
+Advice
+• Read each question carefully before you start to answer it.
+• Show all your working in calculations and include units where appropriate.
+• Check your answers if you have time at the end.
+Candidates must have:  Scientific calculator 
+Data Booklet
+Paper Reference WCH05/01
+Afternoon (Time: 1 hour 40 minutes)
+Tuesday 11 June 2019
+Pearson Edexcel 
+International
+Advanced Level
+Chemistry
+Advanced 
+Unit 5:  General Principles of Chemistry II – Transition Metals 
+and Organic Nitrogen Chemistry  
+(including synoptic assessment)
+PMT
+
+
+--- Page Break ---
+
+2
+*P56130A0228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION A
+Answer ALL the questions in this section.  You should aim to spend no more than 20 minutes on 
+this section.  For each question, select one answer from A to D and put a cross in the box 
+.   
+If you change your mind, put a line through the box 
+ and then mark your new answer with a 
+cross 
+.
+1 In which of these ions does the metal have an oxidation number of +2?
+ 
+ 
+A AlO2
+−
+ 
+ 
+B [CrCl2(H2O)4]+
+ 
+ 
+C [Fe(CN)6]4−
+ 
+ 
+D VO2+
+(Total for Question 1 = 1 mark)
+2 Iodine is manufactured by the reduction of iodate(V) ions, IO3
+−, using hydrogensulfite ions, HSO3
+−. 
+In this reaction, the hydrogensulfite ions are oxidised to sulfate ions, SO4
+2−.
+ 
+By considering the relevant oxidation numbers, the number of moles of 
+hydrogensulfite ions needed to reduce 1 mol of iodate(V) ions is
+ 
+ 
+A 0.4
+ 
+ 
+B 1
+ 
+ 
+C 2.5
+ 
+ 
+D 5
+(Total for Question 2 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+3
+*P56130A0328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+3 An electrode system and a diagram of its half-cell are shown.
+MnO4
+−(aq) + 8H+(aq) + 5e− _
+` Mn2+(aq) + 4H2O(l)
+X
+Y
+ 
+(a) Identify the oxidising agent and X in the half-cell.
+(1)
+Oxidising agent
+X
+A
+MnO4
+−
+platinum
+B
+MnO4
+−
+manganese
+C
+Mn2+
+platinum
+D
+Mn2+
+manganese
+ 
+(b) As well as water, which components must be present in Y?
+(1)
+ 
+ 
+A Mn2+(aq) and H+(aq) only
+ 
+ 
+B MnO4
+−(aq) and H+(aq) only
+ 
+ 
+C MnO4
+−(aq) and Mn2+(aq) only
+ 
+ 
+D MnO4
+−(aq), Mn2+(aq) and H+(aq) only
+(Total for Question 3 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+4
+*P56130A0428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+4 For any reaction, E cell is related to the entropy change and also to the 
+equilibrium constant, K, for that reaction. 
+ 
+E cell is directly proportional to both
+ 
+ 
+A ¨Ssystem and K.
+ 
+ 
+B ¨Ssystem and ln K.
+ 
+ 
+C ¨Stotal and K.
+ 
+ 
+D ¨Stotal and ln K.
+(Total for Question 4 = 1 mark)
+5 In the ethanol-oxygen fuel cell, the ethanol is
+ 
+ 
+A oxidised at the anode.
+ 
+ 
+B oxidised at the cathode.
+ 
+ 
+C reduced at the anode.
+ 
+ 
+D reduced at the cathode.
+(Total for Question 5 = 1 mark)
+6 Which element could form a colourless ion with an oxidation number of +4?
+ 
+ 
+A Titanium
+ 
+ 
+B Manganese
+ 
+ 
+C Iron
+ 
+ 
+D Copper
+(Total for Question 6 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+5
+*P56130A0528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+7 The conversion of sulfur dioxide to sulfur trioxide is catalysed by vanadium(V) oxide.
+2SO2(g) + O2(g) _
+` 2SO3(g)
+ 
+The mechanism of this reaction is most likely to involve the
+ 
+ 
+A reduction of vanadium(V) to vanadium(IV) by oxygen followed by the 
+oxidation of vanadium(IV) to vanadium(V) by sulfur dioxide.
+ 
+ 
+B reduction of vanadium(V) to vanadium(IV) by sulfur dioxide followed by the 
+oxidation of vanadium(IV) to vanadium(V) by oxygen.
+ 
+ 
+C oxidation of vanadium(V) to vanadium(VI) by oxygen followed by the 
+reduction of vanadium(VI) to vanadium(V) by sulfur dioxide.
+ 
+ 
+D oxidation of vanadium(V) to vanadium(VI) by sulfur dioxide followed by the 
+reduction of vanadium(VI) to vanadium(V) by oxygen.
+(Total for Question 7 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+6
+*P56130A0628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+8 Benzene has a delocalised electronic structure that makes it 150 kJ mol−1 more stable 
+than the structure with alternate single and double bonds, which would be called 
+cyclohexa-1,3,5-triene. 
+ 
+The hydrogenation of benzene to cyclohexane has an enthalpy change  
+¨H reaction = −205 kJ mol−1
+ 
+Which energy level diagram represents these energy differences? 
+ 
+The diagrams are not to scale.
+ 
+A 
+B
+ 
+Energy
+cyclohexane
+benzene
+cyclohexa-1,3,5-triene 
+Energy
+cyclohexa-1,3,5-triene
+benzene
+cyclohexane
+ 
+C 
+D
+ 
+Energy
+cyclohexane
+cyclohexa-1,3,5-triene
+benzene
+ 
+Energy
+benzene
+cyclohexa-1,3,5-triene
+cyclohexane
+(Total for Question 8 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+7
+*P56130A0728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+9 An organic compound R has the following reactions:
+ 
+ 
+R reacts with sodium hydroxide to form an ionic compound
+ 
+ 
+R decolourises bromine water
+ 
+ 
+R  reacts with ethanol, in the presence of an acid catalyst, to form a 
+sweet-smelling product.
+ 
+Compound R could be
+ 
+ 
+A H2C
+CH
+CH2
+OH
+ 
+ 
+B H3C
+O
+C
+OH
+ 
+ 
+C H2C
+CH
+O
+C
+OH
+ 
+ 
+D 
+OH
+(Total for Question 9 = 1 mark)
+10 Benzene reacts under suitable conditions with a compound S to form phenylethanone.
+   
+   
+O
+C
+CH3
+ 
+Compound S is
+ 
+ 
+A ethanal.
+ 
+ 
+B ethanoic acid.
+ 
+ 
+C ethanoyl chloride.
+ 
+ 
+D propanone.
+(Total for Question 10 = 1 mark)
+PMT
+
+
+--- Page Break ---
+
+8
+*P56130A0828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+11 These four compounds can be used in the preparation of polymers.
+E
+CH3
+CH2
+CH3
+C
+CH2
+F
+Cl
+O
+C
+CH2
+CH2
+O
+C
+Cl
+G
+H2N
+CH2
+CH2
+NH2
+H
+HO
+CH2
+CH2
+CH2
+CH2
+OH
+ 
+Which monomer or combination of monomers would not produce a polymer?
+ 
+ 
+A E
+ 
+ 
+B F
+ 
+ 
+C F reacting with G
+ 
+ 
+D F reacting with H 
+(Total for Question 11 = 1 mark)
+Use this space for any rough working.  Anything you write in this space will gain no credit.
+PMT
+
+
+--- Page Break ---
+
+9
+*P56130A0928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+12 Amoxicillin is an antibiotic.
+HO
+NH2
+NH
+S
+N
+O
+O
+O
+OH
+ 
+(a) Which of the following functional groups is not present in the structure of amoxicillin?
+(1)
+ 
+ 
+A Amine
+ 
+ 
+B Amide
+ 
+ 
+C Ketone
+ 
+ 
+D Phenol
+ 
+(b) Which of these is the most likely structure of amoxicillin at pH = 5?
+(1)
+ 
+ 
+A 
+HO
+NH+   
+3
+NH
+S
+N
+O
+O
+O
+OH
+ 
+ 
+B 
++H2O
+NH2
+NH
+S
+N
+O
+O
+O
+OH
+ 
+ 
+C 
+–O
+NH2
+NH
+S
+N
+O
+O
+O
+OH
+ 
+ 
+D 
+HO
+NH2
+NH
+S
+N
+O
+O
+O
+OH+
+2
+(Total for Question 12 = 2 marks)
+PMT
+
+
+--- Page Break ---
+
+10
+*P56130A01028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+13 Glycine and alanine are the two simplest amino acids.
+ 
+H2N
+CH2
+O
+C
+OH 
+H2N
+CH3
+CH
+O
+C
+OH
+ 
+glycine 
+alanine
+ 
+(a) Amino acids are crystalline solids at room temperature. 
+ 
+ 
+When the solids melt, the main forces broken are
+(1)
+ 
+ 
+A covalent bonds.
+ 
+ 
+B hydrogen bonds.
+ 
+ 
+C ionic bonds.
+ 
+ 
+D London forces.
+ 
+(b) Which of these amino acids could rotate the plane of plane-polarised light?
+(1)
+ 
+ 
+A Both glycine and alanine
+ 
+ 
+B Neither glycine nor alanine
+ 
+ 
+C Only glycine
+ 
+ 
+D Only alanine
+ 
+(c) Glycine and alanine combine to form two possible dipeptides.
+ 
+ 
+What are the structures of these dipeptides?
+(1)
+ 
+ 
+A H2NCH2COONHCH(CH3)COOH  and  H2NCH(CH3)COONHCH2COOH
+ 
+ 
+B H2NCH2CONHCH(CH3)COOH  and  H2NCH(CH3)COONHCH2COOH
+ 
+ 
+C H2NCH2COONHCH(CH3)COOH  and  H2NCH(CH3)CONHCH2COOH
+ 
+ 
+D H2NCH2CONHCH(CH3)COOH  and  H2NCH(CH3)CONHCH2COOH
+(Total for Question 13 = 3 marks)
+PMT
+
+
+--- Page Break ---
+
+11
+*P56130A01128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+14 Propanenitrile (CH3CH2CN) may be converted into propanoic acid by reaction with 
+aqueous sodium hydroxide followed by dilute sulfuric acid. 
+ 
+The purpose of the sulfuric acid is to
+ 
+ 
+A catalyse the reaction.
+ 
+ 
+B protonate the propanoate ion.
+ 
+ 
+C hydrolyse the nitrile.
+ 
+ 
+D neutralise the sodium hydroxide.
+(Total for Question 14 = 1 mark)
+15 In the high resolution proton nmr spectrum of propan-1-ol, CH3CH2CH2OH, there are
+ 
+ 
+A one singlet, two triplets and one sextet.
+ 
+ 
+B one singlet, two doublets and one triplet.
+ 
+ 
+C one singlet, two triplets and one quartet.
+ 
+ 
+D three triplets and one quartet.
+(Total for Question 15 = 1 mark)
+16 An organic compound forms a pale yellow precipitate when warmed with iodine and 
+sodium hydroxide.
+ 
+It also forms a soluble white solid with dilute sulfuric acid.
+ 
+The structure of the compound could be
+ 
+ 
+A   
+Cl
+O
+ 
+ 
+B 
+H2N
+OH
+O
+ 
+ 
+C    
+NH2
+O
+ 
+ 
+D  
+H2N
+O
+(Total for Question 16 = 1 mark)
+TOTAL FOR SECTION A = 20 MARKS
+PMT
+
+
+--- Page Break ---
+
+12
+*P56130A01228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION B
+Answer ALL the questions.  Write your answers in the spaces provided.
+17 This question is about chromium and its compounds.  Some data are given in the table.
+Electrode reaction
+E  / V
+Zn2+(aq) + 2e− _
+` Zn(s)
+−0.76
+Cr3+(aq) + 3e− _
+` Cr(s)
+−0.74
+Cr3+(aq) + e− _
+` Cr2+(aq)
+−0.41
+O2(g) + 2H2O(l) + 4e− _
+` 4OH−(aq)
++0.40
+Cr2O7
+2−(aq) + 14H+(aq) + 6e− _
+` 2Cr3+(aq) + 7H2O(l)
++1.33
+ 
+(a) One of the most important uses of chromium is in plating other metals such as steel 
+and brass.  This gives them a hard shiny coating which is very resistant to corrosion.
+ 
+ 
+(i) Calculate E cell for the reaction of chromium with oxygen in the presence of water. 
+ 
+ 
+ 
+Write the equation for this reaction.  State symbols are not required.
+(3)
+ 
+ 
+(ii) By considering the E cell value calculated in (a)(i), suggest why a chromium 
+coating is corrosion resistant.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+13
+*P56130A01328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The common oxidation states of chromium are +2, +3 and +6.  
+Chromium(III) compounds are the most stable.
+ 
+ 
+(i) Select a reagent from the table that could be used to convert chromium(III) to 
+chromium(II) in aqueous solution. 
+ 
+ 
+ 
+Justify your answer by calculating the relevant E cell value.
+(2)
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) When chromium(III) is converted to chromium(II) in aqueous solution, air has 
+to be kept out of the apparatus. 
+ 
+ 
+ 
+Explain why this is necessary.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) State the colour change that you would see when chromium(III) is converted 
+to chromium(II) in aqueous solution.
+(1)
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+14
+*P56130A01428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+ *(iv) Explain why solutions of chromium(II) and chromium(III) have different colours.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+(c) Chromium(III) forms a very large number of complexes.
+ 
+ 
+(i) Give the formula and name the shape of the resulting complex when excess 
+hydrochloric acid is added to a solution of chromium(III) ions.
+(1)
+Formula  .............................................................................................................................................................................................................................................................
+Shape  ..................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Give the formula and name the shape of the resulting complex when excess 
+ammonia is added to a solution of chromium(III) ions.
+(1)
+Formula  .............................................................................................................................................................................................................................................................
+Shape  ..................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+15
+*P56130A01528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) The most common ions in which chromium has the oxidation number +6 are 
+chromate(VI) and dichromate(VI).
+ 
+ 
+(i) Write an equation showing the conversion of chromate(VI) ions into 
+dichromate(VI) ions.  State symbols are not required.
+(2)
+ 
+ 
+ *(ii) Suggest why the [Cr(H2O)6]6+(aq) ion does not exist.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(iii) If the [Cr(H2O)6]6+ ion did exist, suggest what colour the solution would be.  
+Justify your answer.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+16
+*P56130A01628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(e) Potassium dichromate(VI) crystals are very stable so the compound is used to 
+determine the exact concentration of sodium thiosulfate solutions. 
+ 
+ 
+Excess potassium iodide and dilute sulfuric acid were added to 10.00 cm3 of a 
+potassium dichromate(VI) solution of concentration 0.0495 mol dm−3.
+ 
+ 
+The resulting solution was titrated with sodium thiosulfate solution. 
+ 
+ 
+The mean titre was 19.50 cm3. 
+ 
+ 
+The equations for the reactions are
+Cr2O7
+2−(aq) + 14H+(aq) + 6I−(aq) → 2Cr3+(aq) + 3I2(aq) + 7H2O(l)
+2S2O3
+2−(aq) + I2(aq) → S4O6
+2−(aq) + 2I−(aq)
+ 
+ 
+(i) Identify the indicator that would be used in this titration and give the colour 
+change at the end-point.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Calculate the concentration of the sodium thiosulfate solution.
+(4)
+(Total for Question 17 = 27 marks)
+PMT
+
+
+--- Page Break ---
+
+17
+*P56130A01728*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+18 Ethane-1,2-diamine (also called ethylenediamine) is a colourless liquid with 
+a smell similar to ammonia.  Ethane-1,2-diamine is used in the production of 
+pharmaceuticals, polymers and agricultural chemicals.
+H2N
+NH2
+H2C
+CH2
+ethane-1,2-diamine
+ 
+(a) Outline a laboratory synthesis of ethane-1,2-diamine from ethene. 
+ 
+ 
+Identify reagents, essential conditions and any intermediate compounds.
+(4)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+(b) When nitric acid was added to ethane-1,2-diamine and the resulting solution 
+allowed to evaporate to dryness at room temperature, white crystals remained.
+ 
+ 
+Explain the chemical reaction that occurred and give the structure of the white crystals.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+18
+*P56130A01828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) Ethane-1,2-diamine forms a complex with copper(II) ions.
+ 
+ 
+(i) Draw a diagram of a complex that copper(II) ions form with ethane-1,2-diamine.
+(1)
+ 
+ 
+ *(ii) When ethane-1,2-diamine is added to an aqueous solution of 
+tetraamminecopper(II) ions, [Cu(NH3)4]2+, the formation of the 
+ethane-1,2-diamine complex is favoured.
+ 
+ 
+ 
+Explain why this is so.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+19
+*P56130A01928*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Tetraacetylethylenediamine (TAED) is an important component of laundry 
+detergents that use ‘active oxygen’ bleaching agents. 
+TAED is manufactured from ethane-1,2-diamine.
+O
+N
+O
+O
+O
+N
+tetraacetylethylenediamine
+ 
+ 
+(i) Identify a reagent that could be used to convert ethane-1,2-diamine into TAED.
+(1)
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State the number of peaks and relative peak areas present in the 
+low resolution proton nmr spectrum of TAED. 
+ 
+ 
+ 
+Justify your answer by referring to the diagram of the compound.
+(3)
+O
+N
+O
+O
+O
+N
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+(Total for Question 18 = 14 marks)
+PMT
+
+
+--- Page Break ---
+
+20
+*P56130A02028*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+19 A white solid M has the following percentage composition by mass: carbon 72.97%; 
+hydrogen 5.41%; oxygen 21.62%.  
+The mass spectrum of M has a molecular ion peak at m / e = 148.
+ 
+(a) Calculate the empirical formula of M and hence deduce its molecular formula. 
+You must show your working.
+(4)
+PMT
+
+
+--- Page Break ---
+
+21
+*P56130A02128*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(b) The mass spectrum of M had a significant peak at m / e = 77. 
+ 
+ 
+When M was added to a solution of sodium hydrogencarbonate, vigorous 
+effervescence occurred.   
+ 
+ 
+M decolourised a cold dilute solution of acidified potassium manganate(VII).
+ 
+ 
+(i) Use this information to identify the three functional groups present in M.  
+Justify your answers.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Draw three possible structures of M.
+(3)
+(Total for Question 19 = 10 marks)
+TOTAL FOR SECTION B = 51 MARKS
+PMT
+
+
+--- Page Break ---
+
+22
+*P56130A02228*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+SECTION C
+Answer ALL the questions.  Write your answers in the spaces provided.
+20
+Organic Synthesis
+Organic synthesis is the preparation of a specific compound, the ‘target molecule’.  
+In some cases the target molecule is a naturally occurring compound, such as penicillin, 
+which needs to be manufactured on a large scale.  In other cases, it may be an entirely 
+new compound that theory indicates might have desirable properties.  Some of the 
+techniques of organic synthesis are listed.
+• 
+Ascent of the homologous series is when a carbon atom is added to a carbon chain.  
+This often involves the use of a nitrile group, either nucleophilic substitution of 
+halogenoalkanes by a cyanide ion or nucleophilic addition of carbonyl compounds 
+by hydrogen cyanide.
+• 
+Descent of the homologous series is when a carbon atom is removed from a 
+carbon chain.  One method of achieving this is with the iodoform reaction.
+• 
+Sometimes a functional group needs to be moved along a carbon chain.  
+One way of achieving this is by elimination followed by addition.
+• 
+Benzenediazonium ions are important intermediates in aromatic synthesis.  
+Their coupling reactions form azo dyes and, unlike other groups attached directly 
+to a benzene ring, they readily undergo nucleophilic substitution reactions.
+Organic synthesis is made easier by accurate knowledge of the mechanisms of the 
+reactions involved.
+PMT
+
+
+--- Page Break ---
+
+23
+*P56130A02328*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(a) Outline a synthesis of butan-1-ol from 1-bromopropane. 
+ 
+ 
+Give the reagents and essential conditions for each step and identify the 
+intermediate compounds formed.
+(5)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+(b) Outline a possible method of converting 1-bromobutane into 2-bromobutane. 
+Give the reagents and essential conditions for each step and identify the 
+intermediate compound formed.
+(3)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+24
+*P56130A02428*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(c) The benzenediazonium ion is prepared from phenylamine (aniline).
+ 
+ 
+(i) State the reagents and conditions for the conversion of phenylamine into 
+benzenediazonium chloride.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) Two possible structures of the benzenediazonium ion are given. 
+ 
+ 
+ 
+Use curly arrows and relevant lone pairs to show how each of these structures 
+is converted into the other.
+(2)
+N
++
+N                          
+N
+N
++
+ 
+ 
+(iii) Benzenediazonium ions react with phenol to form an azo dye. 
+ 
+ 
+ 
+Draw the structure of the azo dye and name the type and mechanism of the 
+reaction occurring. 
+(2)
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+25
+*P56130A02528*
+Turn over    
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+(d) Examples of reactions in which benzenediazonium ions undergo nucleophilic 
+substitution include the formation of iodobenzene and benzenenitrile, with 
+nitrogen gas as the other product.
+ 
+ 
+These reactions are often catalysed by copper(I) ions. 
+ 
+I
+ 
+CN
+ 
+iodobenzene 
+benzenenitrile
+ 
+ 
+ *(i) Suggest why the nucleophilic substitution of groups attached directly to 
+a benzene ring is normally very difficult, and why benzenediazonium ions 
+readily undergo nucleophilic substitution.
+(2)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+ 
+ 
+(ii) State why copper(I) ions are likely to show catalytic properties.
+(1)
+.....................................................................................................................................................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+26
+*P56130A02628*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+ 
+ 
+(iii) Complete the mechanism for the nucleophilic substitution of 
+benzenediazonium ions by iodide ions, by adding the missing species.  
+The reaction is catalysed by copper(I) ions. 
+ 
+ 
+ 
+Curly arrows are not required.
+(2)
+N2
++  +  Cu+   
+   
+ .  +  N2 + 
+ .
++ 
+ + 
+   
+I
+ + 
+(Total for Question 20 = 19 marks)
+TOTAL FOR SECTION C = 19 MARKS 
+TOTAL FOR PAPER = 90 MARKS
+PMT
+
+
+--- Page Break ---
+
+27
+*P56130A02728*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+28
+*P56130A02828*
+ 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA 
+DO NOT WRITE IN THIS AREA
+PMT

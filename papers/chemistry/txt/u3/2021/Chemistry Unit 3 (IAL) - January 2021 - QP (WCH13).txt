@@ -1,0 +1,603 @@
+*P67747A0116*
+Turn over    
+Candidate surname
+Other names
+Total Marks
+Centre Number
+Candidate Number
+Please check the examination details below before entering your candidate information
+Pearson Edexcel 
+International
+Advanced Level
+Instructions
+•	Use black ink or ball-point pen.
+•	Fill in the boxes at the top of this page with your name,  
+centre number and candidate number.
+•	Answer all questions.
+•	Answer the questions in the spaces provided  
+– there may be more space than you need.
+•	Show all your working in calculations and include units where appropriate.
+Information
+•	The total mark for this paper is 50.
+•	The marks for each question are shown in brackets 
+– use this as a guide as to how much time to spend on each question.
+•	You will be assessed on your ability to organise and present information, 
+ideas, descriptions and arguments clearly and logically, including your use of 
+grammar, punctuation and spelling.
+•	A Periodic Table is printed on the back cover of this paper.
+Advice
+•	Read each question carefully before you start to answer it.
+•	Try to answer every question.
+•	Check your answers if you have time at the end.
+P67747A
+©2021 Pearson Education Ltd.
+1/1/1/1
+Chemistry
+International Advanced Subsidiary/Advanced Level
+Unit 3: Practical Skills in Chemistry I
+You must have:
+Scientific calculator, ruler
+Paper Reference WCH13/01
+Morning (Time: 1 hour 20 minutes)
+Wednesday 20 January 2021
+PMT
+
+
+--- Page Break ---
+
+*P67747A0216*
+2
+	
+Answer ALL questions. Write your answers in the spaces provided.
+1	 (a)	 A student was provided with five test tubes labelled A, B, C, D and E,  
+each containing a colourless aqueous solution.
+	
+	
+The five solutions were known to be 
+	
+	
+barium chloride
+	
+	
+nitric acid 
+	
+	
+potassium bromide
+	
+	
+silver nitrate
+	
+	
+sodium carbonate
+	
+	
+The student carried out a series of tests to identify which test tube contained 
+which solution.
+	
+	
+(i)	 The student tested each solution using universal indicator paper. 
+Only solution A turned the paper red.
+	
+	
+	
+Identify solution A.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The student mixed 1 cm3 of solution A separately with 1 cm3 of each of the 
+other solutions.
+	
+	
+	
+There was no change for three of the mixtures but effervescence was 
+observed when solution A was added to solution C.
+ 	
+	
+	
+Identify solution C.
+(1)
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iii)	Write an ionic equation for the reaction between solution A and solution C. 
+Include state symbols.
+(2)
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P67747A0316*
+Turn over    
+3
+	
+	
+	
+(iv)	The student then mixed 1 cm3 samples of the remaining solutions as shown  
+in Table 1.
+Solutions mixed
+Observation
+B and D
+no change
+B and E
+cream precipitate
+D and E
+white precipitate
+Table 1
+	
+	
+	
+Identify the three remaining solutions.
+(3)
+	
+	
+	
+Solution B
+....................................................................................................................................................................................................................................................................................
+	
+	
+	
+Solution D
+....................................................................................................................................................................................................................................................................................
+	
+	
+	
+Solution E
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 Three of the cations in the compounds in (a) can be identified using flame tests. 
+	
+	
+Complete Table 2. 
+(3)
+Cation formula 
+Flame colour
+Table 2
+(Total for Question 1 = 10 marks)
+PMT
+
+
+--- Page Break ---
+
+*P67747A0416*
+4
+	
+2	 Sodium hydroxide solution reacts with carbon dioxide in the air and should be 
+standardised before use. Ethanedioic acid may be used for this standardisation.
+	
+(a)	 A standard solution of ethanedioic acid, (COOH)2 , is prepared.
+•	
+2.40 g of solid ethanedioic acid is dissolved in approximately 100 cm3 of 
+deionised water in a beaker.
+•	
+The solution is transferred into a 250.0 cm3 volumetric flask and made up to 
+the mark with deionised water. 
+	
+	
+(i)	 Give a possible reason why any solution remaining in the beaker is washed 
+into the volumetric flask before making up to the mark.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Calculate the concentration of this standard solution of ethanedioic acid 
+in mol dm–3.
+	
+	
+	
+Give your answer to an appropriate number of significant figures.
+	
+	
+	
+[Molar mass of ethanedioic acid = 90.0 g mol−1 ]
+(2)
+PMT
+
+
+--- Page Break ---
+
+*P67747A0516*
+Turn over    
+5
+	
+	
+(b)	 A different standard solution of ethanedioic acid is used to determine the 
+concentration of a sodium hydroxide solution J.
+	
+	
+Procedure
+	
+	
+Step 1	 A burette is rinsed with deionised water.
+	
+	
+Step 2	 The burette is then rinsed with 0.0900 mol dm–3 ethanedioic acid and filled 
+with this acid solution. 
+	
+	
+Step 3	 A pipette is used to transfer 25.0 cm3 portions of solution J to conical flasks. 
+	
+	
+Step 4	 The portions are titrated with the ethanedioic acid solution using 
+phenolphthalein indicator. 
+	
+	
+(i)	 Explain why the burette is rinsed with ethanedioic acid solution in Step 2.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 The diagram shows how the student read the filled pipette in Step 3. 
+	
+	
+	
+Identify the two mistakes the student made.
+(2)
+pipette
+mark
+25 cm3
+± 0.06
+B20 °C
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P67747A0616*
+6
+	
+	
+	
+(iii)	The student completely emptied the pipette for each transfer in Step 3. 
+	
+	
+	
+Explain the effect on the titre of completely emptying the pipette rather than 
+leaving a small amount of solution in the tip.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iv)	State the colour change in the conical flask at the end-point. 
+(2)
+	
+	
+	
+From ............................................................................................. to .............................................................................................
+	
+(c)	 The titration results are shown.
+Titration
+1
+2
+3
+Final reading / cm3
+25.05
+26.60
+25.50
+Initial reading / cm3
+0.00
+2.00
+1.00
+Titre / cm3
+Titres used in calculation of mean
+	
+	
+(i)	 Complete the table and calculate the mean titre. 
+(2)
+PMT
+
+
+--- Page Break ---
+
+*P67747A0716*
+Turn over    
+7
+	
+	
+	
+(ii)	 Calculate the concentration of the sodium hydroxide solution in mol dm–3.
+	
+	
+	
+The equation for the titration is
+(COOH)2 + 2NaOH → (COONa)2 + 2H2O
+(3)
+(Total for Question 2 = 15 marks)
+PMT
+
+
+--- Page Break ---
+
+*P67747A0816*
+8
+	
+3	 This question is about the thermal decomposition of Group 2 carbonates.
+	
+A student heated a sample of a Group 2 carbonate until no more gas was produced. 
+The equation for the decomposition is
+MCO3(s) → MO(s) + CO2(g) 
+test tube
+metal carbonate
+heat
+250 cm3
+measuring
+cylinder
+water
+	
+(a)	 Give a reason why the delivery tube must be removed from the water bath before 
+removing the test tube from the heat source. 
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+(b)	 The results of the experiment are shown.
+Measurement
+Value
+Volume of carbon dioxide / cm3
+95
+Mass of test tube + carbonate / g
+21.69
+Mass of test tube / g
+21.36
+Mass of carbonate / g
+0.33
+PMT
+
+
+--- Page Break ---
+
+*P67747A0916*
+Turn over    
+9
+	
+	
+	
+(i)	 Using the results of the experiment identify the Group 2 metal. 
+	
+	
+	
+[Molar volume of gas at room temperature and pressure = 24.0 dm3 mol−1 ]
+(3)
+	
+	
+(ii)	 The student suggested that the experiment could be made more accurate by 
+increasing the mass of carbonate from 0.33 g to 1.00 g. 
+	
+	
+	
+No changes to the size of the apparatus or the method of measurement of the 
+gas produced would be made.
+	
+	
+	
+Comment on this suggestion.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P67747A01016*
+10
+	
+	
+(c)	 The enthalpy change for the thermal decomposition of a carbonate, ΔrH ,  
+is difficult to measure directly.
+	 	
+An example of a Hess’s Law cycle to determine it indirectly is 
+∆rH
+MCO3(s)
+MO(s) + CO2(g)
+2HCl(aq)
+∆H1
+2HCl(aq)
+−150 kJ mol−1
+MCl2(aq) + H2O(l) + CO2(g)
+	
+	
+In an experiment to determine ΔH1 , 0.050 mol of MCO3 was placed in a  
+100 cm3 beaker. 60 cm3 of 2 mol dm−3 hydrochloric acid (an excess) was added and 
+the mixture stirred. The maximum temperature rise measured was 6.0 °C.
+	
+	
+[Heat capacity of solution produced = 4.18 J g−1 °C−1  
+Density of solution = 1.0 g cm−3 ] 
+	
+	
+(i)	 Calculate the enthalpy change, ΔH1 , for the reaction between MCO3 and 
+hydrochloric acid in kJ mol−1. Include a sign with your answer.
+(2)
+	
+	
+(ii)	 Using your answer to (c)(i), calculate the enthalpy change, ΔrH , for the  
+thermal decomposition of this Group 2 carbonate in kJ mol−1.  
+Include a sign with your answer.
+(1)
+(Total for Question 3 = 9 marks)
+PMT
+
+
+--- Page Break ---
+
+*P67747A01116*
+Turn over    
+11
+	
+4	 The halogenoalkane 2-chloro-2-methylpropane may be prepared   
+from 2-methylpropan-2-ol.
+	
+Procedure
+	
+Step 1	 Add 35 cm3 of concentrated hydrochloric acid to 8.00 g of  
+2-methylpropan-2-ol in a conical flask.  
+Swirl the mixture gently for 20 minutes. 
+	
+Step 2	 Two distinct layers form. The upper (organic) layer contains the required 
+product. The lower aqueous layer is removed using a separating funnel.
+	
+Step 3	 Add a solution of sodium hydrogencarbonate to the organic layer.  
+	
+	
+Swirl gently. Stopper the separating funnel and shake it.  
+	
+	
+Invert the separating funnel and open the tap.
+	
+Step 4	 Return the separating funnel to its upright position, remove the stopper and 
+run off the aqueous layer. Transfer the organic layer into a clean conical flask. 
+	
+Step 5	 Add some anhydrous sodium sulfate.  
+	
+	
+Leave the flask to stand and decant off the liquid. 
+	
+Step 6	 Distil the liquid, collecting the product between 50°C and 52°C.
+	
+(a)	 (i)	 The concentrated hydrochloric acid used in Step 1 was labelled
+	
+	
+	
+Suggest two safety precautions, other than wearing safety spectacles and a 
+laboratory coat, to minimise the risk when using this reagent in Step 1. 
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(ii)	 Explain why the product in the organic layer in Step 2 does not mix with the 
+aqueous layer.
+(2)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+PMT
+
+
+--- Page Break ---
+
+*P67747A01216*
+12
+	
+	
+	
+(iii)	State why the tap of the separating funnel must be opened in Step 3.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(iv)	State why anhydrous sodium sulfate is added to the organic layer in Step 5.
+(1)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+	
+	
+(v)	 Draw the apparatus required to distil the product and collect the distillate 
+between 50°C and 52°C in Step 6.
+(4)
+PMT
+
+
+--- Page Break ---
+
+*P67747A01316*
+Turn over    
+13
+	
+	
+(b)	 The equation for the reaction is 
+(CH3)3COH(l) + HCl(aq) → (CH3)3CCl(l) + H2O(l)
+	
+	
+The final product after distillation weighed 2.62 g. 
+	
+	
+Calculate the percentage yield. 
+(3)
+PMT
+
+
+--- Page Break ---
+
+*P67747A01416*
+14
+	
+	
+(c)	 The choroalkane produced is used in an experiment to compare its rate of 
+hydrolysis with two other halogenoalkanes. 
+	
+	
+A student dissolves separate 1.0 cm3 samples of each halogenoalkane in ethanol 
+and adds 2 cm3 of silver nitrate solution. 
+	
+	
+The time taken for a precipitate to form is recorded. The results are shown.
+Halogenoalkane
+Time / s
+2-chloro-2-methylpropane
+5
+1-chloro-2-methylpropane
+320
+1-bromo-2-methylpropane
+140
+	
+	
+The student concludes that both the structure of the halogenoalkane and the 
+identity of the halogen affect the rate of hydrolysis.
+	
+	
+Explain how the results support this conclusion.
+(3)
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+....................................................................................................................................................................................................................................................................................
+(Total for Question 4 = 16 marks)
+ TOTAL FOR PAPER = 50 MARKS
+PMT
+
+
+--- Page Break ---
+
+*P67747A01516*
+15
+	
+BLANK PAGE
+PMT
+
+
+--- Page Break ---
+
+*P67747A01616*
+16
+	
+PMT

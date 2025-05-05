@@ -1,0 +1,363 @@
+ 
+ 
+Paper Reference(s) 
+6677 
+Edexcel GCE 
+Mechanics M1 
+Advanced/Advanced Subsidiary 
+Monday 13 January 2003 −  Afternoon 
+Time:  1 hour 30 minutes 
+ 
+ 
+Materials required for examination                       Items included with question papers 
+Answer Book (AB16)                                                Nil 
+Mathematical Formulae (Lilac) 
+Graph Paper (ASG2) 
+ 
+ 
+Candidates may use any calculator EXCEPT those with the facility for symbolic 
+algebra, differentiation and/or integration. Thus candidates may NOT use calculators 
+such as the Texas Instruments TI 89, TI 92, Casio CFX 9970G, Hewlett Packard 
+HP 48G. 
+ 
+ 
+Instructions to Candidates 
+In the boxes on the answer book, write the name of the examining body (Edexcel), your 
+centre number, candidate number, the unit title (Mechanics M1), the paper reference (6677), 
+your surname, other name and signature. 
+Whenever a numerical value of g is required, take g = 9.8 m s−2. 
+When a calculator is used, the answer should be given to an appropriate degree of accuracy. 
+ 
+Information for Candidates 
+A booklet ‘Mathematical Formulae and Statistical Tables’ is provided. 
+Full marks may be obtained for answers to ALL questions. 
+This paper has eight questions. Pages 6, 7 and 8 are blank. 
+ 
+Advice to Candidates 
+You must ensure that your answers to parts of questions are clearly labelled. 
+You must show sufficient working to make your methods clear to the Examiner. Answers 
+without working may gain no credit. 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+2 
+ 1. 
+A railway truck P of mass 2000 kg is moving along a straight horizontal track with speed 
+10 m s−1. The truck P collides with a truck Q of mass 3000 kg, which is at rest on the same 
+track. Immediately after the collision Q moves with speed 5 m s−1. Calculate 
+ 
+ 
+ 
+ 
+(a) the speed of P immediately after the collision, 
+(3)  
+ 
+(b) the magnitude of the impulse exerted by P on Q during the collision. 
+(2)  
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+          12 N 
+ 
+θ ° 
+ 
+ 
+  O 
+ 
+ 
+X N 
+ 
+ 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 N 
+ 
+ 
+ 
+ 
+ 
+   A 
+ 
+ 
+In Fig. 1, ∠AOC = 90° and ∠BOC = θ °. A particle at O is in equilibrium under the action of 
+three coplanar forces. The three forces have magnitude 8 N, 12 N and X N and act along OA, 
+OB and OC respectively. Calculate  
+ 
+(a) the value, to one decimal place, of θ,  
+(3) 
+ 
+(b) the value, to 2 decimal places, of X. 
+(3) 
+ 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+3 
+ 
+ 
+3.  
+A particle P of mass 0.4 kg is moving under the action of a constant force F newtons. Initially 
+the velocity of P is (6i – 27j) m s−1 and 4 s later the velocity of P is (−14i + 21j) m s−1.  
+ 
+(a) Find, in terms of i and j, the acceleration of P. 
+(3) 
+(b) Calculate the magnitude of F. 
+(3) 
+ 
+ 
+4. 
+Two ships P and Q are moving along straight lines with constant velocities. Initially P is at a 
+point O and the position vector of Q relative to O is (6i + 12j) km, where i and j are unit 
+vectors directed due east and due north respectively. The ship P is moving with velocity 
+10j km h−1 and Q is moving with velocity (−8i + 6j) km h−1. At time t hours the position 
+vectors of P and Q relative to O are p km and q km respectively.  
+ 
+(a) Find p and q in terms of t.  
+(3) 
+ 
+(b) Calculate the distance of Q from P when t = 3. 
+(3) 
+ 
+(c) Calculate the value of t when Q is due north of P. 
+ 
+(2) 
+ 
+ 
+5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+ 
+ 
+       T N 
+       20° 
+ 
+ 
+ 
+             30° 
+ 
+ 
+A box of mass 1.5 kg is placed on a plane which is inclined at an angle of 30° to the 
+horizontal. The coefficient of friction between the box and plane is 3
+1 . The box is kept in 
+equilibrium by a light string which lies in a vertical plane containing a line of greatest slope of 
+the plane. The string makes an angle of 20° with the plane, as shown in Fig. 2. The box is in 
+limiting equilibrium and is about to move up the plane. The tension in the string is T newtons. 
+The box is modelled as a particle. 
+ 
+Find the value of T.   
+(10) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+4 
+6. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3m 
+C 
+ 
+ 
+ 
+D 
+A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B 
+                      0.5 m 
+2m 
+ 
+A uniform rod AB has length 3 m and weight 120 N. The rod rests in equilibrium in a 
+horizontal position, smoothly supported at points C and D, where AC = 0.5 m and AD = 2 m, as 
+shown in Fig. 3. A particle of weight W newtons is attached to the rod at a point E where 
+AE = x metres. The rod remains in equilibrium and the magnitude of the reaction at C is now 
+twice the magnitude of the reaction at D.  
+ 
+(a) Show that W = 
+x
+−
+1
+60 . 
+(8) 
+(b)  Hence deduce the range of possible values of x.  
+(2) 
+ 
+ 
+7. 
+A ball is projected vertically upwards with a speed u m s−1 from a point A which is 1.5 m above 
+the ground. The ball moves freely under gravity until it reaches the ground. The greatest height 
+attained by the ball is 25.6 m above A. 
+ 
+ 
+(a) Show that u = 22.4.  
+(3) 
+ 
+ 
+The ball reaches the ground T seconds after it has been projected from A.  
+ 
+(b) Find, to 2 decimal places, the value of T.  
+(4) 
+ 
+The ground is soft and the ball sinks 2.5 cm into the ground before coming to rest. The mass of 
+the ball is 0.6 kg. The ground is assumed to exert a constant resistive force of magnitude 
+F newtons.  
+ 
+(c) Find, to 3 significant figures, the value of F. 
+(6) 
+(d) State one physical factor which could be taken into account to make the model used in this 
+question more realistic.  
+(1) 
+ 
+PMT
+PMT
+
+
+--- Page Break ---
+
+ 
+ 
+5 
+ 
+ 
+8. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+   B 
+ 
+ 
+0.6 m 
+ 
+ 
+ 
+ 
+ 
+ 
+A particle A of mass 0.8 kg rests on a horizontal table and is attached to one end of a light 
+inextensible string. The string passes over a small smooth pulley P fixed at the edge of the 
+table. The other end of the string is attached to a particle B of mass 1.2 kg which hangs freely 
+below the pulley, as shown in Fig. 4. The system is released from rest with the string taut and 
+with B at a height of 0.6 m above the ground. In the subsequent motion A does not reach P 
+before B reaches the ground. In an initial model of the situation, the table is assumed to be 
+smooth. Using this model, find 
+ 
+(a) the tension in the string before B reaches the ground, 
+(5) 
+(b) the time taken by B to reach the ground. 
+(3) 
+ 
+ 
+In a refinement of the model, it is assumed that the table is rough and that the coefficient of 
+friction between A and the table is 5
+1 . Using this refined model, 
+  
+(c) find the time taken by B to reach the ground. 
+(8) 
+ 
+END 
+ 
+ 
+ 
+ 
+PMT
+PMT
