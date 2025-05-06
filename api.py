@@ -141,4 +141,7 @@ def get_preview():
         return str(e), 500
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    # Get port from environment variable (for Render compatibility)
+    port = int(os.environ.get("PORT", 5000))
+    # Bind to 0.0.0.0 to listen on all network interfaces
+    app.run(debug=False, host="0.0.0.0", port=port)
