@@ -12,7 +12,12 @@ export default defineConfig({
     },
   },
   preview: {
-    port: process.env.PORT || 4173,
+    port: process.env.PORT || 10000,
     host: "0.0.0.0", // Listen on all network interfaces
+    allowedHosts: [
+      "papernexus.onrender.com",
+      "papernexus-finder.onrender.com",
+      ".onrender.com",
+    ],
   },
 });
